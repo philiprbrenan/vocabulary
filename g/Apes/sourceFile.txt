@@ -1,0 +1,1270 @@
+app g.Apes   = Amazing Apes
+  description  = Learn about Amazing Apes in English
+  icon         = Bonobo (juvenile).png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Agile Gibbon                      =  Agile Gibbon                                                                               
+       url                               =  github://philiprbrenan/Apes/Agile Gibbon.jpg                                               
+fact   Agile Gibbon.0                    =  Also called the "Black-Handed Gibbon"                                                     
+fact   Agile Gibbon.1                    =  Lives in the forests of Indonesia, Malaysia and Thailand                                  
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.2                    =  Fur colour varies from black to reddish brown in both sexes                               
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.3                    =  One of the Lesser Apes                                                                    
+fact   Agile Gibbon.4                    =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Agile Gibbon.5                    =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Agile Gibbon.6                    =  Spends most of its life in trees                                                          
+fact   Agile Gibbon.7                    =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.8                    =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Agile Gibbon.9                    =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Agile Gibbon.10                   =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.11                   =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Agile Gibbon.12                   =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.13                   =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Agile Gibbon.14                   =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Agile Gibbon.15                   =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.16                   =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.17                   =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.18                   =  Sings loud songs every morning to stake out its territory                                 
+fact   Agile Gibbon.19                   =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.20                   =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Agile Gibbon.21                   =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Agile Gibbon.22                   =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Agile Gibbon.23                   =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.24                   =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Agile Gibbon.25                   =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Black Crested Gibbon              =  Black Crested Gibbon                                                                       
+       url                               =  github://philiprbrenan/Apes/Black Crested Gibbon.jpg                                       
+fact   Black Crested Gibbon.0            =  Lives in the forests of China, Laos and Vietnam                                           
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.1            =  Male is black and the female is a golden or buff colour                                   
+fact   Black Crested Gibbon.2            =  One of the Lesser Apes                                                                    
+fact   Black Crested Gibbon.3            =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Black Crested Gibbon.4            =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Black Crested Gibbon.5            =  Spends most of its life in trees                                                          
+fact   Black Crested Gibbon.6            =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.7            =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Black Crested Gibbon.8            =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Black Crested Gibbon.9            =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.10           =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Black Crested Gibbon.11           =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.12           =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Black Crested Gibbon.13           =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Black Crested Gibbon.14           =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.15           =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.16           =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.17           =  Sings loud songs every morning to stake out its territory                                 
+fact   Black Crested Gibbon.18           =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.19           =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Black Crested Gibbon.20           =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Black Crested Gibbon.21           =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Black Crested Gibbon.22           =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.23           =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Black Crested Gibbon.24           =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Bonobo (female)                   =  Bonobo (female)                                                                            
+       url                               =  github://philiprbrenan/Apes/Bonobo (female).jpg                                            
+fact   Bonobo (female).0                 =  Lives in forests in the Congo Basin, central Africa                                       
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).1                 =  One of two species of the genus "Pan"; the other is the Chimpanzee                        
+fact   Bonobo (female).2                 =  Has 98.7% of the DNA of a human                                                           
+fact   Bonobo (female).3                 =  Distinguished by long legs, pink lips, dark face and tail-tuft                            
+fact   Bonobo (female).4                 =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).5                 =  Matriarchal, peaceful society unlike chimpanzees                                          
+fact   Bonobo (female).6                 =  Forms complex social relationships, spends much time grooming                             
+fact   Bonobo (female).7                 =  High levels of sexual behaviour as compared with other apes                               
+fact   Bonobo (female).8                 =  Sex is used to help prevent and resolve conflicts                                         
+fact   Bonobo (female).9                 =  Bonobos are much less aggressive than chimpanzees                                         
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).10                =  Weight: 30-60 kg;  Height: 115 cm                                                         
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).11                =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).12                =  Forages on the ground by day                                                              
+fact   Bonobo (female).13                =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Bonobo (female).14                =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Bonobo (female).15                =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Bonobo (female).16                =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).17                =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Bonobo (female).18                =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).19                =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).20                =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Bonobo (female).21                =  One of the Great Apes                                                                     
+fact   Bonobo (female).22                =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Bonobo (juvenile)                 =  Bonobo (juvenile)                                                                          
+       url                               =  github://philiprbrenan/Apes/Bonobo (juvenile).jpg                                          
+fact   Bonobo (juvenile).0               =  Lives in forests in the Congo Basin, central Africa                                       
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).1               =  One of two species of the genus "Pan"; the other is the Chimpanzee                        
+fact   Bonobo (juvenile).2               =  Has 98.7% of the DNA of a human                                                           
+fact   Bonobo (juvenile).3               =  Distinguished by long legs, pink lips, dark face and tail-tuft                            
+fact   Bonobo (juvenile).4               =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).5               =  Matriarchal, peaceful society unlike chimpanzees                                          
+fact   Bonobo (juvenile).6               =  Forms complex social relationships, spends much time grooming                             
+fact   Bonobo (juvenile).7               =  High levels of sexual behaviour as compared with other apes                               
+fact   Bonobo (juvenile).8               =  Sex is used to help prevent and resolve conflicts                                         
+fact   Bonobo (juvenile).9               =  Bonobos are much less aggressive than chimpanzees                                         
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).10              =  Weight: 30-60 kg;  Height: 115 cm                                                         
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).11              =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).12              =  Forages on the ground by day                                                              
+fact   Bonobo (juvenile).13              =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Bonobo (juvenile).14              =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Bonobo (juvenile).15              =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Bonobo (juvenile).16              =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).17              =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Bonobo (juvenile).18              =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).19              =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).20              =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Bonobo (juvenile).21              =  One of the Great Apes                                                                     
+fact   Bonobo (juvenile).22              =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Bonobo (male)                     =  Bonobo (male)                                                                              
+       url                               =  github://philiprbrenan/Apes/Bonobo (male).jpg                                              
+fact   Bonobo (male).0                   =  Lives in forests in the Congo Basin, central Africa                                       
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).1                   =  One of two species of the genus "Pan"; the other is the Chimpanzee                        
+fact   Bonobo (male).2                   =  Has 98.7% of the DNA of a human                                                           
+fact   Bonobo (male).3                   =  Distinguished by long legs, pink lips, dark face and tail-tuft                            
+fact   Bonobo (male).4                   =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).5                   =  Matriarchal, peaceful society unlike chimpanzees                                          
+fact   Bonobo (male).6                   =  Forms complex social relationships, spends much time grooming                             
+fact   Bonobo (male).7                   =  High levels of sexual behaviour as compared with other apes                               
+fact   Bonobo (male).8                   =  Sex is used to help prevent and resolve conflicts                                         
+fact   Bonobo (male).9                   =  Bonobos are much less aggressive than chimpanzees                                         
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).10                  =  Weight: 30-60 kg;  Height: 115 cm                                                         
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).11                  =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).12                  =  Forages on the ground by day                                                              
+fact   Bonobo (male).13                  =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Bonobo (male).14                  =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Bonobo (male).15                  =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Bonobo (male).16                  =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).17                  =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Bonobo (male).18                  =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).19                  =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).20                  =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Bonobo (male).21                  =  One of the Great Apes                                                                     
+fact   Bonobo (male).22                  =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Bornean Orangutan (female)        =  Bornean Orangutan (female)                                                                 
+       url                               =  github://philiprbrenan/Apes/Bornean Orangutan (female).jpg                                 
+fact   Bornean Orangutan (female).0      =  Found only on the island of Borneo                                                        
+fact   Bornean Orangutan (female).1      =  Not as rare as the Sumatran Orangutan                                                     
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).2      =  One of the Great Apes                                                                     
+fact   Bornean Orangutan (female).3      =  Amongst the most intelligent of primates                                                  
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).4      =  The two species live in the forests of Borneo and Sumatra                                 
+fact   Bornean Orangutan (female).5      =  Largest tree-dwelling animal alive today                                                  
+fact   Bornean Orangutan (female).6      =  Third-heaviest living primate after the two species of gorilla                            
+fact   Bornean Orangutan (female).7      =  Both sexes have long reddish-brown hair and grey-black skin                               
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).8      =  Dominant adult males have distinctive cheek pads on their faces                           
+fact   Bornean Orangutan (female).9      =  Average weight:  75 kg (male), 39 kg (female)                                             
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).10     =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).11     =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Bornean Orangutan (female).12     =  Very long, strong arms and short, bowed eggs                                              
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).13     =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).14     =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Bornean Orangutan (female).15     =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).16     =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).17     =  Spends most of its life in trees                                                          
+fact   Bornean Orangutan (female).18     =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).19     =  Most solitary of the Great Apes, living alone in large territories                        
+fact   Bornean Orangutan (female).20     =  Social bonding occurs between mothers and offspring                                       
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).21     =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Bornean Orangutan (female).22     =  Females have an eight-year interval between births                                        
+fact   Bornean Orangutan (female).23     =  Males have a large throat sac for making long, loud calls                                 
+fact   Bornean Orangutan (female).24     =  Predators are tigers, leopards, wild dogs and crocodiles                                  
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).25     =  Can live more than 40 years                                                               
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).26     =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (female).27     =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Bornean Orangutan (juvenile)      =  Bornean Orangutan (juvenile)                                                               
+       url                               =  github://philiprbrenan/Apes/Bornean Orangutan (juvenile).jpg                               
+fact   Bornean Orangutan (juvenile).0    =  Found only on the island of Borneo                                                        
+fact   Bornean Orangutan (juvenile).1    =  Not as rare as the Sumatran Orangutan                                                     
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).2    =  One of the Great Apes                                                                     
+fact   Bornean Orangutan (juvenile).3    =  Amongst the most intelligent of primates                                                  
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).4    =  The two species live in the forests of Borneo and Sumatra                                 
+fact   Bornean Orangutan (juvenile).5    =  Largest tree-dwelling animal alive today                                                  
+fact   Bornean Orangutan (juvenile).6    =  Third-heaviest living primate after the two species of gorilla                            
+fact   Bornean Orangutan (juvenile).7    =  Both sexes have long reddish-brown hair and grey-black skin                               
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).8    =  Dominant adult males have distinctive cheek pads on their faces                           
+fact   Bornean Orangutan (juvenile).9    =  Average weight:  75 kg (male), 39 kg (female)                                             
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).10   =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).11   =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Bornean Orangutan (juvenile).12   =  Very long, strong arms and short, bowed eggs                                              
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).13   =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).14   =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Bornean Orangutan (juvenile).15   =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).16   =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).17   =  Spends most of its life in trees                                                          
+fact   Bornean Orangutan (juvenile).18   =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).19   =  Most solitary of the Great Apes, living alone in large territories                        
+fact   Bornean Orangutan (juvenile).20   =  Social bonding occurs between mothers and offspring                                       
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).21   =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Bornean Orangutan (juvenile).22   =  Females have an eight-year interval between births                                        
+fact   Bornean Orangutan (juvenile).23   =  Males have a large throat sac for making long, loud calls                                 
+fact   Bornean Orangutan (juvenile).24   =  Predators are tigers, leopards, wild dogs and crocodiles                                  
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).25   =  Can live more than 40 years                                                               
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).26   =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (juvenile).27   =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Bornean Orangutan (male)          =  Bornean Orangutan (male)                                                                   
+       url                               =  github://philiprbrenan/Apes/Bornean Orangutan (male).jpg                                   
+fact   Bornean Orangutan (male).0        =  Found only on the island of Borneo                                                        
+fact   Bornean Orangutan (male).1        =  Not as rare as the Sumatran Orangutan                                                     
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).2        =  One of the Great Apes                                                                     
+fact   Bornean Orangutan (male).3        =  Amongst the most intelligent of primates                                                  
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).4        =  The two species live in the forests of Borneo and Sumatra                                 
+fact   Bornean Orangutan (male).5        =  Largest tree-dwelling animal alive today                                                  
+fact   Bornean Orangutan (male).6        =  Third-heaviest living primate after the two species of gorilla                            
+fact   Bornean Orangutan (male).7        =  Both sexes have long reddish-brown hair and grey-black skin                               
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).8        =  Dominant adult males have distinctive cheek pads on their faces                           
+fact   Bornean Orangutan (male).9        =  Average weight:  75 kg (male), 39 kg (female)                                             
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).10       =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).11       =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Bornean Orangutan (male).12       =  Very long, strong arms and short, bowed eggs                                              
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).13       =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).14       =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Bornean Orangutan (male).15       =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).16       =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).17       =  Spends most of its life in trees                                                          
+fact   Bornean Orangutan (male).18       =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).19       =  Most solitary of the Great Apes, living alone in large territories                        
+fact   Bornean Orangutan (male).20       =  Social bonding occurs between mothers and offspring                                       
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).21       =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Bornean Orangutan (male).22       =  Females have an eight-year interval between births                                        
+fact   Bornean Orangutan (male).23       =  Males have a large throat sac for making long, loud calls                                 
+fact   Bornean Orangutan (male).24       =  Predators are tigers, leopards, wild dogs and crocodiles                                  
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).25       =  Can live more than 40 years                                                               
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).26       =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Bornean Orangutan (male).27       =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Boy and Girl                      =  Boy and Girl                                                                               
+       url                               =  github://philiprbrenan/Apes/Boy and Girl.jpg                                               
+fact   Boy and Girl.0                    =  Only species of the genus Homo                                                            
+fact   Boy and Girl.1                    =  Has individual finger prints                                                              
+fact   Boy and Girl.2                    =  Scientific name: Homo Sapiens                                                             
+fact   Boy and Girl.3                    =  98.7% of DNA also found in chimpanzees and bonobos                                        
+fact   Boy and Girl.4                    =  Has successfully populated every continent except Antarctica                              
+fact   Boy and Girl.5                    =  Brain is over twice the size of that of a chimpanzee or gorilla                           
+fact   Boy and Girl.6                    =  Has more hair follicles than the average chimpanzee                                       
+fact   Boy and Girl.7                    =  Capable of abstract reasoning, language, introspection and problem solving                
+fact   Boy and Girl.8                    =  Make greater use of tools than any other living species on Earth                          
+fact   Boy and Girl.9                    =  Only species that build fires, cooks food and wears clothes                               
+fact   Boy and Girl.10                   =  Homo sapiens originated in Africa                                                         
+       remark                            =  yes                                                                                        
+fact   Boy and Girl.11                   =  Population 1 billion in 1800; current population over 7 billion                           
+fact   Boy and Girl.12                   =  Half the world's population lives in urban areas                                          
+fact   Boy and Girl.13                   =  Highly social beings which tend to live in very large complex social groups of millions   
+fact   Boy and Girl.14                   =  Exchange of information and ideas through speech is unparallelled in other species        
+fact   Boy and Girl.15                   =  Have no predators of their own and sit at the top of their food chain                     
+fact   Boy and Girl.16                   =  Human civilisation has led to environmental destruction and pollution                     
+       remark                            =  yes                                                                                        
+fact   Boy and Girl.17                   =  Thought to be the main contributor to global climate change                               
+fact   Boy and Girl.18                   =  Has contributed to the ongoing mass extinction of other forms of life                     
+fact   Boy and Girl.19                   =  Lives for up to 122 years                                                                 
+fact   Boy and Girl.20                   =  Leading cause of death is cardiovascular disease                                          
+fact   Boy and Girl.21                   =  The oldest human was a French woman who lived to 122 years                                
+       remark                            =  yes                                                                                        
+fact   Boy and Girl.22                   =  One of the Great Apes                                                                     
+fact   Boy and Girl.23                   =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Chimpanzee (female)               =  Chimpanzee (female)                                                                        
+       url                               =  github://philiprbrenan/Apes/Chimpanzee (female).jpg                                        
+fact   Chimpanzee (female).0             =  Also called the "Common Chimpanzee" or "Chimp"                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).1             =  One of two species of the genus "Pan"; the other is the Bonobo                            
+fact   Chimpanzee (female).2             =  Lives in West Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).3             =  Lives in many habitats including dry savannah, moorland and rain forest                   
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).4             =  Has 98.7% of the DNA of a human                                                           
+fact   Chimpanzee (female).5             =  Covered in coarse black hair, with bare face, fingers, toes, palms and soles of the feet  
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).6             =  Very long, strong arms and short, bowed legs                                              
+fact   Chimpanzee (female).7             =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).8             =  Lives in male-dominated groups ranging from 20 to 150 members                             
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).9             =  Forms complex social relationships, spends much time grooming                             
+fact   Chimpanzee (female).10            =  Omnivorous diet and will hunt monkeys in troops                                           
+fact   Chimpanzee (female).11            =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).12            =  Forages on the ground by day                                                              
+fact   Chimpanzee (female).13            =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Chimpanzee (female).14            =  Average weight: 32-70 kg; Average height: 1.3-1.6 m                                       
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).15            =  Males have up to five times the upper body strength of a human                            
+fact   Chimpanzee (female).16            =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Chimpanzee (female).17            =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Chimpanzee (female).18            =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).19            =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Chimpanzee (female).20            =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).21            =  Can live up to 60 years (captivity) and 40 years (wild)                                   
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).22            =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (female).23            =  One of the Great Apes                                                                     
+fact   Chimpanzee (female).24            =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Chimpanzee (juvenile)             =  Chimpanzee (juvenile)                                                                      
+       url                               =  github://philiprbrenan/Apes/Chimpanzee (juvenile).jpg                                      
+fact   Chimpanzee (juvenile).0           =  Also called the "Common Chimpanzee" or "Chimp"                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).1           =  One of two species of the genus "Pan"; the other is the Bonobo                            
+fact   Chimpanzee (juvenile).2           =  Lives in West Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).3           =  Lives in many habitats including dry savannah, moorland and rain forest                   
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).4           =  Has 98.7% of the DNA of a human                                                           
+fact   Chimpanzee (juvenile).5           =  Covered in coarse black hair, with bare face, fingers, toes, palms and soles of the feet  
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).6           =  Very long, strong arms and short, bowed legs                                              
+fact   Chimpanzee (juvenile).7           =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).8           =  Lives in male-dominated groups ranging from 20 to 150 members                             
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).9           =  Forms complex social relationships, spends much time grooming                             
+fact   Chimpanzee (juvenile).10          =  Omnivorous diet and will hunt monkeys in troops                                           
+fact   Chimpanzee (juvenile).11          =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).12          =  Forages on the ground by day                                                              
+fact   Chimpanzee (juvenile).13          =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Chimpanzee (juvenile).14          =  Average weight: 32-70 kg; Average height: 1.3-1.6 m                                       
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).15          =  Males have up to five times the upper body strength of a human                            
+fact   Chimpanzee (juvenile).16          =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Chimpanzee (juvenile).17          =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Chimpanzee (juvenile).18          =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).19          =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Chimpanzee (juvenile).20          =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).21          =  Can live up to 60 years (captivity) and 40 years (wild)                                   
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).22          =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (juvenile).23          =  One of the Great Apes                                                                     
+fact   Chimpanzee (juvenile).24          =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Chimpanzee (male)                 =  Chimpanzee (male)                                                                          
+       url                               =  github://philiprbrenan/Apes/Chimpanzee (male).jpg                                          
+fact   Chimpanzee (male).0               =  Also called the "Common Chimpanzee" or "Chimp"                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).1               =  One of two species of the genus "Pan"; the other is the Bonobo                            
+fact   Chimpanzee (male).2               =  Lives in West Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).3               =  Lives in many habitats including dry savannah, moorland and rain forest                   
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).4               =  Has 98.7% of the DNA of a human                                                           
+fact   Chimpanzee (male).5               =  Covered in coarse black hair, with bare face, fingers, toes, palms and soles of the feet  
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).6               =  Very long, strong arms and short, bowed legs                                              
+fact   Chimpanzee (male).7               =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).8               =  Lives in male-dominated groups ranging from 20 to 150 members                             
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).9               =  Forms complex social relationships, spends much time grooming                             
+fact   Chimpanzee (male).10              =  Omnivorous diet and will hunt monkeys in troops                                           
+fact   Chimpanzee (male).11              =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).12              =  Forages on the ground by day                                                              
+fact   Chimpanzee (male).13              =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Chimpanzee (male).14              =  Average weight: 32-70 kg; Average height: 1.3-1.6 m                                       
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).15              =  Males have up to five times the upper body strength of a human                            
+fact   Chimpanzee (male).16              =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Chimpanzee (male).17              =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Chimpanzee (male).18              =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).19              =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Chimpanzee (male).20              =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).21              =  Can live up to 60 years (captivity) and 40 years (wild)                                   
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).22              =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Chimpanzee (male).23              =  One of the Great Apes                                                                     
+fact   Chimpanzee (male).24              =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Eastern Gorilla (female)          =  Eastern Gorilla (female)                                                                   
+       url                               =  github://philiprbrenan/Apes/Eastern Gorilla (female).jpg                                   
+fact   Eastern Gorilla (female).0        =  Lives in East Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).1        =  Eastern Gorilla has two subspecies: Eastern Lowland Gorilla and Mountain Gorilla          
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).2        =  Eastern Lowland Gorilla has 5,000 individuals; Mountain Gorilla only 700 individuals      
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).3        =  Largest primates on earth                                                                 
+fact   Eastern Gorilla (female).4        =  The two species live in the forests of central Africa                                     
+fact   Eastern Gorilla (female).5        =  Wide range of habitat from swamps at sea level to cloud forest at 4,300 m                 
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).6        =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).7        =  Next closest living relatives to humans after the bonobo and common chimpanzee            
+fact   Eastern Gorilla (female).8        =  Moves around on all fours by knuckle-walking                                              
+fact   Eastern Gorilla (female).9        =  Weight: 135-180kg (male); 68-113 kg (female)                                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).10       =  Male Height: 1.7-1.8 m (5.6-5.9 ft)                                                       
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).11       =  Males have wide arm spans stretching from 2.3-2.6 m (7.5-8.5 ft)                          
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).12       =  Has individual finger prints                                                              
+fact   Eastern Gorilla (female).13       =  Leading cause of death is cardiovascular disease                                          
+fact   Eastern Gorilla (female).14       =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).15       =  Lives in groups called troops                                                             
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).16       =  Each troop usually has one adult male, many females and their offspring                   
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).17       =  Adult male is called a "silverback", named for the silver hair on its back                
+fact   Eastern Gorilla (female).18       =  Juvenile male is called a "blackback", named for the black hair on its back               
+fact   Eastern Gorilla (female).19       =  The bond a silverback has with his females forms the core of gorilla social life          
+fact   Eastern Gorilla (female).20       =  Tends to sleep in nests on the ground, unlike chimpanzees or orangutans                   
+fact   Eastern Gorilla (female).21       =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Eastern Gorilla (female).22       =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Eastern Gorilla (female).23       =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).24       =  Can live up to 40 years (wild) and over 50 years (captivity)                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).25       =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (female).26       =  One of the Great Apes                                                                     
+fact   Eastern Gorilla (female).27       =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Eastern Gorilla (juvenile)        =  Eastern Gorilla (juvenile)                                                                 
+       url                               =  github://philiprbrenan/Apes/Eastern Gorilla (juvenile).jpg                                 
+fact   Eastern Gorilla (juvenile).0      =  Lives in East Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).1      =  Eastern Gorilla has two subspecies: Eastern Lowland Gorilla and Mountain Gorilla          
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).2      =  Eastern Lowland Gorilla has 5,000 individuals; Mountain Gorilla only 700 individuals      
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).3      =  Largest primates on earth                                                                 
+fact   Eastern Gorilla (juvenile).4      =  The two species live in the forests of central Africa                                     
+fact   Eastern Gorilla (juvenile).5      =  Wide range of habitat from swamps at sea level to cloud forest at 4,300 m                 
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).6      =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).7      =  Next closest living relatives to humans after the bonobo and common chimpanzee            
+fact   Eastern Gorilla (juvenile).8      =  Moves around on all fours by knuckle-walking                                              
+fact   Eastern Gorilla (juvenile).9      =  Weight: 135-180kg (male); 68-113 kg (female)                                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).10     =  Male Height: 1.7-1.8 m (5.6-5.9 ft)                                                       
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).11     =  Males have wide arm spans stretching from 2.3-2.6 m (7.5-8.5 ft)                          
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).12     =  Has individual finger prints                                                              
+fact   Eastern Gorilla (juvenile).13     =  Leading cause of death is cardiovascular disease                                          
+fact   Eastern Gorilla (juvenile).14     =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).15     =  Lives in groups called troops                                                             
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).16     =  Each troop usually has one adult male, many females and their offspring                   
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).17     =  Adult male is called a "silverback", named for the silver hair on its back                
+fact   Eastern Gorilla (juvenile).18     =  Juvenile male is called a "blackback", named for the black hair on its back               
+fact   Eastern Gorilla (juvenile).19     =  The bond a silverback has with his females forms the core of gorilla social life          
+fact   Eastern Gorilla (juvenile).20     =  Tends to sleep in nests on the ground, unlike chimpanzees or orangutans                   
+fact   Eastern Gorilla (juvenile).21     =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Eastern Gorilla (juvenile).22     =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Eastern Gorilla (juvenile).23     =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).24     =  Can live up to 40 years (wild) and over 50 years (captivity)                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).25     =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (juvenile).26     =  One of the Great Apes                                                                     
+fact   Eastern Gorilla (juvenile).27     =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Eastern Gorilla (male)            =  Eastern Gorilla (male)                                                                     
+       url                               =  github://philiprbrenan/Apes/Eastern Gorilla (male).jpg                                     
+fact   Eastern Gorilla (male).0          =  Lives in East Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).1          =  Eastern Gorilla has two subspecies: Eastern Lowland Gorilla and Mountain Gorilla          
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).2          =  Eastern Lowland Gorilla has 5,000 individuals; Mountain Gorilla only 700 individuals      
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).3          =  Largest primates on earth                                                                 
+fact   Eastern Gorilla (male).4          =  The two species live in the forests of central Africa                                     
+fact   Eastern Gorilla (male).5          =  Wide range of habitat from swamps at sea level to cloud forest at 4,300 m                 
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).6          =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).7          =  Next closest living relatives to humans after the bonobo and common chimpanzee            
+fact   Eastern Gorilla (male).8          =  Moves around on all fours by knuckle-walking                                              
+fact   Eastern Gorilla (male).9          =  Weight: 135-180kg (male); 68-113 kg (female)                                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).10         =  Male Height: 1.7-1.8 m (5.6-5.9 ft)                                                       
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).11         =  Males have wide arm spans stretching from 2.3-2.6 m (7.5-8.5 ft)                          
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).12         =  Has individual finger prints                                                              
+fact   Eastern Gorilla (male).13         =  Leading cause of death is cardiovascular disease                                          
+fact   Eastern Gorilla (male).14         =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).15         =  Lives in groups called troops                                                             
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).16         =  Each troop usually has one adult male, many females and their offspring                   
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).17         =  Adult male is called a "silverback", named for the silver hair on its back                
+fact   Eastern Gorilla (male).18         =  Juvenile male is called a "blackback", named for the black hair on its back               
+fact   Eastern Gorilla (male).19         =  The bond a silverback has with his females forms the core of gorilla social life          
+fact   Eastern Gorilla (male).20         =  Tends to sleep in nests on the ground, unlike chimpanzees or orangutans                   
+fact   Eastern Gorilla (male).21         =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Eastern Gorilla (male).22         =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Eastern Gorilla (male).23         =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).24         =  Can live up to 40 years (wild) and over 50 years (captivity)                              
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).25         =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Eastern Gorilla (male).26         =  One of the Great Apes                                                                     
+fact   Eastern Gorilla (male).27         =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Lar Gibbon                        =  Lar Gibbon                                                                                 
+       url                               =  github://philiprbrenan/Apes/Lar Gibbon.jpg                                                 
+fact   Lar Gibbon.0                      =  Also called the "White-Handed Gibbon"                                                     
+fact   Lar Gibbon.1                      =  One of the best known gibbons, often seen in zoos                                         
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.2                      =  Lives in the forests of Indonesia, Laos, Malaysia, Myanmar and Thailand                   
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.3                      =  Colour of fur varies from black and brown to sandy colours in both sexes                  
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.4                      =  One of the Lesser Apes                                                                    
+fact   Lar Gibbon.5                      =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Lar Gibbon.6                      =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Lar Gibbon.7                      =  Spends most of its life in trees                                                          
+fact   Lar Gibbon.8                      =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.9                      =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Lar Gibbon.10                     =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Lar Gibbon.11                     =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.12                     =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Lar Gibbon.13                     =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.14                     =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Lar Gibbon.15                     =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Lar Gibbon.16                     =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.17                     =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.18                     =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.19                     =  Sings loud songs every morning to stake out its territory                                 
+fact   Lar Gibbon.20                     =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.21                     =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Lar Gibbon.22                     =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Lar Gibbon.23                     =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Lar Gibbon.24                     =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.25                     =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Lar Gibbon.26                     =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Man and Woman                     =  Man and Woman                                                                              
+       url                               =  github://philiprbrenan/Apes/Man and Woman.jpg                                              
+fact   Man and Woman.0                   =  The only ape in which the female is fertile year round                                    
+fact   Man and Woman.1                   =  Only species of the genus Homo                                                            
+fact   Man and Woman.2                   =  Has individual finger prints                                                              
+fact   Man and Woman.3                   =  Scientific name: Homo Sapiens                                                             
+fact   Man and Woman.4                   =  98.7% of DNA also found in chimpanzees and bonobos                                        
+fact   Man and Woman.5                   =  Has successfully populated every continent except Antarctica                              
+fact   Man and Woman.6                   =  Brain is over twice the size of that of a chimpanzee or gorilla                           
+fact   Man and Woman.7                   =  Has more hair follicles than the average chimpanzee                                       
+fact   Man and Woman.8                   =  Capable of abstract reasoning, language, introspection and problem solving                
+fact   Man and Woman.9                   =  Make greater use of tools than any other living species on Earth                          
+fact   Man and Woman.10                  =  Only species that build fires, cooks food and wears clothes                               
+fact   Man and Woman.11                  =  Homo sapiens originated in Africa                                                         
+       remark                            =  yes                                                                                        
+fact   Man and Woman.12                  =  Population 1 billion in 1800; current population over 7 billion                           
+fact   Man and Woman.13                  =  Half the world's population lives in urban areas                                          
+fact   Man and Woman.14                  =  Highly social beings which tend to live in very large complex social groups of millions   
+fact   Man and Woman.15                  =  Exchange of information and ideas through speech is unparallelled in other species        
+fact   Man and Woman.16                  =  Have no predators of their own and sit at the top of their food chain                     
+fact   Man and Woman.17                  =  Human civilisation has led to environmental destruction and pollution                     
+       remark                            =  yes                                                                                        
+fact   Man and Woman.18                  =  Thought to be the main contributor to global climate change                               
+fact   Man and Woman.19                  =  Has contributed to the ongoing mass extinction of other forms of life                     
+fact   Man and Woman.20                  =  Lives for up to 122 years                                                                 
+fact   Man and Woman.21                  =  Leading cause of death is cardiovascular disease                                          
+fact   Man and Woman.22                  =  The oldest human was a French woman who lived to 122 years                                
+       remark                            =  yes                                                                                        
+fact   Man and Woman.23                  =  One of the Great Apes                                                                     
+fact   Man and Woman.24                  =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Muller's Bornean Gibbon           =  Muller's Bornean Gibbon                                                                    
+       url                               =  github://philiprbrenan/Apes/Muller's Bornean Gibbon.jpg                                    
+fact   Muller's Bornean Gibbon.0         =  Also called the "Grey Gibbon"                                                             
+fact   Muller's Bornean Gibbon.1         =  Lives in the forests of Borneo                                                            
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.2         =  Both sexes have grey or brown fur with a bright ring around the face                      
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.3         =  One of the smaller gibbons                                                                
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.4         =  One of the Lesser Apes                                                                    
+fact   Muller's Bornean Gibbon.5         =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Muller's Bornean Gibbon.6         =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Muller's Bornean Gibbon.7         =  Spends most of its life in trees                                                          
+fact   Muller's Bornean Gibbon.8         =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.9         =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Muller's Bornean Gibbon.10        =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Muller's Bornean Gibbon.11        =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.12        =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Muller's Bornean Gibbon.13        =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.14        =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Muller's Bornean Gibbon.15        =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Muller's Bornean Gibbon.16        =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.17        =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.18        =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.19        =  Sings loud songs every morning to stake out its territory                                 
+fact   Muller's Bornean Gibbon.20        =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.21        =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Muller's Bornean Gibbon.22        =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Muller's Bornean Gibbon.23        =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Muller's Bornean Gibbon.24        =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.25        =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Muller's Bornean Gibbon.26        =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Northern white-cheeked gibbon     =  Northern white-cheeked gibbon                                                              
+       url                               =  github://philiprbrenan/Apes/Northern white-cheeked gibbon.jpg                              
+fact   Northern white-cheeked gibbon.0   =  Lives in the forests of Laos and Vietnam                                                  
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.1   =  Closely related to the southern white-cheeked gibbon                                      
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.2   =  Male is black and the female is a reddish-tan colour                                      
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.3   =  One of the Lesser Apes                                                                    
+fact   Northern white-cheeked gibbon.4   =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Northern white-cheeked gibbon.5   =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Northern white-cheeked gibbon.6   =  Spends most of its life in trees                                                          
+fact   Northern white-cheeked gibbon.7   =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.8   =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Northern white-cheeked gibbon.9   =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Northern white-cheeked gibbon.10  =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.11  =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Northern white-cheeked gibbon.12  =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.13  =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Northern white-cheeked gibbon.14  =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Northern white-cheeked gibbon.15  =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.16  =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.17  =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.18  =  Sings loud songs every morning to stake out its territory                                 
+fact   Northern white-cheeked gibbon.19  =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.20  =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Northern white-cheeked gibbon.21  =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Northern white-cheeked gibbon.22  =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Northern white-cheeked gibbon.23  =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.24  =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Northern white-cheeked gibbon.25  =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Pileated Gibbon                   =  Pileated Gibbon                                                                            
+       url                               =  github://philiprbrenan/Apes/Pileated Gibbon.jpg                                            
+fact   Pileated Gibbon.0                 =  Lives in the forests of Cambodia, Laos and Thailand                                       
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.1                 =  Males is black and the female is a white and grey colour                                  
+fact   Pileated Gibbon.2                 =  One of the Lesser Apes                                                                    
+fact   Pileated Gibbon.3                 =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Pileated Gibbon.4                 =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Pileated Gibbon.5                 =  Spends most of its life in trees                                                          
+fact   Pileated Gibbon.6                 =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.7                 =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Pileated Gibbon.8                 =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Pileated Gibbon.9                 =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.10                =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Pileated Gibbon.11                =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.12                =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Pileated Gibbon.13                =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Pileated Gibbon.14                =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.15                =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.16                =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.17                =  Sings loud songs every morning to stake out its territory                                 
+fact   Pileated Gibbon.18                =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.19                =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Pileated Gibbon.20                =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Pileated Gibbon.21                =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Pileated Gibbon.22                =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.23                =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Pileated Gibbon.24                =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Siamang                           =  Siamang                                                                                    
+       url                               =  github://philiprbrenan/Apes/Siamang.jpg                                                    
+fact   Siamang.0                         =  Lives in the forests of Malaysia, Sumatra, and Thailand                                   
+       remark                            =  yes                                                                                        
+fact   Siamang.1                         =  Largest of all gibbons, often reaching twice the size of other species                    
+       remark                            =  yes                                                                                        
+fact   Siamang.2                         =  Height: 1 m   Weight: 14 kg                                                               
+       remark                            =  yes                                                                                        
+fact   Siamang.3                         =  Only gibbon with a large throat pouch for making loud calls or songs                      
+fact   Siamang.4                         =  Both sexes have black fur                                                                 
+       remark                            =  yes                                                                                        
+fact   Siamang.5                         =  One of the Lesser Apes                                                                    
+fact   Siamang.6                         =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Siamang.7                         =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Siamang.8                         =  Spends most of its life in trees                                                          
+fact   Siamang.9                         =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Siamang.10                        =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Siamang.11                        =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Siamang.12                        =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Siamang.13                        =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Siamang.14                        =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Siamang.15                        =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Siamang.16                        =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Siamang.17                        =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Siamang.18                        =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Siamang.19                        =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Siamang.20                        =  Sings loud songs every morning to stake out its territory                                 
+fact   Siamang.21                        =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Siamang.22                        =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Siamang.23                        =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Siamang.24                        =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Siamang.25                        =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Siamang.26                        =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Siamang.27                        =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Silvery Gibbon                    =  Silvery Gibbon                                                                             
+       url                               =  github://philiprbrenan/Apes/Silvery Gibbon.jpg                                             
+fact   Silvery Gibbon.0                  =  Lives in the forests of Java, Indonesia                                                   
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.1                  =  Both sexes have bluish-grey fur with a dark coloured cap                                  
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.2                  =  One of the Lesser Apes                                                                    
+fact   Silvery Gibbon.3                  =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Silvery Gibbon.4                  =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Silvery Gibbon.5                  =  Spends most of its life in trees                                                          
+fact   Silvery Gibbon.6                  =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.7                  =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Silvery Gibbon.8                  =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Silvery Gibbon.9                  =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.10                 =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Silvery Gibbon.11                 =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.12                 =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Silvery Gibbon.13                 =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Silvery Gibbon.14                 =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.15                 =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.16                 =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.17                 =  Sings loud songs every morning to stake out its territory                                 
+fact   Silvery Gibbon.18                 =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.19                 =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Silvery Gibbon.20                 =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Silvery Gibbon.21                 =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Silvery Gibbon.22                 =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.23                 =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Silvery Gibbon.24                 =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Sumatran Orangutan (female)       =  Sumatran Orangutan (female)                                                                
+       url                               =  github://philiprbrenan/Apes/Sumatran Orangutan (female).jpg                                
+fact   Sumatran Orangutan (female).0     =  Found only on the island of Sumatra, Indonesia                                            
+fact   Sumatran Orangutan (female).1     =  Rarer than the Bornean orangutan                                                          
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).2     =  One of the Great Apes                                                                     
+fact   Sumatran Orangutan (female).3     =  Amongst the most intelligent of primates                                                  
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).4     =  The two species live in the forests of Borneo and Sumatra                                 
+fact   Sumatran Orangutan (female).5     =  Largest tree-dwelling animal alive today                                                  
+fact   Sumatran Orangutan (female).6     =  Third-heaviest living primate after the two species of gorilla                            
+fact   Sumatran Orangutan (female).7     =  Both sexes have long reddish-brown hair and grey-black skin                               
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).8     =  Dominant adult males have distinctive cheek pads on their faces                           
+fact   Sumatran Orangutan (female).9     =  Average weight:  75 kg (male), 39 kg (female)                                             
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).10    =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).11    =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Sumatran Orangutan (female).12    =  Very long, strong arms and short, bowed eggs                                              
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).13    =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).14    =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Sumatran Orangutan (female).15    =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).16    =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).17    =  Spends most of its life in trees                                                          
+fact   Sumatran Orangutan (female).18    =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).19    =  Most solitary of the Great Apes, living alone in large territories                        
+fact   Sumatran Orangutan (female).20    =  Social bonding occurs between mothers and offspring                                       
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).21    =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Sumatran Orangutan (female).22    =  Females have an eight-year interval between births                                        
+fact   Sumatran Orangutan (female).23    =  Males have a large throat sac for making long, loud calls                                 
+fact   Sumatran Orangutan (female).24    =  Predators are tigers, leopards, wild dogs and crocodiles                                  
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).25    =  Can live more than 40 years                                                               
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).26    =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (female).27    =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Sumatran Orangutan (juvenile)     =  Sumatran Orangutan (juvenile)                                                              
+       url                               =  github://philiprbrenan/Apes/Sumatran Orangutan (juvenile).jpg                              
+fact   Sumatran Orangutan (juvenile).0   =  Found only on the island of Sumatra, Indonesia                                            
+fact   Sumatran Orangutan (juvenile).1   =  Rarer than the Bornean orangutan                                                          
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).2   =  One of the Great Apes                                                                     
+fact   Sumatran Orangutan (juvenile).3   =  Amongst the most intelligent of primates                                                  
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).4   =  The two species live in the forests of Borneo and Sumatra                                 
+fact   Sumatran Orangutan (juvenile).5   =  Largest tree-dwelling animal alive today                                                  
+fact   Sumatran Orangutan (juvenile).6   =  Third-heaviest living primate after the two species of gorilla                            
+fact   Sumatran Orangutan (juvenile).7   =  Both sexes have long reddish-brown hair and grey-black skin                               
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).8   =  Dominant adult males have distinctive cheek pads on their faces                           
+fact   Sumatran Orangutan (juvenile).9   =  Average weight:  75 kg (male), 39 kg (female)                                             
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).10  =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).11  =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Sumatran Orangutan (juvenile).12  =  Very long, strong arms and short, bowed eggs                                              
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).13  =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).14  =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Sumatran Orangutan (juvenile).15  =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).16  =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).17  =  Spends most of its life in trees                                                          
+fact   Sumatran Orangutan (juvenile).18  =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).19  =  Most solitary of the Great Apes, living alone in large territories                        
+fact   Sumatran Orangutan (juvenile).20  =  Social bonding occurs between mothers and offspring                                       
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).21  =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Sumatran Orangutan (juvenile).22  =  Females have an eight-year interval between births                                        
+fact   Sumatran Orangutan (juvenile).23  =  Males have a large throat sac for making long, loud calls                                 
+fact   Sumatran Orangutan (juvenile).24  =  Predators are tigers, leopards, wild dogs and crocodiles                                  
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).25  =  Can live more than 40 years                                                               
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).26  =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (juvenile).27  =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Sumatran Orangutan (male)         =  Sumatran Orangutan (male)                                                                  
+       url                               =  github://philiprbrenan/Apes/Sumatran Orangutan (male).jpg                                  
+fact   Sumatran Orangutan (male).0       =  Found only on the island of Sumatra, Indonesia                                            
+fact   Sumatran Orangutan (male).1       =  Rarer than the Bornean orangutan                                                          
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).2       =  One of the Great Apes                                                                     
+fact   Sumatran Orangutan (male).3       =  Amongst the most intelligent of primates                                                  
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).4       =  The two species live in the forests of Borneo and Sumatra                                 
+fact   Sumatran Orangutan (male).5       =  Largest tree-dwelling animal alive today                                                  
+fact   Sumatran Orangutan (male).6       =  Third-heaviest living primate after the two species of gorilla                            
+fact   Sumatran Orangutan (male).7       =  Both sexes have long reddish-brown hair and grey-black skin                               
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).8       =  Dominant adult males have distinctive cheek pads on their faces                           
+fact   Sumatran Orangutan (male).9       =  Average weight:  75 kg (male), 39 kg (female)                                             
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).10      =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).11      =  Makes elaborate sleeping nests each night from foliage and branches                       
+fact   Sumatran Orangutan (male).12      =  Very long, strong arms and short, bowed eggs                                              
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).13      =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).14      =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Sumatran Orangutan (male).15      =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).16      =  Can use tools such as twigs for digging termites out of holes                             
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).17      =  Spends most of its life in trees                                                          
+fact   Sumatran Orangutan (male).18      =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).19      =  Most solitary of the Great Apes, living alone in large territories                        
+fact   Sumatran Orangutan (male).20      =  Social bonding occurs between mothers and offspring                                       
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).21      =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Sumatran Orangutan (male).22      =  Females have an eight-year interval between births                                        
+fact   Sumatran Orangutan (male).23      =  Males have a large throat sac for making long, loud calls                                 
+fact   Sumatran Orangutan (male).24      =  Predators are tigers, leopards, wild dogs and crocodiles                                  
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).25      =  Can live more than 40 years                                                               
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).26      =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Sumatran Orangutan (male).27      =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Western Gorilla (female)          =  Western Gorilla (female)                                                                   
+       url                               =  github://philiprbrenan/Apes/Western Gorilla (female).jpg                                   
+fact   Western Gorilla (female).0        =  Lives in West Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).1        =  Western Gorilla has two subspecies: Western Lowland Gorilla and Cross River Gorilla       
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).2        =  Western Lowland Gorilla is the most common of two subspecies with 95,000 individuals      
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).3        =  Slightly smaller than the Eastern Gorilla                                                 
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).4        =  Largest primates on earth                                                                 
+fact   Western Gorilla (female).5        =  The two species live in the forests of central Africa                                     
+fact   Western Gorilla (female).6        =  Wide range of habitat from swamps at sea level to cloud forest at 4,300 m                 
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).7        =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).8        =  Next closest living relatives to humans after the bonobo and common chimpanzee            
+fact   Western Gorilla (female).9        =  Moves around on all fours by knuckle-walking                                              
+fact   Western Gorilla (female).10       =  Weight: 135-180kg (male); 68-113 kg (female)                                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).11       =  Male Height: 1.7-1.8 m (5.6-5.9 ft)                                                       
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).12       =  Males have wide arm spans stretching from 2.3-2.6 m (7.5-8.5 ft)                          
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).13       =  Has individual finger prints                                                              
+fact   Western Gorilla (female).14       =  Leading cause of death is cardiovascular disease                                          
+fact   Western Gorilla (female).15       =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).16       =  Lives in groups called troops                                                             
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).17       =  Each troop usually has one adult male, many females and their offspring                   
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).18       =  Adult male is called a "silverback", named for the silver hair on its back                
+fact   Western Gorilla (female).19       =  Juvenile male is called a "blackback", named for the black hair on its back               
+fact   Western Gorilla (female).20       =  The bond a silverback has with his females forms the core of gorilla social life          
+fact   Western Gorilla (female).21       =  Tends to sleep in nests on the ground, unlike chimpanzees or orangutans                   
+fact   Western Gorilla (female).22       =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Western Gorilla (female).23       =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Western Gorilla (female).24       =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).25       =  Can live up to 40 years (wild) and over 50 years (captivity)                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).26       =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (female).27       =  One of the Great Apes                                                                     
+fact   Western Gorilla (female).28       =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Western Gorilla (juvenile)        =  Western Gorilla (juvenile)                                                                 
+       url                               =  github://philiprbrenan/Apes/Western Gorilla (juvenile).jpg                                 
+fact   Western Gorilla (juvenile).0      =  Lives in West Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).1      =  Western Gorilla has two subspecies: Western Lowland Gorilla and Cross River Gorilla       
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).2      =  Western Lowland Gorilla is the most common of two subspecies with 95,000 individuals      
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).3      =  Slightly smaller than the Eastern Gorilla                                                 
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).4      =  Largest primates on earth                                                                 
+fact   Western Gorilla (juvenile).5      =  The two species live in the forests of central Africa                                     
+fact   Western Gorilla (juvenile).6      =  Wide range of habitat from swamps at sea level to cloud forest at 4,300 m                 
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).7      =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).8      =  Next closest living relatives to humans after the bonobo and common chimpanzee            
+fact   Western Gorilla (juvenile).9      =  Moves around on all fours by knuckle-walking                                              
+fact   Western Gorilla (juvenile).10     =  Weight: 135-180kg (male); 68-113 kg (female)                                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).11     =  Male Height: 1.7-1.8 m (5.6-5.9 ft)                                                       
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).12     =  Males have wide arm spans stretching from 2.3-2.6 m (7.5-8.5 ft)                          
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).13     =  Has individual finger prints                                                              
+fact   Western Gorilla (juvenile).14     =  Leading cause of death is cardiovascular disease                                          
+fact   Western Gorilla (juvenile).15     =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).16     =  Lives in groups called troops                                                             
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).17     =  Each troop usually has one adult male, many females and their offspring                   
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).18     =  Adult male is called a "silverback", named for the silver hair on its back                
+fact   Western Gorilla (juvenile).19     =  Juvenile male is called a "blackback", named for the black hair on its back               
+fact   Western Gorilla (juvenile).20     =  The bond a silverback has with his females forms the core of gorilla social life          
+fact   Western Gorilla (juvenile).21     =  Tends to sleep in nests on the ground, unlike chimpanzees or orangutans                   
+fact   Western Gorilla (juvenile).22     =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Western Gorilla (juvenile).23     =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Western Gorilla (juvenile).24     =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).25     =  Can live up to 40 years (wild) and over 50 years (captivity)                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).26     =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (juvenile).27     =  One of the Great Apes                                                                     
+fact   Western Gorilla (juvenile).28     =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Western Gorilla (male)            =  Western Gorilla (male)                                                                     
+       url                               =  github://philiprbrenan/Apes/Western Gorilla (male).jpg                                     
+fact   Western Gorilla (male).0          =  Lives in West Central Africa                                                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).1          =  Western Gorilla has two subspecies: Western Lowland Gorilla and Cross River Gorilla       
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).2          =  Western Lowland Gorilla is the most common of two subspecies with 95,000 individuals      
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).3          =  Slightly smaller than the Eastern Gorilla                                                 
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).4          =  Largest primates on earth                                                                 
+fact   Western Gorilla (male).5          =  The two species live in the forests of central Africa                                     
+fact   Western Gorilla (male).6          =  Wide range of habitat from swamps at sea level to cloud forest at 4,300 m                 
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).7          =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).8          =  Next closest living relatives to humans after the bonobo and common chimpanzee            
+fact   Western Gorilla (male).9          =  Moves around on all fours by knuckle-walking                                              
+fact   Western Gorilla (male).10         =  Weight: 135-180kg (male); 68-113 kg (female)                                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).11         =  Male Height: 1.7-1.8 m (5.6-5.9 ft)                                                       
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).12         =  Males have wide arm spans stretching from 2.3-2.6 m (7.5-8.5 ft)                          
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).13         =  Has individual finger prints                                                              
+fact   Western Gorilla (male).14         =  Leading cause of death is cardiovascular disease                                          
+fact   Western Gorilla (male).15         =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).16         =  Lives in groups called troops                                                             
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).17         =  Each troop usually has one adult male, many females and their offspring                   
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).18         =  Adult male is called a "silverback", named for the silver hair on its back                
+fact   Western Gorilla (male).19         =  Juvenile male is called a "blackback", named for the black hair on its back               
+fact   Western Gorilla (male).20         =  The bond a silverback has with his females forms the core of gorilla social life          
+fact   Western Gorilla (male).21         =  Tends to sleep in nests on the ground, unlike chimpanzees or orangutans                   
+fact   Western Gorilla (male).22         =  Usually walks on all fours, but can walk upright for short distances                      
+fact   Western Gorilla (male).23         =  Normally gives birth to one baby which is nursed for over 4 years                         
+fact   Western Gorilla (male).24         =  Care for the young is provided mostly by their mothers                                    
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).25         =  Can live up to 40 years (wild) and over 50 years (captivity)                              
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).26         =  Endangered due to loss of habitat, hunting and disease                                    
+       remark                            =  yes                                                                                        
+fact   Western Gorilla (male).27         =  One of the Great Apes                                                                     
+fact   Western Gorilla (male).28         =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Western Hoolock Gibbon            =  Western Hoolock Gibbon                                                                     
+       url                               =  github://philiprbrenan/Apes/Western Hoolock Gibbon.jpg                                     
+fact   Western Hoolock Gibbon.0          =  Lives in the forests of Assam, Bangladesh and Myanmar                                     
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.1          =  Males is black and the female is a range of brown colours                                 
+fact   Western Hoolock Gibbon.2          =  One of the Lesser Apes                                                                    
+fact   Western Hoolock Gibbon.3          =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Western Hoolock Gibbon.4          =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Western Hoolock Gibbon.5          =  Spends most of its life in trees                                                          
+fact   Western Hoolock Gibbon.6          =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.7          =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Western Hoolock Gibbon.8          =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Western Hoolock Gibbon.9          =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.10         =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Western Hoolock Gibbon.11         =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.12         =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Western Hoolock Gibbon.13         =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Western Hoolock Gibbon.14         =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.15         =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.16         =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.17         =  Sings loud songs every morning to stake out its territory                                 
+fact   Western Hoolock Gibbon.18         =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.19         =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Western Hoolock Gibbon.20         =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Western Hoolock Gibbon.21         =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Western Hoolock Gibbon.22         =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.23         =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Western Hoolock Gibbon.24         =                                                                                            
+       remark                            =  yes                                                                                        
+       
+photo  Yellow-cheeked Gibbon             =  Yellow-cheeked Gibbon                                                                      
+       url                               =  github://philiprbrenan/Apes/Yellow-cheeked Gibbon.jpg                                      
+fact   Yellow-cheeked Gibbon.0           =  Lives in the forests of Cambodia, Laos and Vietnam                                        
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.1           =  Male is black with golden cheeks, and the female is blond with a black cap                
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.2           =  One of the Lesser Apes                                                                    
+fact   Yellow-cheeked Gibbon.3           =  Small, acrobatic primate which lives in the forests of south-east Asia                    
+fact   Yellow-cheeked Gibbon.4           =  One of the fastest and most agile of all tree-dwelling mammals                            
+fact   Yellow-cheeked Gibbon.5           =  Spends most of its life in trees                                                          
+fact   Yellow-cheeked Gibbon.6           =  Eats fruit, leaves, seeds, flowers and insects                                            
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.7           =  Swings quickly from tree to tree using exceptionally long arms                            
+fact   Yellow-cheeked Gibbon.8           =  Unlike humans, the wrist is a "ball and socket" joint which moves many ways               
+fact   Yellow-cheeked Gibbon.9           =  Four curved fingers are used like a hook when swinging between trees                      
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.10          =  Has an opposable big toe and thumb giving great dexterity                                 
+fact   Yellow-cheeked Gibbon.11          =  Can grasp things with both hands and feet                                                 
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.12          =  Can make big leaps across large gaps in the tree canopy                                   
+fact   Yellow-cheeked Gibbon.13          =  Seldom on the ground but can walk on two legs with arms raised for balance                
+fact   Yellow-cheeked Gibbon.14          =  Like all the apes, has no tail                                                            
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.15          =  Body is covered in hair except for face, fingers, palms and soles of feet                 
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.16          =  Very sociable animal with a wide range of calls and songs                                 
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.17          =  Sings loud songs every morning to stake out its territory                                 
+fact   Yellow-cheeked Gibbon.18          =  Usually lives in monogamous pairs and defends the family territory                        
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.19          =  Normally gives birth to one baby which is nursed for 1-2 years                            
+fact   Yellow-cheeked Gibbon.20          =  Unlike the Great Apes, does not make "sleeping nests"                                     
+fact   Yellow-cheeked Gibbon.21          =  Sleeps sitting upright, resting on tough pads on its rear end                             
+fact   Yellow-cheeked Gibbon.22          =  Can live up to 40 years                                                                   
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.23          =  Endangered due to loss of habitat, hunting and the illegal pet trade                      
+       remark                            =  yes                                                                                        
+fact   Yellow-cheeked Gibbon.24          =                                                                                            
+       remark                            =  yes                                                                                        
