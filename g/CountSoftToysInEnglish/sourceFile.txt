@@ -1,0 +1,85 @@
+app g.CountSoftToysInEnglish   = Count Soft Toys 1-10
+  description  = Learn about Count Soft Toys 1-10 in English
+  icon         = Eight Pigs.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Eight Hedgehogs  =  Eight Hedgehogs                                                    
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Eight Hedgehogs.jpg  
+       
+photo  Eight Pigs       =  Eight Pigs                                                         
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Eight Pigs.jpg       
+       
+photo  Five Cats        =  Five Cats                                                          
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Five Cats.jpg        
+       
+photo  Five Koalas      =  Five Koalas                                                        
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Five Koalas.jpg      
+       
+photo  Five Leopards    =  Five Leopards                                                      
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Five Leopards.jpg    
+       
+photo  Four Horses      =  Four Horses                                                        
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Four Horses.jpg      
+       
+photo  Four Lions       =  Four Lions                                                         
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Four Lions.jpg       
+       
+photo  Four Reindeer    =  Four Reindeer                                                      
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Four Reindeer.jpg    
+       
+photo  Nine Dolphins    =  Nine Dolphins                                                      
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Nine Dolphins.jpg    
+       
+photo  Nine Rabbits     =  Nine Rabbits                                                       
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Nine Rabbits.jpg     
+       
+photo  One Bee          =  One Bee                                                            
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/One Bee.jpg          
+       
+photo  One Lobster      =  One Lobster                                                        
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/One Lobster.jpg      
+       
+photo  One Owl          =  One Owl                                                            
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/One Owl.jpg          
+       
+photo  Seven Chicks     =  Seven Chicks                                                       
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Seven Chicks.jpg     
+       
+photo  Seven Tigers     =  Seven Tigers                                                       
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Seven Tigers.jpg     
+       
+photo  Six Cows         =  Six Cows                                                           
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Six Cows.jpg         
+       
+photo  Six Mice         =  Six Mice                                                           
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Six Mice.jpg         
+       
+photo  Six Monkeys      =  Six Monkeys                                                        
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Six Monkeys.jpg      
+       
+photo  Ten Dogs         =  Ten Dogs                                                           
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Ten Dogs.jpg         
+       
+photo  Ten Elephants    =  Ten Elephants                                                      
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Ten Elephants.jpg    
+       
+photo  Three Ducks      =  Three Ducks                                                        
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Three Ducks.jpg      
+       
+photo  Three Parrots    =  Three Parrots                                                      
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Three Parrots.jpg    
+       
+photo  Three Penguins   =  Three Penguins                                                     
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Three Penguins.jpg   
+       
+photo  Two Donkeys      =  Two Donkeys                                                        
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Two Donkeys.jpg      
+       
+photo  Two Fish         =  Two Fish                                                           
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Two Fish.jpg         
+       
+photo  Two Sheep        =  Two Sheep                                                          
+       url              =  github://philiprbrenan/CountSoftToysInEnglish/Two Sheep.jpg        
