@@ -6,301 +6,152 @@ app g.Boats   = Tugs and Tankers, Ships and Boats
   speakers     = Amy
 
        
-photo  Anchor                             =  Anchor                                                                                       
-       url                                =  github://philiprbrenan/Boats/Anchor.jpg                                                      
-fact   Anchor.0                           =  Prevents a boat from drifting away by tying it to the sea floor                             
-fact   Anchor.1                           =  Hooks into the sea floor                                                                    
-fact   Anchor.2                           =  Broken out by lifting vertically                                                            
+photo  Anchor                           =  Anchor                                                            
+       url                              =  github://philiprbrenan/Boats/Anchor.jpg                           
        
-photo  Canadian canoe                     =  Canadian canoe                                                                               
-       url                                =  github://philiprbrenan/Boats/Canadian canoe.jpg                                              
-fact   Canadian canoe.0                   =  Lightweight narrow boat pointed at both ends                                                
-fact   Canadian canoe.1                   =  Paddled with single bladed oars                                                             
-fact   Canadian canoe.2                   =  Paddlers face forwards                                                                      
+photo  Canadian.canoe                   =  Canadian canoe                                                    
+       url                              =  github://philiprbrenan/Boats/Canadian canoe.jpg                   
        
-photo  Canal                              =  Canal                                                                                        
-       url                                =  github://philiprbrenan/Boats/Canal.jpg                                                       
-fact   Canal.0                            =  Man-made water channel used for carrying ships and boats                                    
-fact   Canal.1                            =  Used to carry heavy goods inland at the start of industrial revolution                      
-fact   Canal.2                            =  Boats were pulled by a horse walking along the side                                         
+photo  Canal                            =  Canal                                                             
+       url                              =  github://philiprbrenan/Boats/Canal.jpg                            
        
-photo  Canal boat                         =  Canal boat                                                                                   
-       url                                =  github://philiprbrenan/Boats/Canal boat.jpg                                                  
-fact   Canal boat.0                       =  Once used to carry heavy goods along canals                                                 
-fact   Canal boat.1                       =  Originally drawn by horses                                                                  
-fact   Canal boat.2                       =  Now used as vacation homes                                                                  
+photo  Canal.boat                       =  Canal boat                                                        
+       url                              =  github://philiprbrenan/Boats/Canal boat.jpg                       
        
-photo  Car ferry                          =  Car ferry                                                                                    
-       url                                =  github://philiprbrenan/Boats/Car ferry.jpg                                                   
-fact   Car ferry.0                        =  Transports cars across water                                                                
-fact   Car ferry.1                        =  Cars drive on and off in the same direction                                                 
-fact   Car ferry.2                        =  Has loading ramps at both ends                                                              
+photo  Car.ferry                        =  Car ferry                                                         
+       url                              =  github://philiprbrenan/Boats/Car ferry.jpg                        
        
-photo  Catamaran sailboat                 =  Catamaran sailboat                                                                           
-       url                                =  github://philiprbrenan/Boats/Catamaran sailboat.jpg                                          
-fact   Catamaran sailboat.0               =  A boat with two external hulls joined together                                              
-fact   Catamaran sailboat.1               =  Faster than a mono hull due to less drag                                                    
-fact   Catamaran sailboat.2               =  Lighter than a mono hull because it does not require a keel for stability                   
+photo  Catamaran.sailboat               =  Catamaran sailboat                                                
+       url                              =  github://philiprbrenan/Boats/Catamaran sailboat.jpg               
        
-photo  Coastguard tug                     =  Coastguard tug                                                                               
-       url                                =  github://philiprbrenan/Boats/Coastguard tug.jpg                                              
-fact   Coastguard tug.0                   =  Very maneuverable as steered by z-drives not rudders                                        
-fact   Coastguard tug.1                   =  Tows vessels that are in difficulty                                                         
-fact   Coastguard tug.2                   =  Enforces maritime law                                                                       
+photo  Coastguard.tug                   =  Coastguard tug                                                    
+       url                              =  github://philiprbrenan/Boats/Coastguard tug.jpg                   
        
-photo  Container ship                     =  Container ship                                                                               
-       url                                =  github://philiprbrenan/Boats/Container ship.jpg                                              
-fact   Container ship.0                   =  Carries cargo solely in truck-size containers                                               
-fact   Container ship.1                   =  Carries most sea-going non-bulk cargo                                                       
-fact   Container ship.2                   =  Loads and unloads in a few hours                                                            
+photo  Container.ship                   =  Container ship                                                    
+       url                              =  github://philiprbrenan/Boats/Container ship.jpg                   
        
-photo  Cornish fishing boat               =  Cornish fishing boat                                                                         
-       url                                =  github://philiprbrenan/Boats/Cornish fishing boat.jpg                                        
-fact   Cornish fishing boat.0             =  Historically one of the main elements of the Cornish economy                                
-fact   Cornish fishing boat.1             =  Much of the catch now exported to France due to the higher prices there                     
+photo  Cornish.fishing.boat             =  Cornish fishing boat                                              
+       url                              =  github://philiprbrenan/Boats/Cornish fishing boat.jpg             
        
-photo  Cornish lugger                     =  Cornish lugger                                                                               
-       url                                =  github://philiprbrenan/Boats/Cornish lugger.jpg                                              
-fact   Cornish lugger.0                   =  The handiness of a fore-and-aft rig with the efficiency of a square rig                     
-fact   Cornish lugger.1                   =  Less crew needed than for a square rig                                                      
-       remark                             =  yes                                                                                          
-fact   Cornish lugger.2                   =  Reduces wear on the sail by allowing it to billow away from the mast                        
-       remark                             =  yes                                                                                          
+photo  Cornish.lugger                   =  Cornish lugger                                                    
+       url                              =  github://philiprbrenan/Boats/Cornish lugger.jpg                   
        
-photo  Cruise Ship                        =  Cruise Ship                                                                                  
-       url                                =  github://philiprbrenan/Boats/Cruise Ship.jpg                                                 
-fact   Cruise Ship.0                      =  Passenger ship used for pleasure voyages                                                    
-fact   Cruise Ship.1                      =  Brings passengers back to their starting point                                              
-fact   Cruise Ship.2                      =  Balcony-laden floating condominiums                                                         
+photo  Cruise.Ship                      =  Cruise Ship                                                       
+       url                              =  github://philiprbrenan/Boats/Cruise Ship.jpg                      
        
-photo  Double Kayak                       =  Double Kayak                                                                                 
-       url                                =  github://philiprbrenan/Boats/Double Kayak.jpg                                                
-fact   Double Kayak.0                     =  Manually propelled by two double bladed paddles                                             
-fact   Double Kayak.1                     =  Covered deck and two cockpits covered by spray decks                                        
-fact   Double Kayak.2                     =  Paddlers face forwards                                                                      
+photo  Double.Kayak                     =  Double Kayak                                                      
+       url                              =  github://philiprbrenan/Boats/Double Kayak.jpg                     
        
-photo  Estuary                            =  Estuary                                                                                      
-       url                                =  github://philiprbrenan/Boats/Estuary.jpg                                                     
-fact   Estuary.0                          =  Transition zone between river and sea                                                       
-fact   Estuary.1                          =  Lots of nutrients due to the inflow of both fresh and sea water                             
-fact   Estuary.2                          =  Some of the most heavily populated areas of the world are estuaries                         
-       remark                             =  yes                                                                                          
+photo  Estuary                          =  Estuary                                                           
+       url                              =  github://philiprbrenan/Boats/Estuary.jpg                          
        
-photo  Fishing trawler                    =  Fishing trawler                                                                              
-       url                                =  github://philiprbrenan/Boats/Fishing trawler.jpg                                             
-fact   Fishing trawler.0                  =  Pulls a fishing net behind it                                                               
-fact   Fishing trawler.1                  =  Originally designed in Brixham                                                              
-fact   Fishing trawler.2                  =  Extensive on board electronics has made them useful as spy ships                            
-       remark                             =  yes                                                                                          
+photo  Fishing.trawler                  =  Fishing trawler                                                   
+       url                              =  github://philiprbrenan/Boats/Fishing trawler.jpg                  
        
-photo  Frigate                            =  Frigate                                                                                      
-       url                                =  github://philiprbrenan/Boats/Frigate.jpg                                                     
-fact   Frigate.0                          =  Warship built for speed and maneuverability                                                 
-fact   Frigate.1                          =  Screens other warships                                                                      
-fact   Frigate.2                          =  Usually equipped with missiles                                                              
+photo  Frigate                          =  Frigate                                                           
+       url                              =  github://philiprbrenan/Boats/Frigate.jpg                          
        
-photo  Galleon                            =  Galleon                                                                                      
-       url                                =  github://philiprbrenan/Boats/Galleon.jpg                                                     
-fact   Galleon.0                          =  Large, multi-decked sailing ship of the 16th to 18th centuries                              
-fact   Galleon.1                          =  Transported treasure to Spain                                                               
-fact   Galleon.2                          =  Principle ship of the Spanish and English Armadas in the Anglo-Spanish War                  
+photo  Galleon                          =  Galleon                                                           
+       url                              =  github://philiprbrenan/Boats/Galleon.jpg                          
        
-photo  Gondola                            =  Gondola                                                                                      
-       url                                =  github://philiprbrenan/Boats/Gondola.jpg                                                     
-fact   Gondola.0                          =  Traditional, flat-bottomed rowing boat used in Venice                                       
-fact   Gondola.1                          =  Transports people around Venice                                                             
-fact   Gondola.2                          =  Propelled by punting                                                                        
+photo  Gondola                          =  Gondola                                                           
+       url                              =  github://philiprbrenan/Boats/Gondola.jpg                          
        
-photo  Harbour                            =  Harbour                                                                                      
-       url                                =  github://philiprbrenan/Boats/Harbour.jpg                                                     
-fact   Harbour.0                          =  A sheltered place for ships and boats during stormy weather                                 
-fact   Harbour.1                          =  Great cities often have one                                                                 
-fact   Harbour.2                          =  Often contain a port                                                                        
+photo  Harbour                          =  Harbour                                                           
+       url                              =  github://philiprbrenan/Boats/Harbour.jpg                          
        
-photo  Heavy Lift Vessel with oil rig     =  Heavy Lift Vessel with oil rig                                                               
-       url                                =  github://philiprbrenan/Boats/Heavy Lift Vessel with oil rig.jpg                              
-fact   Heavy Lift Vessel with oil rig.0   =  Moves very large loads that cannot be handled by normally equipped ships                    
-fact   Heavy Lift Vessel with oil rig.1   =  Float on, float off                                                                         
-fact   Heavy Lift Vessel with oil rig.2   =  Transports oil rigs                                                                         
+photo  Heavy.Lift.Vessel.with.oil.rig   =  Heavy Lift Vessel with oil rig                                    
+       url                              =  github://philiprbrenan/Boats/Heavy Lift Vessel with oil rig.jpg   
        
-photo  High speed Rib                     =  High speed Rib                                                                               
-       url                                =  github://philiprbrenan/Boats/High speed Rib.jpg                                              
-fact   High speed Rib.0                   =  Rigid-hulled inflatable boat                                                                
-fact   High speed Rib.1                   =  Solid hull with inflatable tubes at the gunwale                                             
-fact   High speed Rib.2                   =  Used as rescue craft, safety boats for sailing boats, dive boats                            
-fact   High speed Rib.3                   =  Easy to store and transport                                                                 
-       remark                             =  yes                                                                                          
-fact   High speed Rib.4                   =  RIB                                                                                         
-       remark                             =  yes                                                                                          
+photo  High.speed.Rib                   =  High speed Rib                                                    
+       url                              =  github://philiprbrenan/Boats/High speed Rib.jpg                   
        
-photo  House boat                         =  House boat                                                                                   
-       url                                =  github://philiprbrenan/Boats/House boat.jpg                                                  
-fact   House boat.0                       =  Tethered to land to connect to utilities                                                    
-fact   House boat.1                       =  A floating home                                                                             
-fact   House boat.2                       =  Canal boat                                                                                  
-       remark                             =  yes                                                                                          
+photo  House.boat                       =  House boat                                                        
+       url                              =  github://philiprbrenan/Boats/House boat.jpg                       
        
-photo  Inflatable Dinghy                  =  Inflatable Dinghy                                                                            
-       url                                =  github://philiprbrenan/Boats/Inflatable Dinghy.jpg                                           
-fact   Inflatable Dinghy.0                =  Easy to store and transport                                                                 
-fact   Inflatable Dinghy.1                =  Inexpensive sailing for beginners                                                           
-fact   Inflatable Dinghy.2                =  Propelled only by sails and less than 6 metres in length                                    
-       remark                             =  yes                                                                                          
-fact   Inflatable Dinghy.3                =  Sailing dinghy                                                                              
-       remark                             =  yes                                                                                          
+photo  Inflatable.Dinghy                =  Inflatable Dinghy                                                 
+       url                              =  github://philiprbrenan/Boats/Inflatable Dinghy.jpg                
        
-photo  Inter-island passenger ferry       =  Inter-island passenger ferry                                                                 
-       url                                =  github://philiprbrenan/Boats/Inter-island passenger ferry.jpg                                
-fact   Inter-island passenger ferry.0     =  Transports passengers between islands                                                       
+photo  Inter-island.passenger.ferry     =  Inter-island passenger ferry                                      
+       url                              =  github://philiprbrenan/Boats/Inter-island passenger ferry.jpg     
        
-photo  Jet propelled sight-seeing boat    =  Jet propelled sight-seeing boat                                                              
-       url                                =  github://philiprbrenan/Boats/Jet propelled sight-seeing boat.jpg                             
-fact   Jet propelled sight-seeing boat.0  =  Invented in New Zealand to cope with fast shallow rivers                                    
-fact   Jet propelled sight-seeing boat.1  =  Propelled by a jet of water                                                                 
-fact   Jet propelled sight-seeing boat.2  =  Can crash stop in one boat length from full speed                                           
+photo  Jet.propelled.sight-seeing.boat  =  Jet propelled sight-seeing boat                                   
+       url                              =  github://philiprbrenan/Boats/Jet propelled sight-seeing boat.jpg  
        
-photo  Lifeboat                           =  Lifeboat                                                                                     
-       url                                =  github://philiprbrenan/Boats/Lifeboat.jpg                                                    
-fact   Lifeboat.0                         =  Rescues those in peril on the sea                                                           
-fact   Lifeboat.1                         =  Manned by volunteers                                                                        
-fact   Lifeboat.2                         =  Designed to withstand heavy weather                                                         
+photo  Lifeboat                         =  Lifeboat                                                          
+       url                              =  github://philiprbrenan/Boats/Lifeboat.jpg                         
        
-photo  Lifeboat and tractor               =  Lifeboat and tractor                                                                         
-       url                                =  github://philiprbrenan/Boats/Lifeboat and tractor.jpg                                        
-fact   Lifeboat and tractor.0             =  Lifeboat                                                                                    
-       remark                             =  yes                                                                                          
-fact   Lifeboat and tractor.1             =  Rescues those in peril on the sea                                                           
-fact   Lifeboat and tractor.2             =  Manned by volunteers                                                                        
-fact   Lifeboat and tractor.3             =  Designed to withstand heavy weather                                                         
+photo  Lifeboat.and.tractor             =  Lifeboat and tractor                                              
+       url                              =  github://philiprbrenan/Boats/Lifeboat and tractor.jpg             
        
-photo  Lock gates                         =  Lock gates                                                                                   
-       url                                =  github://philiprbrenan/Boats/Lock gates.jpg                                                  
-fact   Lock gates.0                       =  Maintains a constant water level within the harbour                                         
-fact   Lock gates.1                       =  Gates opened at high tide for the passage of boats                                          
-fact   Lock gates.2                       =  Famous examples at Bristol and Bridgwater                                                   
+photo  Lock.gates                       =  Lock gates                                                        
+       url                              =  github://philiprbrenan/Boats/Lock gates.jpg                       
        
-photo  Luxury Motor Yacht                 =  Luxury Motor Yacht                                                                           
-       url                                =  github://philiprbrenan/Boats/Luxury Motor Yacht.jpg                                          
-fact   Luxury Motor Yacht.0               =  Expensive, privately owned yacht with a professional crew                                   
-fact   Luxury Motor Yacht.1               =  Constructed by wealthy individuals for personal pleasure                                    
-fact   Luxury Motor Yacht.2               =  Largest is Azzam at 180 metres                                                              
+photo  Luxury.Motor.Yacht               =  Luxury Motor Yacht                                                
+       url                              =  github://philiprbrenan/Boats/Luxury Motor Yacht.jpg               
        
-photo  Marina                             =  Marina                                                                                       
-       url                                =  github://philiprbrenan/Boats/Marina.jpg                                                      
-fact   Marina.0                           =  Parking place for pleasure craft                                                            
-fact   Marina.1                           =  Boats accessed via pontoons                                                                 
-fact   Marina.2                           =  Owner only access to boats                                                                  
+photo  Marina                           =  Marina                                                            
+       url                              =  github://philiprbrenan/Boats/Marina.jpg                           
        
-photo  Moving a canal boat                =  Moving a canal boat                                                                          
-       url                                =  github://philiprbrenan/Boats/Moving a canal boat.jpg                                         
-fact   Moving a canal boat.0              =  Necessary when the canal is narrower than the boat                                          
-fact   Moving a canal boat.1              =  Not all canals are connected together                                                       
-fact   Moving a canal boat.2              =  Necessary when the hull of the boat has to be cleaned and painted                           
-fact   Moving a canal boat.3              =  Sometimes it is quicker to take the boat by road                                            
-fact   Moving a canal boat.4              =  When the destination is more important than the journey                                     
+photo  Moving.a.canal.boat              =  Moving a canal boat                                               
+       url                              =  github://philiprbrenan/Boats/Moving a canal boat.jpg              
        
-photo  Moving a yacht                     =  Moving a yacht                                                                               
-       url                                =  github://philiprbrenan/Boats/Moving a yacht.jpg                                              
-fact   Moving a yacht.0                   =  Sometimes it is quicker to take the boat by road                                            
-fact   Moving a yacht.1                   =  Necessary when the hull of the boat has to be cleaned and painted                           
-fact   Moving a yacht.2                   =  When the destination is more important than the journey                                     
+photo  Moving.a.yacht                   =  Moving a yacht                                                    
+       url                              =  github://philiprbrenan/Boats/Moving a yacht.jpg                   
        
-photo  Ocean-going ferry                  =  Ocean-going ferry                                                                            
-       url                                =  github://philiprbrenan/Boats/Ocean-going ferry.jpg                                           
-fact   Ocean-going ferry.0                =  Transports cars and passengers along an expanse of ocean                                    
+photo  Ocean-going.ferry                =  Ocean-going ferry                                                 
+       url                              =  github://philiprbrenan/Boats/Ocean-going ferry.jpg                
        
-photo  Passenger ferry                    =  Passenger ferry                                                                              
-       url                                =  github://philiprbrenan/Boats/Passenger ferry.jpg                                             
-fact   Passenger ferry.0                  =  Used to transport walkers and cyclists but not cars                                         
+photo  Passenger.ferry                  =  Passenger ferry                                                   
+       url                              =  github://philiprbrenan/Boats/Passenger ferry.jpg                  
        
-photo  Peruvian reed boat                 =  Peruvian reed boat                                                                           
-       url                                =  github://philiprbrenan/Boats/Peruvian reed boat.jpg                                          
-fact   Peruvian reed boat.0               =  Made of reeds waterproofed with tar                                                         
-fact   Peruvian reed boat.1               =  Still used on Lake Titicaca at 3810 metres above sea level                                  
+photo  Peruvian.reed.boat               =  Peruvian reed boat                                                
+       url                              =  github://philiprbrenan/Boats/Peruvian reed boat.jpg               
        
-photo  RIB                                =  RIB                                                                                          
-       url                                =  github://philiprbrenan/Boats/RIB.jpg                                                         
-fact   RIB.0                              =  Rigid-hulled inflatable boat                                                                
-fact   RIB.1                              =  Solid hull with inflatable tubes at the gunwale                                             
-fact   RIB.2                              =  Used as rescue craft, safety boats for sailing boats, dive boats                            
-fact   RIB.3                              =  Easy to store and transport                                                                 
-       remark                             =  yes                                                                                          
-fact   RIB.4                              =  RIB                                                                                         
-       remark                             =  yes                                                                                          
+photo  RIB                              =  RIB                                                               
+       url                              =  github://philiprbrenan/Boats/RIB.jpg                              
        
-photo  Rigid Inflatable lifeboat          =  Rigid Inflatable lifeboat                                                                    
-       url                                =  github://philiprbrenan/Boats/Rigid Inflatable lifeboat.jpg                                   
-fact   Rigid Inflatable lifeboat.0        =  Rigid-hulled inflatable boat                                                                
-fact   Rigid Inflatable lifeboat.1        =  Solid hull with inflatable tubes at the gunwale                                             
-fact   Rigid Inflatable lifeboat.2        =  Used as rescue craft, safety boats for sailing boats, dive boats                            
-fact   Rigid Inflatable lifeboat.3        =  Easy to store and transport                                                                 
-       remark                             =  yes                                                                                          
-fact   Rigid Inflatable lifeboat.4        =  RIB                                                                                         
-       remark                             =  yes                                                                                          
-fact   Rigid Inflatable lifeboat.5        =  Rescues those in peril on the sea                                                           
-fact   Rigid Inflatable lifeboat.6        =  Manned by volunteers                                                                        
+photo  Rigid.Inflatable.lifeboat        =  Rigid Inflatable lifeboat                                         
+       url                              =  github://philiprbrenan/Boats/Rigid Inflatable lifeboat.jpg        
        
-photo  River cruiser                      =  River cruiser                                                                                
-       url                                =  github://philiprbrenan/Boats/River cruiser.jpg                                               
-fact   River cruiser.0                    =  Cruises along rivers                                                                        
-fact   River cruiser.1                    =  Provides accommodation on rivers                                                            
+photo  River.cruiser                    =  River cruiser                                                     
+       url                              =  github://philiprbrenan/Boats/River cruiser.jpg                    
        
-photo  Rowing boat                        =  Rowing boat                                                                                  
-       url                                =  github://philiprbrenan/Boats/Rowing boat.jpg                                                 
-fact   Rowing boat.0                      =  Small boat propelled by mechanically attached oars                                          
-fact   Rowing boat.1                      =  Propelled by rowing while facing backwards                                                  
+photo  Rowing.boat                      =  Rowing boat                                                       
+       url                              =  github://philiprbrenan/Boats/Rowing boat.jpg                      
        
-photo  Sailing dinghy                     =  Sailing dinghy                                                                               
-       url                                =  github://philiprbrenan/Boats/Sailing dinghy.jpg                                              
-fact   Sailing dinghy.0                   =  The boat shall be 18ft long and the race starts at 2 o'clock!                               
-fact   Sailing dinghy.1                   =  Propelled only by sails and less than 6 metres in length                                    
+photo  Sailing.dinghy                   =  Sailing dinghy                                                    
+       url                              =  github://philiprbrenan/Boats/Sailing dinghy.jpg                   
        
-photo  Sailing yacht                      =  Sailing yacht                                                                                
-       url                                =  github://philiprbrenan/Boats/Sailing yacht.jpg                                               
-fact   Sailing yacht.0                    =  Propelled primarily by sails and over 6 metres in length                                    
+photo  Sailing.yacht                    =  Sailing yacht                                                     
+       url                              =  github://philiprbrenan/Boats/Sailing yacht.jpg                    
        
-photo  Scenic cruise boat                 =  Scenic cruise boat                                                                           
-       url                                =  github://philiprbrenan/Boats/Scenic cruise boat.jpg                                          
-fact   Scenic cruise boat.0               =  A supremely calming experience, an antidote to the pressures of life in a fast-paced world  
+photo  Scenic.cruise.boat               =  Scenic cruise boat                                                
+       url                              =  github://philiprbrenan/Boats/Scenic cruise boat.jpg               
        
-photo  Schooner                           =  Schooner                                                                                     
-       url                                =  github://philiprbrenan/Boats/Schooner.jpg                                                    
-fact   Schooner.0                         =  Sailing ship with two or masts                                                              
+photo  Schooner                         =  Schooner                                                          
+       url                              =  github://philiprbrenan/Boats/Schooner.jpg                         
        
-photo  Single kayak                       =  Single kayak                                                                                 
-       url                                =  github://philiprbrenan/Boats/Single kayak.jpg                                                
-fact   Single kayak.0                     =  Manually propelled by a double bladed paddle                                                
-fact   Single kayak.1                     =  Covered deck and cockpit covered by a spray deck                                            
-fact   Single kayak.2                     =  Constructed for hunting by Eskimos from seal skins and whale bones                          
-fact   Single kayak.3                     =  Paddler faces forwards                                                                      
+photo  Single.kayak                     =  Single kayak                                                      
+       url                              =  github://philiprbrenan/Boats/Single kayak.jpg                     
        
-photo  Small passenger ferry              =  Small passenger ferry                                                                        
-       url                                =  github://philiprbrenan/Boats/Small passenger ferry.jpg                                       
-fact   Small passenger ferry.0            =  Used to transport walkers and cyclists but not cars                                         
+photo  Small.passenger.ferry            =  Small passenger ferry                                             
+       url                              =  github://philiprbrenan/Boats/Small passenger ferry.jpg            
        
-photo  Tall ship                          =  Tall ship                                                                                    
-       url                                =  github://philiprbrenan/Boats/Tall ship.jpg                                                   
-fact   Tall ship.0                        =  Conrad's term for a large, traditionally-rigged sailing vessel                              
+photo  Tall.ship                        =  Tall ship                                                         
+       url                              =  github://philiprbrenan/Boats/Tall ship.jpg                        
        
-photo  Tanker                             =  Tanker                                                                                       
-       url                                =  github://philiprbrenan/Boats/Tanker.jpg                                                      
-fact   Tanker.0                           =  Merchant ship designed for the bulk transport of oil                                        
-fact   Tanker.1                           =  Costs 2 US cents to transport a gallon around the world                                     
-fact   Tanker.2                           =  Up to half a million tons dead weight                                                       
+photo  Tanker                           =  Tanker                                                            
+       url                              =  github://philiprbrenan/Boats/Tanker.jpg                           
        
-photo  Tourist reed boat                  =  Tourist reed boat                                                                            
-       url                                =  github://philiprbrenan/Boats/Tourist reed boat.jpg                                           
-fact   Tourist reed boat.0                =  Made of reeds waterproofed with tar                                                         
-fact   Tourist reed boat.1                =  Similar to Thor Heyerdahl's Ra II                                                           
+photo  Tourist.reed.boat                =  Tourist reed boat                                                 
+       url                              =  github://philiprbrenan/Boats/Tourist reed boat.jpg                
        
-photo  Wooden dinghy                      =  Wooden dinghy                                                                                
-       url                                =  github://philiprbrenan/Boats/Wooden dinghy.jpg                                               
-fact   Wooden dinghy.0                    =  Often carried on or towed behind a larger vessel as a service boat                          
+photo  Wooden.dinghy                    =  Wooden dinghy                                                     
+       url                              =  github://philiprbrenan/Boats/Wooden dinghy.jpg                    
        
-photo  Wooden sailing yacht               =  Wooden sailing yacht                                                                         
-       url                                =  github://philiprbrenan/Boats/Wooden sailing yacht.jpg                                        
-fact   Wooden sailing yacht.0             =  Propelled primarily by sails and over 6 metres in length                                    
+photo  Wooden.sailing.yacht             =  Wooden sailing yacht                                              
+       url                              =  github://philiprbrenan/Boats/Wooden sailing yacht.jpg             
        
-photo  Zanzibar dhow                      =  Zanzibar dhow                                                                                
-       url                                =  github://philiprbrenan/Boats/Zanzibar dhow.jpg                                               
-fact   Zanzibar dhow.0                    =  Long thin hull used to carry heavy items along the coast of East Africa                     
+photo  Zanzibar.dhow                    =  Zanzibar dhow                                                     
+       url                              =  github://philiprbrenan/Boats/Zanzibar dhow.jpg                    
