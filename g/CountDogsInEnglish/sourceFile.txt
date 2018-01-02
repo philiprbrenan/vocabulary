@@ -1,0 +1,37 @@
+app g.CountDogsInEnglish   = Count Dogs 1-10
+  description  = Learn about Count Dogs 1-10 in English
+  icon         = 3.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo    1  =  One                                               
+       url  =  github://philiprbrenan/CountDogsInEnglish/1.jpg   
+       
+photo   10  =  Ten                                               
+       url  =  github://philiprbrenan/CountDogsInEnglish/10.jpg  
+       
+photo    2  =  Two                                               
+       url  =  github://philiprbrenan/CountDogsInEnglish/2.jpg   
+       
+photo    3  =  Three                                             
+       url  =  github://philiprbrenan/CountDogsInEnglish/3.jpg   
+       
+photo    4  =  Four                                              
+       url  =  github://philiprbrenan/CountDogsInEnglish/4.jpg   
+       
+photo    5  =  Five                                              
+       url  =  github://philiprbrenan/CountDogsInEnglish/5.jpg   
+       
+photo    6  =  Six                                               
+       url  =  github://philiprbrenan/CountDogsInEnglish/6.jpg   
+       
+photo    7  =  Seven                                             
+       url  =  github://philiprbrenan/CountDogsInEnglish/7.jpg   
+       
+photo    8  =  Eight                                             
+       url  =  github://philiprbrenan/CountDogsInEnglish/8.jpg   
+       
+photo    9  =  Nine                                              
+       url  =  github://philiprbrenan/CountDogsInEnglish/9.jpg   
