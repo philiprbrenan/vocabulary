@@ -6,122 +6,320 @@ app g.Arches   = Arches National Park USA
   speakers     = Amy
 
        
-photo  American.Spadefoot.Toad  =  American Spadefoot Toad                                    
-       url                      =  github://philiprbrenan/Arches/American Spadefoot Toad.jpg  
+photo  American.Spadefoot.Toad    =  American Spadefoot Toad                                                                                 
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/AmericanSpadefootToad.jpg                             
+fact   American.Spadefoot.Toad.0  =  Found from southern Canada to southern Mexico                                                           
+       remark                     =  yes                                                                                                     
+fact   American.Spadefoot.Toad.1  =  Spends most of its life underground, beneath ponds and creeks                                           
+fact   American.Spadefoot.Toad.2  =  Hard protrusions on its feet help it dig                                                                
+fact   American.Spadefoot.Toad.3  =  Dull grey, green or brown in colour as camouflage in arid habitats                                      
+fact   American.Spadefoot.Toad.4  =  Comes above ground to breed and lay eggs in years of sufficient rainfall                                
        
-photo  Arches.National.Park     =  Arches National Park                                       
-       url                      =  github://philiprbrenan/Arches/Arches National Park.jpg     
+photo  Arches.National.Park       =  Arches National Park                                                                                    
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/ArchesNationalPark.jpg                                
+fact   Arches.National.Park.0     =  Located in Utah                                                                                         
+       remark                     =  yes                                                                                                     
+fact   Arches.National.Park.1     =  Park covers 76,679 acres                                                                                
+       remark                     =  yes                                                                                                     
+fact   Arches.National.Park.2     =  Situated near Moab which has become a base for outdoor recreation                                       
+       remark                     =  yes                                                                                                     
+fact   Arches.National.Park.3     =  More than 2 thousans sandstone arches carved by millions of years of erosion                            
+       remark                     =  yes                                                                                                     
+fact   Arches.National.Park.4     =  Most of the arches are made of salmon-coloured Entrada Sandstone                                        
+       remark                     =  yes                                                                                                     
+fact   Arches.National.Park.5     =  Popular with astronomers because of the dark, clear night skies                                         
+       remark                     =  yes                                                                                                     
+fact   Arches.National.Park.6     =  Many plants and animals including rattlesnake, red fox and mule deer                                    
+       remark                     =  yes                                                                                                     
        
-photo  Balanced.Rock            =  Balanced Rock                                              
-       url                      =  github://philiprbrenan/Arches/Balanced Rock.jpg            
+photo  Balanced.Rock              =  Balanced Rock                                                                                           
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/BalancedRock.jpg                                      
+fact   Balanced.Rock.0            =  Large balancing rock, the size of three school buses                                                    
+fact   Balanced.Rock.1            =  Total height is about 39 metres (128 feet), with the balancing rock 17 metres (55 feet) above the base  
+       remark                     =  yes                                                                                                     
+fact   Balanced.Rock.2            =  A similar but smaller formation named "Chip Off The Old Block", collapsed in 1976                       
+fact   Balanced.Rock.3            =  Much visited being located next the park's main road                                                    
+       remark                     =  yes                                                                                                     
        
-photo  Broken.Arch              =  Broken Arch                                                
-       url                      =  github://philiprbrenan/Arches/Broken Arch.jpg              
+photo  Broken.Arch                =  Broken Arch                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/BrokenArch.jpg                                        
+fact   Broken.Arch.0              =  Found in the same area of the park as Sand Dune Arch                                                    
+       remark                     =  yes                                                                                                     
+fact   Broken.Arch.1              =  Round trip is 2 kilometers (1.3 miles) from the Sand Dune Arch parking area                             
+       remark                     =  yes                                                                                                     
        
-photo  Collared.Lizard          =  Collared Lizard                                            
-       url                      =  github://philiprbrenan/Arches/Collared Lizard.jpg          
+photo  Collared.Lizard            =  Collared Lizard                                                                                         
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/CollaredLizard.jpg                                    
+fact   Collared.Lizard.0          =  State reptile of Oklahoma                                                                               
+fact   Collared.Lizard.1          =  Can reach 30 cm (1 foot) in length with a large head and powerful jaws                                  
+fact   Collared.Lizard.2          =  Can run very quickly on its hind legs looking like a little dinosaur                                    
+fact   Collared.Lizard.3          =  Named for the bands of black around the neck that look like a collar                                    
        
-photo  Dark.Angel               =  Dark Angel                                                 
-       url                      =  github://philiprbrenan/Arches/Dark Angel.jpg               
+photo  Dark.Angel                 =  Dark Angel                                                                                              
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/DarkAngel.jpg                                         
+fact   Dark.Angel.0               =  Free-standing 46 metres (150 feet) tall sandstone pillar                                                
+       remark                     =  yes                                                                                                     
+fact   Dark.Angel.1               =  Located at the end of the Devil's Garden hiking trail (5 mile round trip)                               
+fact   Dark.Angel.2               =  Found in the Devil's Garden area of the park                                                            
+       remark                     =  yes                                                                                                     
        
-photo  Delicate.Arch            =  Delicate Arch                                              
-       url                      =  github://philiprbrenan/Arches/Delicate Arch.jpg            
+photo  Delicate.Arch              =  Delicate Arch                                                                                           
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/DelicateArch.jpg                                      
+fact   Delicate.Arch.0            =  A lone-standing arch which has become a symbol of Utah                                                  
+fact   Delicate.Arch.1            =  The most widely recognised landmark in the park                                                         
+fact   Delicate.Arch.2            =  20 metres (65 feet) high                                                                                
+       remark                     =  yes                                                                                                     
+fact   Delicate.Arch.3            =  Carved out of Entrada Sandstone                                                                         
+       remark                     =  yes                                                                                                     
+fact   Delicate.Arch.4            =  Olympic torch relay for the 2002 Winter Olympics passed through this arch                               
        
-photo  Desert.Bighorn.Sheep     =  Desert Bighorn Sheep                                       
-       url                      =  github://philiprbrenan/Arches/Desert Bighorn Sheep.jpg     
+photo  Desert.Bighorn.Sheep       =  Desert Bighorn Sheep                                                                                    
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/DesertBighornSheep.jpg                                
+fact   Desert.Bighorn.Sheep.0     =  Found in the deserts of Southwest United States and northern Mexico                                     
+       remark                     =  yes                                                                                                     
+fact   Desert.Bighorn.Sheep.1     =  Adapted to go for long periods of time without drinking water                                           
+       remark                     =  yes                                                                                                     
+fact   Desert.Bighorn.Sheep.2     =  Unique elastic hooves enable it to climb steep, rocky terrain with speed and agility                    
+fact   Desert.Bighorn.Sheep.3     =  Lives up to 20 years                                                                                    
+       remark                     =  yes                                                                                                     
        
-photo  Devil's.Garden           =  Devil's Garden                                             
-       url                      =  github://philiprbrenan/Arches/Devil's Garden.jpg           
+photo  Devil's.Garden             =  Devil's Garden                                                                                          
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/Devil'sGarden.jpg                                     
+fact   Devil's.Garden.0           =  Area of the park which has many arches and columns scattered along a ridge                              
+       remark                     =  yes                                                                                                     
+fact   Devil's.Garden.1           =  Eight famous arches include Landscape Arch and Double O Arch                                            
+       remark                     =  yes                                                                                                     
+fact   Devil's.Garden.2           =  Devil's Garden Trail winds between sheer walls of sandstone fins                                        
+       remark                     =  yes                                                                                                     
+fact   Devil's.Garden.3           =  Devil's Garden Trail is the longest trail in the park at 12 kilometers (7.2 miles)                      
+       remark                     =  yes                                                                                                     
        
-photo  Double.Arch              =  Double Arch                                                
-       url                      =  github://philiprbrenan/Arches/Double Arch.jpg              
+photo  Double.Arch                =  Double Arch                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/DoubleArch.jpg                                        
+fact   Double.Arch.0              =  A close-set pair of giant natural arches which are joined at one end                                    
+fact   Double.Arch.1              =  Used as a backdrop for the opening scene of "Indiana Jones and the Last Crusade"                        
+fact   Double.Arch.2              =  Known as a "pothole arch", formed by water erosion from above                                           
+fact   Double.Arch.3              =  Found in the Windows section of the park                                                                
+       remark                     =  yes                                                                                                     
        
-photo  Double.O.Arch            =  Double O Arch                                              
-       url                      =  github://philiprbrenan/Arches/Double O Arch.jpg            
+photo  Double.O.Arch              =  Double O Arch                                                                                           
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/DoubleOArch.jpg                                       
+fact   Double.O.Arch.0            =  Located towards the end of the Devil's Garden hiking trail (4.2 mile round trip)                        
+       remark                     =  yes                                                                                                     
+fact   Double.O.Arch.1            =  Found in the Devil's Garden area of the park                                                            
+       remark                     =  yes                                                                                                     
        
-photo  Entrance.View            =  Entrance View                                              
-       url                      =  github://philiprbrenan/Arches/Entrance View.jpg            
+photo  Entrance.View              =  Entrance View                                                                                           
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/EntranceView.jpg                                      
+fact   Entrance.View.0            =  Looking towards "Courthouse Towers" from the park entrance                                              
        
-photo  Evening.Primrose         =  Evening Primrose                                           
-       url                      =  github://philiprbrenan/Arches/Evening Primrose.jpg         
+photo  Evening.Primrose           =  Evening Primrose                                                                                        
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/EveningPrimrose.jpg                                   
+fact   Evening.Primrose.0         =  Opens in less than one minute in the evening                                                            
+fact   Evening.Primrose.1         =  Blooms from January to May                                                                              
+fact   Evening.Primrose.2         =  Pollinated by moths                                                                                     
+fact   Evening.Primrose.3         =  Sweet-scented annual, a grayish green, creeping dune plant                                              
+fact   Evening.Primrose.4         =  Found in sandy soils in the deserts of southern California, Nevada, Arizona and Utah                    
+       remark                     =  yes                                                                                                     
        
-photo  Fiery.Furnace            =  Fiery Furnace                                              
-       url                      =  github://philiprbrenan/Arches/Fiery Furnace.jpg            
+photo  Fiery.Furnace              =  Fiery Furnace                                                                                           
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/FieryFurnace.jpg                                      
+fact   Fiery.Furnace.0            =  Maze-like labyrinth of narrow sandstone canyons and tall rock columns                                   
+fact   Fiery.Furnace.1            =  Created by weathering and erosion along vertical joints in the Entrada Sandstone                        
+       remark                     =  yes                                                                                                     
+fact   Fiery.Furnace.2            =  Ranger-guided hikes take visitors through the labyrinth                                                 
+       remark                     =  yes                                                                                                     
        
-photo  Landscape.Arch           =  Landscape Arch                                             
-       url                      =  github://philiprbrenan/Arches/Landscape Arch.jpg           
+photo  Landscape.Arch             =  Landscape Arch                                                                                          
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/LandscapeArch.jpg                                     
+fact   Landscape.Arch.0           =  One of the world's longest stone spans                                                                  
+fact   Landscape.Arch.1           =  Span is more than a football field in length                                                            
+fact   Landscape.Arch.2           =  Stretches 93 metres (306 feet), yet is only about 3.3 metres (11 feet) thick at its centre              
+       remark                     =  yes                                                                                                     
+fact   Landscape.Arch.3           =  Found in the Devil's Garden area of the park                                                            
+       remark                     =  yes                                                                                                     
        
-photo  Mountain.Lion            =  Mountain Lion                                              
-       url                      =  github://philiprbrenan/Arches/Mountain Lion.jpg            
+photo  Mountain.Lion              =  Mountain Lion                                                                                           
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/MountainLion.jpg                                      
+fact   Mountain.Lion.0            =  Also called "Cougar" and "Puma"                                                                         
+fact   Mountain.Lion.1            =  Large cat widely distributed from Canada to South America in all habitats                               
+fact   Mountain.Lion.2            =  Nocturnal predator will eat any animal from an insect to a mule deer                                    
+fact   Mountain.Lion.3            =  Not classified as a "big cat" like a lion, as it cannot roar, and is mostly silent                      
+fact   Mountain.Lion.4            =  Can leap as high as 5 metres (18 feet) in one bound, and as far as 13 meters (45 feet) horizontally     
        
-photo  Mule.Deer                =  Mule Deer                                                  
-       url                      =  github://philiprbrenan/Arches/Mule Deer.jpg                
+photo  Mule.Deer                  =  Mule Deer                                                                                               
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/MuleDeer.jpg                                          
+fact   Mule.Deer.0                =  Indigenous to western North America                                                                     
+       remark                     =  yes                                                                                                     
+fact   Mule.Deer.1                =  Has large "mule-like" ears which move constantly and independently                                      
+fact   Mule.Deer.2                =  Noted for its high-bounce trot which helps it to cross rocks and brush very quickly                     
        
-photo  Navajo.Arch              =  Navajo Arch                                                
-       url                      =  github://philiprbrenan/Arches/Navajo Arch.jpg              
+photo  Navajo.Arch                =  Navajo Arch                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/NavajoArch.jpg                                        
+fact   Navajo.Arch.0              =  Located on a side trail off the Devil's Garden hiking trail                                             
+       remark                     =  yes                                                                                                     
+fact   Navajo.Arch.1              =  Found in the Devil's Garden area of the park                                                            
+       remark                     =  yes                                                                                                     
        
-photo  Park.Avenue              =  Park Avenue                                                
-       url                      =  github://philiprbrenan/Arches/Park Avenue.jpg              
+photo  Park.Avenue                =  Park Avenue                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/ParkAvenue.jpg                                        
+fact   Park.Avenue.0              =  Towering spires and rock walls resemble Manhattan's famous skyscrapers                                  
+fact   Park.Avenue.1              =  A hiking trail heads north down a wide canyon past these "skyscrapers"                                  
+       remark                     =  yes                                                                                                     
+fact   Park.Avenue.2              =  Park Avenue hiking trail leads to the area known as "Courthouse Towers"                                 
+       remark                     =  yes                                                                                                     
        
-photo  Partition.Arch           =  Partition Arch                                             
-       url                      =  github://philiprbrenan/Arches/Partition Arch.jpg           
+photo  Partition.Arch             =  Partition Arch                                                                                          
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/PartitionArch.jpg                                     
+fact   Partition.Arch.0           =  Located on the Devil's Garden hiking trail                                                              
+       remark                     =  yes                                                                                                     
+fact   Partition.Arch.1           =  Found in the Devil's Garden area of the park                                                            
+       remark                     =  yes                                                                                                     
        
-photo  Peregrine.Falcon         =  Peregrine Falcon                                           
-       url                      =  github://philiprbrenan/Arches/Peregrine Falcon.jpg         
+photo  Peregrine.Falcon           =  Peregrine Falcon                                                                                        
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/PeregrineFalcon.jpg                                   
+fact   Peregrine.Falcon.0         =  Fastest member of the entire animal kingdom                                                             
+fact   Peregrine.Falcon.1         =  Most widespread bird of prey in the world                                                               
+fact   Peregrine.Falcon.2         =  Found from the Arctic tundra to the tropics                                                             
+       remark                     =  yes                                                                                                     
+fact   Peregrine.Falcon.3         =  Its high speed dive from height can reach speeds of over 322 km/h (200 mph)                             
+fact   Peregrine.Falcon.4         =  Diet is mostly medium-sized birds such as pigeons                                                       
        
-photo  Petrified.Dunes          =  Petrified Dunes                                            
-       url                      =  github://philiprbrenan/Arches/Petrified Dunes.jpg          
+photo  Petrified.Dunes            =  Petrified Dunes                                                                                         
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/PetrifiedDunes.jpg                                    
+fact   Petrified.Dunes.0          =  Petrified remains of ancient sand dunes                                                                 
+fact   Petrified.Dunes.1          =  Sand covered by layers of sediment and compressed into stone                                            
+fact   Petrified.Dunes.2          =  Ancient dunes exposed when the overlying material erodes away                                           
+       remark                     =  yes                                                                                                     
        
-photo  Petroglyphs              =  Petroglyphs                                                
-       url                      =  github://philiprbrenan/Arches/Petroglyphs.jpg              
+photo  Petroglyphs                =  Petroglyphs                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/Petroglyphs.jpg                                       
+fact   Petroglyphs.0              =  Rock engravings created by the Ute tribe of Native Americans                                            
+fact   Petroglyphs.1              =  Figures on horseback date from the mid 1600s when horses arrived in the area                            
+       remark                     =  yes                                                                                                     
+fact   Petroglyphs.2              =  From the Greek words "petro-" meaning stone, and "glyphein" meaning "to carve"                          
+       remark                     =  yes                                                                                                     
        
-photo  Pine.Tree.Arch           =  Pine Tree Arch                                             
-       url                      =  github://philiprbrenan/Arches/Pine Tree Arch.jpg           
+photo  Pine.Tree.Arch             =  Pine Tree Arch                                                                                          
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/PineTreeArch.jpg                                      
+fact   Pine.Tree.Arch.0           =  Located on a side trail off the Devil's Garden hiking trail                                             
+       remark                     =  yes                                                                                                     
+fact   Pine.Tree.Arch.1           =  Found in the Devil's Garden area of the park                                                            
+       remark                     =  yes                                                                                                     
        
-photo  Pinyon.Pine              =  Pinyon Pine                                                
-       url                      =  github://philiprbrenan/Arches/Pinyon Pine.jpg              
+photo  Pinyon.Pine                =  Pinyon Pine                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/PinyonPine.jpg                                        
+fact   Pinyon.Pine.0              =  Grows in the southwestern United States and in Mexico                                                   
+       remark                     =  yes                                                                                                     
+fact   Pinyon.Pine.1              =  Produces edible nuts, which were a staple food of the Native Americans                                  
+fact   Pinyon.Pine.2              =  Thrives in dry habitats and reaches about 10 meters (35 feet) in height                                 
+fact   Pinyon.Pine.3              =  Very fragrant when burned                                                                               
        
-photo  Prickly.Pear.Cactus      =  Prickly Pear Cactus                                        
-       url                      =  github://philiprbrenan/Arches/Prickly Pear Cactus.jpg      
+photo  Prickly.Pear.Cactus        =  Prickly Pear Cactus                                                                                     
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/PricklyPearCactus.jpg                                 
+fact   Prickly.Pear.Cactus.0      =  Type of cactus found throughout the Americas                                                            
+fact   Prickly.Pear.Cactus.1      =  Covered in fixed spines and small, hairlike prickles which can detach and penetrate skin                
+fact   Prickly.Pear.Cactus.2      =  Sweet, juicy fruit is popular eaten fresh, and in sweets, jellies and alcoholic drinks                  
        
-photo  Queen.Nefertiti.Rock     =  Queen Nefertiti Rock                                       
-       url                      =  github://philiprbrenan/Arches/Queen Nefertiti Rock.jpg     
+photo  Queen.Nefertiti.Rock       =  Queen Nefertiti Rock                                                                                    
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/QueenNefertitiRock.jpg                                
+fact   Queen.Nefertiti.Rock.0     =  Named for its resemblance to the ancient Egyptian Queen Nefertiti                                       
+fact   Queen.Nefertiti.Rock.1     =  Found in the area of the park known as "Courthouse Towers"                                              
+       remark                     =  yes                                                                                                     
        
-photo  Sacred.Datura            =  Sacred Datura                                              
-       url                      =  github://philiprbrenan/Arches/Sacred Datura.jpg            
+photo  Sacred.Datura              =  Sacred Datura                                                                                           
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/SacredDatura.jpg                                      
+fact   Sacred.Datura.0            =  Found in southwestern North America                                                                     
+       remark                     =  yes                                                                                                     
+fact   Sacred.Datura.1            =  Poisonous, perennial plant, sometimes used as a hallucinogen                                            
+fact   Sacred.Datura.2            =  White flowers are sweetly fragrant and grow up to 20 cm long                                            
+fact   Sacred.Datura.3            =  Flowers open at sunset and wither after sunrise                                                         
+fact   Sacred.Datura.4            =  Settlers in California called it "Indian whiskey" because of its intoxicating use by many tribes        
        
-photo  Sand.Dune.Arch           =  Sand Dune Arch                                             
-       url                      =  github://philiprbrenan/Arches/Sand Dune Arch.jpg           
+photo  Sand.Dune.Arch             =  Sand Dune Arch                                                                                          
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/SandDuneArch.jpg                                      
+fact   Sand.Dune.Arch.0           =  Secluded arch set among sandstone fins                                                                  
+       remark                     =  yes                                                                                                     
+fact   Sand.Dune.Arch.1           =  Round trip is half a kilometer (0.3 miles) from the Sand Dune Arch parking area                         
+       remark                     =  yes                                                                                                     
        
-photo  Skull.Arch               =  Skull Arch                                                 
-       url                      =  github://philiprbrenan/Arches/Skull Arch.jpg               
+photo  Skull.Arch                 =  Skull Arch                                                                                              
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/SkullArch.jpg                                         
+fact   Skull.Arch.0               =  Located in the Fiery Furnace area of the park                                                           
+       remark                     =  yes                                                                                                     
+fact   Skull.Arch.1               =  Double arches were sculpted by water in potholes over many thousands of years                           
        
-photo  Skyline.Arch             =  Skyline Arch                                               
-       url                      =  github://philiprbrenan/Arches/Skyline Arch.jpg             
+photo  Skyline.Arch               =  Skyline Arch                                                                                            
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/SkylineArch.jpg                                       
+fact   Skyline.Arch.0             =  Round trip is 600 metres (0.4 miles) from the Skyline Arch parking area                                 
+       remark                     =  yes                                                                                                     
+fact   Skyline.Arch.1             =  In 1940, a large chunk fell out of the arch, instantly doubling the size of its opening                 
        
-photo  Surprise.Arch            =  Surprise Arch                                              
-       url                      =  github://philiprbrenan/Arches/Surprise Arch.jpg            
+photo  Surprise.Arch              =  Surprise Arch                                                                                           
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/SurpriseArch.jpg                                      
+fact   Surprise.Arch.0            =  Hangs above an isolated sandstone grotto in the Fiery Furnace                                           
+fact   Surprise.Arch.1            =  Located near the exit of the Fiery Furnace                                                              
        
-photo  The.Organ                =  The Organ                                                  
-       url                      =  github://philiprbrenan/Arches/The Organ.jpg                
+photo  The.Organ                  =  The Organ                                                                                               
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/TheOrgan.jpg                                          
+fact   The.Organ.0                =  Named after its likeness to a huge pipe organ, 200 meters (700 feet) high                               
+fact   The.Organ.1                =  One of the massive sandstone towers in the area known as "Courthouse Towers"                            
+fact   The.Organ.2                =  Stands near the "Tower of Babel" and "The Organ"                                                        
+fact   The.Organ.3                =  Can be reached by hiking the Park Avenue trail (2 miles round trip)                                     
+       remark                     =  yes                                                                                                     
        
-photo  The.Three.Gossips        =  The Three Gossips                                          
-       url                      =  github://philiprbrenan/Arches/The Three Gossips.jpg        
+photo  The.Three.Gossips          =  The Three Gossips                                                                                       
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/TheThreeGossips.jpg                                   
+fact   The.Three.Gossips.0        =  One of the massive sandstone towers in the area known as "Courthouse Towers"                            
+fact   The.Three.Gossips.1        =  Stands near the "Tower of Babel" and "The Organ"                                                        
+fact   The.Three.Gossips.2        =  Can be reached by hiking the Park Avenue trail (2 miles round trip)                                     
+       remark                     =  yes                                                                                                     
        
-photo  Tower.of.Babel           =  Tower of Babel                                             
-       url                      =  github://philiprbrenan/Arches/Tower of Babel.jpg           
+photo  Tower.of.Babel             =  Tower of Babel                                                                                          
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/TowerofBabel.jpg                                      
+fact   Tower.of.Babel.0           =  One of the massive sandstone towers in the area known as "Courthouse Towers"                            
+fact   Tower.of.Babel.1           =  Stands near to the "Three Gossips" and "The Organ"                                                      
+fact   Tower.of.Babel.2           =  Can be reached by hiking the Park Avenue trail (2 miles round trip)                                     
+       remark                     =  yes                                                                                                     
        
-photo  Tunnel.Arch              =  Tunnel Arch                                                
-       url                      =  github://philiprbrenan/Arches/Tunnel Arch.jpg              
+photo  Tunnel.Arch                =  Tunnel Arch                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/TunnelArch.jpg                                        
+fact   Tunnel.Arch.0              =  Located on a side trail off the Devil's Garden hiking trail                                             
+       remark                     =  yes                                                                                                     
+fact   Tunnel.Arch.1              =  Found in the Devil's Garden area of the park                                                            
+       remark                     =  yes                                                                                                     
        
-photo  Turret.Arch              =  Turret Arch                                                
-       url                      =  github://philiprbrenan/Arches/Turret Arch.jpg              
+photo  Turret.Arch                =  Turret Arch                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/TurretArch.jpg                                        
+fact   Turret.Arch.0              =  Massive arch found in the Windows section of the park                                                   
+fact   Turret.Arch.1              =  Reached by the Windows Hiking Trail (one mile round trip)                                               
+       remark                     =  yes                                                                                                     
        
-photo  Utah.Juniper             =  Utah Juniper                                               
-       url                      =  github://philiprbrenan/Arches/Utah Juniper.jpg             
+photo  Utah.Juniper               =  Utah Juniper                                                                                            
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/UtahJuniper.jpg                                       
+fact   Utah.Juniper.0             =  Small tree native to the southwestern United States                                                     
+fact   Utah.Juniper.1             =  Grows to about 6 metres in height on dry soils                                                          
+fact   Utah.Juniper.2             =  Can grow a tap root 12 metres (40 feet) long straight down through rocks and crevices                   
+fact   Utah.Juniper.3             =  Its lateral roots can spread 30 metres (100 feet) away from the trunk                                   
+fact   Utah.Juniper.4             =  Under stress, such as drought, whole parts of the tree can shut down                                    
+       remark                     =  yes                                                                                                     
+fact   Utah.Juniper.5             =  Can live up to 700 years in age, and some individuals have been found that are even older               
+       remark                     =  yes                                                                                                     
        
-photo  Western.Rattlesnake      =  Western Rattlesnake                                        
-       url                      =  github://philiprbrenan/Arches/Western Rattlesnake.jpg      
+photo  Western.Rattlesnake        =  Western Rattlesnake                                                                                     
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/WesternRattlesnake.jpg                                
+fact   Western.Rattlesnake.0      =  Venomous pit viper that lives in dry areas                                                              
+fact   Western.Rattlesnake.1      =  Most widely distributed rattlesnake in the western United States and Canada                             
+fact   Western.Rattlesnake.2      =  Commonly grows to over 1 metre in length                                                                
+       remark                     =  yes                                                                                                     
+fact   Western.Rattlesnake.3      =  Has the longest fangs of any snake species                                                              
+fact   Western.Rattlesnake.4      =  Fangs are hinged back inside the mouth                                                                  
+       remark                     =  yes                                                                                                     
        
-photo  Wolfe.Ranch              =  Wolfe Ranch                                                
-       url                      =  github://philiprbrenan/Arches/Wolfe Ranch.jpg              
+photo  Wolfe.Ranch                =  Wolfe Ranch                                                                                             
+       url                        =  github://philiprbrenan/vocabulary-1/images/Arches/WolfeRanch.jpg                                        
+fact   Wolfe.Ranch.0              =  Home to John Wesley Wolfe and his son for 10 years from 1888                                            
+fact   Wolfe.Ranch.1              =  One-room log cabin was the base for a cattle ranch                                                      
+       remark                     =  yes                                                                                                     
+fact   Wolfe.Ranch.2              =  Located near Delicate Arch                                                                              
+       remark                     =  yes                                                                                                     
