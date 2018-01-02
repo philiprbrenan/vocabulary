@@ -6,335 +6,140 @@ app g.Birds   = Nice Birds
   speakers     = Amy
 
        
-photo  Atlantic_Puffin                =  Atlantic Puffin                                                                                 
-       url                            =  github://philiprbrenan/Birds/Atlantic_Puffin.jpg                                                
-fact   Atlantic_Puffin.0              =  Can fly under the water as well as in the air                                                  
-fact   Atlantic_Puffin.1              =  Holds fish against its upper beak using its tongue while fishing for more                      
-fact   Atlantic_Puffin.2              =  Feeds its chick on whole rather then regurgitated fish                                         
-fact   Atlantic_Puffin.3              =  Rarely seen on the coast in winter as it winters out at sea                                    
-fact   Atlantic_Puffin.4              =  A traditional Icelandic delicacy                                                               
+photo  Atlantic_Puffin              =  Atlantic Puffin                                               
+       url                          =  github://philiprbrenan/Birds/Atlantic_Puffin.jpg              
        
-photo  Azure_Kingfisher               =  Azure Kingfisher                                                                                
-       url                            =  github://philiprbrenan/Birds/Azure_Kingfisher.jpg                                               
-fact   Azure_Kingfisher.0             =  Has only two forward toes                                                                      
-fact   Azure_Kingfisher.1             =  Plunges from overhanging perches into water to catch prey                                      
-       remark                         =  yes                                                                                             
-fact   Azure_Kingfisher.2             =  Nests in tunnels dug into river banks                                                          
-       remark                         =  yes                                                                                             
+photo  Azure_Kingfisher             =  Azure Kingfisher                                              
+       url                          =  github://philiprbrenan/Birds/Azure_Kingfisher.jpg             
        
-photo  Black-capped_Lory_1            =  Black-capped Lory                                                                               
-       url                            =  github://philiprbrenan/Birds/Black-capped_Lory_1.jpg                                            
-fact   Black-capped_Lory_1.0          =  A type of parrot found in the forests of New Guinea                                            
-       remark                         =  yes                                                                                             
-fact   Black-capped_Lory_1.1          =  Eats flowers, fruit and insects                                                                
-       remark                         =  yes                                                                                             
-fact   Black-capped_Lory_1.2          =  Active, intelligent, talkative bird                                                            
-       remark                         =  yes                                                                                             
+photo  Black-capped_Lory_1          =  Black-capped Lory                                             
+       url                          =  github://philiprbrenan/Birds/Black-capped_Lory_1.jpg          
        
-photo  Black-naped_Oriole             =  Black-naped Oriole                                                                              
-       url                            =  github://philiprbrenan/Birds/Black-naped_Oriole.jpg                                             
-fact   Black-naped_Oriole.0           =  Common in forests, gardens and plantations in China and India                                  
-       remark                         =  yes                                                                                             
-fact   Black-naped_Oriole.1           =  Feeds on berries and insects found in the forest canopy                                        
-       remark                         =  yes                                                                                             
-fact   Black-naped_Oriole.2           =  Often nests near a Black Drongo to prevent attacks by larger birds                             
-       remark                         =  yes                                                                                             
+photo  Black-naped_Oriole           =  Black-naped Oriole                                            
+       url                          =  github://philiprbrenan/Birds/Black-naped_Oriole.jpg           
        
-photo  Blue-and-yellow_Macaw_1        =  Blue-and-yellow Macaw                                                                           
-       url                            =  github://philiprbrenan/Birds/Blue-and-yellow_Macaw_1.jpg                                        
-fact   Blue-and-yellow_Macaw_1.0      =  Large blue and yellow parrot found in South America                                            
-fact   Blue-and-yellow_Macaw_1.1      =  Uses its powerful beak for breaking nutshells, for climbing and hanging from trees             
-       remark                         =  yes                                                                                             
+photo  Blue-and-yellow_Macaw_1      =  Blue-and-yellow Macaw                                         
+       url                          =  github://philiprbrenan/Birds/Blue-and-yellow_Macaw_1.jpg      
        
-photo  Blue-crowned_Motmot            =  Blue-crowned Motmot                                                                             
-       url                            =  github://philiprbrenan/Birds/Blue-crowned_Motmot.jpg                                            
-fact   Blue-crowned_Motmot.0          =  Nests in tunnels in banks, where they lay three or four white eggs                             
-       remark                         =  yes                                                                                             
-fact   Blue-crowned_Motmot.1          =  Found in the forests of Central and Southern America                                           
-       remark                         =  yes                                                                                             
-fact   Blue-crowned_Motmot.2          =  Eats insects and small reptiles                                                                
-       remark                         =  yes                                                                                             
-fact   Blue-crowned_Motmot.3          =  Distinguished by the bare spines near the ends of their tail feathers                          
+photo  Blue-crowned_Motmot          =  Blue-crowned Motmot                                           
+       url                          =  github://philiprbrenan/Birds/Blue-crowned_Motmot.jpg          
        
-photo  Blue_Tit_2                     =  Blue Tit                                                                                        
-       url                            =  github://philiprbrenan/Birds/Blue_Tit_2.jpg                                                     
-fact   Blue_Tit_2.0                   =  Common and popular European garden bird due to its perky acrobatic performances when feeding   
-fact   Blue_Tit_2.1                   =  Eats more aphids than any other bird                                                           
-fact   Blue_Tit_2.2                   =  Will tear appart tree buds looking for insects                                                 
-fact   Blue_Tit_2.3                   =  Frequently hangs upside down while looking for food                                            
-fact   Blue_Tit_2.4                   =  Learnt to open milk bottles with foil tops to get at the cream underneath                      
+photo  Blue_Tit_2                   =  Blue Tit                                                      
+       url                          =  github://philiprbrenan/Birds/Blue_Tit_2.jpg                   
        
-photo  Crimson_Rosella                =  Crimson Rosella                                                                                 
-       url                            =  github://philiprbrenan/Birds/Crimson_Rosella.jpg                                                
-fact   Crimson_Rosella.0              =  Juveniles ripen in colour from green to red as they grow older                                 
-fact   Crimson_Rosella.1              =  Parrot found in eastern Australia and in New Zealand                                           
-       remark                         =  yes                                                                                             
-fact   Crimson_Rosella.2              =  Pairs guard their nesting tree by chattering at other Rosellas                                 
-fact   Crimson_Rosella.3              =  Nest is lined with shredded wood                                                               
-       remark                         =  yes                                                                                             
-fact   Crimson_Rosella.4              =  Nest is built high in one meter deep hollows in the trunks of trees                            
-       remark                         =  yes                                                                                             
-fact   Crimson_Rosella.5              =  Blue tail feathers are one of the favourite bower decorations of the Satin Bowerbird           
-fact   Crimson_Rosella.6              =  Females often destroy the eggs in other nests to liberate nesting sites                        
-       remark                         =  yes                                                                                             
+photo  Crimson_Rosella              =  Crimson Rosella                                               
+       url                          =  github://philiprbrenan/Birds/Crimson_Rosella.jpg              
        
-photo  Fisher's_Lovebird              =  Fischer's Lovebird                                                                              
-       url                            =  github://philiprbrenan/Birds/Fisher's_Lovebird.jpg                                              
-fact   Fisher's_Lovebird.0            =  Found around Lake Victoria in Tanzania, Africa                                                 
-fact   Fisher's_Lovebird.1            =  Low population due to capture for the pet trade; banned since 1992                             
-fact   Fisher's_Lovebird.2            =  Very vocal, noisy, active, intelligent and inquisitive                                         
-fact   Fisher's_Lovebird.3            =  Loves to chew things, to investigate its surroundings and to hide in awkward places            
-fact   Fisher's_Lovebird.4            =  Not known for its talking ability                                                              
-       remark                         =  yes                                                                                             
+photo  Fisher's_Lovebird            =  Fischer's Lovebird                                            
+       url                          =  github://philiprbrenan/Birds/Fisher's_Lovebird.jpg            
        
-photo  Golden-Mantled_Rosella_2       =  Golden-Mantled Rosella                                                                          
-       url                            =  github://philiprbrenan/Birds/Golden-Mantled_Rosella_2.jpg                                       
-fact   Golden-Mantled_Rosella_2.0     =  Named by George Shaw in 1792                                                                   
-       remark                         =  yes                                                                                             
+photo  Golden-Mantled_Rosella_2     =  Golden-Mantled Rosella                                        
+       url                          =  github://philiprbrenan/Birds/Golden-Mantled_Rosella_2.jpg     
        
-photo  Golden_Pheasant_1              =  Golden Pheasant                                                                                 
-       url                            =  github://philiprbrenan/Birds/Golden_Pheasant_1.jpg                                              
-fact   Golden_Pheasant_1.0            =  Lives in dense, dark young conifer forests with sparse undergrowth                             
-fact   Golden_Pheasant_1.1            =  While they can fly, they prefer to run                                                         
-       remark                         =  yes                                                                                             
-fact   Golden_Pheasant_1.2            =  If startled, they can suddenly burst upwards at great speed and with a distinctive wing sound  
-fact   Golden_Pheasant_1.3            =  The male has a metallic call in the breeding season                                            
-       remark                         =  yes                                                                                             
+photo  Golden_Pheasant_1            =  Golden Pheasant                                               
+       url                          =  github://philiprbrenan/Birds/Golden_Pheasant_1.jpg            
        
-photo  Golden_headed_Quetzal_1        =  Golden-headed Quetzal                                                                           
-       url                            =  github://philiprbrenan/Birds/Golden_headed_Quetzal_1.jpg                                        
-fact   Golden_headed_Quetzal_1.0      =  Lives in humid highland forests of South America                                               
-       remark                         =  yes                                                                                             
+photo  Golden_headed_Quetzal_1      =  Golden-headed Quetzal                                         
+       url                          =  github://philiprbrenan/Birds/Golden_headed_Quetzal_1.jpg      
        
-photo  Gouldian_Finch_1               =  Gouldian Finch                                                                                  
-       url                            =  github://philiprbrenan/Birds/Gouldian_Finch_1.jpg                                               
-fact   Gouldian_Finch_1.0             =  Male's chest is purple, female's is a lighter mauve                                            
-       remark                         =  yes                                                                                             
-fact   Gouldian_Finch_1.1             =  Young birds have phosphorescent beads to help their parents see them in the dark               
-fact   Gouldian_Finch_1.2             =  Used as the ViewSonic logo: three birds perched on a greenish branch                           
+photo  Gouldian_Finch_1             =  Gouldian Finch                                                
+       url                          =  github://philiprbrenan/Birds/Gouldian_Finch_1.jpg             
        
-photo  Greater_Bird-of-paradise_1     =  Greater Bird-of-paradise                                                                        
-       url                            =  github://philiprbrenan/Birds/Greater_Bird-of-paradise_1.jpg                                     
-fact   Greater_Bird-of-paradise_1.0   =  Lives in the forests of southwest New Guinea and Indonesia                                     
-       remark                         =  yes                                                                                             
+photo  Greater_Bird-of-paradise_1   =  Greater Bird-of-paradise                                      
+       url                          =  github://philiprbrenan/Birds/Greater_Bird-of-paradise_1.jpg   
        
-photo  Green-and-Gold_Tanager         =  Green-and-gold Tanager                                                                          
-       url                            =  github://philiprbrenan/Birds/Green-and-Gold_Tanager.jpg                                         
-fact   Green-and-Gold_Tanager.0       =  Lives in the forests and swamps of the western Amazon Basin                                    
-       remark                         =  yes                                                                                             
-fact   Green-and-Gold_Tanager.1       =  Frequently observed in the understory of tall mature forests                                   
-       remark                         =  yes                                                                                             
+photo  Green-and-Gold_Tanager       =  Green-and-gold Tanager                                        
+       url                          =  github://philiprbrenan/Birds/Green-and-Gold_Tanager.jpg       
        
-photo  Green-headed_tanager_2         =  Green-headed Tanager                                                                            
-       url                            =  github://philiprbrenan/Birds/Green-headed_tanager_2.jpg                                         
-fact   Green-headed_tanager_2.0       =  Lives in the Atlantic forests of south-eastern Brazil                                          
-       remark                         =  yes                                                                                             
-fact   Green-headed_tanager_2.1       =  Likes bird tables, where its active behavior makes it conspicuous                              
-       remark                         =  yes                                                                                             
+photo  Green-headed_tanager_2       =  Green-headed Tanager                                          
+       url                          =  github://philiprbrenan/Birds/Green-headed_tanager_2.jpg       
        
-photo  Green_Aracari                  =  Green Aracari                                                                                   
-       url                            =  github://philiprbrenan/Birds/Green_Aracari.jpg                                                  
-fact   Green_Aracari.0                =  One of the smaller members of the toucan family                                                
-fact   Green_Aracari.1                =  Males have black crowns, females are reddish-brown                                             
-       remark                         =  yes                                                                                             
-fact   Green_Aracari.2                =  The most frequently bred member of the toucan family                                           
+photo  Green_Aracari                =  Green Aracari                                                 
+       url                          =  github://philiprbrenan/Birds/Green_Aracari.jpg                
        
-photo  Green_Honeycreeper_2           =  Green Honeycreeper                                                                              
-       url                            =  github://philiprbrenan/Birds/Green_Honeycreeper_2.jpg                                           
-fact   Green_Honeycreeper_2.0         =  Found in the tropical New World from Mexico to Brazil                                          
-       remark                         =  yes                                                                                             
+photo  Green_Honeycreeper_2         =  Green Honeycreeper                                            
+       url                          =  github://philiprbrenan/Birds/Green_Honeycreeper_2.jpg         
        
-photo  Green_Jay_1                    =  Green Jay                                                                                       
-       url                            =  github://philiprbrenan/Birds/Green_Jay_1.jpg                                                    
-fact   Green_Jay_1.0                  =  Observed using sticks as tools to extract insects from tree bark                               
+photo  Green_Jay_1                  =  Green Jay                                                     
+       url                          =  github://philiprbrenan/Birds/Green_Jay_1.jpg                  
        
-photo  Hoopoe_1                       =  Hoopoe                                                                                          
-       url                            =  github://philiprbrenan/Birds/Hoopoe_1.jpg                                                       
-fact   Hoopoe_1.0                     =  The call is typically a trisyllabic oop-oop-oop, which gives rise to its name                  
-fact   Hoopoe_1.1                     =  Enjoys taking dust and sand baths                                                              
-       remark                         =  yes                                                                                             
-fact   Hoopoe_1.2                     =  Considered sacred in Ancient Egypt, beong depicted on the walls of tombs and temples           
+photo  Hoopoe_1                     =  Hoopoe                                                        
+       url                          =  github://philiprbrenan/Birds/Hoopoe_1.jpg                     
        
-photo  Hummingbird_2                  =  Costa's Hummingbird                                                                             
-       url                            =  github://philiprbrenan/Birds/Hummingbird_2.jpg                                                  
-fact   Hummingbird_2.0                =  Found in the south western deserts of the USA                                                  
-fact   Hummingbird_2.1                =  Males swoop and dive in sunlight to show off their purple plumage                              
-fact   Hummingbird_2.2                =  Builds a small cup-shaped nest out of plant fibers in pine trees and cacti                     
+photo  Hummingbird_2                =  Costa's Hummingbird                                           
+       url                          =  github://philiprbrenan/Birds/Hummingbird_2.jpg                
        
-photo  Jamaican_Tody_2                =  Jamaican Tody                                                                                   
-       url                            =  github://philiprbrenan/Birds/Jamaican_Tody_2.jpg                                                
-fact   Jamaican_Tody_2.0              =  Lives only in Jamaica                                                                          
-       remark                         =  yes                                                                                             
-fact   Jamaican_Tody_2.1              =  Nests in burrows dug in muddy banks or rotten wood                                             
-       remark                         =  yes                                                                                             
+photo  Jamaican_Tody_2              =  Jamaican Tody                                                 
+       url                          =  github://philiprbrenan/Birds/Jamaican_Tody_2.jpg              
        
-photo  Lesser_Striped_Swallow         =  Lesser Striped Swallow                                                                          
-       url                            =  github://philiprbrenan/Birds/Lesser_Striped_Swallow.jpg                                         
-fact   Lesser_Striped_Swallow.0       =  Often found around human habitations                                                           
-       remark                         =  yes                                                                                             
-fact   Lesser_Striped_Swallow.1       =  Builds a bowl-shaped mud nest with a tubular entrance on the underside of roofs                
+photo  Lesser_Striped_Swallow       =  Lesser Striped Swallow                                        
+       url                          =  github://philiprbrenan/Birds/Lesser_Striped_Swallow.jpg       
        
-photo  Narrow_billed_tody             =  Narrow-billed Tody                                                                              
-       url                            =  github://philiprbrenan/Birds/Narrow_billed_tody.jpg                                             
-fact   Narrow_billed_tody.0           =  Lives in moist montane forests in the Dominican Republic and Haiti                             
-       remark                         =  yes                                                                                             
+photo  Narrow_billed_tody           =  Narrow-billed Tody                                            
+       url                          =  github://philiprbrenan/Birds/Narrow_billed_tody.jpg           
        
-photo  Northern_Cardinal_1            =  Northern Cardinal                                                                               
-       url                            =  github://philiprbrenan/Birds/Northern_Cardinal_1.jpg                                            
-fact   Northern_Cardinal_1.0          =  Also known as the red bird or common cardinal                                                  
-fact   Northern_Cardinal_1.1          =  Protected since 1918 in the USA which bans their sale as cage birds                            
+photo  Northern_Cardinal_1          =  Northern Cardinal                                             
+       url                          =  github://philiprbrenan/Birds/Northern_Cardinal_1.jpg          
        
-photo  Oriental_Dwarf_Kingfisher      =  Oriental Dwarf Kingfisher                                                                       
-       url                            =  github://philiprbrenan/Birds/Oriental_Dwarf_Kingfisher.jpg                                      
-fact   Oriental_Dwarf_Kingfisher.0    =  Also known as the Black-backed Kingfisher or Three-toed Kingfisher                             
-fact   Oriental_Dwarf_Kingfisher.1    =  Preferred habitat is small streams in densely shaded forests                                   
-       remark                         =  yes                                                                                             
-fact   Oriental_Dwarf_Kingfisher.2    =  Nests in a horizontal tunnel up to a metre long                                                
-       remark                         =  yes                                                                                             
+photo  Oriental_Dwarf_Kingfisher    =  Oriental Dwarf Kingfisher                                     
+       url                          =  github://philiprbrenan/Birds/Oriental_Dwarf_Kingfisher.jpg    
        
-photo  Painted_Bunting_2              =  Painted Bunting                                                                                 
-       url                            =  github://philiprbrenan/Birds/Painted_Bunting_2.jpg                                              
-fact   Painted_Bunting_2.0            =  Often described as the most beautiful bird in North America                                    
-fact   Painted_Bunting_2.1            =  Shy, secretive and often difficult to observe                                                  
-       remark                         =  yes                                                                                             
+photo  Painted_Bunting_2            =  Painted Bunting                                               
+       url                          =  github://philiprbrenan/Birds/Painted_Bunting_2.jpg            
        
-photo  PallasRosefinch                =  Pallas Rosefinch                                                                                
-       url                            =  github://philiprbrenan/Birds/PallasRosefinch.jpg                                                
-fact   PallasRosefinch.0              =  Lives forests and shrub land in East Asia                                                      
-       remark                         =  yes                                                                                             
+photo  PallasRosefinch              =  Pallas Rosefinch                                              
+       url                          =  github://philiprbrenan/Birds/PallasRosefinch.jpg              
        
-photo  Peafowl_4                      =  Peafowl                                                                                         
-       url                            =  github://philiprbrenan/Birds/Peafowl_4.jpg                                                      
-fact   Peafowl_4.0                    =  National bird of India                                                                         
-fact   Peafowl_4.1                    =  Sometimes a symbol of pride or vanity                                                          
+photo  Peafowl_4                    =  Peafowl                                                       
+       url                          =  github://philiprbrenan/Birds/Peafowl_4.jpg                    
        
-photo  Plush-crested_Jay_2            =  Plush-crested Jay                                                                               
-       url                            =  github://philiprbrenan/Birds/Plush-crested_Jay_2.jpg                                            
-fact   Plush-crested_Jay_2.0          =  Highly active and social foragers                                                              
-       remark                         =  yes                                                                                             
-fact   Plush-crested_Jay_2.1          =  Has a very loud and arresting call                                                             
-       remark                         =  yes                                                                                             
+photo  Plush-crested_Jay_2          =  Plush-crested Jay                                             
+       url                          =  github://philiprbrenan/Birds/Plush-crested_Jay_2.jpg          
        
-photo  Puerto_Rican_Tody              =  Puerto Rican Tody                                                                               
-       url                            =  github://philiprbrenan/Birds/Puerto_Rican_Tody.jpg                                              
-fact   Puerto_Rican_Tody.0            =  Also known as San Pedrito or Little Saint Peter                                                
-fact   Puerto_Rican_Tody.1            =  Nests on the faces of steep hillsides                                                          
-       remark                         =  yes                                                                                             
-fact   Puerto_Rican_Tody.2            =  Can lower its body temperature by 14 degrees centigrade                                        
+photo  Puerto_Rican_Tody            =  Puerto Rican Tody                                             
+       url                          =  github://philiprbrenan/Birds/Puerto_Rican_Tody.jpg            
        
-photo  Rainbow_Lorikeet_4             =  Rainbow Lorikeet                                                                                
-       url                            =  github://philiprbrenan/Birds/Rainbow_Lorikeet_4.jpg                                             
-fact   Rainbow_Lorikeet_4.0           =  Juveniles have a black beak which gradually brightens to orange in the adults                  
-       remark                         =  yes                                                                                             
-fact   Rainbow_Lorikeet_4.1           =  Defends food and nesting areas aggressively                                                    
-       remark                         =  yes                                                                                             
-fact   Rainbow_Lorikeet_4.2           =  Feeds mainly on fruit, pollen and nectar                                                       
-       remark                         =  yes                                                                                             
+photo  Rainbow_Lorikeet_4           =  Rainbow Lorikeet                                              
+       url                          =  github://philiprbrenan/Birds/Rainbow_Lorikeet_4.jpg           
        
-photo  Red-fan_Parrot                 =  Red-fan Parrot                                                                                  
-       url                            =  github://philiprbrenan/Birds/Red-fan_Parrot.jpg                                                 
-fact   Red-fan_Parrot.0               =  Lives in the Amazon Rainforest                                                                 
-       remark                         =  yes                                                                                             
-fact   Red-fan_Parrot.1               =  Possesses elongated neck feathers that can be raised to form an elaborate fan                  
+photo  Red-fan_Parrot               =  Red-fan Parrot                                                
+       url                          =  github://philiprbrenan/Birds/Red-fan_Parrot.jpg               
        
-photo  Red-headed_Trogon              =  Red-headed Trogon                                                                               
-       url                            =  github://philiprbrenan/Birds/Red-headed_Trogon.jpg                                              
-fact   Red-headed_Trogon.0            =  Lives in the tropical moist forests of South East Asia                                         
-       remark                         =  yes                                                                                             
-fact   Red-headed_Trogon.1            =  Considered to be "among the most beautiful of birds"                                           
-       remark                         =  yes                                                                                             
+photo  Red-headed_Trogon            =  Red-headed Trogon                                             
+       url                          =  github://philiprbrenan/Birds/Red-headed_Trogon.jpg            
        
-photo  Red_Lory_1                     =  Red Lory                                                                                        
-       url                            =  github://philiprbrenan/Birds/Red_Lory_1.jpg                                                     
-fact   Red_Lory_1.0                   =  Has a brush tongue with papillae at the tips to feed on pollen and nectar                      
-       remark                         =  yes                                                                                             
-fact   Red_Lory_1.1                   =  Lives in Indonesia and Australia                                                               
-       remark                         =  yes                                                                                             
-fact   Red_Lory_1.2                   =  Often described as flamboyant, theatrical, pugnacious birds                                    
-       remark                         =  yes                                                                                             
-fact   Red_Lory_1.3                   =  The heroine of the southern Gothic novel Red Lory is a bird named Hannah                       
+photo  Red_Lory_1                   =  Red Lory                                                      
+       url                          =  github://philiprbrenan/Birds/Red_Lory_1.jpg                   
        
-photo  Resplendent_Quetzal            =  Resplendent Quetzal                                                                             
-       url                            =  github://philiprbrenan/Birds/Resplendent_Quetzal.jpg                                            
-fact   Resplendent_Quetzal.0          =  Guatemala's national bird                                                                      
-fact   Resplendent_Quetzal.1          =  Guatemalan currency was named after this bird                                                  
-fact   Resplendent_Quetzal.2          =  Sounds like a whimpering pup                                                                   
+photo  Resplendent_Quetzal          =  Resplendent Quetzal                                           
+       url                          =  github://philiprbrenan/Birds/Resplendent_Quetzal.jpg          
        
-photo  Scarlet_Macaw_3                =  Scarlet Macaw                                                                                   
-       url                            =  github://philiprbrenan/Birds/Scarlet_Macaw_3.jpg                                                
-fact   Scarlet_Macaw_3.0              =  Lives in the humid evergreen forests of tropical South America                                 
-       remark                         =  yes                                                                                             
-fact   Scarlet_Macaw_3.1              =  The national bird of Honduras                                                                  
-fact   Scarlet_Macaw_3.2              =  Eats fruits, nuts and large, hard seeds                                                        
-       remark                         =  yes                                                                                             
+photo  Scarlet_Macaw_3              =  Scarlet Macaw                                                 
+       url                          =  github://philiprbrenan/Birds/Scarlet_Macaw_3.jpg              
        
-photo  Southern_Red_Bishop_1          =  Southern Red Bishop                                                                             
-       url                            =  github://philiprbrenan/Birds/Southern_Red_Bishop_1.jpg                                          
-fact   Southern_Red_Bishop_1.0        =  Found near water among grass, reeds, sedges or crops such as sugar cane                        
-       remark                         =  yes                                                                                             
-fact   Southern_Red_Bishop_1.1        =  Lives in Africa, south of the equator                                                          
-       remark                         =  yes                                                                                             
-fact   Southern_Red_Bishop_1.2        =  The male weaves several nests out of grass to attract females                                  
-       remark                         =  yes                                                                                             
+photo  Southern_Red_Bishop_1        =  Southern Red Bishop                                           
+       url                          =  github://philiprbrenan/Birds/Southern_Red_Bishop_1.jpg        
        
-photo  Vestiaria_coccinea             =  Iiwi                                                                                            
-       url                            =  github://philiprbrenan/Birds/Vestiaria_coccinea.jpg                                             
-fact   Vestiaria_coccinea.0           =  A symbol of Hawaii                                                                             
-fact   Vestiaria_coccinea.1           =  Third most common native land bird in the Hawaiian Islands                                     
+photo  Vestiaria_coccinea           =  Iiwi                                                          
+       url                          =  github://philiprbrenan/Birds/Vestiaria_coccinea.jpg           
        
-photo  Violaceous_Euphonia_1          =  Violaceous Euphonia                                                                             
-       url                            =  github://philiprbrenan/Birds/Violaceous_Euphonia_1.jpg                                          
-fact   Violaceous_Euphonia_1.0        =  Lives in plantations of cocoa and citrus fruit in South America                                
-       remark                         =  yes                                                                                             
-fact   Violaceous_Euphonia_1.1        =  Eats small fruits                                                                              
-       remark                         =  yes                                                                                             
+photo  Violaceous_Euphonia_1        =  Violaceous Euphonia                                           
+       url                          =  github://philiprbrenan/Birds/Violaceous_Euphonia_1.jpg        
        
-photo  Western_Tanager                =  Western Tanager                                                                                 
-       url                            =  github://philiprbrenan/Birds/Western_Tanager.jpg                                                
-fact   Western_Tanager.0              =  They build a flimsy cup nest on a horizontal tree branch, usually in a conifer                 
-       remark                         =  yes                                                                                             
-fact   Western_Tanager.1              =  Lives in coniferous or mixed woods across western North America                                
-       remark                         =  yes                                                                                             
+photo  Western_Tanager              =  Western Tanager                                               
+       url                          =  github://philiprbrenan/Birds/Western_Tanager.jpg              
        
-photo  White-throated_Kingfisher_1    =  White-throated Kingfisher                                                                       
-       url                            =  github://philiprbrenan/Birds/White-throated_Kingfisher_1.jpg                                    
-fact   White-throated_Kingfisher_1.0  =  Often found surprisingly far from water                                                        
-       remark                         =  yes                                                                                             
-fact   White-throated_Kingfisher_1.1  =  Eats small reptiles, amphibians, crabs, small rodents and even birds                           
-       remark                         =  yes                                                                                             
-fact   White-throated_Kingfisher_1.2  =  In the breeding season they call loudly from prominent perches such as the tops of buildings   
-       remark                         =  yes                                                                                             
-fact   White-throated_Kingfisher_1.3  =  Hunted in the 1800s for their bright feathers that were used to adorn hats                     
-       remark                         =  yes                                                                                             
+photo  White-throated_Kingfisher_1  =  White-throated Kingfisher                                     
+       url                          =  github://philiprbrenan/Birds/White-throated_Kingfisher_1.jpg  
        
-photo  Wilson's_Bird_of_Paradise      =  Wilson's Bird-of-paradise                                                                       
-       url                            =  github://philiprbrenan/Birds/Wilson's_Bird_of_Paradise.jpg                                      
-fact   Wilson's_Bird_of_Paradise.0    =  The blue bare skin on the crown is so vivid that it is clearly visible at night                
-fact   Wilson's_Bird_of_Paradise.1    =  First filmed in 1996 by David Attenborough for the BBC documentary Attenborough in Paradise    
+photo  Wilson's_Bird_of_Paradise    =  Wilson's Bird-of-paradise                                     
+       url                          =  github://philiprbrenan/Birds/Wilson's_Bird_of_Paradise.jpg    
        
-photo  Woodland_Kingfisher_3          =  Woodland Kingfisher                                                                             
-       url                            =  github://philiprbrenan/Birds/Woodland_Kingfisher_3.jpg                                          
-fact   Woodland_Kingfisher_3.0        =  Lives in a variety of wooded habitats especially amongst Acacia Trees                          
-       remark                         =  yes                                                                                             
-fact   Woodland_Kingfisher_3.1        =  Attacks intruders including humans                                                             
-       remark                         =  yes                                                                                             
-fact   Woodland_Kingfisher_3.2        =  Nests in tree holes excavated by a woodpeckers or barbets                                      
-       remark                         =  yes                                                                                             
-fact   Woodland_Kingfisher_3.3        =  Hunts from an exposed perch, often a dead branch of a tree                                     
-       remark                         =  yes                                                                                             
-fact   Woodland_Kingfisher_3.4        =  Song is a loud trill sounding like a nail run down the teeth of a comb                         
-       remark                         =  yes                                                                                             
+photo  Woodland_Kingfisher_3        =  Woodland Kingfisher                                           
+       url                          =  github://philiprbrenan/Birds/Woodland_Kingfisher_3.jpg        
        
-photo  Yellow-crowned_Gonolek         =  Yellow-crowned Gonolek                                                                          
-       url                            =  github://philiprbrenan/Birds/Yellow-crowned_Gonolek.jpg                                         
-fact   Yellow-crowned_Gonolek.0       =  Common in equatorial Africa from Senegal to Ethiopia                                           
-       remark                         =  yes                                                                                             
-fact   Yellow-crowned_Gonolek.1       =  Can sometimes be seen on watered hotel lawns                                                   
-       remark                         =  yes                                                                                             
+photo  Yellow-crowned_Gonolek       =  Yellow-crowned Gonolek                                        
+       url                          =  github://philiprbrenan/Birds/Yellow-crowned_Gonolek.jpg       
        
-photo  Yellow-headed_Amazon_2         =  Yellow-headed Amazon                                                                            
-       url                            =  github://philiprbrenan/Birds/Yellow-headed_Amazon_2.jpg                                         
-fact   Yellow-headed_Amazon_2.0       =  Often flies silently unlike many other parrots                                                 
-       remark                         =  yes                                                                                             
-fact   Yellow-headed_Amazon_2.1       =  Young birds make a "clucking" sound to show that they are hungry                               
-       remark                         =  yes                                                                                             
+photo  Yellow-headed_Amazon_2       =  Yellow-headed Amazon                                          
+       url                          =  github://philiprbrenan/Birds/Yellow-headed_Amazon_2.jpg       
