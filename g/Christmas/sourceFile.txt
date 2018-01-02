@@ -1,0 +1,867 @@
+app g.Christmas   = Christmas
+  description  = Learn about Christmas in English
+  icon         = Advent Candle.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Advent Calendar                   =  Advent Calendar                                                                         
+       url                               =  github://philiprbrenan/Christmas/Advent Calendar.jpg                                    
+fact   Advent Calendar.0                 =  Special calendar used to count the days leading up to Christmas Day                    
+       remark                            =  yes                                                                                     
+fact   Advent Calendar.1                 =  Most start on December 1st and have 24 windows to open, one on each day                
+       remark                            =  yes                                                                                     
+fact   Advent Calendar.2                 =  Each window opens to reveal an image, a poem, or small gift such as chocolate          
+       remark                            =  yes                                                                                     
+fact   Advent Calendar.3                 =  Home-made calendars are popular                                                        
+       remark                            =  yes                                                                                     
+fact   Advent Calendar.4                 =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Advent Candle                     =  Advent Candle                                                                           
+       url                               =  github://philiprbrenan/Christmas/Advent Candle.jpg                                      
+fact   Advent Candle.0                   =  Prior to Christmas, a candle is burnt a set amount to represent each day               
+       remark                            =  yes                                                                                     
+fact   Advent Candle.1                   =  The candle is marked with the days of December up to Christmas Eve                     
+       remark                            =  yes                                                                                     
+fact   Advent Candle.2                   =  Usually burned at the family evening meal each day                                     
+       remark                            =  yes                                                                                     
+fact   Advent Candle.3                   =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Artificial Christmas Tree         =  Artificial Christmas Tree                                                               
+       url                               =  github://philiprbrenan/Christmas/Artificial Christmas Tree.jpg                          
+fact   Artificial Christmas Tree.0       =  Aluminium Christmas trees first appeared in the 1960s                                  
+       remark                            =  yes                                                                                     
+fact   Artificial Christmas Tree.1       =  Today, most artificial trees are made of plastic such as recycled PVC                  
+       remark                            =  yes                                                                                     
+fact   Artificial Christmas Tree.2       =  Plastic trees often look like the real thing, and do not drop needles                  
+       remark                            =  yes                                                                                     
+fact   Artificial Christmas Tree.3       =  Popular because they can be used year after year, and are not a fire hazard            
+       remark                            =  yes                                                                                     
+fact   Artificial Christmas Tree.4       =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Bauble                            =  Bauble                                                                                  
+       url                               =  github://philiprbrenan/Christmas/Bauble.jpg                                             
+fact   Bauble.0                          =  Popular decoration on Christmas trees                                                  
+       remark                            =  yes                                                                                     
+fact   Bauble.1                          =  First produced in 1847 in Lauscha, Germany                                             
+       remark                            =  yes                                                                                     
+fact   Bauble.2                          =  Originally made of blown glass, but today many are made of plastic                     
+       remark                            =  yes                                                                                     
+fact   Bauble.3                          =  Available in a huge variety of shapes, colours and designs                             
+       remark                            =  yes                                                                                     
+fact   Bauble.4                          =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Candlelit Church Service          =  Candlelit Church Service                                                                
+       url                               =  github://philiprbrenan/Christmas/Candlelit Church Service.jpg                           
+fact   Candlelit Church Service.0        =  Many churches hold a candlelit service during the Christmas period                     
+       remark                            =  yes                                                                                     
+fact   Candlelit Church Service.1        =  The evening of Christmas Eve is a popular time for a candlelit service                 
+       remark                            =  yes                                                                                     
+fact   Candlelit Church Service.2        =  Usually accompanied by Christmas carols                                                
+       remark                            =  yes                                                                                     
+fact   Candlelit Church Service.3        =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Candy Canes                       =  Candy Canes                                                                             
+       url                               =  github://philiprbrenan/Christmas/Candy Canes.jpg                                        
+fact   Candy Canes.0                     =  Cane-shaped candy stick associated with Christmas                                      
+       remark                            =  yes                                                                                     
+fact   Candy Canes.1                     =  Traditionally white with red stripes and flavoured with peppermint                     
+       remark                            =  yes                                                                                     
+fact   Candy Canes.2                     =  Often hung from the branches of Christmas trees                                        
+       remark                            =  yes                                                                                     
+fact   Candy Canes.3                     =  Popular from the mid 1800s onwards                                                     
+       remark                            =  yes                                                                                     
+fact   Candy Canes.4                     =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Chocolate Gold Coins              =  Chocolate Gold Coins                                                                    
+       url                               =  github://philiprbrenan/Christmas/Chocolate Gold Coins.jpg                               
+fact   Chocolate Gold Coins.0            =  Popular Christmas present often tucked inside a Christmas stocking                     
+       remark                            =  yes                                                                                     
+fact   Chocolate Gold Coins.1            =  Milk chocolate coins wrapped in gold foil                                              
+       remark                            =  yes                                                                                     
+fact   Chocolate Gold Coins.2            =  Often sold in mesh pouches resembling money bags                                       
+       remark                            =  yes                                                                                     
+fact   Chocolate Gold Coins.3            =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Chocolate Liqueurs                =  Chocolate Liqueurs                                                                      
+       url                               =  github://philiprbrenan/Christmas/Chocolate Liqueurs.jpg                                 
+fact   Chocolate Liqueurs.0              =  Chocolates containing distilled alcohol                                                
+       remark                            =  yes                                                                                     
+fact   Chocolate Liqueurs.1              =  Flavoured with fruit, cream, herbs, flowers or nuts                                    
+       remark                            =  yes                                                                                     
+fact   Chocolate Liqueurs.2              =  Boxes of chocolates with different flavours are popular at Christmas                   
+       remark                            =  yes                                                                                     
+fact   Chocolate Liqueurs.3              =  Cherry liqueurs often contain a whole cherry soaked in alcohol                         
+       remark                            =  yes                                                                                     
+fact   Chocolate Liqueurs.4              =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Chocolate Santa Claus             =  Chocolate Santa Claus                                                                   
+       url                               =  github://philiprbrenan/Christmas/Chocolate Santa Claus.jpg                              
+fact   Chocolate Santa Claus.0           =  Popular Christmas present often tucked inside a Christmas stocking                     
+       remark                            =  yes                                                                                     
+fact   Chocolate Santa Claus.1           =  Milk chocolate figure wrapped in coloured foil                                         
+       remark                            =  yes                                                                                     
+fact   Chocolate Santa Claus.2           =  Usually made of milk chocolate and hollow inside                                       
+       remark                            =  yes                                                                                     
+fact   Chocolate Santa Claus.3           =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Chocolate Yule Log                =  Chocolate Yule Log                                                                      
+       url                               =  github://philiprbrenan/Christmas/Chocolate Yule Log.jpg                                 
+fact   Chocolate Yule Log.0              =  Chocolate cake eaten at Christmas                                                      
+       remark                            =  yes                                                                                     
+fact   Chocolate Yule Log.1              =  Made with a roll of sponge cake, filled and covered with chocolate buttercream         
+       remark                            =  yes                                                                                     
+fact   Chocolate Yule Log.2              =  Recreates the Yule log which is a large log burned in the hearth at Christmas          
+       remark                            =  yes                                                                                     
+fact   Chocolate Yule Log.3              =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christingle                       =  Christingle                                                                             
+       url                               =  github://philiprbrenan/Christmas/Christingle.jpg                                        
+fact   Christingle.0                     =  A symbolic object used in church services in the month before Christmas                
+       remark                            =  yes                                                                                     
+fact   Christingle.1                     =  An orange represents the world and a red ribbon represents the blood of Christ         
+       remark                            =  yes                                                                                     
+fact   Christingle.2                     =  Dried fruits or sweets represent the fruits of the earth and the four seasons          
+       remark                            =  yes                                                                                     
+fact   Christingle.3                     =  A lit candle represents Jesus Christ as the light of the world                         
+       remark                            =  yes                                                                                     
+fact   Christingle.4                     =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Cactus                  =  Christmas Cactus                                                                        
+       url                               =  github://philiprbrenan/Christmas/Christmas Cactus.jpg                                   
+fact   Christmas Cactus.0                =  A member of the cactus family from Brazil                                              
+       remark                            =  yes                                                                                     
+fact   Christmas Cactus.1                =  In Europe, plants are grown for sale before Christmas                                  
+       remark                            =  yes                                                                                     
+fact   Christmas Cactus.2                =  Produces a profusion of flowers around Christmas time                                  
+       remark                            =  yes                                                                                     
+fact   Christmas Cactus.3                =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Cake                    =  Christmas Cake                                                                          
+       url                               =  github://philiprbrenan/Christmas/Christmas Cake.jpg                                     
+fact   Christmas Cake.0                  =  A type of fruit cake popular at Christmas                                              
+       remark                            =  yes                                                                                     
+fact   Christmas Cake.1                  =  Often covered in marzipan and icing                                                    
+       remark                            =  yes                                                                                     
+fact   Christmas Cake.2                  =  Decorated with ribbons and Christmas ornaments                                         
+       remark                            =  yes                                                                                     
+fact   Christmas Cake.3                  =  Traditionally made with a small treat baked inside, such as a silver coin              
+       remark                            =  yes                                                                                     
+fact   Christmas Cake.4                  =  "Whisky Dundee" is a Scottish Christmas cake made with Scotch whisky                   
+       remark                            =  yes                                                                                     
+fact   Christmas Cake.5                  =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Candle                  =  Christmas Candle                                                                        
+       url                               =  github://philiprbrenan/Christmas/Christmas Candle.jpg                                   
+fact   Christmas Candle.0                =  First used to decorate Christmas trees in 18th century Germany                         
+       remark                            =  yes                                                                                     
+fact   Christmas Candle.1                =  Candles were expensive and only used in upper-class German homes                       
+       remark                            =  yes                                                                                     
+fact   Christmas Candle.2                =  Electrical Christmas lights began to replace candles from the 1880s onwards            
+       remark                            =  yes                                                                                     
+fact   Christmas Candle.3                =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Cards                   =  Christmas Cards                                                                         
+       url                               =  github://philiprbrenan/Christmas/Christmas Cards.jpg                                    
+fact   Christmas Cards.0                 =  Greeting card sent during the weeks leading up to Christmas Day                        
+       remark                            =  yes                                                                                     
+fact   Christmas Cards.1                 =  Traditionally reads "wishing you a Merry Christmas and a Happy New Year"               
+       remark                            =  yes                                                                                     
+fact   Christmas Cards.2                 =  First commercially produced card was in London, UK in 1843                             
+       remark                            =  yes                                                                                     
+fact   Christmas Cards.3                 =  Many charities sell their own Christmas cards to raise funds                           
+       remark                            =  yes                                                                                     
+fact   Christmas Cards.4                 =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Carol                   =  Christmas Carol                                                                         
+       url                               =  github://philiprbrenan/Christmas/Christmas Carol.jpg                                    
+fact   Christmas Carol.0                 =  A song whose lyrics are on the theme of Christmas or the winter season                 
+       remark                            =  yes                                                                                     
+fact   Christmas Carol.1                 =  Traditionally sung in the period before Christmas                                      
+       remark                            =  yes                                                                                     
+fact   Christmas Carol.2                 =  Performed by singers in small groups through to large organised carol concerts         
+       remark                            =  yes                                                                                     
+fact   Christmas Carol.3                 =  "Good King Wenceslas" dates back to the Middle Ages"                                   
+       remark                            =  yes                                                                                     
+fact   Christmas Carol.4                 =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Market                  =  Christmas Market                                                                        
+       url                               =  github://philiprbrenan/Christmas/Christmas Market.jpg                                   
+fact   Christmas Market.0                =  A street market held during the month before Christmas                                 
+       remark                            =  yes                                                                                     
+fact   Christmas Market.1                =  Originated in Germany and Austria but are now held in many other countries             
+       remark                            =  yes                                                                                     
+fact   Christmas Market.2                =  Open-air stalls sell food, drink and seasonal items                                    
+       remark                            =  yes                                                                                     
+fact   Christmas Market.3                =  Traditional singing and dancing                                                        
+       remark                            =  yes                                                                                     
+fact   Christmas Market.4                =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Music                   =  Christmas Music                                                                         
+       url                               =  github://philiprbrenan/Christmas/Christmas Music.jpg                                    
+fact   Christmas Music.0                 =  Performed during the Christmas season                                                  
+       remark                            =  yes                                                                                     
+fact   Christmas Music.1                 =  Includes classical music, Christmas carols and popular songs                           
+       remark                            =  yes                                                                                     
+fact   Christmas Music.2                 =  Musicians often play in shopping malls (small groups to full brass bands)              
+       remark                            =  yes                                                                                     
+fact   Christmas Music.3                 =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Pudding                 =  Christmas Pudding                                                                       
+       url                               =  github://philiprbrenan/Christmas/Christmas Pudding.jpg                                  
+fact   Christmas Pudding.0               =  Traditionally made with a small treat baked inside, such as a silver coin              
+       remark                            =  yes                                                                                     
+fact   Christmas Pudding.1               =  Heavy steamed pudding made with dried fruit, suet, spices and black treacle            
+       remark                            =  yes                                                                                     
+fact   Christmas Pudding.2               =  Best cooked slowly and then served with brandy butter                                  
+       remark                            =  yes                                                                                     
+fact   Christmas Pudding.3               =  Also known as "Plum Pudding"                                                           
+       remark                            =  yes                                                                                     
+fact   Christmas Pudding.4               =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Stamps                  =  Christmas Stamps                                                                        
+       url                               =  github://philiprbrenan/Christmas/Christmas Stamps.jpg                                   
+fact   Christmas Stamps.0                =  Many countries produce official Christmas stamps                                       
+       remark                            =  yes                                                                                     
+fact   Christmas Stamps.1                =  Generally depict some aspect of Christmas tradition or a Nativity scene                
+       remark                            =  yes                                                                                     
+fact   Christmas Stamps.2                =  Usually go on sale between early October and early December                            
+       remark                            =  yes                                                                                     
+fact   Christmas Stamps.3                =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Stockings               =  Christmas Stockings                                                                     
+       url                               =  github://philiprbrenan/Christmas/Christmas Stockings.jpg                                
+fact   Christmas Stockings.0             =  Hung by the fireplace waiting to be filled with gifts on Christmas Eve                 
+       remark                            =  yes                                                                                     
+fact   Christmas Stockings.1             =  Santa Claus comes down the chimney with his stocking gifts                             
+       remark                            =  yes                                                                                     
+fact   Christmas Stockings.2             =  Children often leave food and drink nearby for Santa and his reindeer                  
+       remark                            =  yes                                                                                     
+fact   Christmas Stockings.3             =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Tree                    =  Christmas Tree                                                                          
+       url                               =  github://philiprbrenan/Christmas/Christmas Tree.jpg                                     
+fact   Christmas Tree.0                  =  An evergreen conifer such as a pine or fir is used to celebrate Christmas              
+       remark                            =  yes                                                                                     
+fact   Christmas Tree.1                  =  Decorated with tinsel, fairy lights, ornaments, ribbon, baubles and sweets             
+       remark                            =  yes                                                                                     
+fact   Christmas Tree.2                  =  An angel, fairy or star is placed at the top of the tree                               
+       remark                            =  yes                                                                                     
+fact   Christmas Tree.3                  =  Popular in Europe from the mid 1800s onwards                                           
+       remark                            =  yes                                                                                     
+fact   Christmas Tree.4                  =  Each year, 36 million trees are produced in America, and 60 million in Europe          
+       remark                            =  yes                                                                                     
+fact   Christmas Tree.5                  =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Tree Decoration         =  Christmas Tree Decoration                                                               
+       url                               =  github://philiprbrenan/Christmas/Christmas Tree Decoration.jpg                          
+fact   Christmas Tree Decoration.0       =  Animals, snowmen, angels, snowflakes and Santa Claus are popular                       
+       remark                            =  yes                                                                                     
+fact   Christmas Tree Decoration.1       =  Often reused year after year, and may include home-made creations                      
+       remark                            =  yes                                                                                     
+fact   Christmas Tree Decoration.2       =  Family decorations often passed on from generation to generation                       
+       remark                            =  yes                                                                                     
+fact   Christmas Tree Decoration.3       =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Tree Fairy              =  Christmas Tree Fairy                                                                    
+       url                               =  github://philiprbrenan/Christmas/Christmas Tree Fairy.jpg                               
+fact   Christmas Tree Fairy.0            =  Placed at the top of the Christmas tree                                                
+       remark                            =  yes                                                                                     
+fact   Christmas Tree Fairy.1            =  Other popular "tree-toppers" are angels and large stars                                
+       remark                            =  yes                                                                                     
+fact   Christmas Tree Fairy.2            =  Often electrified and glows from within                                                
+       remark                            =  yes                                                                                     
+fact   Christmas Tree Fairy.3            =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christmas Truce                   =  Christmas Truce                                                                         
+       url                               =  github://philiprbrenan/Christmas/Christmas Truce.jpg                                    
+fact   Christmas Truce.0                 =  Unofficial ceasefires along the Western Front (WW1) at Christmas 1914                  
+       remark                            =  yes                                                                                     
+fact   Christmas Truce.1                 =  German and British soldiers exchanged seasonal greetings and songs                     
+       remark                            =  yes                                                                                     
+fact   Christmas Truce.2                 =  On Christmas Eve and Christmas Day, soldiers ventured into "no man's land"             
+       remark                            =  yes                                                                                     
+fact   Christmas Truce.3                 =  Some troops from both sides played games of football with one another                  
+       remark                            =  yes                                                                                     
+fact   Christmas Truce.4                 =  Seen as a symbolic moment of peace amid the horrors of trench warfare                  
+       remark                            =  yes                                                                                     
+fact   Christmas Truce.5                 =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Christstollen                     =  Christstollen                                                                           
+       url                               =  github://philiprbrenan/Christmas/Christstollen.jpg                                      
+fact   Christstollen.0                   =  Traditional German fruit cake, usually eaten during the Christmas season               
+       remark                            =  yes                                                                                     
+fact   Christstollen.1                   =  Contains dried fruit, nuts and spices such as cinnamon                                 
+       remark                            =  yes                                                                                     
+fact   Christstollen.2                   =  Sprinkled with icing sugar and often has a core of marzipan                            
+       remark                            =  yes                                                                                     
+fact   Christstollen.3                   =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Cookies                           =  Cookies                                                                                 
+       url                               =  github://philiprbrenan/Christmas/Cookies.jpg                                            
+fact   Cookies.0                         =  Sugared biscuits and cookies made at Christmas                                         
+       remark                            =  yes                                                                                     
+fact   Cookies.1                         =  Often cut into Christmas shapes such as stars and snowmen                              
+       remark                            =  yes                                                                                     
+fact   Cookies.2                         =  Many contain dried fruit, nuts and spices such as cinnamon and ginger                  
+       remark                            =  yes                                                                                     
+fact   Cookies.3                         =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Crackers                          =  Crackers                                                                                
+       url                               =  github://philiprbrenan/Christmas/Crackers.jpg                                           
+fact   Crackers.0                        =  A cardboard tube is wrapped in brightly decorated paper                                
+       remark                            =  yes                                                                                     
+fact   Crackers.1                        =  Pulled apart by two people, one at either end                                          
+       remark                            =  yes                                                                                     
+fact   Crackers.2                        =  Makes a loud bang as it breaks in two and the contents fall out                        
+       remark                            =  yes                                                                                     
+fact   Crackers.3                        =  Contains a coloured paper hat, a small toy and a joke on a strip of paper              
+       remark                            =  yes                                                                                     
+fact   Crackers.4                        =  Crackers are typically pulled at the Christmas dinner table or at parties              
+       remark                            =  yes                                                                                     
+fact   Crackers.5                        =  Invented in London, UK in 1847                                                         
+       remark                            =  yes                                                                                     
+fact   Crackers.6                        =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Cranberry Sauce                   =  Cranberry Sauce                                                                         
+       url                               =  github://philiprbrenan/Christmas/Cranberry Sauce.jpg                                    
+fact   Cranberry Sauce.0                 =  Sauce made of cranberries boiled with sugar                                            
+       remark                            =  yes                                                                                     
+fact   Cranberry Sauce.1                 =  Usually served with savoury dishes                                                     
+       remark                            =  yes                                                                                     
+fact   Cranberry Sauce.2                 =  Popular accompaniment to Christmas dinner                                              
+       remark                            =  yes                                                                                     
+fact   Cranberry Sauce.3                 =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Department Store Decorations      =  Department Store Decorations                                                            
+       url                               =  github://philiprbrenan/Christmas/Department Store Decorations.jpg                       
+fact   Department Store Decorations.0    =  Christmas displays including lights and trees are popular outside large shops          
+       remark                            =  yes                                                                                     
+fact   Department Store Decorations.1    =  Department stores in Oxford Street, London are famous for their displays               
+       remark                            =  yes                                                                                     
+fact   Department Store Decorations.2    =  Colourful themed window displays celebrate Christmas                                   
+       remark                            =  yes                                                                                     
+fact   Department Store Decorations.3    =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Eggnog                            =  Eggnog                                                                                  
+       url                               =  github://philiprbrenan/Christmas/Eggnog.jpg                                             
+fact   Eggnog.0                          =  Popular drink at Christmas made with raw eggs and cream                                
+       remark                            =  yes                                                                                     
+fact   Eggnog.1                          =  Also includes milk, sugar and vanilla with brandy, rum or whisky                       
+       remark                            =  yes                                                                                     
+fact   Eggnog.2                          =  Served with a sprinkling of ground cinnamon or nutmeg                                  
+       remark                            =  yes                                                                                     
+fact   Eggnog.3                          =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Fairy Lights                      =  Fairy Lights                                                                            
+       url                               =  github://philiprbrenan/Christmas/Fairy Lights.jpg                                       
+fact   Fairy Lights.0                    =  Strings of small coloured electrical lights used to decorate Christmas trees           
+       remark                            =  yes                                                                                     
+fact   Fairy Lights.1                    =  Electrical Christmas lights began to replace candles from the 1880s onwards            
+       remark                            =  yes                                                                                     
+fact   Fairy Lights.2                    =  First electrically illuminated Christmas tree was in New York in 1882                  
+       remark                            =  yes                                                                                     
+fact   Fairy Lights.3                    =  First electrically illuminated Christmas tree at the White House, USA was in 1895      
+       remark                            =  yes                                                                                     
+fact   Fairy Lights.4                    =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Famous Christmas Poem             =  Famous Christmas Poem                                                                   
+       url                               =  github://philiprbrenan/Christmas/Famous Christmas Poem.jpg                              
+fact   Famous Christmas Poem.0           =  "Twas the Night Before Christmas" is a poem, first published in 1823                   
+       remark                            =  yes                                                                                     
+fact   Famous Christmas Poem.1           =  Written by an American, Clement Clarke Moore                                           
+       remark                            =  yes                                                                                     
+fact   Famous Christmas Poem.2           =  Influenced ideas about Santa Claus, his appearance and his reindeer                    
+       remark                            =  yes                                                                                     
+fact   Famous Christmas Poem.3           =  Created the tradition that Santa Claus brings toys to children on Christmas Eve        
+       remark                            =  yes                                                                                     
+fact   Famous Christmas Poem.4           =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Famous Christmas Story            =  Famous Christmas Story                                                                  
+       url                               =  github://philiprbrenan/Christmas/Famous Christmas Story.jpg                             
+fact   Famous Christmas Story.0          =  "A Christmas Carol" written by Charles Dickens in 1843                                 
+       remark                            =  yes                                                                                     
+fact   Famous Christmas Story.1          =  The tale of the Victorian miser, Ebenezer Scrooge                                      
+       remark                            =  yes                                                                                     
+fact   Famous Christmas Story.2          =  Features the Ghosts of Christmas Past, Present, and Yet to Come                        
+       remark                            =  yes                                                                                     
+fact   Famous Christmas Story.3          =  Has been made into numerous plays, films and operas                                    
+       remark                            =  yes                                                                                     
+fact   Famous Christmas Story.4          =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Gingerbread                       =  Gingerbread                                                                             
+       url                               =  github://philiprbrenan/Christmas/Gingerbread.jpg                                        
+fact   Gingerbread.0                     =  A sweet food made with honey or treacle and flavoured with ginger                      
+       remark                            =  yes                                                                                     
+fact   Gingerbread.1                     =  Range of textures from soft cake and crisp biscuit to gingerbread men                  
+       remark                            =  yes                                                                                     
+fact   Gingerbread.2                     =  Often baked in the form of a gingerbread house decorated with sweets                   
+       remark                            =  yes                                                                                     
+fact   Gingerbread.3                     =  The gingerbread house derives from the fairy tale "Hansel and Gretel"                  
+       remark                            =  yes                                                                                     
+fact   Gingerbread.4                     =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Holly                             =  Holly                                                                                   
+       url                               =  github://philiprbrenan/Christmas/Holly.jpg                                              
+fact   Holly.0                           =  Evergreen shrub with bright, glossy leaves and red berries                             
+       remark                            =  yes                                                                                     
+fact   Holly.1                           =  Traditional Christmas decoration and popular in wreaths                                
+       remark                            =  yes                                                                                     
+fact   Holly.2                           =  Often combined with ivy as recorded in the carol "The Holly and The Ivy"               
+       remark                            =  yes                                                                                     
+fact   Holly.3                           =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  House Decorations                 =  House Decorations                                                                       
+       url                               =  github://philiprbrenan/Christmas/House Decorations.jpg                                  
+fact   House Decorations.0               =  In America, Australia, and Europe, the outside of homes are decorated with lights      
+       remark                            =  yes                                                                                     
+fact   House Decorations.1               =  Illuminated sleighs, snowmen, and other Christmas figures are popular                  
+       remark                            =  yes                                                                                     
+fact   House Decorations.2               =  Strings of alternating lights simulate sparkling icicles and snow                      
+       remark                            =  yes                                                                                     
+fact   House Decorations.3               =  Popular with families to drive around a neighbourhood to see Christmas lights          
+       remark                            =  yes                                                                                     
+fact   House Decorations.4               =  Often friendly competition between neighbours to have the best lit home                
+       remark                            =  yes                                                                                     
+fact   House Decorations.5               =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Inflatable Santa Claus            =  Inflatable Santa Claus                                                                  
+       url                               =  github://philiprbrenan/Christmas/Inflatable Santa Claus.jpg                             
+fact   Inflatable Santa Claus.0          =  Large plastic inflatable figure displayed in front gardens during Christmas            
+       remark                            =  yes                                                                                     
+fact   Inflatable Santa Claus.1          =  Other inflatable figures include snowmen, reindeer and penguins                        
+       remark                            =  yes                                                                                     
+fact   Inflatable Santa Claus.2          =  Usually associated with outdoor Christmas lighting                                     
+       remark                            =  yes                                                                                     
+fact   Inflatable Santa Claus.3          =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Log Fire                          =  Log Fire                                                                                
+       url                               =  github://philiprbrenan/Christmas/Log Fire.jpg                                           
+fact   Log Fire.0                        =  Associated with keeping warm and cosy at Christmas                                     
+       remark                            =  yes                                                                                     
+fact   Log Fire.1                        =  Often pictured on Christmas cards                                                      
+       remark                            =  yes                                                                                     
+fact   Log Fire.2                        =  The Yule log is a large log traditionally burned in the hearth at Christmas            
+       remark                            =  yes                                                                                     
+fact   Log Fire.3                        =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Mince Pies                        =  Mince Pies                                                                              
+       url                               =  github://philiprbrenan/Christmas/Mince Pies.jpg                                         
+fact   Mince Pies.0                      =  Small sweet pie made with shortcrust or puff pastry                                    
+       remark                            =  yes                                                                                     
+fact   Mince Pies.1                      =  Traditional seasonal treat containing dried fruits, sugar, spices and brandy           
+       remark                            =  yes                                                                                     
+fact   Mince Pies.2                      =  Popular from the 13th century onwards; originally included meat                        
+       remark                            =  yes                                                                                     
+fact   Mince Pies.3                      =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Mistletoe                         =  Mistletoe                                                                               
+       url                               =  github://philiprbrenan/Christmas/Mistletoe.jpg                                          
+fact   Mistletoe.0                       =  Used as a Christmas decoration                                                         
+       remark                            =  yes                                                                                     
+fact   Mistletoe.1                       =  Traditional to hang a branch above a doorway or from the ceiling                       
+       remark                            =  yes                                                                                     
+fact   Mistletoe.2                       =  Friends exchange kisses beneath it as a sign of friendship and goodwill                
+       remark                            =  yes                                                                                     
+fact   Mistletoe.3                       =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Mixed Nuts                        =  Mixed Nuts                                                                              
+       url                               =  github://philiprbrenan/Christmas/Mixed Nuts.jpg                                         
+fact   Mixed Nuts.0                      =  Traditional snack at Christmas                                                         
+       remark                            =  yes                                                                                     
+fact   Mixed Nuts.1                      =  Mixed nuts, in their shells, sit in a bowl with a nutcracker provided                  
+       remark                            =  yes                                                                                     
+fact   Mixed Nuts.2                      =  Nuts include walnuts, almonds, brazils, hazelnuts and pecans                           
+       remark                            =  yes                                                                                     
+fact   Mixed Nuts.3                      =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Mulled Wine                       =  Mulled Wine                                                                             
+       url                               =  github://philiprbrenan/Christmas/Mulled Wine.jpg                                        
+fact   Mulled Wine.0                     =  Traditional hot drink during winter, especially at Christmas                           
+       remark                            =  yes                                                                                     
+fact   Mulled Wine.1                     =  Also known as "Gluhwein" in German and Dutch speaking countries                        
+       remark                            =  yes                                                                                     
+fact   Mulled Wine.2                     =  Made with red wine and slices of fruit such as oranges and lemons                      
+       remark                            =  yes                                                                                     
+fact   Mulled Wine.3                     =  Mixed with spices such as cinnamon, nutmeg and cloves                                  
+       remark                            =  yes                                                                                     
+fact   Mulled Wine.4                     =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Nativity Play                     =  Nativity Play                                                                           
+       url                               =  github://philiprbrenan/Christmas/Nativity Play.jpg                                      
+fact   Nativity Play.0                   =  Tells the story of the birth of Jesus and is performed at Christmas                    
+       remark                            =  yes                                                                                     
+fact   Nativity Play.1                   =  Many primary schools and Sunday Schools put on a Nativity play                         
+       remark                            =  yes                                                                                     
+fact   Nativity Play.2                   =  School children act out the human, angel and animal characters                         
+       remark                            =  yes                                                                                     
+fact   Nativity Play.3                   =  The baby Jesus is usually represented by a doll                                        
+       remark                            =  yes                                                                                     
+fact   Nativity Play.4                   =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Nativity Scene                    =  Nativity Scene                                                                          
+       url                               =  github://philiprbrenan/Christmas/Nativity Scene.jpg                                     
+fact   Nativity Scene.0                  =  A depiction of the birth of Jesus in a stable in Bethlehem                             
+       remark                            =  yes                                                                                     
+fact   Nativity Scene.1                  =  Includes his mother and father, Mary and Joseph, shepherds and farm animals            
+       remark                            =  yes                                                                                     
+fact   Nativity Scene.2                  =  Small enough to fit on a table, or a large set-piece in a church or shopping mall      
+       remark                            =  yes                                                                                     
+fact   Nativity Scene.3                  =  Sometimes a "living" nativity scene features actors and real farm animals              
+       remark                            =  yes                                                                                     
+fact   Nativity Scene.4                  =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Nutcracker Ballet                 =  Nutcracker Ballet                                                                       
+       url                               =  github://philiprbrenan/Christmas/Nutcracker Ballet.jpg                                  
+fact   Nutcracker Ballet.0               =  A two-act ballet with music by Tchaikovsky                                             
+       remark                            =  yes                                                                                     
+fact   Nutcracker Ballet.1               =  Usually performed at Christmas                                                         
+       remark                            =  yes                                                                                     
+fact   Nutcracker Ballet.2               =  Named after the traditional carved nutcracker which appears in the ballet              
+       remark                            =  yes                                                                                     
+fact   Nutcracker Ballet.3               =  One of the most popular melodies is the "Dance of the Sugar Plum Fairy"                
+       remark                            =  yes                                                                                     
+fact   Nutcracker Ballet.4               =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Pantomime                         =  Pantomime                                                                               
+       url                               =  github://philiprbrenan/Christmas/Pantomime.jpg                                          
+fact   Pantomime.0                       =  Musical comedy performed in theatres during Christmas and New Year                     
+       remark                            =  yes                                                                                     
+fact   Pantomime.1                       =  Based on traditional children's stories and designed for family audiences              
+       remark                            =  yes                                                                                     
+fact   Pantomime.2                       =  Popular pantomimes include "Aladdin",  "Cinderella", and "Puss in Boots"               
+       remark                            =  yes                                                                                     
+fact   Pantomime.3                       =  The audience is always encouraged to participate with boos and cheers!                 
+       remark                            =  yes                                                                                     
+fact   Pantomime.4                       =  The principal boy character is played by a girl                                        
+       remark                            =  yes                                                                                     
+fact   Pantomime.5                       =  The pantomime dame is played by a man                                                  
+       remark                            =  yes                                                                                     
+fact   Pantomime.6                       =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Poinsettia                        =  Poinsettia                                                                              
+       url                               =  github://philiprbrenan/Christmas/Poinsettia.jpg                                         
+fact   Poinsettia.0                      =  Popular since the 19th century in Christmas floral displays                            
+       remark                            =  yes                                                                                     
+fact   Poinsettia.1                      =  Indigenous plant of Mexico and Central America                                         
+       remark                            =  yes                                                                                     
+fact   Poinsettia.2                      =  Colourful red bracts and bright green leaves                                           
+       remark                            =  yes                                                                                     
+fact   Poinsettia.3                      =  Joel Poinsett introduced the plant to the United States in 1825                        
+       remark                            =  yes                                                                                     
+fact   Poinsettia.4                      =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Presents                          =  Presents                                                                                
+       url                               =  github://philiprbrenan/Christmas/Presents.jpg                                           
+fact   Presents.0                        =  Presents exchanged between friends and family on Christmas Day                         
+       remark                            =  yes                                                                                     
+fact   Presents.1                        =  Wrapped in brightly coloured Christmas gift paper                                      
+       remark                            =  yes                                                                                     
+fact   Presents.2                        =  Placed under the Christmas tree in the days prior to Christmas Day                     
+       remark                            =  yes                                                                                     
+fact   Presents.3                        =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Public Christmas Tree             =  Public Christmas Tree                                                                   
+       url                               =  github://philiprbrenan/Christmas/Public Christmas Tree.jpg                              
+fact   Public Christmas Tree.0           =  Large Christmas trees are placed in town and city squares                              
+       remark                            =  yes                                                                                     
+fact   Public Christmas Tree.1           =  Often the focal point for carol singing concerts                                       
+       remark                            =  yes                                                                                     
+fact   Public Christmas Tree.2           =  20m tall Christmas tree stands in Trafalgar Square, London each year                   
+       remark                            =  yes                                                                                     
+fact   Public Christmas Tree.3           =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Reindeer                          =  Reindeer                                                                                
+       url                               =  github://philiprbrenan/Christmas/Reindeer.jpg                                           
+fact   Reindeer.0                        =  A team of flying reindeer traditionally held to pull Santa's sleigh                    
+       remark                            =  yes                                                                                     
+fact   Reindeer.1                        =  Eight reindeer named Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donder and Blitzen  
+       remark                            =  yes                                                                                     
+fact   Reindeer.2                        =  Santa's reindeer are led by Rudolph the Red-Nosed Reindeer                             
+       remark                            =  yes                                                                                     
+fact   Reindeer.3                        =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Reindeer Antlers                  =  Reindeer Antlers                                                                        
+       url                               =  github://philiprbrenan/Christmas/Reindeer Antlers.jpg                                   
+fact   Reindeer Antlers.0                =  Novelty item which simulates real reindeer antlers                                     
+       remark                            =  yes                                                                                     
+fact   Reindeer Antlers.1                =  Worn on one's head at any time during Christmas!                                       
+       remark                            =  yes                                                                                     
+fact   Reindeer Antlers.2                =  Popular at Christmas fancy dress and office parties                                    
+       remark                            =  yes                                                                                     
+fact   Reindeer Antlers.3                =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Rudolph the Red-Nosed Reindeer    =  Rudolph the Red-Nosed Reindeer                                                          
+       url                               =  github://philiprbrenan/Christmas/Rudolph the Red-Nosed Reindeer.jpg                     
+fact   Rudolph the Red-Nosed Reindeer.0  =  Santa's 9th reindeer who leads the reindeer team each Christmas Eve                    
+       remark                            =  yes                                                                                     
+fact   Rudolph the Red-Nosed Reindeer.1  =  His glowing red nose lights the team's path through bad winter weather                 
+       remark                            =  yes                                                                                     
+fact   Rudolph the Red-Nosed Reindeer.2  =  The title of an ever popular Christmas song about the loveable reindeer                
+       remark                            =  yes                                                                                     
+fact   Rudolph the Red-Nosed Reindeer.3  =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Santa Claus                       =  Santa Claus                                                                             
+       url                               =  github://philiprbrenan/Christmas/Santa Claus.jpg                                        
+fact   Santa Claus.0                     =  Also widely known as "Father Christmas"                                                
+       remark                            =  yes                                                                                     
+fact   Santa Claus.1                     =  Dresses in a red suit, trimmed with white fur, with a black belt and boots             
+       remark                            =  yes                                                                                     
+fact   Santa Claus.2                     =  Lives at the North Pole and delivers gifts to children on Christmas Eve                
+       remark                            =  yes                                                                                     
+fact   Santa Claus.3                     =  Delivers his gifts in a sleigh pulled by eight reindeer                                
+       remark                            =  yes                                                                                     
+fact   Santa Claus.4                     =  Climbs down the chimney to put gifts in stockings left out for this purpose            
+       remark                            =  yes                                                                                     
+fact   Santa Claus.5                     =  Some families leave food and drink for him beside the stockings                        
+       remark                            =  yes                                                                                     
+fact   Santa Claus.6                     =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Santa Claus Parade                =  Santa Claus Parade                                                                      
+       url                               =  github://philiprbrenan/Christmas/Santa Claus Parade.jpg                                 
+fact   Santa Claus Parade.0              =  Celebrates the official opening of Christmas with the arrival of Santa Claus           
+       remark                            =  yes                                                                                     
+fact   Santa Claus Parade.1              =  Includes themed floats, marching groups, and bands playing Christmas songs             
+       remark                            =  yes                                                                                     
+fact   Santa Claus Parade.2              =  Climax is always Santa in his sleigh, drawn by eight reindeer                          
+       remark                            =  yes                                                                                     
+fact   Santa Claus Parade.3              =  Santa Claus parades are most common in North America                                   
+       remark                            =  yes                                                                                     
+fact   Santa Claus Parade.4              =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Santa Hat                         =  Santa Hat                                                                               
+       url                               =  github://philiprbrenan/Christmas/Santa Hat.jpg                                          
+fact   Santa Hat.0                       =  Red and white velour hat                                                               
+       remark                            =  yes                                                                                     
+fact   Santa Hat.1                       =  Imagined to be the hat worn by Santa Claus                                             
+       remark                            =  yes                                                                                     
+fact   Santa Hat.2                       =  Popular at Christmas fancy dress and office parties                                    
+       remark                            =  yes                                                                                     
+fact   Santa Hat.3                       =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Santa's Elves                     =  Santa's Elves                                                                           
+       url                               =  github://philiprbrenan/Christmas/Santa's Elves.jpg                                      
+fact   Santa's Elves.0                   =  Little creatures who live with Santa Claus at the North Pole                           
+       remark                            =  yes                                                                                     
+fact   Santa's Elves.1                   =  Have pointy ears, long noses and pointy hats                                           
+       remark                            =  yes                                                                                     
+fact   Santa's Elves.2                   =  Make the toys in Santa's workshop and take care of his reindeer                        
+       remark                            =  yes                                                                                     
+fact   Santa's Elves.3                   =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Santa's Grotto                    =  Santa's Grotto                                                                          
+       url                               =  github://philiprbrenan/Christmas/Santa's Grotto.jpg                                     
+fact   Santa's Grotto.0                  =  During December, department stores and shopping centres have Santa's Grottos           
+       remark                            =  yes                                                                                     
+fact   Santa's Grotto.1                  =  An actor dressed up as Santa Claus gives gifts to children in a "cavern"               
+       remark                            =  yes                                                                                     
+fact   Santa's Grotto.2                  =  This tradition started in Liverpool, Britain in 1879                                   
+       remark                            =  yes                                                                                     
+fact   Santa's Grotto.3                  =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Snow Globe                        =  Snow Globe                                                                              
+       url                               =  github://philiprbrenan/Christmas/Snow Globe.jpg                                         
+fact   Snow Globe.0                      =  Transparent glass or plastic sphere enclosing a small Christmas scene                  
+       remark                            =  yes                                                                                     
+fact   Snow Globe.1                      =  Contains water and white particles                                                     
+       remark                            =  yes                                                                                     
+fact   Snow Globe.2                      =  Shaking the globe churns up the particles and they fall as "snow"                      
+       remark                            =  yes                                                                                     
+fact   Snow Globe.3                      =  First became popular in Europe in the 1880s                                            
+       remark                            =  yes                                                                                     
+fact   Snow Globe.4                      =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Snowman                           =  Snowman                                                                                 
+       url                               =  github://philiprbrenan/Christmas/Snowman.jpg                                            
+fact   Snowman.0                         =  Sculpture made of snow usually built by children                                       
+       remark                            =  yes                                                                                     
+fact   Snowman.1                         =  Associated with the festive season and winter                                          
+       remark                            =  yes                                                                                     
+fact   Snowman.2                         =  Branches are often used for arms, carrots for noses, and stones for eyes               
+       remark                            =  yes                                                                                     
+fact   Snowman.3                         =  Sometimes clothing such as hats and scarves are used                                   
+       remark                            =  yes                                                                                     
+fact   Snowman.4                         =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Star of Bethlehem                 =  Star of Bethlehem                                                                       
+       url                               =  github://philiprbrenan/Christmas/Star of Bethlehem.jpg                                  
+fact   Star of Bethlehem.0               =  Also called the "Christmas Star"                                                       
+       remark                            =  yes                                                                                     
+fact   Star of Bethlehem.1               =  Refers to the star seen in the night sky when Jesus was born                           
+       remark                            =  yes                                                                                     
+fact   Star of Bethlehem.2               =  Widely used as a Christmas decoration                                                  
+       remark                            =  yes                                                                                     
+fact   Star of Bethlehem.3               =  Often placed at the very top of the decorated Christmas tree                           
+       remark                            =  yes                                                                                     
+fact   Star of Bethlehem.4               =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Street Lights                     =  Street Lights                                                                           
+       url                               =  github://philiprbrenan/Christmas/Street Lights.jpg                                      
+fact   Street Lights.0                   =  High streets usually erect elaborate Christmas displays in November                    
+       remark                            =  yes                                                                                     
+fact   Street Lights.1                   =  Cities often have a special ceremony with a celebrity to "turn on" the lights          
+       remark                            =  yes                                                                                     
+fact   Street Lights.2                   =  Traditionally taken down on Twelfth Night  (January 5th or 6th)                        
+       remark                            =  yes                                                                                     
+fact   Street Lights.3                   =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Sugar Mice                        =  Sugar Mice                                                                              
+       url                               =  github://philiprbrenan/Christmas/Sugar Mice.jpg                                         
+fact   Sugar Mice.0                      =  Traditional Christmas sweets                                                           
+       remark                            =  yes                                                                                     
+fact   Sugar Mice.1                      =  Made from icing sugar, egg whites and golden syrup                                     
+       remark                            =  yes                                                                                     
+fact   Sugar Mice.2                      =  Usually coloured pink, yellow and white, with a string for the tail                    
+       remark                            =  yes                                                                                     
+fact   Sugar Mice.3                      =  Often tucked inside a Christmas stocking                                               
+       remark                            =  yes                                                                                     
+fact   Sugar Mice.4                      =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Sweets                            =  Sweets                                                                                  
+       url                               =  github://philiprbrenan/Christmas/Sweets.jpg                                             
+fact   Sweets.0                          =  Home-made sweets popular as Christmas gifts                                            
+       remark                            =  yes                                                                                     
+fact   Sweets.1                          =  Some sweets are always tucked inside Christmas stockings                               
+       remark                            =  yes                                                                                     
+fact   Sweets.2                          =  Large family tins of sweets are traditionally sold at Christmas                        
+       remark                            =  yes                                                                                     
+fact   Sweets.3                          =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Table Decoration                  =  Table Decoration                                                                        
+       url                               =  github://philiprbrenan/Christmas/Table Decoration.jpg                                   
+fact   Table Decoration.0                =  Traditionally placed on the table at Christmas dinner                                  
+       remark                            =  yes                                                                                     
+fact   Table Decoration.1                =  Artificial foliage such as holly, ivy and pine is popular                              
+       remark                            =  yes                                                                                     
+fact   Table Decoration.2                =  Candles, fir cones, stars, small baubles and angels may be included                    
+       remark                            =  yes                                                                                     
+fact   Table Decoration.3                =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Tinsel                            =  Tinsel                                                                                  
+       url                               =  github://philiprbrenan/Christmas/Tinsel.jpg                                             
+fact   Tinsel.0                          =  Sparkling decoration that mimics the effect of ice or icicles                          
+       remark                            =  yes                                                                                     
+fact   Tinsel.1                          =  Popular on Christmas trees                                                             
+       remark                            =  yes                                                                                     
+fact   Tinsel.2                          =  Used to be manufactured from cheap aluminium but now from plastic                      
+       remark                            =  yes                                                                                     
+fact   Tinsel.3                          =  Invented in Germany, in 1610, and originally made of strands of silver                 
+       remark                            =  yes                                                                                     
+fact   Tinsel.4                          =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Tobogganing                       =  Tobogganing                                                                             
+       url                               =  github://philiprbrenan/Christmas/Tobogganing.jpg                                        
+fact   Tobogganing.0                     =  Simple sled used on snowy downhill slopes                                              
+       remark                            =  yes                                                                                     
+fact   Tobogganing.1                     =  Popular entertainment during the festive season                                        
+       remark                            =  yes                                                                                     
+fact   Tobogganing.2                     =  Usually up to 4 feet tall and 3 feet wide                                              
+       remark                            =  yes                                                                                     
+fact   Tobogganing.3                     =  Made from wood, aluminium or plastic                                                   
+       remark                            =  yes                                                                                     
+fact   Tobogganing.4                     =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Traditional Nutcrackers           =  Traditional Nutcrackers                                                                 
+       url                               =  github://philiprbrenan/Christmas/Traditional Nutcrackers.jpg                            
+fact   Traditional Nutcrackers.0         =  Traditional gadget for cracking nuts and a symbol of Christmas                         
+       remark                            =  yes                                                                                     
+fact   Traditional Nutcrackers.1         =  Wooden carvings in the form of a soldier, knight or king                               
+       remark                            =  yes                                                                                     
+fact   Traditional Nutcrackers.2         =  Nuts are cracked inside the large mouth                                                
+       remark                            =  yes                                                                                     
+fact   Traditional Nutcrackers.3         =  Available since the 15th century and popular with collectors                           
+       remark                            =  yes                                                                                     
+fact   Traditional Nutcrackers.4         =  First made in Germany                                                                  
+       remark                            =  yes                                                                                     
+fact   Traditional Nutcrackers.5         =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Turkey                            =  Turkey                                                                                  
+       url                               =  github://philiprbrenan/Christmas/Turkey.jpg                                             
+fact   Turkey.0                          =  Huge factory farms rear turkeys for slaughter at 3-6 months of age                     
+       remark                            =  yes                                                                                     
+fact   Turkey.1                          =  10 million are slaughtered each Christmas in the UK                                    
+       remark                            =  yes                                                                                     
+fact   Turkey.2                          =  45 million are slaughtered at Thanksgiving and 22 million at Christmas in the USA      
+       remark                            =  yes                                                                                     
+fact   Turkey.3                          =                                                                                         
+       remark                            =  yes                                                                                     
+       
+photo  Wreath                            =  Wreath                                                                                  
+       url                               =  github://philiprbrenan/Christmas/Wreath.jpg                                             
+fact   Wreath.0                          =  Hung on the front door to announce the arrival of the festive season                   
+       remark                            =  yes                                                                                     
+fact   Wreath.1                          =  Flowers and evergreen foliage are woven into a ring                                    
+       remark                            =  yes                                                                                     
+fact   Wreath.2                          =  May be decorated with ribbon, fruit, pine cones, bells and baubles                     
+       remark                            =  yes                                                                                     
+fact   Wreath.3                          =                                                                                         
+       remark                            =  yes                                                                                     
