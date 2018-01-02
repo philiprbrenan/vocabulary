@@ -1,0 +1,8 @@
+app g.CarsCranesTrucksTrainsGerman   = Cars Cranes Trucks Trains in German
+  description  = Learn about Cars Cranes Trucks Trains in German in English
+  icon         = Sports car.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+
