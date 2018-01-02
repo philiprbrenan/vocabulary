@@ -1,0 +1,181 @@
+app g.Bridges   = Bridges
+  description  = Learn about Bridges in English
+  icon         = icon.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Bhumibol_Bridge                             =  Bhumibol Bridge                                                                           
+       url                                         =  github://philiprbrenan/Bridges/Bhumibol_Bridge.jpg                                        
+fact   Bhumibol_Bridge.0                           =  Located in Bangkok, Thailand                                                             
+       remark                                      =  yes                                                                                       
+fact   Bhumibol_Bridge.1                           =  Known locally as: The Mega Bridge                                                        
+       remark                                      =  yes                                                                                       
+       
+photo  Bloukrans_Bridge                            =  Bloukrans Bridge                                                                          
+       url                                         =  github://philiprbrenan/Bridges/Bloukrans_Bridge.jpg                                       
+fact   Bloukrans_Bridge.0                          =  Crosses the Bloukrans river in South Africa.                                             
+       remark                                      =  yes                                                                                       
+fact   Bloukrans_Bridge.1                          =  Site of the worlds highest commercial bungee jump                                        
+       remark                                      =  yes                                                                                       
+       
+photo  Brooklyn_Bridge_1                           =  Brooklyn Bridge                                                                           
+       url                                         =  github://philiprbrenan/Bridges/Brooklyn_Bridge_1.jpg                                      
+fact   Brooklyn_Bridge_1.0                         =  Located in New York City                                                                 
+       remark                                      =  yes                                                                                       
+fact   Brooklyn_Bridge_1.1                         =  Crosses the East river to connect Manhattan and Brooklyn                                 
+       remark                                      =  yes                                                                                       
+fact   Brooklyn_Bridge_1.2                         =  One of the oldest suspension bridges in the United States                                
+       remark                                      =  yes                                                                                       
+fact   Brooklyn_Bridge_1.3                         =  Built in 1883                                                                            
+       remark                                      =  yes                                                                                       
+       
+photo  Brusio_spiral_viaduct_1                     =  Brusio spiral viaduct                                                                     
+       url                                         =  github://philiprbrenan/Bridges/Brusio_spiral_viaduct_1.jpg                                
+fact   Brusio_spiral_viaduct_1.0                   =  Spiral railway viaduct located in Switzerland                                            
+       remark                                      =  yes                                                                                       
+       
+photo  Chesapeake_Bay_Bridge                       =  Chesapeake Bay bridge                                                                     
+       url                                         =  github://philiprbrenan/Bridges/Chesapeake_Bay_Bridge.jpg                                  
+fact   Chesapeake_Bay_Bridge.0                     =  Low guard rails make the crossing scary in bad weather                                   
+       remark                                      =  yes                                                                                       
+       
+photo  Coronadobaybridgethorton                    =  Coronado Bridge                                                                           
+       url                                         =  github://philiprbrenan/Bridges/Coronadobaybridgethorton.jpg                               
+fact   Coronadobaybridgethorton.0                  =  Prestressed concrete and steel girder bridge                                             
+       remark                                      =  yes                                                                                       
+fact   Coronadobaybridgethorton.1                  =  Links San Diego with Coronado in California.                                             
+       remark                                      =  yes                                                                                       
+fact   Coronadobaybridgethorton.2                  =  The pillars are painted with huge Chicano art murals                                     
+       remark                                      =  yes                                                                                       
+fact   Coronadobaybridgethorton.3                  =  Curved to allow traffic to climb above US Navy ships below                               
+       remark                                      =  yes                                                                                       
+       
+photo  Eads_Bridge                                 =  Eads Bridge                                                                               
+       url                                         =  github://philiprbrenan/Bridges/Eads_Bridge.jpg                                            
+fact   Eads_Bridge.0                               =  Crosses the Mississippi River at St. Louis, Illinois.                                    
+       remark                                      =  yes                                                                                       
+fact   Eads_Bridge.1                               =  Completed in 1874                                                                        
+       remark                                      =  yes                                                                                       
+fact   Eads_Bridge.2                               =  Originally the longest arch bridge in the world                                          
+       remark                                      =  yes                                                                                       
+       
+photo  Erasmusbrug_Bridge                          =  Erasmusbrug Bridge                                                                        
+       url                                         =  github://philiprbrenan/Bridges/Erasmusbrug_Bridge.jpg                                     
+fact   Erasmusbrug_Bridge.0                        =  Crosses the Nieuwe Maas in Rotterdam, Netherlands.                                       
+       remark                                      =  yes                                                                                       
+fact   Erasmusbrug_Bridge.1                        =  Nicknamed: The Swan.                                                                     
+       remark                                      =  yes                                                                                       
+fact   Erasmusbrug_Bridge.2                        =  Shock dampers installed to stop trembling in high winds                                  
+       remark                                      =  yes                                                                                       
+       
+photo  Forth_bridge_1                              =  Forth Rail Bridge                                                                         
+       url                                         =  github://philiprbrenan/Bridges/Forth_bridge_1.jpg                                         
+fact   Forth_bridge_1.0                            =  Cantilever railway bridge over the Firth of Forth in the east of Scotland.               
+       remark                                      =  yes                                                                                       
+fact   Forth_bridge_1.1                            =  Began in 1883 and opened on 4 March 1890                                                 
+       remark                                      =  yes                                                                                       
+fact   Forth_bridge_1.2                            =  First major structure in Britain to be constructed of steel                              
+       remark                                      =  yes                                                                                       
+fact   Forth_bridge_1.3                            =  Latest coat of paint is expected to last 25 years                                        
+       remark                                      =  yes                                                                                       
+       
+photo  Gateshead_Millennium_Bridge                 =  Gateshead Millennium Bridge                                                               
+       url                                         =  github://philiprbrenan/Bridges/Gateshead_Millennium_Bridge.jpg                            
+fact   Gateshead_Millennium_Bridge.0               =  Pedestrian bridge across the River Tyne in England.                                      
+       remark                                      =  yes                                                                                       
+fact   Gateshead_Millennium_Bridge.1               =  Lifted into place in one piece by a floating crane                                       
+       remark                                      =  yes                                                                                       
+fact   Gateshead_Millennium_Bridge.2               =  Tilts over to allow ships to pass underneath it                                          
+       remark                                      =  yes                                                                                       
+       
+photo  Golden_Gate_Bridge_1                        =  Golden Gate Bridge                                                                        
+       url                                         =  github://philiprbrenan/Bridges/Golden_Gate_Bridge_1.jpg                                   
+fact   Golden_Gate_Bridge_1.0                      =  Spans the Golden Gate strait                                                             
+       remark                                      =  yes                                                                                       
+fact   Golden_Gate_Bridge_1.1                      =  Said to be one of the Wonders of the Modern World                                        
+       remark                                      =  yes                                                                                       
+fact   Golden_Gate_Bridge_1.2                      =  Main span is 1,280 meters long                                                           
+       remark                                      =  yes                                                                                       
+fact   Golden_Gate_Bridge_1.3                      =  Longest suspension bridge main span from its opening in 1937 until 1964                  
+       remark                                      =  yes                                                                                       
+fact   Golden_Gate_Bridge_1.4                      =  Possibly the most beautiful, certainly the most photographed, bridge in the world        
+       remark                                      =  yes                                                                                       
+       
+photo  Howrah_bridge                               =  Howrah bridge                                                                             
+       url                                         =  github://philiprbrenan/Bridges/Howrah_bridge.jpg                                          
+fact   Howrah_bridge.0                             =  Crosses the Hooghly River in West Bengal, India.                                         
+       remark                                      =  yes                                                                                       
+fact   Howrah_bridge.1                             =  Rudyard Kipling said: This is worth coming across India to see!                          
+       remark                                      =  yes                                                                                       
+fact   Howrah_bridge.2                             =  Connects the cities of Howrah and Kolkata in India                                       
+       remark                                      =  yes                                                                                       
+fact   Howrah_bridge.3                             =  Carries 150,000 pedestrians each day.                                                    
+       remark                                      =  yes                                                                                       
+       
+photo  Kiev_Metro_Bridge                           =  Kiev Metro Bridge                                                                         
+       url                                         =  github://philiprbrenan/Bridges/Kiev_Metro_Bridge.jpg                                      
+fact   Kiev_Metro_Bridge.0                         =  Crosses the Dnipro River in Kiev, Ukraine                                                
+       remark                                      =  yes                                                                                       
+       
+photo  NavahoBridges                               =  Navajo Bridge                                                                             
+       url                                         =  github://philiprbrenan/Bridges/NavahoBridges.jpg                                          
+fact   NavahoBridges.0                             =  Crosses the Colorado River in Arizona, USA                                               
+       remark                                      =  yes                                                                                       
+fact   NavahoBridges.1                             =  Replaced Lee's ferry across the Colorado, the only crossing point in hundred's of miles  
+       remark                                      =  yes                                                                                       
+       
+photo  New_River_Gorge_Bridge                      =  New River Gorge Bridge                                                                    
+       url                                         =  github://philiprbrenan/Bridges/New_River_Gorge_Bridge.jpg                                 
+fact   New_River_Gorge_Bridge.0                    =  Located in the Appalachian Mountains of the USA.                                         
+       remark                                      =  yes                                                                                       
+fact   New_River_Gorge_Bridge.1                    =  Steel arch bridge 924 meters long                                                        
+       remark                                      =  yes                                                                                       
+fact   New_River_Gorge_Bridge.2                    =  A catwalk runs the full length of the bridge underneath the roadway                      
+       remark                                      =  yes                                                                                       
+       
+photo  Oresund_Bridge_1                            =  Oresund Bridge                                                                            
+       url                                         =  github://philiprbrenan/Bridges/Oresund_Bridge_1.jpg                                       
+fact   Oresund_Bridge_1.0                          =  Connects Sweden with Denmark                                                             
+       remark                                      =  yes                                                                                       
+fact   Oresund_Bridge_1.1                          =  Longest combined road and rail bridge in Europe                                          
+       remark                                      =  yes                                                                                       
+fact   Oresund_Bridge_1.2                          =  Joins the Drogden tunnel on the artificial island of Peberholm                           
+       remark                                      =  yes                                                                                       
+       
+photo  Royal_Gorge_Bridge                          =  Royal Gorge Bridge                                                                        
+       url                                         =  github://philiprbrenan/Bridges/Royal_Gorge_Bridge.jpg                                     
+fact   Royal_Gorge_Bridge.0                        =  Crosses the Arkansas River, in Colorado, USA                                             
+       remark                                      =  yes                                                                                       
+fact   Royal_Gorge_Bridge.1                        =  Held the record of highest bridge in the world from 1929 until 2001                      
+       remark                                      =  yes                                                                                       
+fact   Royal_Gorge_Bridge.2                        =  Highest bridge in the United States at 291 meters above the river below                  
+       remark                                      =  yes                                                                                       
+fact   Royal_Gorge_Bridge.3                        =  Built as a tourist attraction                                                            
+       remark                                      =  yes                                                                                       
+       
+photo  Seven_Mile_Bridge                           =  Seven Mile Bridge                                                                         
+       url                                         =  github://philiprbrenan/Bridges/Seven_Mile_Bridge.jpg                                      
+fact   Seven_Mile_Bridge.0                         =  Part of the Overseas Highway connecting the Florida keys.                                
+       remark                                      =  yes                                                                                       
+fact   Seven_Mile_Bridge.1                         =  Contains 440 spans                                                                       
+       remark                                      =  yes                                                                                       
+       
+photo  Sydney_Harbour_Bridge_from_Circular_Quay    =  Sydney Harbour Bridge                                                                     
+       url                                         =  github://philiprbrenan/Bridges/Sydney_Harbour_Bridge_from_Circular_Quay.jpg               
+fact   Sydney_Harbour_Bridge_from_Circular_Quay.0  =  Located near the Sydney Opera House, Australia                                           
+       remark                                      =  yes                                                                                       
+fact   Sydney_Harbour_Bridge_from_Circular_Quay.1  =  Nicknamed "The Coathanger"                                                               
+       remark                                      =  yes                                                                                       
+fact   Sydney_Harbour_Bridge_from_Circular_Quay.2  =  The tallest steel arch bridge                                                            
+       remark                                      =  yes                                                                                       
+fact   Sydney_Harbour_Bridge_from_Circular_Quay.3  =  Held together by six million hand-driven rivets                                          
+       remark                                      =  yes                                                                                       
+       
+photo  Tara_Bridge                                 =  Tara Bridge                                                                               
+       url                                         =  github://philiprbrenan/Bridges/Tara_Bridge.jpg                                            
+fact   Tara_Bridge.0                               =  Crosses the Tara River in northern Montenegro                                            
+       remark                                      =  yes                                                                                       
+fact   Tara_Bridge.1                               =  It's destruction halted the Italian advance into Yugoslavia in 1942                      
+       remark                                      =  yes                                                                                       
