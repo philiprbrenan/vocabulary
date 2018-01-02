@@ -6,1209 +6,227 @@ app g.Bollywood   = Stars of Bollywood
   speakers     = Amy
 
        
-photo  Aftab Shivdasani       =  Aftab Shivdasani                                                                                      
-       url                    =  github://philiprbrenan/Bollywood/Aftab Shivdasani.jpg                                                 
-fact   Aftab Shivdasani.0     =  Also known as Faffy                                                                                  
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.1     =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.2     =  Birthday is on the 25th of June                                                                      
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.3     =  Born in 1978                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.4     =  Loves Thai food                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.5     =  Likes to listen to Trance                                                                            
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.6     =  Favorite colour is Black.                                                                            
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.7     =  Likes to holiday in Spain                                                                            
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.8     =  Favorite perfume is Clinique Happy                                                                   
-       remark                 =  yes                                                                                                   
-fact   Aftab Shivdasani.9     =  Starred as the villan in "Shekhar" in "Kasoor"                                                       
-       remark                 =  yes                                                                                                   
-       
-photo  Aishwarya Rai 1        =  Aishwarya Rai                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Aishwarya Rai 1.jpg                                                  
-fact   Aishwarya Rai 1.0      =  Also known as Aish                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 1.1      =  Born in Mangalore                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 1.2      =  Birthday is on the 1st of November.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 1.3      =  Born in 1973                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 1.4      =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 1.5      =  Loves traditional Gujarati food                                                                      
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 1.6      =  Starred as the singer "Mansi" in "Taal"                                                              
-       remark                 =  yes                                                                                                   
-       
-photo  Aishwarya Rai 2        =  Aishwarya Rai                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Aishwarya Rai 2.jpg                                                  
-fact   Aishwarya Rai 2.0      =  Also known as Aish                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 2.1      =  Born in Mangalore                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 2.2      =  Birthday is on the 1st of November.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 2.3      =  Born in 1973                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 2.4      =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 2.5      =  Loves traditional Gujarati food                                                                      
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 2.6      =  Starred as the singer "Mansi" in "Taal"                                                              
-       remark                 =  yes                                                                                                   
-       
-photo  Aishwarya Rai 3        =  Aishwarya Rai                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Aishwarya Rai 3.jpg                                                  
-fact   Aishwarya Rai 3.0      =  Also known as Aish                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 3.1      =  Born in Mangalore                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 3.2      =  Birthday is on the 1st of November.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 3.3      =  Born in 1973                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 3.4      =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 3.5      =  Loves traditional Gujarati food                                                                      
-       remark                 =  yes                                                                                                   
-fact   Aishwarya Rai 3.6      =  Starred as the singer "Mansi" in "Taal"                                                              
-       remark                 =  yes                                                                                                   
-       
-photo  Ajay Devgan            =  Ajay Devgan                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Ajay Devgan.jpg                                                      
-fact   Ajay Devgan.0          =  Born in New Delhi                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Ajay Devgan.1          =  Birthday is on the 2nd of April.                                                                     
-       remark                 =  yes                                                                                                   
-fact   Ajay Devgan.2          =  Born in 1969                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Ajay Devgan.3          =  Favorite perfume is Polo                                                                             
-       remark                 =  yes                                                                                                   
-fact   Ajay Devgan.4          =  Starred as "Ajay" in the movie "Zkham"                                                               
-       remark                 =  yes                                                                                                   
-fact   Ajay Devgan.5          =  National Film Award for Best Actor in "Zkham".                                                       
-       remark                 =  yes                                                                                                   
-       
-photo  Akshay Kumar           =  Akshay Kumar                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Akshay Kumar.jpg                                                     
-fact   Akshay Kumar.0         =  Also known as Akki                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Akshay Kumar.1         =  Born in Amritsar, Punjab                                                                             
-       remark                 =  yes                                                                                                   
-fact   Akshay Kumar.2         =  Birthday is on the 9th of September                                                                  
-       remark                 =  yes                                                                                                   
-fact   Akshay Kumar.3         =  Born in 1967                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Akshay Kumar.4         =  Favorite colour is Black                                                                             
-       remark                 =  yes                                                                                                   
-fact   Akshay Kumar.5         =  Likes to holiday in Mauritius                                                                        
-       remark                 =  yes                                                                                                   
-fact   Akshay Kumar.6         =  Favorite perfume is Cool Waters                                                                      
-       remark                 =  yes                                                                                                   
-fact   Akshay Kumar.7         =  Starred as the Punjabi guy "Arjun" in "Namastey London"                                              
-       remark                 =  yes                                                                                                   
-       
-photo  Ameesha Patel          =  Ameesha Patel                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Ameesha Patel.jpg                                                    
-fact   Ameesha Patel.0        =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Ameesha Patel.1        =  Birthday is on the 9th of June.                                                                      
-       remark                 =  yes                                                                                                   
-fact   Ameesha Patel.2        =  Born in 1975                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Ameesha Patel.3        =  Favorite perfume is Angel                                                                            
-       remark                 =  yes                                                                                                   
-fact   Ameesha Patel.4        =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Ameesha Patel.5        =  Starred as "Sakeena" in the blockbuster movie "Gadar: Ek Prem Katha"                                 
-       remark                 =  yes                                                                                                   
-       
-photo  Amitabh Bachchan 1     =  Amitabh Bachchan                                                                                      
-       url                    =  github://philiprbrenan/Bollywood/Amitabh Bachchan 1.jpg                                               
-fact   Amitabh Bachchan 1.0   =  Also known as Big B                                                                                  
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 1.1   =  Born in Allahabad                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 1.2   =  Birthday is on the 11th of November                                                                  
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 1.3   =  Born in 1942                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 1.4   =  Loves to eat Indian vegetarian food                                                                  
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 1.5   =  Lead role in the film Zanjeer (1973) established his persona of the "angry young man" of Bollywood.  
-       remark                 =  yes                                                                                                   
-       
-photo  Amitabh Bachchan 2     =  Amitabh Bachchan                                                                                      
-       url                    =  github://philiprbrenan/Bollywood/Amitabh Bachchan 2.jpg                                               
-fact   Amitabh Bachchan 2.0   =  Also known as Big B                                                                                  
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 2.1   =  Born in Allahabad                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 2.2   =  Birthday is on the 11th of November                                                                  
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 2.3   =  Born in 1942                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 2.4   =  Loves to eat Indian vegetarian food                                                                  
-       remark                 =  yes                                                                                                   
-fact   Amitabh Bachchan 2.5   =  Lead role in the film Zanjeer (1973) established his persona of the "angry young man" of Bollywood.  
-       remark                 =  yes                                                                                                   
-       
-photo  Amrita Rao 1           =  Amrita Rao                                                                                            
-       url                    =  github://philiprbrenan/Bollywood/Amrita Rao 1.jpg                                                     
-fact   Amrita Rao 1.0         =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 1.1         =  Birthday is on the 17th of June                                                                      
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 1.2         =  Born in 1981                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 1.3         =  Loves everything to be in red                                                                        
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 1.4         =  Likes to holiday in Mauritius                                                                        
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 1.5         =  Favorite perfume is Red Door by Elizabeth Arden                                                      
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 1.6         =  Starred as the village girl "Kamla" in "Welcome to Sajjanpur"                                        
-       remark                 =  yes                                                                                                   
-       
-photo  Amrita Rao 2           =  Amrita Rao                                                                                            
-       url                    =  github://philiprbrenan/Bollywood/Amrita Rao 2.jpg                                                     
-fact   Amrita Rao 2.0         =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 2.1         =  Birthday is on the 17th of June                                                                      
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 2.2         =  Born in 1981                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 2.3         =  Loves everything to be in red                                                                        
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 2.4         =  Likes to holiday in Mauritius                                                                        
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 2.5         =  Favorite perfume is Red Door by Elizabeth Arden                                                      
-       remark                 =  yes                                                                                                   
-fact   Amrita Rao 2.6         =  Starred as the village girl "Kamla" in "Welcome to Sajjanpur"                                        
-       remark                 =  yes                                                                                                   
-       
-photo  Arjun Rampal           =  Arjun Rampal                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Arjun Rampal.jpg                                                     
-fact   Arjun Rampal.0         =  Born in Jabalpur                                                                                     
-       remark                 =  yes                                                                                                   
-fact   Arjun Rampal.1         =  Birthday is on the 26th of November                                                                  
-       remark                 =  yes                                                                                                   
-fact   Arjun Rampal.2         =  Born in 1972                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Arjun Rampal.3         =  Favorite colour is Black                                                                             
-       remark                 =  yes                                                                                                   
-fact   Arjun Rampal.4         =  Likes to holiday in Thailand, Paris and New York                                                     
-       remark                 =  yes                                                                                                   
-fact   Arjun Rampal.5         =  Starred as "Joe" in the musical "Rock On"                                                            
-       remark                 =  yes                                                                                                   
-       
-photo  Asin Thottumkal 1      =  Asin Thottumkal                                                                                       
-       url                    =  github://philiprbrenan/Bollywood/Asin Thottumkal 1.jpg                                                
-fact   Asin Thottumkal 1.0    =  Born in Cochin                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 1.1    =  Birthday is on the 26th of October                                                                   
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 1.2    =  Born in 1985                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 1.3    =  Likes to eat Prawns with Kerala Rice                                                                 
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 1.4    =  Favorite Dress: Jeans and Shirt                                                                      
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 1.5    =  Favorite colour is Red                                                                               
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 1.6    =  Starred as "Kalpana " in "Ghajini"                                                                   
-       remark                 =  yes                                                                                                   
-       
-photo  Asin Thottumkal 2      =  Asin Thottumkal                                                                                       
-       url                    =  github://philiprbrenan/Bollywood/Asin Thottumkal 2.jpg                                                
-fact   Asin Thottumkal 2.0    =  Born in Cochin                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 2.1    =  Birthday is on the 26th of October                                                                   
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 2.2    =  Born in 1985                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 2.3    =  Likes to eat Prawns with Kerala Rice                                                                 
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 2.4    =  Favorite Dress: Jeans and Shirt                                                                      
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 2.5    =  Favorite colour is Red                                                                               
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 2.6    =  Starred as "Kalpana " in "Ghajini"                                                                   
-       remark                 =  yes                                                                                                   
-       
-photo  Asin Thottumkal 3      =  Asin Thottumkal                                                                                       
-       url                    =  github://philiprbrenan/Bollywood/Asin Thottumkal 3.jpg                                                
-fact   Asin Thottumkal 3.0    =  Born in Cochin                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 3.1    =  Birthday is on the 26th of October                                                                   
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 3.2    =  Born in 1985                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 3.3    =  Likes to eat Prawns with Kerala Rice                                                                 
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 3.4    =  Favorite Dress: Jeans and Shirt                                                                      
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 3.5    =  Favorite colour is Red                                                                               
-       remark                 =  yes                                                                                                   
-fact   Asin Thottumkal 3.6    =  Starred as "Kalpana " in "Ghajini"                                                                   
-       remark                 =  yes                                                                                                   
-       
-photo  Ayesha Takia           =  Ayesha Takia                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Ayesha Takia.jpg                                                     
-fact   Ayesha Takia.0         =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Ayesha Takia.1         =  Birthday is on the 10th of April                                                                     
-       remark                 =  yes                                                                                                   
-fact   Ayesha Takia.2         =  Born in 1986                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Ayesha Takia.3         =  Starred as the widow Mira in the movie Dor                                                           
-       remark                 =  yes                                                                                                   
-       
-photo  Bhagyashree            =  Bhagyashree                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Bhagyashree.jpg                                                      
-fact   Bhagyashree.0          =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Bhagyashree.1          =  Birthday is on the 23rd of February                                                                  
-       remark                 =  yes                                                                                                   
-fact   Bhagyashree.2          =  Born in 1969                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Bhagyashree.3          =  Starred the 1989 movie Maine Pyaar Kiya                                                              
-       remark                 =  yes                                                                                                   
-       
-photo  Bipasha Basu           =  Bipasha Basu                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Bipasha Basu.jpg                                                     
-fact   Bipasha Basu.0         =  Born in New Delhi                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Bipasha Basu.1         =  Birthday is on the 7th of January                                                                    
-       remark                 =  yes                                                                                                   
-fact   Bipasha Basu.2         =  Born in 1979                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Bipasha Basu.3         =  Loves to play basketball and soccer                                                                  
-       remark                 =  yes                                                                                                   
-fact   Bipasha Basu.4         =  Loves Pink                                                                                           
-       remark                 =  yes                                                                                                   
-fact   Bipasha Basu.5         =  Likes to eat Biryani                                                                                 
-       remark                 =  yes                                                                                                   
-fact   Bipasha Basu.6         =  Likes to visit Paris                                                                                 
-       remark                 =  yes                                                                                                   
-fact   Bipasha Basu.7         =  Starred as the villain in the movie "Jism"                                                           
-       remark                 =  yes                                                                                                   
-       
-photo  Deepika Padukone       =  Deepika Padukone                                                                                      
-       url                    =  github://philiprbrenan/Bollywood/Deepika Padukone.jpg                                                 
-fact   Deepika Padukone.0     =  Born in Copenhagen, Denmark                                                                          
-       remark                 =  yes                                                                                                   
-fact   Deepika Padukone.1     =  Birthday is on the 5th of January                                                                    
-       remark                 =  yes                                                                                                   
-fact   Deepika Padukone.2     =  Born in 1986                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Deepika Padukone.3     =  Loves Escada & Femina by Alberta Ferretti                                                            
-       remark                 =  yes                                                                                                   
-fact   Deepika Padukone.4     =  Likes to holiday on the French Riviera                                                               
-       remark                 =  yes                                                                                                   
-fact   Deepika Padukone.5     =  Likes to read Little Women and also Kite Runner                                                      
-       remark                 =  yes                                                                                                   
-fact   Deepika Padukone.6     =  Loves Thai food                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Deepika Padukone.7     =  Starred as the Film Star in Om Shanti Om                                                             
-       remark                 =  yes                                                                                                   
-       
-photo  Govinda                =  Govinda                                                                                               
-       url                    =  github://philiprbrenan/Bollywood/Govinda.jpg                                                          
-fact   Govinda.0              =  Also known as Chi Chi                                                                                
-       remark                 =  yes                                                                                                   
-fact   Govinda.1              =  Born in Virar                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Govinda.2              =  Birthday is on the 21st of December                                                                  
-       remark                 =  yes                                                                                                   
-fact   Govinda.3              =  Born in 1963                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Govinda.4              =  Likes to drink cow's milk                                                                            
-       remark                 =  yes                                                                                                   
-fact   Govinda.5              =  Favorite Book is Hanuman Chalisa                                                                     
-       remark                 =  yes                                                                                                   
-fact   Govinda.6              =  Starred as the Coolie in the movie "Coolie No. 1"                                                    
-       remark                 =  yes                                                                                                   
-       
-photo  Gracy Singh            =  Gracy Singh                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Gracy Singh.jpg                                                      
-fact   Gracy Singh.0          =  Born in New Delhi                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Gracy Singh.1          =  Birthday is on the 20th of July                                                                      
-       remark                 =  yes                                                                                                   
-fact   Gracy Singh.2          =  Born in 1980                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Gracy Singh.3          =  Starred as the village girl Gauri in the Oscar nominated movie Lagaan                                
-       remark                 =  yes                                                                                                   
-       
-photo  Hrithik Roshan 1       =  Hrithik Roshan                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Hrithik Roshan 1.jpg                                                 
-fact   Hrithik Roshan 1.0     =  Also known as Duggu                                                                                  
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 1.1     =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 1.2     =  Birthday is on the 10th of January.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 1.3     =  Born in 1974                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 1.4     =  Also enjoys pondering Ayn Rand's famous book Fountain Head                                           
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 1.5     =  Likes Chinese food                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 1.6     =  Likes to holiday in London.                                                                          
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 1.7     =  Favorite perfume is Polo Sport                                                                       
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 1.8     =  Starred as the super hero Krishna Mehra in the movie "Krrish"                                        
-       remark                 =  yes                                                                                                   
-       
-photo  Hrithik Roshan 2       =  Hrithik Roshan                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Hrithik Roshan 2.jpg                                                 
-fact   Hrithik Roshan 2.0     =  Also known as Duggu                                                                                  
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 2.1     =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 2.2     =  Birthday is on the 10th of January.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 2.3     =  Born in 1974                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 2.4     =  Also enjoys pondering Ayn Rand's famous book Fountain Head                                           
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 2.5     =  Likes Chinese food                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 2.6     =  Likes to holiday in London.                                                                          
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 2.7     =  Favorite perfume is Polo Sport                                                                       
-       remark                 =  yes                                                                                                   
-fact   Hrithik Roshan 2.8     =  Starred as the super hero Krishna Mehra in the movie "Krrish"                                        
-       remark                 =  yes                                                                                                   
-       
-photo  Irrfan Khan            =  Irrfan Khan                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Irrfan Khan.jpg                                                      
-fact   Irrfan Khan.0          =  Born in Jaipur                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Irrfan Khan.1          =  Birthday is on the 30th of November                                                                  
-       remark                 =  yes                                                                                                   
-fact   Irrfan Khan.2          =  Born in 1967                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Irrfan Khan.3          =  Favorite colour is Blue                                                                              
-       remark                 =  yes                                                                                                   
-fact   Irrfan Khan.4          =  Starring role as hero in "Paan Singh Tomar"                                                          
-       remark                 =  yes                                                                                                   
-       
-photo  John Abraham           =  John Abraham                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/John Abraham.jpg                                                     
-fact   John Abraham.0         =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   John Abraham.1         =  Birthday is on the 17th of December                                                                  
-       remark                 =  yes                                                                                                   
-fact   John Abraham.2         =  Born in 1972                                                                                         
-       remark                 =  yes                                                                                                   
-fact   John Abraham.3         =  Likes to keep fit                                                                                    
-       remark                 =  yes                                                                                                   
-fact   John Abraham.4         =  Starred as the villan "Kabir" in "Dhoom"                                                             
-       remark                 =  yes                                                                                                   
-       
-photo  Juhi Chawla            =  Juhi Chawla                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Juhi Chawla.jpg                                                      
-fact   Juhi Chawla.0          =  Also known as Julie                                                                                  
-       remark                 =  yes                                                                                                   
-fact   Juhi Chawla.1          =  Born in: Ambala                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Juhi Chawla.2          =  Birthday is on the 13th of November                                                                  
-       remark                 =  yes                                                                                                   
-fact   Juhi Chawla.3          =  Born in 1967                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Juhi Chawla.4          =  Favorite perfume is Jean Paul Gautier                                                                
-       remark                 =  yes                                                                                                   
-fact   Juhi Chawla.5          =  Played "Rashmi Singh" in romantic movie "Qayamat Se Qayamat Tak"                                     
-       remark                 =  yes                                                                                                   
-       
-photo  Kabir Bedi 1           =  Kabir Bedi                                                                                            
-       url                    =  github://philiprbrenan/Bollywood/Kabir Bedi 1.jpg                                                     
-fact   Kabir Bedi 1.0         =  Born in Punjab.                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 1.1         =  Birthday is on the 16th of January.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 1.2         =  Born in 1946.                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 1.3         =  Likes to eat Fried Eggs                                                                              
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 1.4         =  Enjoys Batman movies                                                                                 
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 1.5         =  Starred as Sanjay Verma in the movie Khoon Bhari Maang                                               
-       remark                 =  yes                                                                                                   
-       
-photo  Kabir Bedi 2           =  Kabir Bedi                                                                                            
-       url                    =  github://philiprbrenan/Bollywood/Kabir Bedi 2.jpg                                                     
-fact   Kabir Bedi 2.0         =  Born in Punjab.                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 2.1         =  Birthday is on the 16th of January.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 2.2         =  Born in 1946.                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 2.3         =  Likes to eat Fried Eggs                                                                              
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 2.4         =  Enjoys Batman movies                                                                                 
-       remark                 =  yes                                                                                                   
-fact   Kabir Bedi 2.5         =  Starred as Sanjay Verma in the movie Khoon Bhari Maang                                               
-       remark                 =  yes                                                                                                   
-       
-photo  Kader Khan             =  Kader Khan                                                                                            
-       url                    =  github://philiprbrenan/Bollywood/Kader Khan.jpg                                                       
-fact   Kader Khan.0           =  Born in Pishin                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Kader Khan.1           =  Birthday is on the 22nd of October                                                                   
-       remark                 =  yes                                                                                                   
-fact   Kader Khan.2           =  Born in 1935                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Kader Khan.3           =  Starred in the movie "Coolie No. 1"                                                                  
-       remark                 =  yes                                                                                                   
-       
-photo  Kamal Haasan 1         =  Kamal Haasan                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Kamal Haasan 1.jpg                                                   
-fact   Kamal Haasan 1.0       =  Born in Paramakudi                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Kamal Haasan 1.1       =  Birthday is on the 7th of November                                                                   
-       remark                 =  yes                                                                                                   
-fact   Kamal Haasan 1.2       =  Born in 1954                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Kamal Haasan 1.3       =  Favorite food is fried Karimeen fish                                                                 
-       remark                 =  yes                                                                                                   
-fact   Kamal Haasan 1.4       =  Starred as Chandra Bose in the Tamil movie "Indian"                                                  
-       remark                 =  yes                                                                                                   
-       
-photo  Kamal Haasan 2         =  Kamal Haasan                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Kamal Haasan 2.jpg                                                   
-fact   Kamal Haasan 2.0       =  Born in Paramakudi                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Kamal Haasan 2.1       =  Birthday is on the 7th of November                                                                   
-       remark                 =  yes                                                                                                   
-fact   Kamal Haasan 2.2       =  Born in 1954                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Kamal Haasan 2.3       =  Favorite food is fried Karimeen fish                                                                 
-       remark                 =  yes                                                                                                   
-fact   Kamal Haasan 2.4       =  Starred as Chandra Bose in the Tamil movie "Indian"                                                  
-       remark                 =  yes                                                                                                   
-       
-photo  Kangana Ranaut         =  Kangana Ranaut                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Kangana Ranaut.jpg                                                   
-fact   Kangana Ranaut.0       =  Born in Bhambla                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Kangana Ranaut.1       =  Birthday is on the 23rd of March.                                                                    
-       remark                 =  yes                                                                                                   
-fact   Kangana Ranaut.2       =  Born in 1987                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Kangana Ranaut.3       =  Starred in the movie "Gangster"                                                                      
-       remark                 =  yes                                                                                                   
-       
-photo  Kareena Kapoor 1       =  Kareena Kapoor                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Kareena Kapoor 1.jpg                                                 
-fact   Kareena Kapoor 1.0     =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 1.1     =  Nickname is Bebo                                                                                     
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 1.2     =  Birthday is on 21st of September                                                                     
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 1.3     =  Born in 1980                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 1.4     =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 1.5     =  Likes to go shopping in London                                                                       
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 1.6     =  Favorite perfume is Cool Waters                                                                      
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 1.7     =  Starred as Geet in the movie Jab We Met                                                              
-       remark                 =  yes                                                                                                   
-       
-photo  Kareena Kapoor 2       =  Kareena Kapoor                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Kareena Kapoor 2.jpg                                                 
-fact   Kareena Kapoor 2.0     =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 2.1     =  Nickname is Bebo                                                                                     
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 2.2     =  Birthday is on 21st of September                                                                     
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 2.3     =  Born in 1980                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 2.4     =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 2.5     =  Likes to go shopping in London                                                                       
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 2.6     =  Favorite perfume is Cool Waters                                                                      
-       remark                 =  yes                                                                                                   
-fact   Kareena Kapoor 2.7     =  Starred as Geet in the movie Jab We Met                                                              
-       remark                 =  yes                                                                                                   
-       
-photo  Karisma Kapoor         =  Karisma Kapoor                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Karisma Kapoor.jpg                                                   
-fact   Karisma Kapoor.0       =  Also known as Lolo                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Karisma Kapoor.1       =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Karisma Kapoor.2       =  Birthday is on the 25th of June                                                                      
-       remark                 =  yes                                                                                                   
-fact   Karisma Kapoor.3       =  Born in 1974                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Karisma Kapoor.4       =  Favorite food is Sizzlers                                                                            
-       remark                 =  yes                                                                                                   
-fact   Karisma Kapoor.5       =  Favorite colour is Baby Pink                                                                         
-       remark                 =  yes                                                                                                   
-fact   Karisma Kapoor.6       =  Likes to holiday in Italy and in London                                                              
-       remark                 =  yes                                                                                                   
-fact   Karisma Kapoor.7       =  Favorite perfume is Marc Jacobs                                                                      
-       remark                 =  yes                                                                                                   
-fact   Karisma Kapoor.8       =  Starred as the tourist girl "Aarti Sehgal" in "Raja Hindustani"                                      
-       remark                 =  yes                                                                                                   
-       
-photo  Katrina Kaif           =  Katrina Kaif                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Katrina Kaif.jpg                                                     
-fact   Katrina Kaif.0         =  Also known as Kat                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Katrina Kaif.1         =  Born in Hong Kong                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Katrina Kaif.2         =  Birthday is on the 16th of July                                                                      
-       remark                 =  yes                                                                                                   
-fact   Katrina Kaif.3         =  Born in 1984                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Katrina Kaif.4         =  Likes to listen to Muse, Radiohead and Coldplay                                                      
-       remark                 =  yes                                                                                                   
-fact   Katrina Kaif.5         =  Enjoys watching Irfan Pathan play cricket.                                                           
-       remark                 =  yes                                                                                                   
-fact   Katrina Kaif.6         =  Favorite movies are Umrao Jaan (1981), Casablanca (1942), and Gone with the Wind (1939).             
-       remark                 =  yes                                                                                                   
-fact   Katrina Kaif.7         =  Starred as the Lady Politician in "RaajNeeti"                                                        
-       remark                 =  yes                                                                                                   
-       
-photo  Kay Kay Menon          =  Kay Kay Menon                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Kay Kay Menon.jpg                                                    
-fact   Kay Kay Menon.0        =  Born in Kerala                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Kay Kay Menon.1        =  Birthday is on the 1st of January                                                                    
-       remark                 =  yes                                                                                                   
-fact   Kay Kay Menon.2        =  Starred as Vishnu in the movie Sarkar                                                                
-       remark                 =  yes                                                                                                   
-       
-photo  Lara Dutta Bhupathi    =  Lara Dutta Bhupathi                                                                                   
-       url                    =  github://philiprbrenan/Bollywood/Lara Dutta Bhupathi.jpg                                              
-fact   Lara Dutta Bhupathi.0  =  Born in Ghaziabad                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Lara Dutta Bhupathi.1  =  Birthday is on the 16th of April                                                                     
-       remark                 =  yes                                                                                                   
-fact   Lara Dutta Bhupathi.2  =  Born in 1978                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Lara Dutta Bhupathi.3  =  Loves Italian food.                                                                                  
-       remark                 =  yes                                                                                                   
-fact   Lara Dutta Bhupathi.4  =  Enjoys listening to Mozart                                                                           
-       remark                 =  yes                                                                                                   
-fact   Lara Dutta Bhupathi.5  =  Favorite colour is Black                                                                             
-       remark                 =  yes                                                                                                   
-fact   Lara Dutta Bhupathi.6  =  Likes to holiday in Italy                                                                            
-       remark                 =  yes                                                                                                   
-fact   Lara Dutta Bhupathi.7  =  Favorite Perfume is Baby Doll by Yves St Laurent                                                     
-       remark                 =  yes                                                                                                   
-fact   Lara Dutta Bhupathi.8  =  Starred as "Kajal" in "Andaaz"                                                                       
-       remark                 =  yes                                                                                                   
-       
-photo  Madhuri Dixit          =  Madhuri Dixit                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Madhuri Dixit.jpg                                                    
-fact   Madhuri Dixit.0        =  Also called the Dhak-Dhak Girl                                                                       
-       remark                 =  yes                                                                                                   
-fact   Madhuri Dixit.1        =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Madhuri Dixit.2        =  Birthday is on the 15th of May                                                                       
-       remark                 =  yes                                                                                                   
-fact   Madhuri Dixit.3        =  Born in 1967                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Madhuri Dixit.4        =  Loves to eat Maharashtrian food                                                                      
-       remark                 =  yes                                                                                                   
-fact   Madhuri Dixit.5        =  Starred as the dancer "Mohini" in the movie "Tezaab"                                                 
-       remark                 =  yes                                                                                                   
-fact   Madhuri Dixit.6        =  Holds the record for the highest number of Best Actress nominations (13)                             
-       remark                 =  yes                                                                                                   
-       
-photo  Mallika Sherawat       =  Mallika Sherawat                                                                                      
-       url                    =  github://philiprbrenan/Bollywood/Mallika Sherawat.jpg                                                 
-fact   Mallika Sherawat.0     =  Born in Rohtak                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Mallika Sherawat.1     =  Birthday is on the 24th of October                                                                   
-       remark                 =  yes                                                                                                   
-fact   Mallika Sherawat.2     =  Born in 1976                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Mallika Sherawat.3     =  Starred as Simran in the movie Murder                                                                
-       remark                 =  yes                                                                                                   
-       
-photo  Minissha Lamba         =  Minissha Lamba                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Minissha Lamba.jpg                                                   
-fact   Minissha Lamba.0       =  Born in New Delhi                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Minissha Lamba.1       =  Birthday is on the 18th of January.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Minissha Lamba.2       =  Born in 1985                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Minissha Lamba.3       =  Likes to eat Kiwi fruit                                                                              
-       remark                 =  yes                                                                                                   
-fact   Minissha Lamba.4       =  Starred as the Kashmiri girl "Adaa" in "Yahaan"                                                      
-       remark                 =  yes                                                                                                   
-       
-photo  Mithun Chakraborty     =  Mithun Chakraborty                                                                                    
-       url                    =  github://philiprbrenan/Bollywood/Mithun Chakraborty.jpg                                               
-fact   Mithun Chakraborty.0   =  Also known as Gouranga                                                                               
-       remark                 =  yes                                                                                                   
-fact   Mithun Chakraborty.1   =  Born in Kolkata                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Mithun Chakraborty.2   =  Birthday is on the 16th of June                                                                      
-       remark                 =  yes                                                                                                   
-fact   Mithun Chakraborty.3   =  Born in 1950                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Mithun Chakraborty.4   =  Loves to drink Benson and Hezes wine                                                                 
-       remark                 =  yes                                                                                                   
-fact   Mithun Chakraborty.5   =  Starred as the Disco Dancer in the musical drama film: "Disco Dancer" (1980)                         
-       remark                 =  yes                                                                                                   
-       
-photo  Nandita Das            =  Nandita Das                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Nandita Das.jpg                                                      
-fact   Nandita Das.0          =  Born in New Delhi                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Nandita Das.1          =  Birthday is on the 7th of November.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Nandita Das.2          =  Born in 1969.                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Nandita Das.3          =  Loves the book Gone With The Wind                                                                    
-       remark                 =  yes                                                                                                   
-fact   Nandita Das.4          =  Likes to eat Thai food                                                                               
-       remark                 =  yes                                                                                                   
-fact   Nandita Das.5          =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Nandita Das.6          =  Favorite perfume is Anais-Anais                                                                      
-       remark                 =  yes                                                                                                   
-fact   Nandita Das.7          =  Starred as Sanwari in the movie Bawandar                                                             
-       remark                 =  yes                                                                                                   
-       
-photo  Neetu Singh            =  Neetu Singh                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Neetu Singh.jpg                                                      
-fact   Neetu Singh.0          =  Born in Delhi                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Neetu Singh.1          =  Birthday is on 8th of July.                                                                          
-       remark                 =  yes                                                                                                   
-fact   Neetu Singh.2          =  Born in 1958                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Neetu Singh.3          =  Starred as the Jewellery seller in the movie Kaala Patthar                                           
-       remark                 =  yes                                                                                                   
-       
-photo  Preity Zinta           =  Preity Zinta                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Preity Zinta.jpg                                                     
-fact   Preity Zinta.0         =  Born in Shimla                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Preity Zinta.1         =  Birthday is on the 31st of January                                                                   
-       remark                 =  yes                                                                                                   
-fact   Preity Zinta.2         =  Born in 1975                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Preity Zinta.3         =  Likes to holiday in Australia                                                                        
-       remark                 =  yes                                                                                                   
-fact   Preity Zinta.4         =  Favorite perfume is Anna Sui                                                                         
-       remark                 =  yes                                                                                                   
-fact   Preity Zinta.5         =  Starred as "Priya Bakshi" in "Kya Kahna"                                                             
-       remark                 =  yes                                                                                                   
-       
-photo  Priyanka Chopra 1      =  Priyanka Chopra                                                                                       
-       url                    =  github://philiprbrenan/Bollywood/Priyanka Chopra 1.jpg                                                
-fact   Priyanka Chopra 1.0    =  Also known as Piggy Chops                                                                            
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 1.1    =  Born in Jamshedpur                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 1.2    =  Birthday is on the 18th of July                                                                      
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 1.3    =  Born in 1982                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 1.4    =  Loves their Tag Heuer Link Diamond watch                                                             
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 1.5    =  Played the Villan in AitRaaz                                                                         
-       remark                 =  yes                                                                                                   
-       
-photo  Priyanka Chopra 2      =  Priyanka Chopra                                                                                       
-       url                    =  github://philiprbrenan/Bollywood/Priyanka Chopra 2.jpg                                                
-fact   Priyanka Chopra 2.0    =  Also known as Piggy Chops                                                                            
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 2.1    =  Born in Jamshedpur                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 2.2    =  Birthday is on the 18th of July                                                                      
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 2.3    =  Born in 1982                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 2.4    =  Loves their Tag Heuer Link Diamond watch                                                             
-       remark                 =  yes                                                                                                   
-fact   Priyanka Chopra 2.5    =  Played the Villan in AitRaaz                                                                         
-       remark                 =  yes                                                                                                   
-       
-photo  Rakesh Roshan          =  Rakesh Roshan                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Rakesh Roshan.jpg                                                    
-fact   Rakesh Roshan.0        =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Rakesh Roshan.1        =  Birthday is on the 6th of September                                                                  
-       remark                 =  yes                                                                                                   
-fact   Rakesh Roshan.2        =  Born in 1949                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Rakesh Roshan.3        =  Starred as Vikram Saxena in the movie Khoon Bhari Maang                                              
-       remark                 =  yes                                                                                                   
-       
-photo  Ranbir Kapoor          =  Ranbir Kapoor                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Ranbir Kapoor.jpg                                                    
-fact   Ranbir Kapoor.0        =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Ranbir Kapoor.1        =  Birthday is on the 28th of September                                                                 
-       remark                 =  yes                                                                                                   
-fact   Ranbir Kapoor.2        =  Born in 1982                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Ranbir Kapoor.3        =  Favorite Book is "Songs My Mother Taught Me" by Marlon Brando                                        
-       remark                 =  yes                                                                                                   
-fact   Ranbir Kapoor.4        =  Loves to eat Italian food                                                                            
-       remark                 =  yes                                                                                                   
-fact   Ranbir Kapoor.5        =  Played the rock-star "Jordan" in "Rockstar"                                                          
-       remark                 =  yes                                                                                                   
-       
-photo  Rani Mukherji          =  Rani Mukherji                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Rani Mukherji.jpg                                                    
-fact   Rani Mukherji.0        =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Rani Mukherji.1        =  Birthday is on the 21th of March                                                                     
-       remark                 =  yes                                                                                                   
-fact   Rani Mukherji.2        =  Born in 1978                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Rani Mukherji.3        =  Favorite colour is Baby Pink                                                                         
-       remark                 =  yes                                                                                                   
-fact   Rani Mukherji.4        =  Likes to holiday in London                                                                           
-       remark                 =  yes                                                                                                   
-fact   Rani Mukherji.5        =  Favorite perfume is Dune                                                                             
-       remark                 =  yes                                                                                                   
-fact   Rani Mukherji.6        =  Starred as "Dr. Suhani Sharma" in the movie "Saathiya"                                               
-       remark                 =  yes                                                                                                   
-       
-photo  Raveena Tandon         =  Raveena Tandon                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Raveena Tandon.jpg                                                   
-fact   Raveena Tandon.0       =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Raveena Tandon.1       =  Birthday is on the 26th of October                                                                   
-       remark                 =  yes                                                                                                   
-fact   Raveena Tandon.2       =  Born in 1974                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Raveena Tandon.3       =  Favorite authors are Jeffrey Archer and Sidney Sheldon                                               
-       remark                 =  yes                                                                                                   
-fact   Raveena Tandon.4       =  Loves to listen to Ravi Shankar play the sitar                                                       
-       remark                 =  yes                                                                                                   
-fact   Raveena Tandon.5       =  Likes to holiday in Mauritius                                                                        
-       remark                 =  yes                                                                                                   
-fact   Raveena Tandon.6       =  Favorite perfume is Jean Paul Gautier's Lady Model                                                   
-       remark                 =  yes                                                                                                   
-fact   Raveena Tandon.7       =  Starred as "Durga" in movie "Daman: A Victim of Marital Violence"                                    
-       remark                 =  yes                                                                                                   
-fact   Raveena Tandon.8       =  National Film Award for Best Actress                                                                 
-       remark                 =  yes                                                                                                   
-       
-photo  Rekha                  =  Rekha                                                                                                 
-       url                    =  github://philiprbrenan/Bollywood/Rekha.jpg                                                            
-fact   Rekha.0                =  Born in Chennai                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Rekha.1                =  Birthday is on the 10th of October                                                                   
-       remark                 =  yes                                                                                                   
-fact   Rekha.2                =  Favorite perfume is Elizabeth Taylor's Diamonds                                                      
-       remark                 =  yes                                                                                                   
-fact   Rekha.3                =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Rekha.4                =  Favourite actress is Sophia Loren                                                                    
-       remark                 =  yes                                                                                                   
-fact   Rekha.5                =  Starred as "Amiran" in "Umrao Jaan"                                                                  
-       remark                 =  yes                                                                                                   
-       
-photo  Riteish Deshmukh       =  Riteish Deshmukh                                                                                      
-       url                    =  github://philiprbrenan/Bollywood/Riteish Deshmukh.jpg                                                 
-fact   Riteish Deshmukh.0     =  Born in Latur                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Riteish Deshmukh.1     =  Birthday is on the 17th of December                                                                  
-       remark                 =  yes                                                                                                   
-fact   Riteish Deshmukh.2     =  Born in 1978                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Riteish Deshmukh.3     =  Favorite food is Misal-pav                                                                           
-       remark                 =  yes                                                                                                   
-fact   Riteish Deshmukh.4     =  Favorite colour is Blue                                                                              
-       remark                 =  yes                                                                                                   
-fact   Riteish Deshmukh.5     =  Likes to holiday in the USA                                                                          
-       remark                 =  yes                                                                                                   
-fact   Riteish Deshmukh.6     =  Favorite holiday spot is New York                                                                    
-       remark                 =  yes                                                                                                   
-fact   Riteish Deshmukh.7     =  Starred as "Dittu" in "BluffMaster"                                                                  
-       remark                 =  yes                                                                                                   
-       
-photo  Sagarika Ghatge        =  Sagarika Ghatge                                                                                       
-       url                    =  github://philiprbrenan/Bollywood/Sagarika Ghatge.jpg                                                  
-fact   Sagarika Ghatge.0      =  Born in Kolhapur                                                                                     
-       remark                 =  yes                                                                                                   
-fact   Sagarika Ghatge.1      =  Birthday is on the 8th of January                                                                    
-       remark                 =  yes                                                                                                   
-fact   Sagarika Ghatge.2      =  Born in 1986                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Sagarika Ghatge.3      =  Starred as the hockey player Preeti Sabarwal in the movie Chak De India                              
-       remark                 =  yes                                                                                                   
-       
-photo  Saif Ali Khan          =  Saif Ali Khan                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Saif Ali Khan.jpg                                                    
-fact   Saif Ali Khan.0        =  Born in New Delhi                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Saif Ali Khan.1        =  Birthday is on the 16th of August                                                                    
-       remark                 =  yes                                                                                                   
-fact   Saif Ali Khan.2        =  Born in 1970                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Saif Ali Khan.3        =  Favourite colour is Brown                                                                            
-       remark                 =  yes                                                                                                   
-fact   Saif Ali Khan.4        =  Likes to holiday in London                                                                           
-       remark                 =  yes                                                                                                   
-fact   Saif Ali Khan.5        =  Favourite perfume is Chanel                                                                          
-       remark                 =  yes                                                                                                   
-fact   Saif Ali Khan.6        =  Starred as "Deepak Kumar" in "Main Khiladi Tu Anari"                                                 
-       remark                 =  yes                                                                                                   
-       
-photo  Salman Khan            =  Salman Khan                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Salman Khan.jpg                                                      
-fact   Salman Khan.0          =  Also known as Sallu                                                                                  
-       remark                 =  yes                                                                                                   
-fact   Salman Khan.1          =  Born in Indore                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Salman Khan.2          =  Birthday is on the 27th of December.                                                                 
-       remark                 =  yes                                                                                                   
-fact   Salman Khan.3          =  Born in 1965.                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Salman Khan.4          =  Likes to holiday in London                                                                           
-       remark                 =  yes                                                                                                   
-fact   Salman Khan.5          =  Loves to eat Chicken Biryani in Bricklane, London.                                                   
-       remark                 =  yes                                                                                                   
-fact   Salman Khan.6          =  Starred as Prem in the romance "Maine Pyar Kiya"                                                     
-       remark                 =  yes                                                                                                   
-       
-photo  Sanjay Dutt            =  Sanjay Dutt                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Sanjay Dutt.jpg                                                      
-fact   Sanjay Dutt.0          =  Also known as Sanju Baba                                                                             
-       remark                 =  yes                                                                                                   
-fact   Sanjay Dutt.1          =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Sanjay Dutt.2          =  Birthday is on the 29th of July                                                                      
-       remark                 =  yes                                                                                                   
-fact   Sanjay Dutt.3          =  Born in 1959                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Sanjay Dutt.4          =  Likes to holiday in Hollywood, USA.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Sanjay Dutt.5          =  Starred as "Vicky Kapoor" in the movie "Naam"                                                        
-       remark                 =  yes                                                                                                   
-       
-photo  Shabana Azmi           =  Shabana Azmi                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Shabana Azmi.jpg                                                     
-fact   Shabana Azmi.0         =  Born in Azamgarh                                                                                     
-       remark                 =  yes                                                                                                   
-fact   Shabana Azmi.1         =  Birthday is on the 18th of September                                                                 
-       remark                 =  yes                                                                                                   
-fact   Shabana Azmi.2         =  Born in 1951                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Shabana Azmi.3         =  Starred as Rambhi in the movie God Mother                                                            
-       remark                 =  yes                                                                                                   
-       
-photo  Shah Rukh Khan 1       =  Shah Rukh Khan                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Shah Rukh Khan 1.jpg                                                 
-fact   Shah Rukh Khan 1.0     =  Born in New Delhi                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 1.1     =  Birthday is on the 2nd of November                                                                   
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 1.2     =  Born in 1965                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 1.3     =  Favorite book is The Hitch-Hiker's Guide To The Galaxy by Douglas Adams.                             
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 1.4     =  Likes to drink Pepsi Cola                                                                            
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 1.5     =  Likes to eat Tandoori Chicken                                                                        
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 1.6     =  Starred as the Villain in "Darr"                                                                     
-       remark                 =  yes                                                                                                   
-       
-photo  Shah Rukh Khan 2       =  Shah Rukh Khan                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Shah Rukh Khan 2.jpg                                                 
-fact   Shah Rukh Khan 2.0     =  Born in New Delhi                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 2.1     =  Birthday is on the 2nd of November                                                                   
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 2.2     =  Born in 1965                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 2.3     =  Favorite book is The Hitch-Hiker's Guide To The Galaxy by Douglas Adams.                             
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 2.4     =  Likes to drink Pepsi Cola                                                                            
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 2.5     =  Likes to eat Tandoori Chicken                                                                        
-       remark                 =  yes                                                                                                   
-fact   Shah Rukh Khan 2.6     =  Starred as the Villain in "Darr"                                                                     
-       remark                 =  yes                                                                                                   
-       
-photo  Sharman Joshi          =  Sharman Joshi                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Sharman Joshi.jpg                                                    
-fact   Sharman Joshi.0        =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.1        =  Birthday is on the 17th of March                                                                     
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.2        =  Born in 1979                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.3        =  Favorite book is Jonathan Livingstone Seagull                                                        
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.4        =  Favorite food is Gujarati, especially khandvi and dhoklas                                            
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.5        =  Likes to listen Pop and Hindi music                                                                  
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.6        =  Favorite colour is Black                                                                             
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.7        =  Likes to holiday in London and in Goa                                                                
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.8        =  Favorite perfume is Polo Sport                                                                       
-       remark                 =  yes                                                                                                   
-fact   Sharman Joshi.9        =  Starred as "Laxman" in "Golmaal"                                                                     
-       remark                 =  yes                                                                                                   
-       
-photo  Shilpa Shetty          =  Shilpa Shetty                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Shilpa Shetty.jpg                                                    
-fact   Shilpa Shetty.0        =  Born in Manglore                                                                                     
-       remark                 =  yes                                                                                                   
-fact   Shilpa Shetty.1        =  Birthday is on the 8th of June.                                                                      
-       remark                 =  yes                                                                                                   
-fact   Shilpa Shetty.2        =  Born in 1972.                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Shilpa Shetty.3        =  Likes to holiday in Switzerland                                                                      
-       remark                 =  yes                                                                                                   
-fact   Shilpa Shetty.4        =  Favorite Perfume: Green Tea by Elizabeth Arden                                                       
-       remark                 =  yes                                                                                                   
-fact   Shilpa Shetty.5        =  Starred as "Anjali" in "Dhadkan".                                                                    
-       remark                 =  yes                                                                                                   
-       
-photo  Sonakshi Sinha         =  Sonakshi Sinha                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Sonakshi Sinha.jpg                                                   
-fact   Sonakshi Sinha.0       =  Also known as Sona                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Sonakshi Sinha.1       =  Born in Patna                                                                                        
-       remark                 =  yes                                                                                                   
-fact   Sonakshi Sinha.2       =  Birthday is on the 2nd of June                                                                       
-       remark                 =  yes                                                                                                   
-fact   Sonakshi Sinha.3       =  Born in 1987                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Sonakshi Sinha.4       =  Loves Thai food                                                                                      
-       remark                 =  yes                                                                                                   
-fact   Sonakshi Sinha.5       =  Favorite Comedian is Russell Peters                                                                  
-       remark                 =  yes                                                                                                   
-fact   Sonakshi Sinha.6       =  Favorite Book is The Da Vinci Code                                                                   
-       remark                 =  yes                                                                                                   
-fact   Sonakshi Sinha.7       =  Likes to listen to Rock, Acid-Jazz, Hip-Hop, House and Bollywood                                     
-       remark                 =  yes                                                                                                   
-fact   Sonakshi Sinha.8       =  Starred as "Rajjo" in the blockbuster "Dabangg"                                                      
-       remark                 =  yes                                                                                                   
-       
-photo  Sonu Nigam             =  Sonu Nigam                                                                                            
-       url                    =  github://philiprbrenan/Bollywood/Sonu Nigam.jpg                                                       
-fact   Sonu Nigam.0           =  Born in Faridabad                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Sonu Nigam.1           =  Birthday is on the 30th of July.                                                                     
-       remark                 =  yes                                                                                                   
-fact   Sonu Nigam.2           =  Born in 1973                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Sonu Nigam.3           =  Starred as Abby in the movie Love In Nepal                                                           
-       remark                 =  yes                                                                                                   
-       
-photo  Sridevi Kapoor         =  Sridevi Kapoor                                                                                        
-       url                    =  github://philiprbrenan/Bollywood/Sridevi Kapoor.jpg                                                   
-fact   Sridevi Kapoor.0       =  Also called Puppy                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Sridevi Kapoor.1       =  Also called Hawa Hawai                                                                               
-       remark                 =  yes                                                                                                   
-fact   Sridevi Kapoor.2       =  Born in Sivakasi                                                                                     
-       remark                 =  yes                                                                                                   
-fact   Sridevi Kapoor.3       =  Birthday is on the 13th of August                                                                    
-       remark                 =  yes                                                                                                   
-fact   Sridevi Kapoor.4       =  Born in 1963                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Sridevi Kapoor.5       =  Loves platinum jewelery                                                                              
-       remark                 =  yes                                                                                                   
-fact   Sridevi Kapoor.6       =  Likes to watch Tom and Jerry cartoons                                                                
-       remark                 =  yes                                                                                                   
-fact   Sridevi Kapoor.7       =  Favorite author is John Grisham.                                                                     
-       remark                 =  yes                                                                                                   
-fact   Sridevi Kapoor.8       =  Starred as the Journalist in "Mr. India" which gave her nickname "Hawa Hawai"                        
-       remark                 =  yes                                                                                                   
-       
-photo  Sushmita Sen           =  Sushmita Sen                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Sushmita Sen.jpg                                                     
-fact   Sushmita Sen.0         =  Born in Hyderabad                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Sushmita Sen.1         =  Birthday is on the 19th of November.                                                                 
-       remark                 =  yes                                                                                                   
-fact   Sushmita Sen.2         =  Born in 1975                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Sushmita Sen.3         =  Favorite colour is Black                                                                             
-       remark                 =  yes                                                                                                   
-fact   Sushmita Sen.4         =  Likes to holiday in the USA                                                                          
-       remark                 =  yes                                                                                                   
-fact   Sushmita Sen.5         =  Favorite perfume is Red Door by Elizabeth Arden                                                      
-       remark                 =  yes                                                                                                   
-fact   Sushmita Sen.6         =  Starred as "Aarti" in "Zor"                                                                          
-       remark                 =  yes                                                                                                   
-       
-photo  Tabu 1                 =  Tabu                                                                                                  
-       url                    =  github://philiprbrenan/Bollywood/Tabu 1.jpg                                                           
-fact   Tabu 1.0               =  Born in Hyderabad                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Tabu 1.1               =  Birthday is on the 4th of November.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Tabu 1.2               =  Born in 1971                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Tabu 1.3               =  Loves the colour Pink                                                                                
-       remark                 =  yes                                                                                                   
-fact   Tabu 1.4               =  Favorite flower is a Rose                                                                            
-       remark                 =  yes                                                                                                   
-fact   Tabu 1.5               =  Enjoys visiting Kashmir                                                                              
-       remark                 =  yes                                                                                                   
-fact   Tabu 1.6               =  Likes to holiday in Switzerland                                                                      
-       remark                 =  yes                                                                                                   
-fact   Tabu 1.7               =  Starred as the dancer "Mumtaz Ali Ansari" in the movie "Chandni Bar"                                 
-       remark                 =  yes                                                                                                   
-fact   Tabu 1.8               =  Two National Film Awards for Best Actress                                                            
-       remark                 =  yes                                                                                                   
-       
-photo  Tabu 2                 =  Tabu                                                                                                  
-       url                    =  github://philiprbrenan/Bollywood/Tabu 2.jpg                                                           
-fact   Tabu 2.0               =  Born in Hyderabad                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Tabu 2.1               =  Birthday is on the 4th of November.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Tabu 2.2               =  Born in 1971                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Tabu 2.3               =  Loves the colour Pink                                                                                
-       remark                 =  yes                                                                                                   
-fact   Tabu 2.4               =  Favorite flower is a Rose                                                                            
-       remark                 =  yes                                                                                                   
-fact   Tabu 2.5               =  Enjoys visiting Kashmir                                                                              
-       remark                 =  yes                                                                                                   
-fact   Tabu 2.6               =  Likes to holiday in Switzerland                                                                      
-       remark                 =  yes                                                                                                   
-fact   Tabu 2.7               =  Starred as the dancer "Mumtaz Ali Ansari" in the movie "Chandni Bar"                                 
-       remark                 =  yes                                                                                                   
-fact   Tabu 2.8               =  Two National Film Awards for Best Actress                                                            
-       remark                 =  yes                                                                                                   
-       
-photo  Udita Goswami          =  Udita Goswami                                                                                         
-       url                    =  github://philiprbrenan/Bollywood/Udita Goswami.jpg                                                    
-fact   Udita Goswami.0        =  Born in Dehradun                                                                                     
-       remark                 =  yes                                                                                                   
-fact   Udita Goswami.1        =  Birthday is on the 9th of February                                                                   
-       remark                 =  yes                                                                                                   
-fact   Udita Goswami.2        =  Born in 1985                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Udita Goswami.3        =  Favorite colour is White                                                                             
-       remark                 =  yes                                                                                                   
-fact   Udita Goswami.4        =  Likes to holiday in Italy                                                                            
-       remark                 =  yes                                                                                                   
-fact   Udita Goswami.5        =  Favorite holiday spot: Rome                                                                          
-       remark                 =  yes                                                                                                   
-fact   Udita Goswami.6        =  Favorite perfume is Red Door by Elizabeth Arden                                                      
-       remark                 =  yes                                                                                                   
-fact   Udita Goswami.7        =  Starred as the police inspector "Anna" in "Zeher"                                                    
-       remark                 =  yes                                                                                                   
-       
-photo  Urmila Matondkar       =  Urmila Matondkar                                                                                      
-       url                    =  github://philiprbrenan/Bollywood/Urmila Matondkar.jpg                                                 
-fact   Urmila Matondkar.0     =  Born in Mumbai                                                                                       
-       remark                 =  yes                                                                                                   
-fact   Urmila Matondkar.1     =  Birthday is on the 4th of February.                                                                  
-       remark                 =  yes                                                                                                   
-fact   Urmila Matondkar.2     =  Born in 1974                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Urmila Matondkar.3     =  Loves to holiday in Vancouver, Canada                                                                
-       remark                 =  yes                                                                                                   
-fact   Urmila Matondkar.4     =  Favorite perfume is Contradiction                                                                    
-       remark                 =  yes                                                                                                   
-fact   Urmila Matondkar.5     =  Starred as the dancer "Mili Joshi" in "Rangeela"                                                     
-       remark                 =  yes                                                                                                   
-       
-photo  Vidya Balan 1          =  Vidya Balan                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Vidya Balan 1.jpg                                                    
-fact   Vidya Balan 1.0        =  Born in Ottapalam                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 1.1        =  Birthday is on the 1st of January                                                                    
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 1.2        =  Born in 1978                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 1.3        =  Favorite Perfume is Elizabeth Arden                                                                  
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 1.4        =  Likes to drink coffee                                                                                
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 1.5        =  Likes to eat chikkis                                                                                 
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 1.6        =  Starred as "Sabrina Lal" in "No One Killed Jessica"                                                  
-       remark                 =  yes                                                                                                   
-       
-photo  Vidya Balan 3          =  Vidya Balan                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Vidya Balan 3.jpg                                                    
-fact   Vidya Balan 3.0        =  Born in Ottapalam                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 3.1        =  Birthday is on the 1st of January                                                                    
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 3.2        =  Born in 1978                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 3.3        =  Favorite Perfume is Elizabeth Arden                                                                  
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 3.4        =  Likes to drink coffee                                                                                
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 3.5        =  Likes to eat chikkis                                                                                 
-       remark                 =  yes                                                                                                   
-fact   Vidya Balan 3.6        =  Starred as "Sabrina Lal" in "No One Killed Jessica"                                                  
-       remark                 =  yes                                                                                                   
-       
-photo  Vivek Oberoi           =  Vivek Oberoi                                                                                          
-       url                    =  github://philiprbrenan/Bollywood/Vivek Oberoi.jpg                                                     
-fact   Vivek Oberoi.0         =  Born in Hyderabad                                                                                    
-       remark                 =  yes                                                                                                   
-fact   Vivek Oberoi.1         =  Birthday is on the 3rd of September                                                                  
-       remark                 =  yes                                                                                                   
-fact   Vivek Oberoi.2         =  Also enjoys pondering Ayn Rand's famous book Fountain Head                                           
-       remark                 =  yes                                                                                                   
-fact   Vivek Oberoi.3         =  Favorite food is Dal-chawl                                                                           
-       remark                 =  yes                                                                                                   
-fact   Vivek Oberoi.4         =  Favorite colour is Brown                                                                             
-       remark                 =  yes                                                                                                   
-fact   Vivek Oberoi.5         =  Likes to holiday in France                                                                           
-       remark                 =  yes                                                                                                   
-fact   Vivek Oberoi.6         =  Favorite perfume is Iceberg                                                                          
-       remark                 =  yes                                                                                                   
-fact   Vivek Oberoi.7         =  Starred as "Chandu" in the blockbuster movie "Company"                                               
-       remark                 =  yes                                                                                                   
-       
-photo  Yami Gautam 1          =  Yami Gautam                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Yami Gautam 1.jpg                                                    
-fact   Yami Gautam 1.0        =  Born in Chandigarh                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Yami Gautam 1.1        =  Birthday is on the 28th of November                                                                  
-       remark                 =  yes                                                                                                   
-fact   Yami Gautam 1.2        =  Born in 1988                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Yami Gautam 1.3        =  Favorite Perfumes are Dior's J'Adore and Calvin Klein's Forbidden Euphoria                           
-       remark                 =  yes                                                                                                   
-fact   Yami Gautam 1.4        =  Starred as "Ashima" in "Vicky Donor"                                                                 
-       remark                 =  yes                                                                                                   
-       
-photo  Yami Gautam 2          =  Yami Gautam                                                                                           
-       url                    =  github://philiprbrenan/Bollywood/Yami Gautam 2.jpg                                                    
-fact   Yami Gautam 2.0        =  Born in Chandigarh                                                                                   
-       remark                 =  yes                                                                                                   
-fact   Yami Gautam 2.1        =  Birthday is on the 28th of November                                                                  
-       remark                 =  yes                                                                                                   
-fact   Yami Gautam 2.2        =  Born in 1988                                                                                         
-       remark                 =  yes                                                                                                   
-fact   Yami Gautam 2.3        =  Favorite Perfumes are Dior's J'Adore and Calvin Klein's Forbidden Euphoria                           
-       remark                 =  yes                                                                                                   
-fact   Yami Gautam 2.4        =  Starred as "Ashima" in "Vicky Donor"                                                                 
-       remark                 =  yes                                                                                                   
+photo  Aftab.Shivdasani     =  Aftab Shivdasani                                          
+       url                  =  github://philiprbrenan/Bollywood/Aftab Shivdasani.jpg     
+       
+photo  Aishwarya.Rai.1      =  Aishwarya Rai                                             
+       url                  =  github://philiprbrenan/Bollywood/Aishwarya Rai 1.jpg      
+       
+photo  Aishwarya.Rai.2      =  Aishwarya Rai                                             
+       url                  =  github://philiprbrenan/Bollywood/Aishwarya Rai 2.jpg      
+       
+photo  Aishwarya.Rai.3      =  Aishwarya Rai                                             
+       url                  =  github://philiprbrenan/Bollywood/Aishwarya Rai 3.jpg      
+       
+photo  Ajay.Devgan          =  Ajay Devgan                                               
+       url                  =  github://philiprbrenan/Bollywood/Ajay Devgan.jpg          
+       
+photo  Akshay.Kumar         =  Akshay Kumar                                              
+       url                  =  github://philiprbrenan/Bollywood/Akshay Kumar.jpg         
+       
+photo  Ameesha.Patel        =  Ameesha Patel                                             
+       url                  =  github://philiprbrenan/Bollywood/Ameesha Patel.jpg        
+       
+photo  Amitabh.Bachchan.1   =  Amitabh Bachchan                                          
+       url                  =  github://philiprbrenan/Bollywood/Amitabh Bachchan 1.jpg   
+       
+photo  Amitabh.Bachchan.2   =  Amitabh Bachchan                                          
+       url                  =  github://philiprbrenan/Bollywood/Amitabh Bachchan 2.jpg   
+       
+photo  Amrita.Rao.1         =  Amrita Rao                                                
+       url                  =  github://philiprbrenan/Bollywood/Amrita Rao 1.jpg         
+       
+photo  Amrita.Rao.2         =  Amrita Rao                                                
+       url                  =  github://philiprbrenan/Bollywood/Amrita Rao 2.jpg         
+       
+photo  Arjun.Rampal         =  Arjun Rampal                                              
+       url                  =  github://philiprbrenan/Bollywood/Arjun Rampal.jpg         
+       
+photo  Asin.Thottumkal.1    =  Asin Thottumkal                                           
+       url                  =  github://philiprbrenan/Bollywood/Asin Thottumkal 1.jpg    
+       
+photo  Asin.Thottumkal.2    =  Asin Thottumkal                                           
+       url                  =  github://philiprbrenan/Bollywood/Asin Thottumkal 2.jpg    
+       
+photo  Asin.Thottumkal.3    =  Asin Thottumkal                                           
+       url                  =  github://philiprbrenan/Bollywood/Asin Thottumkal 3.jpg    
+       
+photo  Ayesha.Takia         =  Ayesha Takia                                              
+       url                  =  github://philiprbrenan/Bollywood/Ayesha Takia.jpg         
+       
+photo  Bhagyashree          =  Bhagyashree                                               
+       url                  =  github://philiprbrenan/Bollywood/Bhagyashree.jpg          
+       
+photo  Bipasha.Basu         =  Bipasha Basu                                              
+       url                  =  github://philiprbrenan/Bollywood/Bipasha Basu.jpg         
+       
+photo  Deepika.Padukone     =  Deepika Padukone                                          
+       url                  =  github://philiprbrenan/Bollywood/Deepika Padukone.jpg     
+       
+photo  Govinda              =  Govinda                                                   
+       url                  =  github://philiprbrenan/Bollywood/Govinda.jpg              
+       
+photo  Gracy.Singh          =  Gracy Singh                                               
+       url                  =  github://philiprbrenan/Bollywood/Gracy Singh.jpg          
+       
+photo  Hrithik.Roshan.1     =  Hrithik Roshan                                            
+       url                  =  github://philiprbrenan/Bollywood/Hrithik Roshan 1.jpg     
+       
+photo  Hrithik.Roshan.2     =  Hrithik Roshan                                            
+       url                  =  github://philiprbrenan/Bollywood/Hrithik Roshan 2.jpg     
+       
+photo  Irrfan.Khan          =  Irrfan Khan                                               
+       url                  =  github://philiprbrenan/Bollywood/Irrfan Khan.jpg          
+       
+photo  John.Abraham         =  John Abraham                                              
+       url                  =  github://philiprbrenan/Bollywood/John Abraham.jpg         
+       
+photo  Juhi.Chawla          =  Juhi Chawla                                               
+       url                  =  github://philiprbrenan/Bollywood/Juhi Chawla.jpg          
+       
+photo  Kabir.Bedi.1         =  Kabir Bedi                                                
+       url                  =  github://philiprbrenan/Bollywood/Kabir Bedi 1.jpg         
+       
+photo  Kabir.Bedi.2         =  Kabir Bedi                                                
+       url                  =  github://philiprbrenan/Bollywood/Kabir Bedi 2.jpg         
+       
+photo  Kader.Khan           =  Kader Khan                                                
+       url                  =  github://philiprbrenan/Bollywood/Kader Khan.jpg           
+       
+photo  Kamal.Haasan.1       =  Kamal Haasan                                              
+       url                  =  github://philiprbrenan/Bollywood/Kamal Haasan 1.jpg       
+       
+photo  Kamal.Haasan.2       =  Kamal Haasan                                              
+       url                  =  github://philiprbrenan/Bollywood/Kamal Haasan 2.jpg       
+       
+photo  Kangana.Ranaut       =  Kangana Ranaut                                            
+       url                  =  github://philiprbrenan/Bollywood/Kangana Ranaut.jpg       
+       
+photo  Kareena.Kapoor.1     =  Kareena Kapoor                                            
+       url                  =  github://philiprbrenan/Bollywood/Kareena Kapoor 1.jpg     
+       
+photo  Kareena.Kapoor.2     =  Kareena Kapoor                                            
+       url                  =  github://philiprbrenan/Bollywood/Kareena Kapoor 2.jpg     
+       
+photo  Karisma.Kapoor       =  Karisma Kapoor                                            
+       url                  =  github://philiprbrenan/Bollywood/Karisma Kapoor.jpg       
+       
+photo  Katrina.Kaif         =  Katrina Kaif                                              
+       url                  =  github://philiprbrenan/Bollywood/Katrina Kaif.jpg         
+       
+photo  Kay.Kay.Menon        =  Kay Kay Menon                                             
+       url                  =  github://philiprbrenan/Bollywood/Kay Kay Menon.jpg        
+       
+photo  Lara.Dutta.Bhupathi  =  Lara Dutta Bhupathi                                       
+       url                  =  github://philiprbrenan/Bollywood/Lara Dutta Bhupathi.jpg  
+       
+photo  Madhuri.Dixit        =  Madhuri Dixit                                             
+       url                  =  github://philiprbrenan/Bollywood/Madhuri Dixit.jpg        
+       
+photo  Mallika.Sherawat     =  Mallika Sherawat                                          
+       url                  =  github://philiprbrenan/Bollywood/Mallika Sherawat.jpg     
+       
+photo  Minissha.Lamba       =  Minissha Lamba                                            
+       url                  =  github://philiprbrenan/Bollywood/Minissha Lamba.jpg       
+       
+photo  Mithun.Chakraborty   =  Mithun Chakraborty                                        
+       url                  =  github://philiprbrenan/Bollywood/Mithun Chakraborty.jpg   
+       
+photo  Nandita.Das          =  Nandita Das                                               
+       url                  =  github://philiprbrenan/Bollywood/Nandita Das.jpg          
+       
+photo  Neetu.Singh          =  Neetu Singh                                               
+       url                  =  github://philiprbrenan/Bollywood/Neetu Singh.jpg          
+       
+photo  Preity.Zinta         =  Preity Zinta                                              
+       url                  =  github://philiprbrenan/Bollywood/Preity Zinta.jpg         
+       
+photo  Priyanka.Chopra.1    =  Priyanka Chopra                                           
+       url                  =  github://philiprbrenan/Bollywood/Priyanka Chopra 1.jpg    
+       
+photo  Priyanka.Chopra.2    =  Priyanka Chopra                                           
+       url                  =  github://philiprbrenan/Bollywood/Priyanka Chopra 2.jpg    
+       
+photo  Rakesh.Roshan        =  Rakesh Roshan                                             
+       url                  =  github://philiprbrenan/Bollywood/Rakesh Roshan.jpg        
+       
+photo  Ranbir.Kapoor        =  Ranbir Kapoor                                             
+       url                  =  github://philiprbrenan/Bollywood/Ranbir Kapoor.jpg        
+       
+photo  Rani.Mukherji        =  Rani Mukherji                                             
+       url                  =  github://philiprbrenan/Bollywood/Rani Mukherji.jpg        
+       
+photo  Raveena.Tandon       =  Raveena Tandon                                            
+       url                  =  github://philiprbrenan/Bollywood/Raveena Tandon.jpg       
+       
+photo  Rekha                =  Rekha                                                     
+       url                  =  github://philiprbrenan/Bollywood/Rekha.jpg                
+       
+photo  Riteish.Deshmukh     =  Riteish Deshmukh                                          
+       url                  =  github://philiprbrenan/Bollywood/Riteish Deshmukh.jpg     
+       
+photo  Sagarika.Ghatge      =  Sagarika Ghatge                                           
+       url                  =  github://philiprbrenan/Bollywood/Sagarika Ghatge.jpg      
+       
+photo  Saif.Ali.Khan        =  Saif Ali Khan                                             
+       url                  =  github://philiprbrenan/Bollywood/Saif Ali Khan.jpg        
+       
+photo  Salman.Khan          =  Salman Khan                                               
+       url                  =  github://philiprbrenan/Bollywood/Salman Khan.jpg          
+       
+photo  Sanjay.Dutt          =  Sanjay Dutt                                               
+       url                  =  github://philiprbrenan/Bollywood/Sanjay Dutt.jpg          
+       
+photo  Shabana.Azmi         =  Shabana Azmi                                              
+       url                  =  github://philiprbrenan/Bollywood/Shabana Azmi.jpg         
+       
+photo  Shah.Rukh.Khan.1     =  Shah Rukh Khan                                            
+       url                  =  github://philiprbrenan/Bollywood/Shah Rukh Khan 1.jpg     
+       
+photo  Shah.Rukh.Khan.2     =  Shah Rukh Khan                                            
+       url                  =  github://philiprbrenan/Bollywood/Shah Rukh Khan 2.jpg     
+       
+photo  Sharman.Joshi        =  Sharman Joshi                                             
+       url                  =  github://philiprbrenan/Bollywood/Sharman Joshi.jpg        
+       
+photo  Shilpa.Shetty        =  Shilpa Shetty                                             
+       url                  =  github://philiprbrenan/Bollywood/Shilpa Shetty.jpg        
+       
+photo  Sonakshi.Sinha       =  Sonakshi Sinha                                            
+       url                  =  github://philiprbrenan/Bollywood/Sonakshi Sinha.jpg       
+       
+photo  Sonu.Nigam           =  Sonu Nigam                                                
+       url                  =  github://philiprbrenan/Bollywood/Sonu Nigam.jpg           
+       
+photo  Sridevi.Kapoor       =  Sridevi Kapoor                                            
+       url                  =  github://philiprbrenan/Bollywood/Sridevi Kapoor.jpg       
+       
+photo  Sushmita.Sen         =  Sushmita Sen                                              
+       url                  =  github://philiprbrenan/Bollywood/Sushmita Sen.jpg         
+       
+photo  Tabu.1               =  Tabu                                                      
+       url                  =  github://philiprbrenan/Bollywood/Tabu 1.jpg               
+       
+photo  Tabu.2               =  Tabu                                                      
+       url                  =  github://philiprbrenan/Bollywood/Tabu 2.jpg               
+       
+photo  Udita.Goswami        =  Udita Goswami                                             
+       url                  =  github://philiprbrenan/Bollywood/Udita Goswami.jpg        
+       
+photo  Urmila.Matondkar     =  Urmila Matondkar                                          
+       url                  =  github://philiprbrenan/Bollywood/Urmila Matondkar.jpg     
+       
+photo  Vidya.Balan.1        =  Vidya Balan                                               
+       url                  =  github://philiprbrenan/Bollywood/Vidya Balan 1.jpg        
+       
+photo  Vidya.Balan.3        =  Vidya Balan                                               
+       url                  =  github://philiprbrenan/Bollywood/Vidya Balan 3.jpg        
+       
+photo  Vivek.Oberoi         =  Vivek Oberoi                                              
+       url                  =  github://philiprbrenan/Bollywood/Vivek Oberoi.jpg         
+       
+photo  Yami.Gautam.1        =  Yami Gautam                                               
+       url                  =  github://philiprbrenan/Bollywood/Yami Gautam 1.jpg        
+       
+photo  Yami.Gautam.2        =  Yami Gautam                                               
+       url                  =  github://philiprbrenan/Bollywood/Yami Gautam 2.jpg        
