@@ -102,10 +102,10 @@ photo  Moth           =
 photo  Mouse          =                                                           
        url            =  github://philiprbrenan/AnimalAlphabet/Mouse.jpg          
        
-photo  Nest of bees   =                                                           
+photo  Nest.of.bees   =                                                           
        url            =  github://philiprbrenan/AnimalAlphabet/Nest of bees.jpg   
        
-photo  Nest of birds  =                                                           
+photo  Nest.of.birds  =                                                           
        url            =  github://philiprbrenan/AnimalAlphabet/Nest of birds.jpg  
        
 photo  Ostrich        =                                                           
@@ -147,7 +147,7 @@ photo  Toad           =
 photo  Urchin         =                                                           
        url            =  github://philiprbrenan/AnimalAlphabet/Urchin.jpg         
        
-photo  Vervet Monkey  =                                                           
+photo  Vervet.Monkey  =                                                           
        url            =  github://philiprbrenan/AnimalAlphabet/Vervet Monkey.jpg  
        
 photo  Vulture        =                                                           
@@ -162,7 +162,7 @@ photo  Warthog        =
 photo  Yak            =                                                           
        url            =  github://philiprbrenan/AnimalAlphabet/Yak.jpg            
        
-photo  Yellow bird    =                                                           
+photo  Yellow.bird    =                                                           
        url            =  github://philiprbrenan/AnimalAlphabet/Yellow bird.jpg    
        
 photo  Zebra          =                                                           
