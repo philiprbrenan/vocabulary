@@ -6,10 +6,10 @@ app g.Bathroom   = Bathroom
   speakers     = Amy
 
        
-photo  Air Freshner         =                                                           
+photo  Air.Freshner         =                                                           
        url                  =  github://philiprbrenan/Bathroom/Air Freshner.jpg         
        
-photo  Bar of Soap          =                                                           
+photo  Bar.of.Soap          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Bar of Soap.jpg          
        
 photo  Basin                =                                                           
@@ -18,70 +18,70 @@ photo  Basin                =
 photo  Bath                 =                                                           
        url                  =  github://philiprbrenan/Bathroom/Bath.jpg                 
        
-photo  Bath Mat             =                                                           
+photo  Bath.Mat             =                                                           
        url                  =  github://philiprbrenan/Bathroom/Bath Mat.jpg             
        
-photo  Bath Towel           =                                                           
+photo  Bath.Towel           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Bath Towel.jpg           
        
-photo  Bathroom Scale       =                                                           
+photo  Bathroom.Scale       =                                                           
        url                  =  github://philiprbrenan/Bathroom/Bathroom Scale.jpg       
        
 photo  Bidet                =                                                           
        url                  =  github://philiprbrenan/Bathroom/Bidet.jpg                
        
-photo  Ceramic Wall Tiles   =                                                           
+photo  Ceramic.Wall.Tiles   =                                                           
        url                  =  github://philiprbrenan/Bathroom/Ceramic Wall Tiles.jpg   
        
 photo  Cistern              =                                                           
        url                  =  github://philiprbrenan/Bathroom/Cistern.jpg              
        
-photo  Clothes Airer        =                                                           
+photo  Clothes.Airer        =                                                           
        url                  =  github://philiprbrenan/Bathroom/Clothes Airer.jpg        
        
-photo  Cold Tap             =                                                           
+photo  Cold.Tap             =                                                           
        url                  =  github://philiprbrenan/Bathroom/Cold Tap.jpg             
        
 photo  Comb                 =                                                           
        url                  =  github://philiprbrenan/Bathroom/Comb.jpg                 
        
-photo  Cotton Buds          =                                                           
+photo  Cotton.Buds          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Cotton Buds.jpg          
        
-photo  Dental Floss         =                                                           
+photo  Dental.Floss         =                                                           
        url                  =  github://philiprbrenan/Bathroom/Dental Floss.jpg         
        
-photo  Electric Razor       =                                                           
+photo  Electric.Razor       =                                                           
        url                  =  github://philiprbrenan/Bathroom/Electric Razor.jpg       
        
-photo  Electric Shower      =                                                           
+photo  Electric.Shower      =                                                           
        url                  =  github://philiprbrenan/Bathroom/Electric Shower.jpg      
        
-photo  Fan Heater           =                                                           
+photo  Fan.Heater           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Fan Heater.jpg           
        
 photo  Flannel              =                                                           
        url                  =  github://philiprbrenan/Bathroom/Flannel.jpg              
        
-photo  Hair Dryer           =                                                           
+photo  Hair.Dryer           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Hair Dryer.jpg           
        
 photo  Hairbrush            =                                                           
        url                  =  github://philiprbrenan/Bathroom/Hairbrush.jpg            
        
-photo  Hand Cream           =                                                           
+photo  Hand.Cream           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Hand Cream.jpg           
        
-photo  Hand Towel           =                                                           
+photo  Hand.Towel           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Hand Towel.jpg           
        
-photo  Heated Towel Rail    =                                                           
+photo  Heated.Towel.Rail    =                                                           
        url                  =  github://philiprbrenan/Bathroom/Heated Towel Rail.jpg    
        
-photo  Hot Tap              =                                                           
+photo  Hot.Tap              =                                                           
        url                  =  github://philiprbrenan/Bathroom/Hot Tap.jpg              
        
-photo  Laundry Basket       =                                                           
+photo  Laundry.Basket       =                                                           
        url                  =  github://philiprbrenan/Bathroom/Laundry Basket.jpg       
        
 photo  Lever                =                                                           
@@ -90,31 +90,31 @@ photo  Lever                =
 photo  Light                =                                                           
        url                  =  github://philiprbrenan/Bathroom/Light.jpg                
        
-photo  Liquid Soap          =                                                           
+photo  Liquid.Soap          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Liquid Soap.jpg          
        
 photo  Mirror               =                                                           
        url                  =  github://philiprbrenan/Bathroom/Mirror.jpg               
        
-photo  Mixer Tap            =                                                           
+photo  Mixer.Tap            =                                                           
        url                  =  github://philiprbrenan/Bathroom/Mixer Tap.jpg            
        
 photo  Mouthwash            =                                                           
        url                  =  github://philiprbrenan/Bathroom/Mouthwash.jpg            
        
-photo  Nail Brush           =                                                           
+photo  Nail.Brush           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Nail Brush.jpg           
        
-photo  Nail Clippers        =                                                           
+photo  Nail.Clippers        =                                                           
        url                  =  github://philiprbrenan/Bathroom/Nail Clippers.jpg        
        
-photo  Nail Files           =                                                           
+photo  Nail.Files           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Nail Files.jpg           
        
 photo  Plug                 =                                                           
        url                  =  github://philiprbrenan/Bathroom/Plug.jpg                 
        
-photo  Plug Hole            =                                                           
+photo  Plug.Hole            =                                                           
        url                  =  github://philiprbrenan/Bathroom/Plug Hole.jpg            
        
 photo  Radiator             =                                                           
@@ -123,7 +123,7 @@ photo  Radiator             =
 photo  Razors               =                                                           
        url                  =  github://philiprbrenan/Bathroom/Razors.jpg               
        
-photo  Roller Blind         =                                                           
+photo  Roller.Blind         =                                                           
        url                  =  github://philiprbrenan/Bathroom/Roller Blind.jpg         
        
 photo  Scissors             =                                                           
@@ -132,34 +132,34 @@ photo  Scissors             =
 photo  Shampoo              =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shampoo.jpg              
        
-photo  Shaver Socket        =                                                           
+photo  Shaver.Socket        =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shaver Socket.jpg        
        
-photo  Shower Cubicle       =                                                           
+photo  Shower.Cubicle       =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shower Cubicle.jpg       
        
-photo  Shower Curtain       =                                                           
+photo  Shower.Curtain       =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shower Curtain.jpg       
        
-photo  Shower Head          =                                                           
+photo  Shower.Head          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shower Head.jpg          
        
-photo  Shower Hose          =                                                           
+photo  Shower.Hose          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shower Hose.jpg          
        
-photo  Shower Rail          =                                                           
+photo  Shower.Rail          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shower Rail.jpg          
        
-photo  Shower Seat          =                                                           
+photo  Shower.Seat          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shower Seat.jpg          
        
-photo  Shower Tray          =                                                           
+photo  Shower.Tray          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Shower Tray.jpg          
        
 photo  Sponge               =                                                           
        url                  =  github://philiprbrenan/Bathroom/Sponge.jpg               
        
-photo  Sponge Bag           =                                                           
+photo  Sponge.Bag           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Sponge Bag.jpg           
        
 photo  Stool                =                                                           
@@ -168,31 +168,31 @@ photo  Stool                =
 photo  Tap                  =                                                           
        url                  =  github://philiprbrenan/Bathroom/Tap.jpg                  
        
-photo  Temperature Control  =                                                           
+photo  Temperature.Control  =                                                           
        url                  =  github://philiprbrenan/Bathroom/Temperature Control.jpg  
        
 photo  Tissues              =                                                           
        url                  =  github://philiprbrenan/Bathroom/Tissues.jpg              
        
-photo  Toenail Clippers     =                                                           
+photo  Toenail.Clippers     =                                                           
        url                  =  github://philiprbrenan/Bathroom/Toenail Clippers.jpg     
        
 photo  Toilet               =                                                           
        url                  =  github://philiprbrenan/Bathroom/Toilet.jpg               
        
-photo  Toilet Brush         =                                                           
+photo  Toilet.Brush         =                                                           
        url                  =  github://philiprbrenan/Bathroom/Toilet Brush.jpg         
        
-photo  Toilet Lid           =                                                           
+photo  Toilet.Lid           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Toilet Lid.jpg           
        
-photo  Toilet Roll          =                                                           
+photo  Toilet.Roll          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Toilet Roll.jpg          
        
-photo  Toilet Roll Holder   =                                                           
+photo  Toilet.Roll.Holder   =                                                           
        url                  =  github://philiprbrenan/Bathroom/Toilet Roll Holder.jpg   
        
-photo  Toilet Seat          =                                                           
+photo  Toilet.Seat          =                                                           
        url                  =  github://philiprbrenan/Bathroom/Toilet Seat.jpg          
        
 photo  Toothbrush           =                                                           
@@ -201,14 +201,14 @@ photo  Toothbrush           =
 photo  Toothpaste           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Toothpaste.jpg           
        
-photo  Towel Rail           =                                                           
+photo  Towel.Rail           =                                                           
        url                  =  github://philiprbrenan/Bathroom/Towel Rail.jpg           
        
 photo  Towels               =                                                           
        url                  =  github://philiprbrenan/Bathroom/Towels.jpg               
        
-photo  Vanity Mirror        =                                                           
+photo  Vanity.Mirror        =                                                           
        url                  =  github://philiprbrenan/Bathroom/Vanity Mirror.jpg        
        
-photo  Water Flow Control   =                                                           
+photo  Water.Flow.Control   =                                                           
        url                  =  github://philiprbrenan/Bathroom/Water Flow Control.jpg   
