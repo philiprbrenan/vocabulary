@@ -1,0 +1,85 @@
+app g.CollectiveNounsInEnglish   = Collective Nouns in English
+  description  = Learn about Collective Nouns in English in English
+  icon         = Flotilla of ships.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Bed of roses          =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Bed of roses.jpg          
+       
+photo  Bouquet of flowers    =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Bouquet of flowers.jpg    
+       
+photo  Bunch of bananas      =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Bunch of bananas.jpg      
+       
+photo  Bunch of grapes       =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Bunch of grapes.jpg       
+       
+photo  Cache of jewels       =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Cache of jewels.jpg       
+       
+photo  Clump of trees        =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Clump of trees.jpg        
+       
+photo  Fleet of cars         =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Fleet of cars.jpg         
+       
+photo  Flock of birds        =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Flock of birds.jpg        
+       
+photo  Flotilla of ships     =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Flotilla of ships.jpg     
+       
+photo  Galaxy of stars       =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Galaxy of stars.jpg       
+       
+photo  Hand of cards         =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Hand of cards.jpg         
+       
+photo  Herd of seahorses     =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Herd of seahorses.jpg     
+       
+photo  Host of angels        =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Host of angels.jpg        
+       
+photo  Library of books      =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Library of books.jpg      
+       
+photo  Nest of eggs          =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Nest of eggs.jpg          
+       
+photo  Peal of bells         =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Peal of bells.jpg         
+       
+photo  Pile of bricks        =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Pile of bricks.jpg        
+       
+photo  Pile of logs          =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Pile of logs.jpg          
+       
+photo  Pod of peas           =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Pod of peas.jpg           
+       
+photo  Quiver of arrows      =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Quiver of arrows.jpg      
+       
+photo  Range of mountains    =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Range of mountains.jpg    
+       
+photo  Ring of keys          =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Ring of keys.jpg          
+       
+photo  Round of beer         =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Round of beer.jpg         
+       
+photo  Squadron of aircraft  =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Squadron of aircraft.jpg  
+       
+photo  Stack of plates       =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Stack of plates.jpg       
+       
+photo  String of Pearls      =                                                                            
+       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/String of Pearls.jpg      
