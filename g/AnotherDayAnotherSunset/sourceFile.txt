@@ -1,0 +1,37 @@
+app g.AnotherDayAnotherSunset   = Another Day, Another Sunset
+  description  = Learn about Another Day, Another Sunset in English
+  icon         = Another Day, Another Sunset.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  A Winter's Day               =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/A Winter's Day.jpg               
+       
+photo  Adios Amigos                 =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Adios Amigos.jpg                 
+       
+photo  Another Day, Another Sunset  =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Another Day, Another Sunset.jpg  
+       
+photo  Beach Siesta                 =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Beach Siesta.jpg                 
+       
+photo  Carrauntoohil                =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Carrauntoohil.jpg                
+       
+photo  Going Somewhere              =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Going Somewhere.jpg              
+       
+photo  Happy Days                   =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Happy Days.jpg                   
+       
+photo  Love is Everything           =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Love is Everything.jpg           
+       
+photo  Memories                     =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Memories.jpg                     
+       
+photo  Nostalgia                    =                                                                                  
+       url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Nostalgia.jpg                    
