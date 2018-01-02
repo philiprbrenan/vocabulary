@@ -1,0 +1,309 @@
+app g.CarsCranesTrucksTrains   = Cars Cranes Trucks Trains
+  description  = Learn about Cars Cranes Trucks Trains in English
+  icon         = Sports car.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Airplane              =  Airplane                                                                                     
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Airplane.jpg                                   
+fact   Airplane.0            =  Flown by a pilot                                                                            
+fact   Airplane.1            =  Flies people and cargo from one place to another                                            
+fact   Airplane.2            =  Takes off and lands at airports                                                             
+       
+photo  Ambulance             =  Ambulance                                                                                    
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Ambulance.jpg                                  
+fact   Ambulance.0           =  Takes people to hospital quickly                                                            
+fact   Ambulance.1           =  Siren, flashing lights and highly visible markings                                          
+fact   Ambulance.2           =  Carries emergency medical equipment and paramedics to accidents                             
+       
+photo  Amphibious vehicle    =  Amphibious vehicle                                                                           
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Amphibious vehicle.jpg                         
+fact   Amphibious vehicle.0  =  Can drive over land and water                                                               
+       
+photo  Auto rickshaw         =  Auto rickshaw                                                                                
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Auto rickshaw.jpg                              
+fact   Auto rickshaw.0       =  A rickshaw with an engine                                                                   
+fact   Auto rickshaw.1       =  Essential form of urban transport in many developing countries                              
+       remark                =  yes                                                                                          
+fact   Auto rickshaw.2       =  The word rickshaw comes from the Japanese phrase for human powered vehicle                  
+       remark                =  yes                                                                                          
+       
+photo  Caravan               =  Caravan                                                                                      
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Caravan.jpg                                    
+fact   Caravan.0             =  More comfortable and protected than a tent                                                  
+fact   Caravan.1             =  Towed behind a car to provide a place to sleep at night                                     
+fact   Caravan.2             =  A temporary home for people on vacation                                                     
+       
+photo  Cement mixer          =  Cement mixer                                                                                 
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Cement mixer.jpg                               
+fact   Cement mixer.0        =  Mixes concrete while transporting it to building sites                                      
+fact   Cement mixer.1        =  Drum revolves during transportation to keep the concrete liquid                             
+fact   Cement mixer.2        =  Speed limited in the UK to 56 miles per hour                                                
+       
+photo  Combine Harvester     =  Combine Harvester                                                                            
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Combine Harvester.jpg                          
+fact   Combine Harvester.0   =  Harvests grain crops on a large scale                                                       
+fact   Combine Harvester.1   =  Combines reaping, threshing, and winnowing                                                  
+fact   Combine Harvester.2   =  One of the most important labor saving inventions in agriculture                            
+       remark                =  yes                                                                                          
+       
+photo  Crane                 =  Crane                                                                                        
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Crane.jpg                                      
+fact   Crane.0               =  Used to lift and lower heavy things                                                         
+fact   Crane.1               =  Can be used to move heavy things short distances horizontally                               
+fact   Crane.2               =  Used to load and unload trucks                                                              
+       
+photo  Cycle rickshaw        =  Cycle rickshaw                                                                               
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Cycle rickshaw.jpg                             
+fact   Cycle rickshaw.0      =  Tricycle designed to carry passengers                                                       
+fact   Cycle rickshaw.1      =  Tourist transportation in many cities                                                       
+fact   Cycle rickshaw.2      =  The word rickshaw comes from the Japanese phrase for human powered vehicle                  
+       remark                =  yes                                                                                          
+       
+photo  Digger                =  Digger                                                                                       
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Digger.jpg                                     
+fact   Digger.0              =  Digs holes and trenches quickly                                                             
+fact   Digger.1              =  Arm and bucket moved by hydraulic pressure                                                  
+fact   Digger.2              =  Rides on caterpillar tracks                                                                 
+       
+photo  Double-decker bus     =  Double-decker bus                                                                            
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Double-decker bus.jpg                          
+fact   Double-decker bus.0   =  Bus with two decks                                                                          
+fact   Double-decker bus.1   =  The ones used in London are painted red                                                     
+fact   Double-decker bus.2   =  Used in cities because they are maneuverable                                                
+       
+photo  Dumper truck          =  Dumper truck                                                                                 
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Dumper truck.jpg                               
+fact   Dumper truck.0        =  Transports sand, gravel, or dirt on building sites                                          
+fact   Dumper truck.1        =  Load is tipped out by raising one end of the dump box                                       
+fact   Dumper truck.2        =  Steered by turning the entire cab making it easier to drive on rough ground                 
+       
+photo  Dustcart              =  Dustcart                                                                                     
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Dustcart.jpg                                   
+fact   Dustcart.0            =  Collects rubbish                                                                            
+fact   Dustcart.1            =  Transports rubbish to rubbish dumps                                                         
+fact   Dustcart.2            =  Squashes the rubbish to save trips                                                          
+       
+photo  Electric tram         =  Electric tram                                                                                
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Electric tram.jpg                              
+fact   Electric tram.0       =  Runs on railway lines along public streets                                                  
+fact   Electric tram.1       =  Powered by electricity fed from an overhead pantograph                                      
+fact   Electric tram.2       =  Quieter and more efficient than buses for transporting people                               
+       
+photo  Estate car            =  Estate car                                                                                   
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Estate car.jpg                                 
+fact   Estate car.0          =  Has a luggage area behind the passenger seats                                               
+fact   Estate car.1          =  Luggage area is accessed by a vertical door at the back                                     
+fact   Estate car.2          =  Backs of the passenger seats can fold down to create more luggage space                     
+       
+photo  Fire engine           =  Fire engine                                                                                  
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Fire engine.jpg                                
+fact   Fire engine.0         =  Truck used for fighting fires                                                               
+fact   Fire engine.1         =  Transports firemen to fires                                                                 
+fact   Fire engine.2         =  Transports water and equipment to fight fires                                               
+       
+photo  Flatbed truck         =  Flatbed truck                                                                                
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Flatbed truck.jpg                              
+fact   Flatbed truck.0       =  Truck with no sides or roof                                                                 
+fact   Flatbed truck.1       =  Used to carry diggers and other heavy equipment                                             
+fact   Flatbed truck.2       =  Easier to load and unload than a closed-in truck                                            
+       
+photo  Forklift truck        =  Forklift truck                                                                               
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Forklift truck.jpg                             
+fact   Forklift truck.0      =  Essentially for moving materials around in warehouses                                       
+fact   Forklift truck.1      =  Loads and unloads freight at warehouses                                                     
+fact   Forklift truck.2      =  Lifts materials stacked on pallets                                                          
+       
+photo  Hatchback             =  Hatchback                                                                                    
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Hatchback.jpg                                  
+fact   Hatchback.0           =  Luggage area is accessed by a sloping door at the rear                                      
+fact   Hatchback.1           =  Has a luggage area behind the passenger seats                                               
+fact   Hatchback.2           =  Backs of the passenger seats can fold down to create more luggage space                     
+       
+photo  Helicopter            =  Helicopter                                                                                   
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Helicopter.jpg                                 
+fact   Helicopter.0          =  Takes off and lands vertically                                                              
+fact   Helicopter.1          =  Hovers                                                                                      
+fact   Helicopter.2          =  Flies backwards                                                                             
+fact   Helicopter.3          =  Flown by a pilot                                                                            
+fact   Helicopter.4          =  Flies people and cargo from one place to another                                            
+       
+photo  Horse and cart        =  Horse and cart                                                                               
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Horse and cart.jpg                             
+fact   Horse and cart.0      =  Has two wheels and is pulled by a horse                                                     
+fact   Horse and cart.1      =  In continuous use since the invention of the wheel 7 thousand years ago                     
+       
+photo  Ice-cream van         =  Ice-cream van                                                                                
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Ice-cream van.jpg                              
+fact   Ice-cream van.0       =  Sells ice cream                                                                             
+fact   Ice-cream van.1       =  Seen mainly in summer                                                                       
+fact   Ice-cream van.2       =  Brightly decorated with pictures of ice cream                                               
+       
+photo  Jeep                  =  Jeep                                                                                         
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Jeep.jpg                                       
+fact   Jeep.0                =  Subsidiary of Italian car maker Fiat                                                        
+fact   Jeep.1                =  Oldest off-road vehicle and sport utility vehicle brand                                     
+fact   Jeep.2                =  Main light weight 4-wheel-drive vehicle of the US Army during World War 2                   
+       
+photo  Land Rover            =  Land Rover                                                                                   
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Land Rover.jpg                                 
+fact   Land Rover.0          =  Second oldest 4-wheel-drive brand                                                           
+fact   Land Rover.1          =  Subsidiary of Tata Motors, India                                                            
+       
+photo  Large van             =  Large van                                                                                    
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Large van.jpg                                  
+fact   Large van.0           =  Commercial vehicle designed to deliver lightweight goods                                    
+       
+photo  Lorry                 =  Lorry                                                                                        
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Lorry.jpg                                      
+fact   Lorry.0               =  Carries cargo by road                                                                       
+fact   Lorry.1               =  Cab mounted over the engine                                                                 
+       
+photo  Minibus               =  Minibus                                                                                      
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Minibus.jpg                                    
+fact   Minibus.0             =  Small bus                                                                                   
+       
+photo  Motorbike             =  Motorbike                                                                                    
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Motorbike.jpg                                  
+fact   Motorbike.0           =  Two wheeled motor vehicle                                                                   
+fact   Motorbike.1           =  One of the most affordable forms of motorised transport                                     
+fact   Motorbike.2           =  Most common form of transportation in Vietnam                                               
+       
+photo  Motorhome             =  Motorhome                                                                                    
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Motorhome.jpg                                  
+fact   Motorhome.0           =  More comfortable, but more expensive and less maneuverable than a campervan                 
+fact   Motorhome.1           =  On board kitchen, bathroom and bedroom                                                      
+fact   Motorhome.2           =  Motorized home                                                                              
+fact   Motorhome.3           =  More comfortable and protected than a tent                                                  
+fact   Motorhome.4           =  A temporary home for people on vacation                                                     
+       
+photo  Mountain bike         =  Mountain bike                                                                                
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Mountain bike.jpg                              
+fact   Mountain bike.0       =  Used for cycling off-road                                                                   
+fact   Mountain bike.1       =  Often has front and rear suspension                                                         
+       remark                =  yes                                                                                          
+fact   Mountain bike.2       =  Uses stronger components than road bikes                                                    
+       remark                =  yes                                                                                          
+       
+photo  Open-top bus          =  Open-top bus                                                                                 
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Open-top bus.jpg                               
+fact   Open-top bus.0        =  Double-decker bus without a roof                                                            
+fact   Open-top bus.1        =  Used to transport sight seers on tours through cities                                       
+fact   Open-top bus.2        =  Uninterrupted views from a high viewpoint                                                   
+       
+photo  Pakistani lorry       =  Pakistani lorry                                                                              
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Pakistani lorry.jpg                            
+fact   Pakistani lorry.0     =  Brilliantly decorated truck used in Pakistan                                                
+fact   Pakistani lorry.1     =  Transports goods and people along the Karakoram Highway                                     
+       
+photo  Pickup truck          =  Pickup truck                                                                                 
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Pickup truck.jpg                               
+fact   Pickup truck.0        =  Light motor vehicle with an open-top rear cargo area                                        
+fact   Pickup truck.1        =  Cost US$281 when first produced in 1925                                                     
+fact   Pickup truck.2        =  Common in Texas                                                                             
+       
+photo  Police car            =  Police car                                                                                   
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Police car.jpg                                 
+fact   Police car.0          =  Ground vehicle used by police to assist with their duties                                   
+fact   Police car.1          =  Siren, flashing lights and highly visible markings                                          
+fact   Police car.2          =  Patrols to deter crime                                                                      
+       
+photo  Quad bike             =  Quad bike                                                                                    
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Quad bike.jpg                                  
+fact   Quad bike.0           =  High number of deaths and injuries due to negligible rider protection                       
+fact   Quad bike.1           =  Vehicle with four wheels and a mass of less than 550 kg                                     
+fact   Quad bike.2           =  Used by farmers to cross rough terrain quickly                                              
+       
+photo  Racing bike           =  Racing bike                                                                                  
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Racing bike.jpg                                
+fact   Racing bike.0         =  Bicycle designed for competitive road cycling                                               
+fact   Racing bike.1         =  Drop handle bars                                                                            
+fact   Racing bike.2         =  Light and stiff frame                                                                       
+       
+photo  Road bike             =  Road bike                                                                                    
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Road bike.jpg                                  
+fact   Road bike.0           =  There are twice as many in use as there are automobiles                                     
+fact   Road bike.1           =  Popular form of recreation                                                                  
+fact   Road bike.2           =  Most efficient human-powered means of transportation                                        
+       
+photo  Road sweeper          =  Road sweeper                                                                                 
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Road sweeper.jpg                               
+fact   Road sweeper.0        =  Cleans the streets in cities                                                                
+fact   Road sweeper.1        =  Sweeps and vacuums up rubbish                                                               
+fact   Road sweeper.2        =  Reduces water pollution by removing rubbish that would otherwise dissolve in rain           
+       
+photo  Road train            =  Road train                                                                                   
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Road train.jpg                                 
+fact   Road train.0          =  Truck pulling one or more trailers                                                          
+fact   Road train.1          =  Needs long straight roads                                                                   
+       remark                =  yes                                                                                          
+       
+photo  Scooter               =  Scooter                                                                                      
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Scooter.jpg                                    
+fact   Scooter.0             =  Motorcycle with a step-through frame and a platform for the rider's feet.                   
+fact   Scooter.1             =  Engine and gears are attached to the rear axle                                              
+fact   Scooter.2             =  Low-power personal transportation                                                           
+       
+photo  Single-decker bus     =  Single-decker bus                                                                            
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Single-decker bus.jpg                          
+fact   Single-decker bus.0   =  Bus with a single deck for passengers                                                       
+       
+photo  Small van             =  Small van                                                                                    
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Small van.jpg                                  
+fact   Small van.0           =  Shortened version of the word caravan - a covered vehicle                                   
+fact   Small van.1           =  Fitted with cargo barriers behind the front seats                                           
+fact   Small van.2           =  Derived from passenger cars without rear side windows                                       
+       
+photo  Sports car            =  Sports car                                                                                   
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Sports car.jpg                                 
+fact   Sports car.0          =  Small, two seat, two door car                                                               
+fact   Sports car.1          =  Designed for speed and handling                                                             
+       
+photo  Tanker                =  Tanker                                                                                       
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Tanker.jpg                                     
+fact   Tanker.0              =  Used to deliver fuel to petrol stations                                                     
+fact   Tanker.1              =  Stainless steel tank to avoid corrosion                                                     
+       remark                =  yes                                                                                          
+fact   Tanker.2              =  Internal compartments allows several different fuels to be carried at one time              
+       remark                =  yes                                                                                          
+       
+photo  Taxi                  =  Taxi                                                                                         
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Taxi.jpg                                       
+fact   Taxi.0                =  Car and driver hired to make short trips                                                    
+fact   Taxi.1                =  Cost of each trip is measured by a meter                                                    
+fact   Taxi.2                =  Painted bright yellow in New York.                                                          
+       
+photo  Tipper lorry          =  Tipper lorry                                                                                 
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Tipper lorry.jpg                               
+fact   Tipper lorry.0        =  Delivers dry cargo that flows when tipped                                                   
+fact   Tipper lorry.1        =  Cargo box tipped by a hydraulic jack                                                        
+fact   Tipper lorry.2        =  Tailgate is hinged at the top to let the cargo flow out evenly                              
+       
+photo  Tractor               =  Tractor                                                                                      
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Tractor.jpg                                    
+fact   Tractor.0             =  Farm vehicle used to mechanize agriculture                                                  
+fact   Tractor.1             =  Pulls a plough                                                                              
+fact   Tractor.2             =  Powers farm equipment                                                                       
+       
+photo  Train                 =  Train                                                                                        
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Train.jpg                                      
+fact   Train.0               =  Two or more items of rolling stock coupled together, at least one of which is a locomotive  
+fact   Train.1               =  Transports passengers or freight along railway lines                                        
+fact   Train.2               =  Picks up and deposits passengers at railway stations                                        
+       
+photo  Vintage bus           =  Vintage bus                                                                                  
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Vintage bus.jpg                                
+fact   Vintage bus.0         =  Bus from an earlier time restored to original condition                                     
+fact   Vintage bus.1         =  Used for tourism                                                                            
+       remark                =  yes                                                                                          
+fact   Vintage bus.2         =  Displayed at rallies and exhibitions                                                        
+       remark                =  yes                                                                                          
+       
+photo  Vintage car           =  Vintage car                                                                                  
+       url                   =  github://philiprbrenan/CarsCranesTrucksTrains/Vintage car.jpg                                
+fact   Vintage car.0         =  Car from an earlier time restored to original condition                                     
+fact   Vintage car.1         =  Used for weddings                                                                           
+fact   Vintage car.2         =  Displayed at rallies and exhibitions                                                        
+       remark                =  yes                                                                                          
