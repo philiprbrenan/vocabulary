@@ -1,0 +1,37 @@
+app g.CountAnimalsInEnglish   = Count Animals 1-10
+  description  = Learn about Count Animals 1-10 in English
+  icon         = 3.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo    1  =  One                                                  
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/1.jpg   
+       
+photo   10  =  Ten                                                  
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/10.jpg  
+       
+photo    2  =  Two                                                  
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/2.jpg   
+       
+photo    3  =  Three                                                
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/3.jpg   
+       
+photo    4  =  Four                                                 
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/4.jpg   
+       
+photo    5  =  Five                                                 
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/5.jpg   
+       
+photo    6  =  Six                                                  
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/6.jpg   
+       
+photo    7  =  Seven                                                
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/7.jpg   
+       
+photo    8  =  Eight                                                
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/8.jpg   
+       
+photo    9  =  Nine                                                 
+       url  =  github://philiprbrenan/CountAnimalsInEnglish/9.jpg   
