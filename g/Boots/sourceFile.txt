@@ -6,570 +6,570 @@ app g.Boots   = Boots and Shoes
   speakers     = Amy
 
        
-photo  Ankle Boots             =  Ankle Boots                                                                               
-       url                     =  github://philiprbrenan/Boots/Ankle Boots.jpg                                              
-fact   Ankle Boots.0           =  The most widely-worn style of fashion boots                                              
-       remark                  =  yes                                                                                       
-fact   Ankle Boots.1           =  Commonly worn by both men and women                                                      
-       remark                  =  yes                                                                                       
-fact   Ankle Boots.2           =  Popular since the 19th Century                                                           
-       remark                  =  yes                                                                                       
+photo  Ankle.Boots             =  Ankle Boots                                                                              
+       url                     =  github://philiprbrenan/Boots/Ankle Boots.jpg                                             
+fact   Ankle.Boots.0           =  The most widely-worn style of fashion boots                                              
+       remark                  =  yes                                                                                      
+fact   Ankle.Boots.1           =  Commonly worn by both men and women                                                      
+       remark                  =  yes                                                                                      
+fact   Ankle.Boots.2           =  Popular since the 19th Century                                                           
+       remark                  =  yes                                                                                      
        
-photo  Ballet Shoes            =  Ballet Shoes                                                                              
-       url                     =  github://philiprbrenan/Boots/Ballet Shoes.jpg                                             
-fact   Ballet Shoes.0          =  Also called "Ballet Slipper"                                                             
-       remark                  =  yes                                                                                       
-fact   Ballet Shoes.1          =  Lightweight shoe designed for ballet dancing                                             
-       remark                  =  yes                                                                                       
-fact   Ballet Shoes.2          =  Made from soft leather, canvas or satin, with flexible, thin soles                       
-       remark                  =  yes                                                                                       
+photo  Ballet.Shoes            =  Ballet Shoes                                                                             
+       url                     =  github://philiprbrenan/Boots/Ballet Shoes.jpg                                            
+fact   Ballet.Shoes.0          =  Also called "Ballet Slipper"                                                             
+       remark                  =  yes                                                                                      
+fact   Ballet.Shoes.1          =  Lightweight shoe designed for ballet dancing                                             
+       remark                  =  yes                                                                                      
+fact   Ballet.Shoes.2          =  Made from soft leather, canvas or satin, with flexible, thin soles                       
+       remark                  =  yes                                                                                      
        
-photo  Boat Shoes              =  Boat Shoes                                                                                
-       url                     =  github://philiprbrenan/Boots/Boat Shoes.jpg                                               
-fact   Boat Shoes.0            =  Also called "Deck Shoes" and "Topsiders"                                                 
-       remark                  =  yes                                                                                       
-fact   Boat Shoes.1            =  Designed to provide grip on the wet deck of a boat                                       
-       remark                  =  yes                                                                                       
-fact   Boat Shoes.2            =  Made from canvas or leather                                                              
-       remark                  =  yes                                                                                       
-fact   Boat Shoes.3            =  Non-marking rubber soles                                                                 
-       remark                  =  yes                                                                                       
+photo  Boat.Shoes              =  Boat Shoes                                                                               
+       url                     =  github://philiprbrenan/Boots/Boat Shoes.jpg                                              
+fact   Boat.Shoes.0            =  Also called "Deck Shoes" and "Topsiders"                                                 
+       remark                  =  yes                                                                                      
+fact   Boat.Shoes.1            =  Designed to provide grip on the wet deck of a boat                                       
+       remark                  =  yes                                                                                      
+fact   Boat.Shoes.2            =  Made from canvas or leather                                                              
+       remark                  =  yes                                                                                      
+fact   Boat.Shoes.3            =  Non-marking rubber soles                                                                 
+       remark                  =  yes                                                                                      
        
-photo  Brogues                 =  Brogues                                                                                   
-       url                     =  github://philiprbrenan/Boots/Brogues.jpg                                                  
-fact   Brogues.0               =  Sturdy, low-heeled male shoe                                                             
-       remark                  =  yes                                                                                       
-fact   Brogues.1               =  Constructed of multiple pieces of leather                                                
-       remark                  =  yes                                                                                       
-fact   Brogues.2               =  Decorative perforations and serrations along the edges of the leather                    
-       remark                  =  yes                                                                                       
+photo  Brogues                 =  Brogues                                                                                  
+       url                     =  github://philiprbrenan/Boots/Brogues.jpg                                                 
+fact   Brogues.0               =  Sturdy, low-heeled male shoe                                                             
+       remark                  =  yes                                                                                      
+fact   Brogues.1               =  Constructed of multiple pieces of leather                                                
+       remark                  =  yes                                                                                      
+fact   Brogues.2               =  Decorative perforations and serrations along the edges of the leather                    
+       remark                  =  yes                                                                                      
        
-photo  Brothel Creepers        =  Brothel Creepers                                                                          
-       url                     =  github://philiprbrenan/Boots/Brothel Creepers.jpg                                         
-fact   Brothel Creepers.0      =  Also called "Creepers" and "Tractor Shoes" (Norway)                                      
-       remark                  =  yes                                                                                       
-fact   Brothel Creepers.1      =  Popular with Teddy Boys in the 1950s                                                     
-       remark                  =  yes                                                                                       
-fact   Brothel Creepers.2      =  Made of suede leather and thick crepe soles                                              
-       remark                  =  yes                                                                                       
+photo  Brothel.Creepers        =  Brothel Creepers                                                                         
+       url                     =  github://philiprbrenan/Boots/Brothel Creepers.jpg                                        
+fact   Brothel.Creepers.0      =  Also called "Creepers" and "Tractor Shoes" (Norway)                                      
+       remark                  =  yes                                                                                      
+fact   Brothel.Creepers.1      =  Popular with Teddy Boys in the 1950s                                                     
+       remark                  =  yes                                                                                      
+fact   Brothel.Creepers.2      =  Made of suede leather and thick crepe soles                                              
+       remark                  =  yes                                                                                      
        
-photo  Bunny Boots             =  Bunny Boots                                                                               
-       url                     =  github://philiprbrenan/Boots/Bunny Boots.jpg                                              
-fact   Bunny Boots.0           =  Nickname for the Extreme Cold Vapor Barrier Boots (Type II) used by the US armed forces  
-       remark                  =  yes                                                                                       
-fact   Bunny Boots.1           =  Originally designed for military use in extreme cold weather                             
-       remark                  =  yes                                                                                       
-fact   Bunny Boots.2           =  Designed for use in temperatures from -54C (-65F)                                        
-       remark                  =  yes                                                                                       
-fact   Bunny Boots.3           =  Very popular in Alaska today                                                             
-       remark                  =  yes                                                                                       
+photo  Bunny.Boots             =  Bunny Boots                                                                              
+       url                     =  github://philiprbrenan/Boots/Bunny Boots.jpg                                             
+fact   Bunny.Boots.0           =  Nickname for the Extreme Cold Vapor Barrier Boots (Type II) used by the US armed forces  
+       remark                  =  yes                                                                                      
+fact   Bunny.Boots.1           =  Originally designed for military use in extreme cold weather                             
+       remark                  =  yes                                                                                      
+fact   Bunny.Boots.2           =  Designed for use in temperatures from -54C (-65F)                                        
+       remark                  =  yes                                                                                      
+fact   Bunny.Boots.3           =  Very popular in Alaska today                                                             
+       remark                  =  yes                                                                                      
        
-photo  Calf-length Boots       =  Calf-length Boots                                                                         
-       url                     =  github://philiprbrenan/Boots/Calf-length Boots.jpg                                        
-fact   Calf-length Boots.0     =  The top of the boot hits the widest point of the calf                                    
-       remark                  =  yes                                                                                       
-fact   Calf-length Boots.1     =  Usually worn under trousers or with long skirts                                          
-       remark                  =  yes                                                                                       
-fact   Calf-length Boots.2     =  Not as popular as ankle or knee-length boots                                             
-       remark                  =  yes                                                                                       
+photo  Calf-length.Boots       =  Calf-length Boots                                                                        
+       url                     =  github://philiprbrenan/Boots/Calf-length Boots.jpg                                       
+fact   Calf-length.Boots.0     =  The top of the boot hits the widest point of the calf                                    
+       remark                  =  yes                                                                                      
+fact   Calf-length.Boots.1     =  Usually worn under trousers or with long skirts                                          
+       remark                  =  yes                                                                                      
+fact   Calf-length.Boots.2     =  Not as popular as ankle or knee-length boots                                             
+       remark                  =  yes                                                                                      
        
-photo  Chelsea Boots           =  Chelsea Boots                                                                             
-       url                     =  github://philiprbrenan/Boots/Chelsea Boots.jpg                                            
-fact   Chelsea Boots.0         =  Also called "Dealer Boots" and similar to the Australian work boot                       
-       remark                  =  yes                                                                                       
-fact   Chelsea Boots.1         =  Designed as working boots but also for fashion                                           
-       remark                  =  yes                                                                                       
-fact   Chelsea Boots.2         =  Tight-fitting, ankle-high boots                                                          
-       remark                  =  yes                                                                                       
-fact   Chelsea Boots.3         =  Elastic sides and pull tabs for ease of slipping on and off                              
-       remark                  =  yes                                                                                       
+photo  Chelsea.Boots           =  Chelsea Boots                                                                            
+       url                     =  github://philiprbrenan/Boots/Chelsea Boots.jpg                                           
+fact   Chelsea.Boots.0         =  Also called "Dealer Boots" and similar to the Australian work boot                       
+       remark                  =  yes                                                                                      
+fact   Chelsea.Boots.1         =  Designed as working boots but also for fashion                                           
+       remark                  =  yes                                                                                      
+fact   Chelsea.Boots.2         =  Tight-fitting, ankle-high boots                                                          
+       remark                  =  yes                                                                                      
+fact   Chelsea.Boots.3         =  Elastic sides and pull tabs for ease of slipping on and off                              
+       remark                  =  yes                                                                                      
        
-photo  Climbing Shoes          =  Climbing Shoes                                                                            
-       url                     =  github://philiprbrenan/Boots/Climbing Shoes.jpg                                           
-fact   Climbing Shoes.0        =  Designed for rock climbing                                                               
-       remark                  =  yes                                                                                       
-fact   Climbing Shoes.1        =  Close fit and unsuited to walking                                                        
-       remark                  =  yes                                                                                       
-fact   Climbing Shoes.2        =  Smooth, sticky rubber sole                                                               
-       remark                  =  yes                                                                                       
-fact   Climbing Shoes.3        =  Usually donned at the base of a climb                                                    
-       remark                  =  yes                                                                                       
+photo  Climbing.Shoes          =  Climbing Shoes                                                                           
+       url                     =  github://philiprbrenan/Boots/Climbing Shoes.jpg                                          
+fact   Climbing.Shoes.0        =  Designed for rock climbing                                                               
+       remark                  =  yes                                                                                      
+fact   Climbing.Shoes.1        =  Close fit and unsuited to walking                                                        
+       remark                  =  yes                                                                                      
+fact   Climbing.Shoes.2        =  Smooth, sticky rubber sole                                                               
+       remark                  =  yes                                                                                      
+fact   Climbing.Shoes.3        =  Usually donned at the base of a climb                                                    
+       remark                  =  yes                                                                                      
        
-photo  Clogs                   =  Clogs                                                                                     
-       url                     =  github://philiprbrenan/Boots/Clogs.jpg                                                    
-fact   Clogs.0                 =  Also called "Wooden Shoes"                                                               
-       remark                  =  yes                                                                                       
-fact   Clogs.1                 =  Originally designed for use as working shoes                                             
-       remark                  =  yes                                                                                       
-fact   Clogs.2                 =  Today still used in agriculture, factories and mines                                     
-       remark                  =  yes                                                                                       
+photo  Clogs                   =  Clogs                                                                                    
+       url                     =  github://philiprbrenan/Boots/Clogs.jpg                                                   
+fact   Clogs.0                 =  Also called "Wooden Shoes"                                                               
+       remark                  =  yes                                                                                      
+fact   Clogs.1                 =  Originally designed for use as working shoes                                             
+       remark                  =  yes                                                                                      
+fact   Clogs.2                 =  Today still used in agriculture, factories and mines                                     
+       remark                  =  yes                                                                                      
        
-photo  Court Shoes             =  Court Shoes                                                                               
-       url                     =  github://philiprbrenan/Boots/Court Shoes.jpg                                              
-fact   Court Shoes.0           =  Also called "Pumps"                                                                      
-       remark                  =  yes                                                                                       
-fact   Court Shoes.1           =  Shoes with a low-cut front and usually without a fastening                               
-       remark                  =  yes                                                                                       
-fact   Court Shoes.2           =  Usually heeled, but can be flat                                                          
-       remark                  =  yes                                                                                       
+photo  Court.Shoes             =  Court Shoes                                                                              
+       url                     =  github://philiprbrenan/Boots/Court Shoes.jpg                                             
+fact   Court.Shoes.0           =  Also called "Pumps"                                                                      
+       remark                  =  yes                                                                                      
+fact   Court.Shoes.1           =  Shoes with a low-cut front and usually without a fastening                               
+       remark                  =  yes                                                                                      
+fact   Court.Shoes.2           =  Usually heeled, but can be flat                                                          
+       remark                  =  yes                                                                                      
        
-photo  Cowboy Boots            =  Cowboy Boots                                                                              
-       url                     =  github://philiprbrenan/Boots/Cowboy Boots.jpg                                             
-fact   Cowboy Boots.0          =  Historically worn by cowboys                                                             
-       remark                  =  yes                                                                                       
-fact   Cowboy Boots.1          =  Normally made from cowhide leather                                                       
-       remark                  =  yes                                                                                       
-fact   Cowboy Boots.2          =  Tall heel helps to stop the foot sliding forward through the stirrup                     
-       remark                  =  yes                                                                                       
+photo  Cowboy.Boots            =  Cowboy Boots                                                                             
+       url                     =  github://philiprbrenan/Boots/Cowboy Boots.jpg                                            
+fact   Cowboy.Boots.0          =  Historically worn by cowboys                                                             
+       remark                  =  yes                                                                                      
+fact   Cowboy.Boots.1          =  Normally made from cowhide leather                                                       
+       remark                  =  yes                                                                                      
+fact   Cowboy.Boots.2          =  Tall heel helps to stop the foot sliding forward through the stirrup                     
+       remark                  =  yes                                                                                      
        
-photo  Croc-offs               =  Croc-offs                                                                                 
-       url                     =  github://philiprbrenan/Boots/Croc-offs.jpg                                                
-fact   Croc-offs.0             =  Originally designed for the beach                                                        
-       remark                  =  yes                                                                                       
-fact   Croc-offs.1             =  Plastic or rubber shoe made to look like the famous original                             
-       remark                  =  yes                                                                                       
-fact   Croc-offs.2             =  Lightweight and multi-functional                                                         
-       remark                  =  yes                                                                                       
+photo  Croc-offs               =  Croc-offs                                                                                
+       url                     =  github://philiprbrenan/Boots/Croc-offs.jpg                                               
+fact   Croc-offs.0             =  Originally designed for the beach                                                        
+       remark                  =  yes                                                                                      
+fact   Croc-offs.1             =  Plastic or rubber shoe made to look like the famous original                             
+       remark                  =  yes                                                                                      
+fact   Croc-offs.2             =  Lightweight and multi-functional                                                         
+       remark                  =  yes                                                                                      
        
-photo  Cycling Shoes           =  Cycling Shoes                                                                             
-       url                     =  github://philiprbrenan/Boots/Cycling Shoes.jpg                                            
-fact   Cycling Shoes.0         =  Purpose-built for cycling                                                                
-       remark                  =  yes                                                                                       
-fact   Cycling Shoes.1         =  Designed to attach to the pedals of the bicycle                                          
-       remark                  =  yes                                                                                       
-fact   Cycling Shoes.2         =  A cleat on the sole of the shoe clips into a fitting on the pedal                        
-       remark                  =  yes                                                                                       
+photo  Cycling.Shoes           =  Cycling Shoes                                                                            
+       url                     =  github://philiprbrenan/Boots/Cycling Shoes.jpg                                           
+fact   Cycling.Shoes.0         =  Purpose-built for cycling                                                                
+       remark                  =  yes                                                                                      
+fact   Cycling.Shoes.1         =  Designed to attach to the pedals of the bicycle                                          
+       remark                  =  yes                                                                                      
+fact   Cycling.Shoes.2         =  A cleat on the sole of the shoe clips into a fitting on the pedal                        
+       remark                  =  yes                                                                                      
        
-photo  Derby Shoes             =  Derby Shoes                                                                               
-       url                     =  github://philiprbrenan/Boots/Derby Shoes.jpg                                              
-fact   Derby Shoes.0           =  Also called "Gibson" and "Blucher"                                                       
-       remark                  =  yes                                                                                       
-fact   Derby Shoes.1           =  A style of semi-formal, male shoe                                                        
-       remark                  =  yes                                                                                       
-fact   Derby Shoes.2           =  Commonly black or brown with open-lacing                                                 
-       remark                  =  yes                                                                                       
-fact   Derby Shoes.3           =  May be plain or ornately styled Brogues                                                  
-       remark                  =  yes                                                                                       
+photo  Derby.Shoes             =  Derby Shoes                                                                              
+       url                     =  github://philiprbrenan/Boots/Derby Shoes.jpg                                             
+fact   Derby.Shoes.0           =  Also called "Gibson" and "Blucher"                                                       
+       remark                  =  yes                                                                                      
+fact   Derby.Shoes.1           =  A style of semi-formal, male shoe                                                        
+       remark                  =  yes                                                                                      
+fact   Derby.Shoes.2           =  Commonly black or brown with open-lacing                                                 
+       remark                  =  yes                                                                                      
+fact   Derby.Shoes.3           =  May be plain or ornately styled Brogues                                                  
+       remark                  =  yes                                                                                      
        
-photo  Desert Boots            =  Desert Boots                                                                              
-       url                     =  github://philiprbrenan/Boots/Desert Boots.jpg                                             
-fact   Desert Boots.0          =  Also called "Chukka Boots"                                                               
-       remark                  =  yes                                                                                       
-fact   Desert Boots.1          =  Floppy, ankle-high suede boot with crepe soles                                           
-       remark                  =  yes                                                                                       
-fact   Desert Boots.2          =  A cult classic inspired by the boots worn by British officers in World War II            
-       remark                  =  yes                                                                                       
+photo  Desert.Boots            =  Desert Boots                                                                             
+       url                     =  github://philiprbrenan/Boots/Desert Boots.jpg                                            
+fact   Desert.Boots.0          =  Also called "Chukka Boots"                                                               
+       remark                  =  yes                                                                                      
+fact   Desert.Boots.1          =  Floppy, ankle-high suede boot with crepe soles                                           
+       remark                  =  yes                                                                                      
+fact   Desert.Boots.2          =  A cult classic inspired by the boots worn by British officers in World War II            
+       remark                  =  yes                                                                                      
        
-photo  Espadrilles             =  Espadrilles                                                                               
-       url                     =  github://philiprbrenan/Boots/Espadrilles.jpg                                              
-fact   Espadrilles.0           =  Casual, flat shoes with canvas or cotton fabric upper                                    
-       remark                  =  yes                                                                                       
-fact   Espadrilles.1           =  Originate from the Pyrenees                                                              
-       remark                  =  yes                                                                                       
-fact   Espadrilles.2           =  Soles are made of jute rope, a natural plant fibre                                       
-       remark                  =  yes                                                                                       
+photo  Espadrilles             =  Espadrilles                                                                              
+       url                     =  github://philiprbrenan/Boots/Espadrilles.jpg                                             
+fact   Espadrilles.0           =  Casual, flat shoes with canvas or cotton fabric upper                                    
+       remark                  =  yes                                                                                      
+fact   Espadrilles.1           =  Originate from the Pyrenees                                                              
+       remark                  =  yes                                                                                      
+fact   Espadrilles.2           =  Soles are made of jute rope, a natural plant fibre                                       
+       remark                  =  yes                                                                                      
        
-photo  Figure Skating Boots    =  Figure Skating Boots                                                                      
-       url                     =  github://philiprbrenan/Boots/Figure Skating Boots.jpg                                     
-fact   Figure Skating Boots.0  =  A type of ice skating boot used by figure skaters                                        
-       remark                  =  yes                                                                                       
-fact   Figure Skating Boots.1  =  The boot is attached to the blade with screws                                            
-       remark                  =  yes                                                                                       
-fact   Figure Skating Boots.2  =  Extremely rigid to support the foot and ankle in jumps                                   
-       remark                  =  yes                                                                                       
+photo  Figure.Skating.Boots    =  Figure Skating Boots                                                                     
+       url                     =  github://philiprbrenan/Boots/Figure Skating Boots.jpg                                    
+fact   Figure.Skating.Boots.0  =  A type of ice skating boot used by figure skaters                                        
+       remark                  =  yes                                                                                      
+fact   Figure.Skating.Boots.1  =  The boot is attached to the blade with screws                                            
+       remark                  =  yes                                                                                      
+fact   Figure.Skating.Boots.2  =  Extremely rigid to support the foot and ankle in jumps                                   
+       remark                  =  yes                                                                                      
        
-photo  Flip-Flops              =  Flip-Flops                                                                                
-       url                     =  github://philiprbrenan/Boots/Flip-Flops.jpg                                               
-fact   Flip-Flops.0            =  Also called "Thongs" and "Jandals"                                                       
-       remark                  =  yes                                                                                       
-fact   Flip-Flops.1            =  Worn in casual situations, such as at the beach                                          
-       remark                  =  yes                                                                                       
-fact   Flip-Flops.2            =  Named after the slapping sound that is made when walking in these shoes                  
-       remark                  =  yes                                                                                       
+photo  Flip-Flops              =  Flip-Flops                                                                               
+       url                     =  github://philiprbrenan/Boots/Flip-Flops.jpg                                              
+fact   Flip-Flops.0            =  Also called "Thongs" and "Jandals"                                                       
+       remark                  =  yes                                                                                      
+fact   Flip-Flops.1            =  Worn in casual situations, such as at the beach                                          
+       remark                  =  yes                                                                                      
+fact   Flip-Flops.2            =  Named after the slapping sound that is made when walking in these shoes                  
+       remark                  =  yes                                                                                      
        
-photo  Flippers                =  Flippers                                                                                  
-       url                     =  github://philiprbrenan/Boots/Flippers.jpg                                                 
-fact   Flippers.0              =  Also called "Swimfins" and "Fins"                                                        
-       remark                  =  yes                                                                                       
-fact   Flippers.1              =  Designed to aid propulsion in swimming and underwater diving                             
-       remark                  =  yes                                                                                       
-fact   Flippers.2              =  Made from rubber or plastic                                                              
-       remark                  =  yes                                                                                       
+photo  Flippers                =  Flippers                                                                                 
+       url                     =  github://philiprbrenan/Boots/Flippers.jpg                                                
+fact   Flippers.0              =  Also called "Swimfins" and "Fins"                                                        
+       remark                  =  yes                                                                                      
+fact   Flippers.1              =  Designed to aid propulsion in swimming and underwater diving                             
+       remark                  =  yes                                                                                      
+fact   Flippers.2              =  Made from rubber or plastic                                                              
+       remark                  =  yes                                                                                      
        
-photo  Football Boots          =  Football Boots                                                                            
-       url                     =  github://philiprbrenan/Boots/Football Boots.jpg                                           
-fact   Football Boots.0        =  Also called "Cleats" and "Soccer Shoes"                                                  
-       remark                  =  yes                                                                                       
-fact   Football Boots.1        =  Designed for playing association football                                                
-       remark                  =  yes                                                                                       
-fact   Football Boots.2        =  Studs on the sole aid grip on grass                                                      
-       remark                  =  yes                                                                                       
+photo  Football.Boots          =  Football Boots                                                                           
+       url                     =  github://philiprbrenan/Boots/Football Boots.jpg                                          
+fact   Football.Boots.0        =  Also called "Cleats" and "Soccer Shoes"                                                  
+       remark                  =  yes                                                                                      
+fact   Football.Boots.1        =  Designed for playing association football                                                
+       remark                  =  yes                                                                                      
+fact   Football.Boots.2        =  Studs on the sole aid grip on grass                                                      
+       remark                  =  yes                                                                                      
        
-photo  Ghillies                =  Ghillies                                                                                  
-       url                     =  github://philiprbrenan/Boots/Ghillies.jpg                                                 
-fact   Ghillies.0              =  Designed for several types of dance                                                      
-       remark                  =  yes                                                                                       
-fact   Ghillies.1              =  Made of soft, supple leather like ballet shoes                                           
-       remark                  =  yes                                                                                       
-fact   Ghillies.2              =  Used by women (Irish dance), by men (Scottish country dance)                             
-       remark                  =  yes                                                                                       
-fact   Ghillies.3              =  Used by men and women (Highland dance)                                                   
-       remark                  =  yes                                                                                       
+photo  Ghillies                =  Ghillies                                                                                 
+       url                     =  github://philiprbrenan/Boots/Ghillies.jpg                                                
+fact   Ghillies.0              =  Designed for several types of dance                                                      
+       remark                  =  yes                                                                                      
+fact   Ghillies.1              =  Made of soft, supple leather like ballet shoes                                           
+       remark                  =  yes                                                                                      
+fact   Ghillies.2              =  Used by women (Irish dance), by men (Scottish country dance)                             
+       remark                  =  yes                                                                                      
+fact   Ghillies.3              =  Used by men and women (Highland dance)                                                   
+       remark                  =  yes                                                                                      
        
-photo  Golf Shoes              =  Golf Shoes                                                                                
-       url                     =  github://philiprbrenan/Boots/Golf Shoes.jpg                                               
-fact   Golf Shoes.0            =  Designed for playing golf                                                                
-       remark                  =  yes                                                                                       
-fact   Golf Shoes.1            =  The soles have rubber or plastic spikes attached                                         
-       remark                  =  yes                                                                                       
-fact   Golf Shoes.2            =  Spikes prevent feet from slipping on wet grass when swinging the club                    
-       remark                  =  yes                                                                                       
+photo  Golf.Shoes              =  Golf Shoes                                                                               
+       url                     =  github://philiprbrenan/Boots/Golf Shoes.jpg                                              
+fact   Golf.Shoes.0            =  Designed for playing golf                                                                
+       remark                  =  yes                                                                                      
+fact   Golf.Shoes.1            =  The soles have rubber or plastic spikes attached                                         
+       remark                  =  yes                                                                                      
+fact   Golf.Shoes.2            =  Spikes prevent feet from slipping on wet grass when swinging the club                    
+       remark                  =  yes                                                                                      
        
-photo  High-Heeled Shoes       =  High-Heeled Shoes                                                                         
-       url                     =  github://philiprbrenan/Boots/High-Heeled Shoes.jpg                                        
-fact   High-Heeled Shoes.0     =  Also called "High Heels" and "Heels"                                                     
-       remark                  =  yes                                                                                       
-fact   High-Heeled Shoes.1     =  Designed to raise the heel significantly higher than the toes                            
-       remark                  =  yes                                                                                       
-fact   High-Heeled Shoes.2     =  The heels are found in many different shapes such as stiletto and wedge                  
-       remark                  =  yes                                                                                       
+photo  High-Heeled.Shoes       =  High-Heeled Shoes                                                                        
+       url                     =  github://philiprbrenan/Boots/High-Heeled Shoes.jpg                                       
+fact   High-Heeled.Shoes.0     =  Also called "High Heels" and "Heels"                                                     
+       remark                  =  yes                                                                                      
+fact   High-Heeled.Shoes.1     =  Designed to raise the heel significantly higher than the toes                            
+       remark                  =  yes                                                                                      
+fact   High-Heeled.Shoes.2     =  The heels are found in many different shapes such as stiletto and wedge                  
+       remark                  =  yes                                                                                      
        
-photo  Hiking Boots            =  Hiking Boots                                                                              
-       url                     =  github://philiprbrenan/Boots/Hiking Boots.jpg                                             
-fact   Hiking Boots.0          =  Designed to provide comfort for miles of walking over rough terrain                      
-       remark                  =  yes                                                                                       
-fact   Hiking Boots.1          =  Protect the hiker's feet against water, mud and rocks                                    
-       remark                  =  yes                                                                                       
-fact   Hiking Boots.2          =  Made of leather, suede or synthetic materials                                            
-       remark                  =  yes                                                                                       
+photo  Hiking.Boots            =  Hiking Boots                                                                             
+       url                     =  github://philiprbrenan/Boots/Hiking Boots.jpg                                            
+fact   Hiking.Boots.0          =  Designed to provide comfort for miles of walking over rough terrain                      
+       remark                  =  yes                                                                                      
+fact   Hiking.Boots.1          =  Protect the hiker's feet against water, mud and rocks                                    
+       remark                  =  yes                                                                                      
+fact   Hiking.Boots.2          =  Made of leather, suede or synthetic materials                                            
+       remark                  =  yes                                                                                      
        
-photo  Hiking Shoes            =  Hiking Shoes                                                                              
-       url                     =  github://philiprbrenan/Boots/Hiking Shoes.jpg                                             
-fact   Hiking Shoes.0          =  Designed for hiking along trails in dry climates                                         
-       remark                  =  yes                                                                                       
-fact   Hiking Shoes.1          =  Ideal for well-established paths that are not too rugged or rocky                        
-       remark                  =  yes                                                                                       
-fact   Hiking Shoes.2          =  Give enough support when carrying a light day pack                                       
-       remark                  =  yes                                                                                       
+photo  Hiking.Shoes            =  Hiking Shoes                                                                             
+       url                     =  github://philiprbrenan/Boots/Hiking Shoes.jpg                                            
+fact   Hiking.Shoes.0          =  Designed for hiking along trails in dry climates                                         
+       remark                  =  yes                                                                                      
+fact   Hiking.Shoes.1          =  Ideal for well-established paths that are not too rugged or rocky                        
+       remark                  =  yes                                                                                      
+fact   Hiking.Shoes.2          =  Give enough support when carrying a light day pack                                       
+       remark                  =  yes                                                                                      
        
-photo  Inline Skating Boots    =  Inline Skating Boots                                                                      
-       url                     =  github://philiprbrenan/Boots/Inline Skating Boots.jpg                                     
-fact   Inline Skating Boots.0  =  Also called "Rollerblades"                                                               
-       remark                  =  yes                                                                                       
-fact   Inline Skating Boots.1  =  A type of roller skating boot used for inline skating                                    
-       remark                  =  yes                                                                                       
-fact   Inline Skating Boots.2  =  The high, rigid boot is attached to a frame which holds the wheels in place              
-       remark                  =  yes                                                                                       
+photo  Inline.Skating.Boots    =  Inline Skating Boots                                                                     
+       url                     =  github://philiprbrenan/Boots/Inline Skating Boots.jpg                                    
+fact   Inline.Skating.Boots.0  =  Also called "Rollerblades"                                                               
+       remark                  =  yes                                                                                      
+fact   Inline.Skating.Boots.1  =  A type of roller skating boot used for inline skating                                    
+       remark                  =  yes                                                                                      
+fact   Inline.Skating.Boots.2  =  The high, rigid boot is attached to a frame which holds the wheels in place              
+       remark                  =  yes                                                                                      
        
-photo  Jazz Shoes              =  Jazz Shoes                                                                                
-       url                     =  github://philiprbrenan/Boots/Jazz Shoes.jpg                                               
-fact   Jazz Shoes.0            =  Also called "Acro Shoes"                                                                 
-       remark                  =  yes                                                                                       
-fact   Jazz Shoes.1            =  Designed for jazz and acro dancing, acrobatic rock 'n' roll, hip hop and aerobics        
-       remark                  =  yes                                                                                       
-fact   Jazz Shoes.2            =  Split-sole provides both flexibility and traction                                        
-       remark                  =  yes                                                                                       
+photo  Jazz.Shoes              =  Jazz Shoes                                                                               
+       url                     =  github://philiprbrenan/Boots/Jazz Shoes.jpg                                              
+fact   Jazz.Shoes.0            =  Also called "Acro Shoes"                                                                 
+       remark                  =  yes                                                                                      
+fact   Jazz.Shoes.1            =  Designed for jazz and acro dancing, acrobatic rock 'n' roll, hip hop and aerobics        
+       remark                  =  yes                                                                                      
+fact   Jazz.Shoes.2            =  Split-sole provides both flexibility and traction                                        
+       remark                  =  yes                                                                                      
        
-photo  Jump Boots              =  Jump Boots                                                                                
-       url                     =  github://philiprbrenan/Boots/Jump Boots.jpg                                               
-fact   Jump Boots.0            =  Also called "Paratrooper Boots" and "Corcorans"                                          
-       remark                  =  yes                                                                                       
-fact   Jump Boots.1            =  A combat boot designed for soldiers assigned to parachute units                          
-       remark                  =  yes                                                                                       
-fact   Jump Boots.2            =  Made of smooth leather which accepts a high polish                                       
-       remark                  =  yes                                                                                       
+photo  Jump.Boots              =  Jump Boots                                                                               
+       url                     =  github://philiprbrenan/Boots/Jump Boots.jpg                                              
+fact   Jump.Boots.0            =  Also called "Paratrooper Boots" and "Corcorans"                                          
+       remark                  =  yes                                                                                      
+fact   Jump.Boots.1            =  A combat boot designed for soldiers assigned to parachute units                          
+       remark                  =  yes                                                                                      
+fact   Jump.Boots.2            =  Made of smooth leather which accepts a high polish                                       
+       remark                  =  yes                                                                                      
        
-photo  Knee-length Boots       =  Knee-length Boots                                                                         
-       url                     =  github://philiprbrenan/Boots/Knee-length Boots.jpg                                        
-fact   Knee-length Boots.0     =  Designed for casual, formal and business attire                                          
-       remark                  =  yes                                                                                       
-fact   Knee-length Boots.1     =  Come in a wide variety of colours and materials                                          
-       remark                  =  yes                                                                                       
-fact   Knee-length Boots.2     =  Widely worn in the winter                                                                
-       remark                  =  yes                                                                                       
+photo  Knee-length.Boots       =  Knee-length Boots                                                                        
+       url                     =  github://philiprbrenan/Boots/Knee-length Boots.jpg                                       
+fact   Knee-length.Boots.0     =  Designed for casual, formal and business attire                                          
+       remark                  =  yes                                                                                      
+fact   Knee-length.Boots.1     =  Come in a wide variety of colours and materials                                          
+       remark                  =  yes                                                                                      
+fact   Knee-length.Boots.2     =  Widely worn in the winter                                                                
+       remark                  =  yes                                                                                      
        
-photo  Moccasins               =  Moccasins                                                                                 
-       url                     =  github://philiprbrenan/Boots/Moccasins.jpg                                                
-fact   Moccasins.0             =  Sole and sides of the shoe are made of one piece of leather                              
-       remark                  =  yes                                                                                       
-fact   Moccasins.1             =  Historically worn by indigenous peoples of North America                                 
-       remark                  =  yes                                                                                       
-fact   Moccasins.2             =  Often adorned with embroidery or beading                                                 
-       remark                  =  yes                                                                                       
+photo  Moccasins               =  Moccasins                                                                                
+       url                     =  github://philiprbrenan/Boots/Moccasins.jpg                                               
+fact   Moccasins.0             =  Sole and sides of the shoe are made of one piece of leather                              
+       remark                  =  yes                                                                                      
+fact   Moccasins.1             =  Historically worn by indigenous peoples of North America                                 
+       remark                  =  yes                                                                                      
+fact   Moccasins.2             =  Often adorned with embroidery or beading                                                 
+       remark                  =  yes                                                                                      
        
-photo  Monk Shoes              =  Monk Shoes                                                                                
-       url                     =  github://philiprbrenan/Boots/Monk Shoes.jpg                                               
-fact   Monk Shoes.0            =  A style of male shoe                                                                     
-       remark                  =  yes                                                                                       
-fact   Monk Shoes.1            =  No lacing and closed by a buckle and strap                                               
-       remark                  =  yes                                                                                       
-fact   Monk Shoes.2            =  Moderately formal shoe                                                                   
-       remark                  =  yes                                                                                       
-fact   Monk Shoes.3            =  Popular in suede                                                                         
-       remark                  =  yes                                                                                       
+photo  Monk.Shoes              =  Monk Shoes                                                                               
+       url                     =  github://philiprbrenan/Boots/Monk Shoes.jpg                                              
+fact   Monk.Shoes.0            =  A style of male shoe                                                                     
+       remark                  =  yes                                                                                      
+fact   Monk.Shoes.1            =  No lacing and closed by a buckle and strap                                               
+       remark                  =  yes                                                                                      
+fact   Monk.Shoes.2            =  Moderately formal shoe                                                                   
+       remark                  =  yes                                                                                      
+fact   Monk.Shoes.3            =  Popular in suede                                                                         
+       remark                  =  yes                                                                                      
        
-photo  Motorcycle Boots        =  Motorcycle Boots                                                                          
-       url                     =  github://philiprbrenan/Boots/Motorcycle Boots.jpg                                         
-fact   Motorcycle Boots.0      =  Designed for riding a motorcycle on city streets and highways                            
-       remark                  =  yes                                                                                       
-fact   Motorcycle Boots.1      =  Normally made from thick leather and hard rubber                                         
-       remark                  =  yes                                                                                       
-fact   Motorcycle Boots.2      =  Low heel to control the motorcycle                                                       
-       remark                  =  yes                                                                                       
+photo  Motorcycle.Boots        =  Motorcycle Boots                                                                         
+       url                     =  github://philiprbrenan/Boots/Motorcycle Boots.jpg                                        
+fact   Motorcycle.Boots.0      =  Designed for riding a motorcycle on city streets and highways                            
+       remark                  =  yes                                                                                      
+fact   Motorcycle.Boots.1      =  Normally made from thick leather and hard rubber                                         
+       remark                  =  yes                                                                                      
+fact   Motorcycle.Boots.2      =  Low heel to control the motorcycle                                                       
+       remark                  =  yes                                                                                      
        
-photo  Mountaineering Boots    =  Mountaineering Boots                                                                      
-       url                     =  github://philiprbrenan/Boots/Mountaineering Boots.jpg                                     
-fact   Mountaineering Boots.0  =  Designed for moving over harsh terrain                                                   
-       remark                  =  yes                                                                                       
-fact   Mountaineering Boots.1  =  Designed to be used with crampons                                                        
-       remark                  =  yes                                                                                       
-fact   Mountaineering Boots.2  =  Made of leather, plastic, or modern synthetic materials                                  
-       remark                  =  yes                                                                                       
-fact   Mountaineering Boots.3  =  Taller, stiffer and better insulated than hiking boots                                   
-       remark                  =  yes                                                                                       
+photo  Mountaineering.Boots    =  Mountaineering Boots                                                                     
+       url                     =  github://philiprbrenan/Boots/Mountaineering Boots.jpg                                    
+fact   Mountaineering.Boots.0  =  Designed for moving over harsh terrain                                                   
+       remark                  =  yes                                                                                      
+fact   Mountaineering.Boots.1  =  Designed to be used with crampons                                                        
+       remark                  =  yes                                                                                      
+fact   Mountaineering.Boots.2  =  Made of leather, plastic, or modern synthetic materials                                  
+       remark                  =  yes                                                                                      
+fact   Mountaineering.Boots.3  =  Taller, stiffer and better insulated than hiking boots                                   
+       remark                  =  yes                                                                                      
        
-photo  Mules                   =  Mules                                                                                     
-       url                     =  github://philiprbrenan/Boots/Mules.jpg                                                    
-fact   Mules.0                 =  A backless shoe which is often closed-toed                                               
-       remark                  =  yes                                                                                       
-fact   Mules.1                 =  The heel can be any height from flat to high                                             
-       remark                  =  yes                                                                                       
-fact   Mules.2                 =  Usually worn by women                                                                    
-       remark                  =  yes                                                                                       
+photo  Mules                   =  Mules                                                                                    
+       url                     =  github://philiprbrenan/Boots/Mules.jpg                                                   
+fact   Mules.0                 =  A backless shoe which is often closed-toed                                               
+       remark                  =  yes                                                                                      
+fact   Mules.1                 =  The heel can be any height from flat to high                                             
+       remark                  =  yes                                                                                      
+fact   Mules.2                 =  Usually worn by women                                                                    
+       remark                  =  yes                                                                                      
        
-photo  Over-the Knee Boots     =  Over-the Knee Boots                                                                       
-       url                     =  github://philiprbrenan/Boots/Over-the Knee Boots.jpg                                      
-fact   Over-the Knee Boots.0   =  Also called "Thigh Boots"                                                                
-       remark                  =  yes                                                                                       
-fact   Over-the Knee Boots.1   =  Originally worn by men in the 16th-18th Centuries to protect the legs while riding       
-       remark                  =  yes                                                                                       
-fact   Over-the Knee Boots.2   =  Adopted as a fashion item for women in the 1960s                                         
-       remark                  =  yes                                                                                       
+photo  Over-the.Knee.Boots     =  Over-the Knee Boots                                                                      
+       url                     =  github://philiprbrenan/Boots/Over-the Knee Boots.jpg                                     
+fact   Over-the.Knee.Boots.0   =  Also called "Thigh Boots"                                                                
+       remark                  =  yes                                                                                      
+fact   Over-the.Knee.Boots.1   =  Originally worn by men in the 16th-18th Centuries to protect the legs while riding       
+       remark                  =  yes                                                                                      
+fact   Over-the.Knee.Boots.2   =  Adopted as a fashion item for women in the 1960s                                         
+       remark                  =  yes                                                                                      
        
-photo  Oxford Shoes            =  Oxford Shoes                                                                              
-       url                     =  github://philiprbrenan/Boots/Oxford Shoes.jpg                                             
-fact   Oxford Shoes.0          =  Also called "Balmorals"                                                                  
-       remark                  =  yes                                                                                       
-fact   Oxford Shoes.1          =  A style of formal, male shoe                                                             
-       remark                  =  yes                                                                                       
-fact   Oxford Shoes.2          =  Commonly black or brown with closed-lacing                                               
-       remark                  =  yes                                                                                       
-fact   Oxford Shoes.3          =  May be plain or ornately styled Brogues                                                  
-       remark                  =  yes                                                                                       
+photo  Oxford.Shoes            =  Oxford Shoes                                                                             
+       url                     =  github://philiprbrenan/Boots/Oxford Shoes.jpg                                            
+fact   Oxford.Shoes.0          =  Also called "Balmorals"                                                                  
+       remark                  =  yes                                                                                      
+fact   Oxford.Shoes.1          =  A style of formal, male shoe                                                             
+       remark                  =  yes                                                                                      
+fact   Oxford.Shoes.2          =  Commonly black or brown with closed-lacing                                               
+       remark                  =  yes                                                                                      
+fact   Oxford.Shoes.3          =  May be plain or ornately styled Brogues                                                  
+       remark                  =  yes                                                                                      
        
-photo  Platform Shoes          =  Platform Shoes                                                                            
-       url                     =  github://philiprbrenan/Boots/Platform Shoes.jpg                                           
-fact   Platform Shoes.0        =  Shoes, boots, or sandals with thick soles                                                
-       remark                  =  yes                                                                                       
-fact   Platform Shoes.1        =  Designed to raise the whole foot significantly off the ground                            
-       remark                  =  yes                                                                                       
-fact   Platform Shoes.2        =  Very popular in the Glam rock music era of the 1970s                                     
-       remark                  =  yes                                                                                       
+photo  Platform.Shoes          =  Platform Shoes                                                                           
+       url                     =  github://philiprbrenan/Boots/Platform Shoes.jpg                                          
+fact   Platform.Shoes.0        =  Shoes, boots, or sandals with thick soles                                                
+       remark                  =  yes                                                                                      
+fact   Platform.Shoes.1        =  Designed to raise the whole foot significantly off the ground                            
+       remark                  =  yes                                                                                      
+fact   Platform.Shoes.2        =  Very popular in the Glam rock music era of the 1970s                                     
+       remark                  =  yes                                                                                      
        
-photo  Plimsolls               =  Plimsolls                                                                                 
-       url                     =  github://philiprbrenan/Boots/Plimsolls.jpg                                                
-fact   Plimsolls.0             =  Also called "Sand Shoes", "Daps" and "Pumps"                                             
-       remark                  =  yes                                                                                       
-fact   Plimsolls.1             =  Originally designed as beachwear                                                         
-       remark                  =  yes                                                                                       
-fact   Plimsolls.2             =  Canvas upper and rubber sole                                                             
-       remark                  =  yes                                                                                       
-fact   Plimsolls.3             =  Used in physical education lessons in UK schools                                         
-       remark                  =  yes                                                                                       
+photo  Plimsolls               =  Plimsolls                                                                                
+       url                     =  github://philiprbrenan/Boots/Plimsolls.jpg                                               
+fact   Plimsolls.0             =  Also called "Sand Shoes", "Daps" and "Pumps"                                             
+       remark                  =  yes                                                                                      
+fact   Plimsolls.1             =  Originally designed as beachwear                                                         
+       remark                  =  yes                                                                                      
+fact   Plimsolls.2             =  Canvas upper and rubber sole                                                             
+       remark                  =  yes                                                                                      
+fact   Plimsolls.3             =  Used in physical education lessons in UK schools                                         
+       remark                  =  yes                                                                                      
        
-photo  Pointe Shoes            =  Pointe Shoes                                                                              
-       url                     =  github://philiprbrenan/Boots/Pointe Shoes.jpg                                             
-fact   Pointe Shoes.0          =  Worn by ballet dancers when performing pointework                                        
-       remark                  =  yes                                                                                       
-fact   Pointe Shoes.1          =  Designed to enable dancers to dance on the tips of their toes                            
-       remark                  =  yes                                                                                       
-fact   Pointe Shoes.2          =  Normally worn by female dancers                                                          
-       remark                  =  yes                                                                                       
+photo  Pointe.Shoes            =  Pointe Shoes                                                                             
+       url                     =  github://philiprbrenan/Boots/Pointe Shoes.jpg                                            
+fact   Pointe.Shoes.0          =  Worn by ballet dancers when performing pointework                                        
+       remark                  =  yes                                                                                      
+fact   Pointe.Shoes.1          =  Designed to enable dancers to dance on the tips of their toes                            
+       remark                  =  yes                                                                                      
+fact   Pointe.Shoes.2          =  Normally worn by female dancers                                                          
+       remark                  =  yes                                                                                      
        
-photo  Riding Boots            =  Riding Boots                                                                              
-       url                     =  github://philiprbrenan/Boots/Riding Boots.jpg                                             
-fact   Riding Boots.0          =  Designed for riding horses                                                               
-       remark                  =  yes                                                                                       
-fact   Riding Boots.1          =  Prevent the leathers of the saddle from pinching the legs of the rider                   
-       remark                  =  yes                                                                                       
-fact   Riding Boots.2          =  The heel helps to stop the foot sliding forward through the stirrup                      
-       remark                  =  yes                                                                                       
+photo  Riding.Boots            =  Riding Boots                                                                             
+       url                     =  github://philiprbrenan/Boots/Riding Boots.jpg                                            
+fact   Riding.Boots.0          =  Designed for riding horses                                                               
+       remark                  =  yes                                                                                      
+fact   Riding.Boots.1          =  Prevent the leathers of the saddle from pinching the legs of the rider                   
+       remark                  =  yes                                                                                      
+fact   Riding.Boots.2          =  The heel helps to stop the foot sliding forward through the stirrup                      
+       remark                  =  yes                                                                                      
        
-photo  Running Shoes           =  Running Shoes                                                                             
-       url                     =  github://philiprbrenan/Boots/Running Shoes.jpg                                            
-fact   Running Shoes.0         =  Also called "Trainers"                                                                   
-       remark                  =  yes                                                                                       
-fact   Running Shoes.1         =  Designed for running on roads                                                            
-       remark                  =  yes                                                                                       
-fact   Running Shoes.2         =  Flexible sole made of dense rubber                                                       
-       remark                  =  yes                                                                                       
-fact   Running Shoes.3         =  Available in different designs suited to different running styles                        
-       remark                  =  yes                                                                                       
+photo  Running.Shoes           =  Running Shoes                                                                            
+       url                     =  github://philiprbrenan/Boots/Running Shoes.jpg                                           
+fact   Running.Shoes.0         =  Also called "Trainers"                                                                   
+       remark                  =  yes                                                                                      
+fact   Running.Shoes.1         =  Designed for running on roads                                                            
+       remark                  =  yes                                                                                      
+fact   Running.Shoes.2         =  Flexible sole made of dense rubber                                                       
+       remark                  =  yes                                                                                      
+fact   Running.Shoes.3         =  Available in different designs suited to different running styles                        
+       remark                  =  yes                                                                                      
        
-photo  Sandals                 =  Sandals                                                                                   
-       url                     =  github://philiprbrenan/Boots/Sandals.jpg                                                  
-fact   Sandals.0               =  Open type of outdoor footwear                                                            
-       remark                  =  yes                                                                                       
-fact   Sandals.1               =  Most of the feet are exposed, particularly the toes                                      
-       remark                  =  yes                                                                                       
-fact   Sandals.2               =  Popular in warm weather                                                                  
-       remark                  =  yes                                                                                       
+photo  Sandals                 =  Sandals                                                                                  
+       url                     =  github://philiprbrenan/Boots/Sandals.jpg                                                 
+fact   Sandals.0               =  Open type of outdoor footwear                                                            
+       remark                  =  yes                                                                                      
+fact   Sandals.1               =  Most of the feet are exposed, particularly the toes                                      
+       remark                  =  yes                                                                                      
+fact   Sandals.2               =  Popular in warm weather                                                                  
+       remark                  =  yes                                                                                      
        
-photo  Ski Boots               =  Ski Boots                                                                                 
-       url                     =  github://philiprbrenan/Boots/Ski Boots.jpg                                                
-fact   Ski Boots.0             =  Originally made of leather, but most are now made of plastic                             
-       remark                  =  yes                                                                                       
-fact   Ski Boots.1             =  Designed for skiing on snow                                                              
-       remark                  =  yes                                                                                       
-fact   Ski Boots.2             =  Attach the skier to the skis                                                             
-       remark                  =  yes                                                                                       
+photo  Ski.Boots               =  Ski Boots                                                                                
+       url                     =  github://philiprbrenan/Boots/Ski Boots.jpg                                               
+fact   Ski.Boots.0             =  Originally made of leather, but most are now made of plastic                             
+       remark                  =  yes                                                                                      
+fact   Ski.Boots.1             =  Designed for skiing on snow                                                              
+       remark                  =  yes                                                                                      
+fact   Ski.Boots.2             =  Attach the skier to the skis                                                             
+       remark                  =  yes                                                                                      
        
-photo  Slingbacks              =  Slingbacks                                                                                
-       url                     =  github://philiprbrenan/Boots/Slingbacks.jpg                                               
-fact   Slingbacks.0            =  A backless woman's shoe with a strap behind the heel or ankle                            
-       remark                  =  yes                                                                                       
-fact   Slingbacks.1            =  Wide variety of styles from casual to dressy                                             
-       remark                  =  yes                                                                                       
-fact   Slingbacks.2            =  The heel can be any height from flat to high                                             
-       remark                  =  yes                                                                                       
+photo  Slingbacks              =  Slingbacks                                                                               
+       url                     =  github://philiprbrenan/Boots/Slingbacks.jpg                                              
+fact   Slingbacks.0            =  A backless woman's shoe with a strap behind the heel or ankle                            
+       remark                  =  yes                                                                                      
+fact   Slingbacks.1            =  Wide variety of styles from casual to dressy                                             
+       remark                  =  yes                                                                                      
+fact   Slingbacks.2            =  The heel can be any height from flat to high                                             
+       remark                  =  yes                                                                                      
        
-photo  Slip-Ons                =  Slip-Ons                                                                                  
-       url                     =  github://philiprbrenan/Boots/Slip-Ons.jpg                                                 
-fact   Slip-Ons.0              =  Also called "Loafers"                                                                    
-       remark                  =  yes                                                                                       
-fact   Slip-Ons.1              =  Low shoes with no laces which are easy to slip-on                                        
-       remark                  =  yes                                                                                       
-fact   Slip-Ons.2              =  Made in a wide variety of colours and designs                                            
-       remark                  =  yes                                                                                       
+photo  Slip-Ons                =  Slip-Ons                                                                                 
+       url                     =  github://philiprbrenan/Boots/Slip-Ons.jpg                                                
+fact   Slip-Ons.0              =  Also called "Loafers"                                                                    
+       remark                  =  yes                                                                                      
+fact   Slip-Ons.1              =  Low shoes with no laces which are easy to slip-on                                        
+       remark                  =  yes                                                                                      
+fact   Slip-Ons.2              =  Made in a wide variety of colours and designs                                            
+       remark                  =  yes                                                                                      
        
-photo  Slippers                =  Slippers                                                                                  
-       url                     =  github://philiprbrenan/Boots/Slippers.jpg                                                 
-fact   Slippers.0              =  Also called "Houseshoes"                                                                 
-       remark                  =  yes                                                                                       
-fact   Slippers.1              =  Soft, lightweight and usually worn indoors                                               
-       remark                  =  yes                                                                                       
-fact   Slippers.2              =  Slippers are cosy and most popular in cold countries                                     
-       remark                  =  yes                                                                                       
+photo  Slippers                =  Slippers                                                                                 
+       url                     =  github://philiprbrenan/Boots/Slippers.jpg                                                
+fact   Slippers.0              =  Also called "Houseshoes"                                                                 
+       remark                  =  yes                                                                                      
+fact   Slippers.1              =  Soft, lightweight and usually worn indoors                                               
+       remark                  =  yes                                                                                      
+fact   Slippers.2              =  Slippers are cosy and most popular in cold countries                                     
+       remark                  =  yes                                                                                      
        
-photo  Sneakers                =  Sneakers                                                                                  
-       url                     =  github://philiprbrenan/Boots/Sneakers.jpg                                                 
-fact   Sneakers.0              =  Also called "Trainers" (UK)                                                              
-       remark                  =  yes                                                                                       
-fact   Sneakers.1              =  Originally designed for sport, but today worn as casual shoes                            
-       remark                  =  yes                                                                                       
-fact   Sneakers.2              =  Leather or canvas upper and rubber sole                                                  
-       remark                  =  yes                                                                                       
+photo  Sneakers                =  Sneakers                                                                                 
+       url                     =  github://philiprbrenan/Boots/Sneakers.jpg                                                
+fact   Sneakers.0              =  Also called "Trainers" (UK)                                                              
+       remark                  =  yes                                                                                      
+fact   Sneakers.1              =  Originally designed for sport, but today worn as casual shoes                            
+       remark                  =  yes                                                                                      
+fact   Sneakers.2              =  Leather or canvas upper and rubber sole                                                  
+       remark                  =  yes                                                                                      
        
-photo  Snow Boots              =  Snow Boots                                                                                
-       url                     =  github://philiprbrenan/Boots/Snow Boots.jpg                                               
-fact   Snow Boots.0            =  Designed to be used in wet, slushy, or muddy situations                                  
-       remark                  =  yes                                                                                       
-fact   Snow Boots.1            =  Generally waterproof, or water-resistant                                                 
-       remark                  =  yes                                                                                       
-fact   Snow Boots.2            =  High sided to keep snow from entering the boot                                           
-       remark                  =  yes                                                                                       
+photo  Snow.Boots              =  Snow Boots                                                                               
+       url                     =  github://philiprbrenan/Boots/Snow Boots.jpg                                              
+fact   Snow.Boots.0            =  Designed to be used in wet, slushy, or muddy situations                                  
+       remark                  =  yes                                                                                      
+fact   Snow.Boots.1            =  Generally waterproof, or water-resistant                                                 
+       remark                  =  yes                                                                                      
+fact   Snow.Boots.2            =  High sided to keep snow from entering the boot                                           
+       remark                  =  yes                                                                                      
        
-photo  Steel-toe Boots         =  Steel-toe Boots                                                                           
-       url                     =  github://philiprbrenan/Boots/Steel-toe Boots.jpg                                          
-fact   Steel-toe Boots.0       =  Also called "Safety Boots" and "Steel-capped Boots"                                      
-       remark                  =  yes                                                                                       
-fact   Steel-toe Boots.1       =  Designed to protect the feet from falling objects or compression                         
-       remark                  =  yes                                                                                       
-fact   Steel-toe Boots.2       =  Used on building sites and in many industrial settings                                   
-       remark                  =  yes                                                                                       
+photo  Steel-toe.Boots         =  Steel-toe Boots                                                                          
+       url                     =  github://philiprbrenan/Boots/Steel-toe Boots.jpg                                         
+fact   Steel-toe.Boots.0       =  Also called "Safety Boots" and "Steel-capped Boots"                                      
+       remark                  =  yes                                                                                      
+fact   Steel-toe.Boots.1       =  Designed to protect the feet from falling objects or compression                         
+       remark                  =  yes                                                                                      
+fact   Steel-toe.Boots.2       =  Used on building sites and in many industrial settings                                   
+       remark                  =  yes                                                                                      
        
-photo  Tap Shoes               =  Tap Shoes                                                                                 
-       url                     =  github://philiprbrenan/Boots/Tap Shoes.jpg                                                
-fact   Tap Shoes.0             =  Designed for tap dancing                                                                 
-       remark                  =  yes                                                                                       
-fact   Tap Shoes.1             =  Metal plates called "taps" are mounted to the bottom of the heel and toe                 
-       remark                  =  yes                                                                                       
-fact   Tap Shoes.2             =  "Taps" make a loud tapping sound when struck against a hard surface                      
-       remark                  =  yes                                                                                       
+photo  Tap.Shoes               =  Tap Shoes                                                                                
+       url                     =  github://philiprbrenan/Boots/Tap Shoes.jpg                                               
+fact   Tap.Shoes.0             =  Designed for tap dancing                                                                 
+       remark                  =  yes                                                                                      
+fact   Tap.Shoes.1             =  Metal plates called "taps" are mounted to the bottom of the heel and toe                 
+       remark                  =  yes                                                                                      
+fact   Tap.Shoes.2             =  "Taps" make a loud tapping sound when struck against a hard surface                      
+       remark                  =  yes                                                                                      
        
-photo  Tennis Shoes            =  Tennis Shoes                                                                              
-       url                     =  github://philiprbrenan/Boots/Tennis Shoes.jpg                                             
-fact   Tennis Shoes.0          =  Breathable shoe designed for tennis                                                      
-       remark                  =  yes                                                                                       
-fact   Tennis Shoes.1          =  Durable, supportive and flexes easily at the ball of the foot                            
-       remark                  =  yes                                                                                       
-fact   Tennis Shoes.2          =  Springy cushioning for long rallies on the court                                         
-       remark                  =  yes                                                                                       
+photo  Tennis.Shoes            =  Tennis Shoes                                                                             
+       url                     =  github://philiprbrenan/Boots/Tennis Shoes.jpg                                            
+fact   Tennis.Shoes.0          =  Breathable shoe designed for tennis                                                      
+       remark                  =  yes                                                                                      
+fact   Tennis.Shoes.1          =  Durable, supportive and flexes easily at the ball of the foot                            
+       remark                  =  yes                                                                                      
+fact   Tennis.Shoes.2          =  Springy cushioning for long rallies on the court                                         
+       remark                  =  yes                                                                                      
        
-photo  Track Shoes             =  Track Shoes                                                                               
-       url                     =  github://philiprbrenan/Boots/Track Shoes.jpg                                              
-fact   Track Shoes.0           =  Also called "Spikes"                                                                     
-       remark                  =  yes                                                                                       
-fact   Track Shoes.1           =  Designed for running on tracks                                                           
-       remark                  =  yes                                                                                       
-fact   Track Shoes.2           =  Extremely light and flexible                                                             
-       remark                  =  yes                                                                                       
-fact   Track Shoes.3           =  Metal or plastic spikes can be screwed into the sole to increase traction                
-       remark                  =  yes                                                                                       
+photo  Track.Shoes             =  Track Shoes                                                                              
+       url                     =  github://philiprbrenan/Boots/Track Shoes.jpg                                             
+fact   Track.Shoes.0           =  Also called "Spikes"                                                                     
+       remark                  =  yes                                                                                      
+fact   Track.Shoes.1           =  Designed for running on tracks                                                           
+       remark                  =  yes                                                                                      
+fact   Track.Shoes.2           =  Extremely light and flexible                                                             
+       remark                  =  yes                                                                                      
+fact   Track.Shoes.3           =  Metal or plastic spikes can be screwed into the sole to increase traction                
+       remark                  =  yes                                                                                      
        
-photo  Trail Running Shoes     =  Trail Running Shoes                                                                       
-       url                     =  github://philiprbrenan/Boots/Trail Running Shoes.jpg                                      
-fact   Trail Running Shoes.0   =  Designed for running and hiking along trails                                             
-       remark                  =  yes                                                                                       
-fact   Trail Running Shoes.1   =  Knobbly soles protect the feet from sharp rocks or other objects                         
-       remark                  =  yes                                                                                       
-fact   Trail Running Shoes.2   =  A low profile gives stability on uneven terrain                                          
-       remark                  =  yes                                                                                       
+photo  Trail.Running.Shoes     =  Trail Running Shoes                                                                      
+       url                     =  github://philiprbrenan/Boots/Trail Running Shoes.jpg                                     
+fact   Trail.Running.Shoes.0   =  Designed for running and hiking along trails                                             
+       remark                  =  yes                                                                                      
+fact   Trail.Running.Shoes.1   =  Knobbly soles protect the feet from sharp rocks or other objects                         
+       remark                  =  yes                                                                                      
+fact   Trail.Running.Shoes.2   =  A low profile gives stability on uneven terrain                                          
+       remark                  =  yes                                                                                      
        
-photo  Trekking Sandals        =  Trekking Sandals                                                                          
-       url                     =  github://philiprbrenan/Boots/Trekking Sandals.jpg                                         
-fact   Trekking Sandals.0      =  Designed for hiking or trekking in hot and tropical climates                             
-       remark                  =  yes                                                                                       
-fact   Trekking Sandals.1      =  Robust rubber soles, suitable for any terrain                                            
-       remark                  =  yes                                                                                       
-fact   Trekking Sandals.2      =  Popular for many other adventure sports where quick drying is important                  
-       remark                  =  yes                                                                                       
+photo  Trekking.Sandals        =  Trekking Sandals                                                                         
+       url                     =  github://philiprbrenan/Boots/Trekking Sandals.jpg                                        
+fact   Trekking.Sandals.0      =  Designed for hiking or trekking in hot and tropical climates                             
+       remark                  =  yes                                                                                      
+fact   Trekking.Sandals.1      =  Robust rubber soles, suitable for any terrain                                            
+       remark                  =  yes                                                                                      
+fact   Trekking.Sandals.2      =  Popular for many other adventure sports where quick drying is important                  
+       remark                  =  yes                                                                                      
        
-photo  Ugg Boots               =  Ugg Boots                                                                                 
-       url                     =  github://philiprbrenan/Boots/Ugg Boots.jpg                                                
-fact   Ugg Boots.0             =  Also called "Uggs"                                                                       
-       remark                  =  yes                                                                                       
-fact   Ugg Boots.1             =  Originated in Australia and New Zealand                                                  
-       remark                  =  yes                                                                                       
-fact   Ugg Boots.2             =  Pull-on boot made from sheepskin and fleece                                              
-       remark                  =  yes                                                                                       
-fact   Ugg Boots.3             =  Worn for comfort and fashion                                                             
-       remark                  =  yes                                                                                       
+photo  Ugg.Boots               =  Ugg Boots                                                                                
+       url                     =  github://philiprbrenan/Boots/Ugg Boots.jpg                                               
+fact   Ugg.Boots.0             =  Also called "Uggs"                                                                       
+       remark                  =  yes                                                                                      
+fact   Ugg.Boots.1             =  Originated in Australia and New Zealand                                                  
+       remark                  =  yes                                                                                      
+fact   Ugg.Boots.2             =  Pull-on boot made from sheepskin and fleece                                              
+       remark                  =  yes                                                                                      
+fact   Ugg.Boots.3             =  Worn for comfort and fashion                                                             
+       remark                  =  yes                                                                                      
        
-photo  Waders                  =  Waders                                                                                    
-       url                     =  github://philiprbrenan/Boots/Waders.jpg                                                   
-fact   Waders.0                =  Also called "Hip Boots"                                                                  
-       remark                  =  yes                                                                                       
-fact   Waders.1                =  Designed to be worn by river fishermen                                                   
-       remark                  =  yes                                                                                       
-fact   Waders.2                =  Made of waterproof rubber                                                                
-       remark                  =  yes                                                                                       
-fact   Waders.3                =  Cover legs to the top of the thighs or to the waist                                      
-       remark                  =  yes                                                                                       
+photo  Waders                  =  Waders                                                                                   
+       url                     =  github://philiprbrenan/Boots/Waders.jpg                                                  
+fact   Waders.0                =  Also called "Hip Boots"                                                                  
+       remark                  =  yes                                                                                      
+fact   Waders.1                =  Designed to be worn by river fishermen                                                   
+       remark                  =  yes                                                                                      
+fact   Waders.2                =  Made of waterproof rubber                                                                
+       remark                  =  yes                                                                                      
+fact   Waders.3                =  Cover legs to the top of the thighs or to the waist                                      
+       remark                  =  yes                                                                                      
        
-photo  Wellington Boots        =  Wellington Boots                                                                          
-       url                     =  github://philiprbrenan/Boots/Wellington Boots.jpg                                         
-fact   Wellington Boots.0      =  Also called "Rubber-boots", "Wellies", "Wellingtons" and "Gumboots"                      
-       remark                  =  yes                                                                                       
-fact   Wellington Boots.1      =  Designed for walking on wet or muddy ground                                              
-       remark                  =  yes                                                                                       
-fact   Wellington Boots.2      =  Made from waterproof rubber or polyvinyl chloride (PVC)                                  
-       remark                  =  yes                                                                                       
+photo  Wellington.Boots        =  Wellington Boots                                                                         
+       url                     =  github://philiprbrenan/Boots/Wellington Boots.jpg                                        
+fact   Wellington.Boots.0      =  Also called "Rubber-boots", "Wellies", "Wellingtons" and "Gumboots"                      
+       remark                  =  yes                                                                                      
+fact   Wellington.Boots.1      =  Designed for walking on wet or muddy ground                                              
+       remark                  =  yes                                                                                      
+fact   Wellington.Boots.2      =  Made from waterproof rubber or polyvinyl chloride (PVC)                                  
+       remark                  =  yes                                                                                      
        
-photo  Wetsuit Boots           =  Wetsuit Boots                                                                             
-       url                     =  github://philiprbrenan/Boots/Wetsuit Boots.jpg                                            
-fact   Wetsuit Boots.0         =  Also called "Bootees"                                                                    
-       remark                  =  yes                                                                                       
-fact   Wetsuit Boots.1         =  Designed to be worn by divers, surfers, windsurfers, sailors and kayakers                
-       remark                  =  yes                                                                                       
-fact   Wetsuit Boots.2         =  Made of insulating and waterproof neoprene                                               
-       remark                  =  yes                                                                                       
+photo  Wetsuit.Boots           =  Wetsuit Boots                                                                            
+       url                     =  github://philiprbrenan/Boots/Wetsuit Boots.jpg                                           
+fact   Wetsuit.Boots.0         =  Also called "Bootees"                                                                    
+       remark                  =  yes                                                                                      
+fact   Wetsuit.Boots.1         =  Designed to be worn by divers, surfers, windsurfers, sailors and kayakers                
+       remark                  =  yes                                                                                      
+fact   Wetsuit.Boots.2         =  Made of insulating and waterproof neoprene                                               
+       remark                  =  yes                                                                                      
        
-photo  Wrestling Shoes         =  Wrestling Shoes                                                                           
-       url                     =  github://philiprbrenan/Boots/Wrestling Shoes.jpg                                          
-fact   Wrestling Shoes.0       =  Designed to mimic the bare foot                                                          
-       remark                  =  yes                                                                                       
-fact   Wrestling Shoes.1       =  Extremely light and flexible                                                             
-       remark                  =  yes                                                                                       
-fact   Wrestling Shoes.2       =  A high top design provides ankle support                                                 
-       remark                  =  yes                                                                                       
+photo  Wrestling.Shoes         =  Wrestling Shoes                                                                          
+       url                     =  github://philiprbrenan/Boots/Wrestling Shoes.jpg                                         
+fact   Wrestling.Shoes.0       =  Designed to mimic the bare foot                                                          
+       remark                  =  yes                                                                                      
+fact   Wrestling.Shoes.1       =  Extremely light and flexible                                                             
+       remark                  =  yes                                                                                      
+fact   Wrestling.Shoes.2       =  A high top design provides ankle support                                                 
+       remark                  =  yes                                                                                      
