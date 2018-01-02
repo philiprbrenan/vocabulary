@@ -6,203 +6,203 @@ app g.A5LetterWords   = Five-Letter Words
   speakers     = Amy
 
        
-photo  Apple  =  Apple                                           
-       url    =  github://philiprbrenan/A5LetterWords/Apple.jpg  
+photo  Apple  =  Apple                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Apple.jpg  
        
-photo  Arrow  =  Arrow                                           
-       url    =  github://philiprbrenan/A5LetterWords/Arrow.jpg  
+photo  Arrow  =  Arrow                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Arrow.jpg  
        
-photo  Basin  =  Basin                                           
-       url    =  github://philiprbrenan/A5LetterWords/Basin.jpg  
+photo  Basin  =  Basin                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Basin.jpg  
        
-photo  Beach  =  Beach                                           
-       url    =  github://philiprbrenan/A5LetterWords/Beach.jpg  
+photo  Beach  =  Beach                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Beach.jpg  
        
-photo  Bread  =  Bread                                           
-       url    =  github://philiprbrenan/A5LetterWords/Bread.jpg  
+photo  Bread  =  Bread                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Bread.jpg  
        
-photo  Brush  =  Brush                                           
-       url    =  github://philiprbrenan/A5LetterWords/Brush.jpg  
+photo  Brush  =  Brush                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Brush.jpg  
        
-photo  Camel  =  Camel                                           
-       url    =  github://philiprbrenan/A5LetterWords/Camel.jpg  
+photo  Camel  =  Camel                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Camel.jpg  
        
-photo  Canal  =  Canal                                           
-       url    =  github://philiprbrenan/A5LetterWords/Canal.jpg  
+photo  Canal  =  Canal                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Canal.jpg  
        
-photo  Canoe  =  Canoe                                           
-       url    =  github://philiprbrenan/A5LetterWords/Canoe.jpg  
+photo  Canoe  =  Canoe                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Canoe.jpg  
        
-photo  Chart  =  Chart                                           
-       url    =  github://philiprbrenan/A5LetterWords/Chart.jpg  
+photo  Chart  =  Chart                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Chart.jpg  
        
-photo  Chick  =  Chick                                           
-       url    =  github://philiprbrenan/A5LetterWords/Chick.jpg  
+photo  Chick  =  Chick                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Chick.jpg  
        
-photo  Cliff  =  Cliff                                           
-       url    =  github://philiprbrenan/A5LetterWords/Cliff.jpg  
+photo  Cliff  =  Cliff                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Cliff.jpg  
        
-photo  Clock  =  Clock                                           
-       url    =  github://philiprbrenan/A5LetterWords/Clock.jpg  
+photo  Clock  =  Clock                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Clock.jpg  
        
-photo  Cloth  =  Cloth                                           
-       url    =  github://philiprbrenan/A5LetterWords/Cloth.jpg  
+photo  Cloth  =  Cloth                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Cloth.jpg  
        
-photo  Cloud  =  Cloud                                           
-       url    =  github://philiprbrenan/A5LetterWords/Cloud.jpg  
+photo  Cloud  =  Cloud                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Cloud.jpg  
        
-photo  Crane  =  Crane                                           
-       url    =  github://philiprbrenan/A5LetterWords/Crane.jpg  
+photo  Crane  =  Crane                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Crane.jpg  
        
-photo  Cross  =  Cross                                           
-       url    =  github://philiprbrenan/A5LetterWords/Cross.jpg  
+photo  Cross  =  Cross                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Cross.jpg  
        
-photo  Daisy  =  Daisy                                           
-       url    =  github://philiprbrenan/A5LetterWords/Daisy.jpg  
+photo  Daisy  =  Daisy                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Daisy.jpg  
        
-photo  Eagle  =  Eagle                                           
-       url    =  github://philiprbrenan/A5LetterWords/Eagle.jpg  
+photo  Eagle  =  Eagle                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Eagle.jpg  
        
-photo  Earth  =  Earth                                           
-       url    =  github://philiprbrenan/A5LetterWords/Earth.jpg  
+photo  Earth  =  Earth                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Earth.jpg  
        
-photo  Ferry  =  Ferry                                           
-       url    =  github://philiprbrenan/A5LetterWords/Ferry.jpg  
+photo  Ferry  =  Ferry                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Ferry.jpg  
        
-photo  Floor  =  Floor                                           
-       url    =  github://philiprbrenan/A5LetterWords/Floor.jpg  
+photo  Floor  =  Floor                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Floor.jpg  
        
-photo  Glass  =  Glass                                           
-       url    =  github://philiprbrenan/A5LetterWords/Glass.jpg  
+photo  Glass  =  Glass                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Glass.jpg  
        
-photo  Glove  =  Glove                                           
-       url    =  github://philiprbrenan/A5LetterWords/Glove.jpg  
+photo  Glove  =  Glove                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Glove.jpg  
        
-photo  Goose  =  Goose                                           
-       url    =  github://philiprbrenan/A5LetterWords/Goose.jpg  
+photo  Goose  =  Goose                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Goose.jpg  
        
-photo  Grape  =  Grape                                           
-       url    =  github://philiprbrenan/A5LetterWords/Grape.jpg  
+photo  Grape  =  Grape                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Grape.jpg  
        
-photo  Hippo  =  Hippo                                           
-       url    =  github://philiprbrenan/A5LetterWords/Hippo.jpg  
+photo  Hippo  =  Hippo                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Hippo.jpg  
        
-photo  Horse  =  Horse                                           
-       url    =  github://philiprbrenan/A5LetterWords/Horse.jpg  
+photo  Horse  =  Horse                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Horse.jpg  
        
-photo  Hotel  =  Hotel                                           
-       url    =  github://philiprbrenan/A5LetterWords/Hotel.jpg  
+photo  Hotel  =  Hotel                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Hotel.jpg  
        
-photo  House  =  House                                           
-       url    =  github://philiprbrenan/A5LetterWords/House.jpg  
+photo  House  =  House                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/House.jpg  
        
-photo  Hyena  =  Hyena                                           
-       url    =  github://philiprbrenan/A5LetterWords/Hyena.jpg  
+photo  Hyena  =  Hyena                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Hyena.jpg  
        
-photo  Kayak  =  Kayak                                           
-       url    =  github://philiprbrenan/A5LetterWords/Kayak.jpg  
+photo  Kayak  =  Kayak                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Kayak.jpg  
        
-photo  Knife  =  Knife                                           
-       url    =  github://philiprbrenan/A5LetterWords/Knife.jpg  
+photo  Knife  =  Knife                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Knife.jpg  
        
-photo  Koala  =  Koala                                           
-       url    =  github://philiprbrenan/A5LetterWords/Koala.jpg  
+photo  Koala  =  Koala                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Koala.jpg  
        
-photo  Ladle  =  Ladle                                           
-       url    =  github://philiprbrenan/A5LetterWords/Ladle.jpg  
+photo  Ladle  =  Ladle                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Ladle.jpg  
        
-photo  Light  =  Light                                           
-       url    =  github://philiprbrenan/A5LetterWords/Light.jpg  
+photo  Light  =  Light                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Light.jpg  
        
-photo  Lilac  =  Lilac                                           
-       url    =  github://philiprbrenan/A5LetterWords/Lilac.jpg  
+photo  Lilac  =  Lilac                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Lilac.jpg  
        
-photo  Llama  =  Llama                                           
-       url    =  github://philiprbrenan/A5LetterWords/Llama.jpg  
+photo  Llama  =  Llama                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Llama.jpg  
        
-photo  Lorry  =  Lorry                                           
-       url    =  github://philiprbrenan/A5LetterWords/Lorry.jpg  
+photo  Lorry  =  Lorry                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Lorry.jpg  
        
-photo  Lupin  =  Lupin                                           
-       url    =  github://philiprbrenan/A5LetterWords/Lupin.jpg  
+photo  Lupin  =  Lupin                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Lupin.jpg  
        
-photo  Mouse  =  Mouse                                           
-       url    =  github://philiprbrenan/A5LetterWords/Mouse.jpg  
+photo  Mouse  =  Mouse                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Mouse.jpg  
        
-photo  Panda  =  Panda                                           
-       url    =  github://philiprbrenan/A5LetterWords/Panda.jpg  
+photo  Panda  =  Panda                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Panda.jpg  
        
-photo  Pansy  =  Pansy                                           
-       url    =  github://philiprbrenan/A5LetterWords/Pansy.jpg  
+photo  Pansy  =  Pansy                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Pansy.jpg  
        
-photo  Plane  =  Plane                                           
-       url    =  github://philiprbrenan/A5LetterWords/Plane.jpg  
+photo  Plane  =  Plane                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Plane.jpg  
        
-photo  Plate  =  Plate                                           
-       url    =  github://philiprbrenan/A5LetterWords/Plate.jpg  
+photo  Plate  =  Plate                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Plate.jpg  
        
-photo  Poppy  =  Poppy                                           
-       url    =  github://philiprbrenan/A5LetterWords/Poppy.jpg  
+photo  Poppy  =  Poppy                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Poppy.jpg  
        
-photo  Raven  =  Raven                                           
-       url    =  github://philiprbrenan/A5LetterWords/Raven.jpg  
+photo  Raven  =  Raven                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Raven.jpg  
        
-photo  Rhino  =  Rhino                                           
-       url    =  github://philiprbrenan/A5LetterWords/Rhino.jpg  
+photo  Rhino  =  Rhino                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Rhino.jpg  
        
-photo  Ridge  =  Ridge                                           
-       url    =  github://philiprbrenan/A5LetterWords/Ridge.jpg  
+photo  Ridge  =  Ridge                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Ridge.jpg  
        
-photo  River  =  River                                           
-       url    =  github://philiprbrenan/A5LetterWords/River.jpg  
+photo  River  =  River                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/River.jpg  
        
-photo  Robin  =  Robin                                           
-       url    =  github://philiprbrenan/A5LetterWords/Robin.jpg  
+photo  Robin  =  Robin                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Robin.jpg  
        
-photo  Sheep  =  Sheep                                           
-       url    =  github://philiprbrenan/A5LetterWords/Sheep.jpg  
+photo  Sheep  =  Sheep                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Sheep.jpg  
        
-photo  Snake  =  Snake                                           
-       url    =  github://philiprbrenan/A5LetterWords/Snake.jpg  
+photo  Snake  =  Snake                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Snake.jpg  
        
-photo  Spoon  =  Spoon                                           
-       url    =  github://philiprbrenan/A5LetterWords/Spoon.jpg  
+photo  Spoon  =  Spoon                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Spoon.jpg  
        
-photo  Stool  =  Stool                                           
-       url    =  github://philiprbrenan/A5LetterWords/Stool.jpg  
+photo  Stool  =  Stool                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Stool.jpg  
        
-photo  Stork  =  Stork                                           
-       url    =  github://philiprbrenan/A5LetterWords/Stork.jpg  
+photo  Stork  =  Stork                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Stork.jpg  
        
-photo  Table  =  Table                                           
-       url    =  github://philiprbrenan/A5LetterWords/Table.jpg  
+photo  Table  =  Table                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Table.jpg  
        
-photo  Teddy  =  Teddy                                           
-       url    =  github://philiprbrenan/A5LetterWords/Teddy.jpg  
+photo  Teddy  =  Teddy                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Teddy.jpg  
        
-photo  Tiger  =  Tiger                                           
-       url    =  github://philiprbrenan/A5LetterWords/Tiger.jpg  
+photo  Tiger  =  Tiger                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Tiger.jpg  
        
-photo  Towel  =  Towel                                           
-       url    =  github://philiprbrenan/A5LetterWords/Towel.jpg  
+photo  Towel  =  Towel                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Towel.jpg  
        
-photo  Train  =  Train                                           
-       url    =  github://philiprbrenan/A5LetterWords/Train.jpg  
+photo  Train  =  Train                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Train.jpg  
        
-photo  Truck  =  Truck                                           
-       url    =  github://philiprbrenan/A5LetterWords/Truck.jpg  
+photo  Truck  =  Truck                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Truck.jpg  
        
-photo  Wagon  =  Wagon                                           
-       url    =  github://philiprbrenan/A5LetterWords/Wagon.jpg  
+photo  Wagon  =  Wagon                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Wagon.jpg  
        
-photo  Whale  =  Whale                                           
-       url    =  github://philiprbrenan/A5LetterWords/Whale.jpg  
+photo  Whale  =  Whale                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Whale.jpg  
        
-photo  Wheel  =  Wheel                                           
-       url    =  github://philiprbrenan/A5LetterWords/Wheel.jpg  
+photo  Wheel  =  Wheel                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Wheel.jpg  
        
-photo  Yacht  =  Yacht                                           
-       url    =  github://philiprbrenan/A5LetterWords/Yacht.jpg  
+photo  Yacht  =  Yacht                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Yacht.jpg  
        
-photo  Zebra  =  Zebra                                           
-       url    =  github://philiprbrenan/A5LetterWords/Zebra.jpg  
+photo  Zebra  =  Zebra                                                               
+       url    =  github://philiprbrenan/vocabulary-0/images/A5LetterWords/Zebra.jpg  
