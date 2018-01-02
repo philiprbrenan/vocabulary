@@ -1,0 +1,912 @@
+app g.CoralReefFish   = Fish of the Coral Reef
+  description  = Learn about Fish of the Coral Reef in English
+  icon         = Red Sea Clownfish.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Atlantic Blue Tang               =  Atlantic Blue Tang                                                                                                
+       url                              =  github://philiprbrenan/CoralReefFish/Atlantic Blue Tang.jpg                                                       
+fact   Atlantic Blue Tang.0             =  Also called Blue surgeonfish                                                                                     
+       remark                           =  yes                                                                                                               
+fact   Atlantic Blue Tang.1             =  In common with all surgeonfish, scalpel-like spines are located on either side of the tail                       
+       remark                           =  yes                                                                                                               
+fact   Atlantic Blue Tang.2             =  When faced with danger, they can make themselves semi-transparent to avoid detection                             
+       remark                           =  yes                                                                                                               
+fact   Atlantic Blue Tang.3             =  *Atlantic Blue Tang                                                                                              
+       remark                           =  yes                                                                                                               
+fact   Atlantic Blue Tang.4             =  Author: Tewy                                                                                                     
+       remark                           =  yes                                                                                                               
+fact   Atlantic Blue Tang.5             =  Date: 12.07.06                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Atlantic Blue Tang.6             =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Banggai Cardinalfish             =  Banggai Cardinalfish                                                                                              
+       url                              =  github://philiprbrenan/CoralReefFish/Banggai Cardinalfish.jpg                                                     
+fact   Banggai Cardinalfish.0           =  Only found in the Banggai Islands of Indonesia                                                                   
+       remark                           =  yes                                                                                                               
+fact   Banggai Cardinalfish.1           =  Species survival is threatened because of over collection for the aquarium trade                                 
+       remark                           =  yes                                                                                                               
+fact   Banggai Cardinalfish.2           =  Young are protected in a special parental mouth cavity after hatching                                            
+       remark                           =  yes                                                                                                               
+fact   Banggai Cardinalfish.3           =  *Banggai Cardinalfish                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Banggai Cardinalfish.4           =  Author: Peter Halasz (User:Pengo)                                                                                
+       remark                           =  yes                                                                                                               
+fact   Banggai Cardinalfish.5           =  Date: 19.07.06                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Banggai Cardinalfish.6           =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Bicolour Parrotfish              =  Bicolour Parrotfish                                                                                               
+       url                              =  github://philiprbrenan/CoralReefFish/Bicolour Parrotfish.jpg                                                      
+fact   Bicolour Parrotfish.0            =  Among the largest of parrotfishes growing up to 90 cm (35 in)                                                    
+       remark                           =  yes                                                                                                               
+fact   Bicolour Parrotfish.1            =  Found in shallow tropical and subtropical oceans throughout the world                                            
+       remark                           =  yes                                                                                                               
+fact   Bicolour Parrotfish.2            =  Named for their teeth which rasp algae from coral and rocks                                                      
+       remark                           =  yes                                                                                                               
+fact   Bicolour Parrotfish.3            =  In common with many fish, they change sex, starting as female and then changing to male                          
+       remark                           =  yes                                                                                                               
+fact   Bicolour Parrotfish.4            =  *Bicolour Parrotfish                                                                                             
+       remark                           =  yes                                                                                                               
+fact   Bicolour Parrotfish.5            =  Author: User:Rling                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Bicolour Parrotfish.6            =  Date: 29.08.10                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Bicolour Parrotfish.7            =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Blackback Butterflyfish          =  Blackback Butterflyfish                                                                                           
+       url                              =  github://philiprbrenan/CoralReefFish/Blackback Butterflyfish.jpg                                                  
+fact   Blackback Butterflyfish.0        =  Feeds on the polyps of soft and hard corals at depths of between 4 and 20 m                                      
+       remark                           =  yes                                                                                                               
+fact   Blackback Butterflyfish.1        =  Changes colour at night when its back turns black except for two white patches                                   
+       remark                           =  yes                                                                                                               
+fact   Blackback Butterflyfish.2        =  May live for up to 20 years                                                                                      
+       remark                           =  yes                                                                                                               
+fact   Blackback Butterflyfish.3        =  *Blackback Butterflyfish                                                                                         
+       remark                           =  yes                                                                                                               
+fact   Blackback Butterflyfish.4        =  Author: Leonard Low                                                                                              
+       remark                           =  yes                                                                                                               
+fact   Blackback Butterflyfish.5        =  Date: 21.02.05                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Blackback Butterflyfish.6        =  License:  Creative Commons Attribution 2.0 Generic                                                               
+       remark                           =  yes                                                                                                               
+       
+photo  Blackspotted Puffer              =  Blackspotted Puffer                                                                                               
+       url                              =  github://philiprbrenan/CoralReefFish/Blackspotted Puffer.jpg                                                      
+fact   Blackspotted Puffer.0            =  Also called "Dog-faced Puffer" because of its facial similarity to a seal or a dog                               
+       remark                           =  yes                                                                                                               
+fact   Blackspotted Puffer.1            =  Highly poisonous, making them dangerous or even deadly to eat                                                    
+       remark                           =  yes                                                                                                               
+fact   Blackspotted Puffer.2            =  Can inflate their bodies by swallowing air or water to avoid predation                                           
+       remark                           =  yes                                                                                                               
+fact   Blackspotted Puffer.3            =  *Blackspotted Puffer                                                                                             
+       remark                           =  yes                                                                                                               
+fact   Blackspotted Puffer.4            =  Author: Citron                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Blackspotted Puffer.5            =  Date: 13.08.12                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Blackspotted Puffer.6            =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Blacktip Grouper                 =  Blacktip Grouper                                                                                                  
+       url                              =  github://philiprbrenan/CoralReefFish/Blacktip Grouper.jpg                                                         
+fact   Blacktip Grouper.0               =  Widely distributed on coral reefs from 4 to 160 m deep                                                           
+       remark                           =  yes                                                                                                               
+fact   Blacktip Grouper.1               =  Gaping  jaw is armed with two or three rows of strong, slender teeth                                             
+       remark                           =  yes                                                                                                               
+fact   Blacktip Grouper.2               =  Red banded pattern can be turned on and off quickly; they are "turned on" in hunting mode                        
+       remark                           =  yes                                                                                                               
+fact   Blacktip Grouper.3               =  *Blacktip Grouper                                                                                                
+       remark                           =  yes                                                                                                               
+fact   Blacktip Grouper.4               =  Author: Sirrob01                                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Blacktip Grouper.5               =  Date: 29.03.09                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Blacktip Grouper.6               =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Blue Triggerfish                 =  Blue Triggerfish                                                                                                  
+       url                              =  github://philiprbrenan/CoralReefFish/Blue Triggerfish.jpg                                                         
+fact   Blue Triggerfish.0               =  Aggressive, avoided by many divers, as they often bite.                                                          
+       remark                           =  yes                                                                                                               
+fact   Blue Triggerfish.1               =  Feeds on sea urchins, crustaceans, mollusks, dead fish, corals.                                                  
+       remark                           =  yes                                                                                                               
+fact   Blue Triggerfish.2               =  Adults prefer deep water reefs, juveniles shallow water reefs.                                                   
+       remark                           =  yes                                                                                                               
+fact   Blue Triggerfish.3               =  *Blue Triggerfish                                                                                                
+       remark                           =  yes                                                                                                               
+fact   Blue Triggerfish.4               =  Author: Albert kok                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Blue Triggerfish.5               =  Date: 04.09.09                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Blue Triggerfish.6               =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Bluespine Unicornfish            =  Bluespine Unicornfish                                                                                             
+       url                              =  github://philiprbrenan/CoralReefFish/Bluespine Unicornfish.jpg                                                    
+fact   Bluespine Unicornfish.0          =  A species of Tang from the Indo-Pacific which grows to 70 cm in length                                           
+       remark                           =  yes                                                                                                               
+fact   Bluespine Unicornfish.1          =  A roving herbivore, moving around the reef usually singly or in pairs                                            
+       remark                           =  yes                                                                                                               
+fact   Bluespine Unicornfish.2          =  Has a pair of poisonous bony knives by the tail which can inflict painful wounds                                 
+       remark                           =  yes                                                                                                               
+fact   Bluespine Unicornfish.3          =  *Bluespine Unicornfish                                                                                           
+       remark                           =  yes                                                                                                               
+fact   Bluespine Unicornfish.4          =  Author: J. J. Hornung                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Bluespine Unicornfish.5          =  Date: 12.11.11                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Bluespine Unicornfish.6          =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Bluespotted Ribbontail Ray       =  Bluespotted Ribbontail Ray                                                                                        
+       url                              =  github://philiprbrenan/CoralReefFish/Bluespotted Ribbontail Ray.jpg                                               
+fact   Bluespotted Ribbontail Ray.0     =  Venomous spines can be harmful to humans                                                                         
+       remark                           =  yes                                                                                                               
+fact   Bluespotted Ribbontail Ray.1     =  Popular with private aquarists because of its beauty and size                                                    
+       remark                           =  yes                                                                                                               
+fact   Bluespotted Ribbontail Ray.2     =  Species survival is threatened by habitat loss and fishing pressure                                              
+       remark                           =  yes                                                                                                               
+fact   Bluespotted Ribbontail Ray.3     =  *Bluespotted Ribbontail Ray                                                                                      
+       remark                           =  yes                                                                                                               
+fact   Bluespotted Ribbontail Ray.4     =  Author: Jens Petersen                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Bluespotted Ribbontail Ray.5     =  Date: September 2006                                                                                             
+       remark                           =  yes                                                                                                               
+fact   Bluespotted Ribbontail Ray.6     =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Bluestripe Snapper               =  Bluestripe Snapper                                                                                                
+       url                              =  github://philiprbrenan/CoralReefFish/Bluestripe Snapper.jpg                                                       
+fact   Bluestripe Snapper.0             =  Common species of marine fish and one of the most widespread of the snappers                                     
+       remark                           =  yes                                                                                                               
+fact   Bluestripe Snapper.1             =  Lives in shallow coastal areas and reefs up to 265 m deep                                                        
+       remark                           =  yes                                                                                                               
+fact   Bluestripe Snapper.2             =  Frequently gather in large shoals during daylight hours                                                          
+       remark                           =  yes                                                                                                               
+fact   Bluestripe Snapper.3             =  *Bluestripe Snapper                                                                                              
+       remark                           =  yes                                                                                                               
+fact   Bluestripe Snapper.4             =  Author: Ryan Oelke from Boulder, CO, USA                                                                         
+       remark                           =  yes                                                                                                               
+fact   Bluestripe Snapper.5             =  Date: 27.12.06                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Bluestripe Snapper.6             =  License:  Creative Commons Attribution-Share Alike 2.0 Generic                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Broadbarred Firefish             =  Broadbarred Firefish                                                                                              
+       url                              =  github://philiprbrenan/CoralReefFish/Broadbarred Firefish.jpg                                                     
+fact   Broadbarred Firefish.0           =  Hides during the day and hunts shrimp and crab at night                                                          
+       remark                           =  yes                                                                                                               
+fact   Broadbarred Firefish.1           =  Venomous fish found in the tropical Indian Ocean and Western Pacific                                             
+       remark                           =  yes                                                                                                               
+fact   Broadbarred Firefish.2           =  Often people think they are dead when they are merely resting upside down!                                       
+       remark                           =  yes                                                                                                               
+fact   Broadbarred Firefish.3           =  *Broadbarred Firefish                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Broadbarred Firefish.4           =  Author: Christian Mehlführer, User:Chmehl                                                                        
+       remark                           =  yes                                                                                                               
+fact   Broadbarred Firefish.5           =  Date: 26.12.07                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Broadbarred Firefish.6           =  License:  Creative Commons Attribution 2.5 Generic                                                               
+       remark                           =  yes                                                                                                               
+       
+photo  Clearfin Lionfish                =  Clearfin Lionfish                                                                                                 
+       url                              =  github://philiprbrenan/CoralReefFish/Clearfin Lionfish.jpg                                                        
+fact   Clearfin Lionfish.0              =  Prefers caves, overhangs and other shady spots                                                                   
+       remark                           =  yes                                                                                                               
+fact   Clearfin Lionfish.1              =  Two horizontal lines on the tail                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Clearfin Lionfish.2              =  Only lionfish species which has spines without any markings                                                      
+       remark                           =  yes                                                                                                               
+fact   Clearfin Lionfish.3              =  *Clearfin Lionfish                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Clearfin Lionfish.4              =  Author: The High Fin Sperm Whale                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Clearfin Lionfish.5              =  Date: 30.04.12                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Clearfin Lionfish.6              =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Clown Triggerfish                =  Clown Triggerfish                                                                                                 
+       url                              =  github://philiprbrenan/CoralReefFish/Clown Triggerfish.jpg                                                        
+fact   Clown Triggerfish.0              =  Commonly found in the tropical Indo-Pacific coastal waters                                                       
+       remark                           =  yes                                                                                                               
+fact   Clown Triggerfish.1              =  Strong jaws crush sea urchins, crustaceans and hard-shelled mollusks                                             
+       remark                           =  yes                                                                                                               
+fact   Clown Triggerfish.2              =  Brightly painted yellow mouth may be used to deter potential predators                                           
+       remark                           =  yes                                                                                                               
+fact   Clown Triggerfish.3              =  One of the most highly prized aquarium fish because of its colour                                                
+       remark                           =  yes                                                                                                               
+fact   Clown Triggerfish.4              =  *Clown Triggerfish                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Clown Triggerfish.5              =  Author: H. Zell                                                                                                  
+       remark                           =  yes                                                                                                               
+fact   Clown Triggerfish.6              =  Date: 25.09.09                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Clown Triggerfish.7              =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Common Lionfish                  =  Common Lionfish                                                                                                   
+       url                              =  github://philiprbrenan/CoralReefFish/Common Lionfish.jpg                                                          
+fact   Common Lionfish.0                =  13 venemous dorsal fin spines which points towards attackers                                                     
+       remark                           =  yes                                                                                                               
+fact   Common Lionfish.1                =  Slow-moving and conspicuous, relies on unusual colouration and fins to discourage predators                      
+       remark                           =  yes                                                                                                               
+fact   Common Lionfish.2                =  One of the top predators in many coral reef environments of the Atlantic                                         
+       remark                           =  yes                                                                                                               
+fact   Common Lionfish.3                =  Consume over 50 species of fish                                                                                  
+       remark                           =  yes                                                                                                               
+fact   Common Lionfish.4                =  Use their outstretched, fan-like pectoral fins to slowly pursue and "corner" prey                                
+       remark                           =  yes                                                                                                               
+fact   Common Lionfish.5                =  *Common Lionfish                                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Common Lionfish.6                =  Author: Magnus Kjaergaard                                                                                        
+       remark                           =  yes                                                                                                               
+fact   Common Lionfish.7                =  Date: 27.01.11                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Common Lionfish.8                =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Copperband Butterflyfish         =  Copperband Butterflyfish                                                                                          
+       url                              =  github://philiprbrenan/CoralReefFish/Copperband Butterflyfish.jpg                                                 
+fact   Copperband Butterflyfish.0       =  Commonly called "Beak Coralfish" because of its long snout                                                       
+       remark                           =  yes                                                                                                               
+fact   Copperband Butterflyfish.1       =  Found in reefs in both the Pacific and Indian Oceans                                                             
+       remark                           =  yes                                                                                                               
+fact   Copperband Butterflyfish.2       =  They have a "false eye" towards the back of the dorsal fin                                                       
+       remark                           =  yes                                                                                                               
+fact   Copperband Butterflyfish.3       =  *Copperband Butterflyfish                                                                                        
+       remark                           =  yes                                                                                                               
+fact   Copperband Butterflyfish.4       =  Author: Luc Viatour / www.Lucnix.be                                                                              
+       remark                           =  yes                                                                                                               
+fact   Copperband Butterflyfish.5       =  Date: 15.03.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Copperband Butterflyfish.6       =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Emperor Angelfish                =  Emperor Angelfish                                                                                                 
+       url                              =  github://philiprbrenan/CoralReefFish/Emperor Angelfish.jpg                                                        
+fact   Emperor Angelfish.0              =  Juveniles are dark blue with electric blue and white rings                                                       
+       remark                           =  yes                                                                                                               
+fact   Emperor Angelfish.1              =  Adults have yellow and blue stripes, with black around the eyes.                                                 
+       remark                           =  yes                                                                                                               
+fact   Emperor Angelfish.2              =  Juveniles are often seen under ledges near cleaner shrimps                                                       
+       remark                           =  yes                                                                                                               
+fact   Emperor Angelfish.3              =  *Emperor Angelfish                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Emperor Angelfish.4              =  Author: cliff1066                                                                                                
+       remark                           =  yes                                                                                                               
+fact   Emperor Angelfish.5              =  Date: 20.07.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Emperor Angelfish.6              =  License: Creative Commons Attribution 2.0 Generic                                                                
+       remark                           =  yes                                                                                                               
+       
+photo  French Angelfish                 =  French Angelfish                                                                                                  
+       url                              =  github://philiprbrenan/CoralReefFish/French Angelfish.jpg                                                         
+fact   French Angelfish.0               =  Juveniles tend cleaning stations where they service jacks, snappers, morays, grunts, surgeonfishes, and wrasses  
+       remark                           =  yes                                                                                                               
+fact   French Angelfish.1               =  Spawning pairs are strongly territorial and both partners defend their territory                                 
+       remark                           =  yes                                                                                                               
+fact   French Angelfish.2               =  Often occurs in pairs near sea fans                                                                              
+       remark                           =  yes                                                                                                               
+fact   French Angelfish.3               =  *French Angelfish                                                                                                
+       remark                           =  yes                                                                                                               
+fact   French Angelfish.4               =  Author: albert kok                                                                                               
+       remark                           =  yes                                                                                                               
+fact   French Angelfish.5               =  Date: 19.01.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   French Angelfish.6               =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Glasseye Snapper                 =  Glasseye Snapper                                                                                                  
+       url                              =  github://philiprbrenan/CoralReefFish/Glasseye Snapper.jpg                                                         
+fact   Glasseye Snapper.0               =  Found singly or in small groups on protected reefs and in lagoons                                                
+       remark                           =  yes                                                                                                               
+fact   Glasseye Snapper.1               =  Often found under ledges and in caves during the day                                                             
+       remark                           =  yes                                                                                                               
+fact   Glasseye Snapper.2               =  Body varies from red to pale, silvery, mottled pink                                                              
+       remark                           =  yes                                                                                                               
+fact   Glasseye Snapper.3               =  Nocturnal, feeding mainly on octopuses, pelagic shrimps, crabs and small fish                                    
+       remark                           =  yes                                                                                                               
+fact   Glasseye Snapper.4               =  *Glasseye Snapper                                                                                                
+       remark                           =  yes                                                                                                               
+fact   Glasseye Snapper.5               =  Author: LASZLO ILYES (laszlo-photo) from Cleveland, Ohio, USA                                                    
+       remark                           =  yes                                                                                                               
+fact   Glasseye Snapper.6               =  Date: 01.06.06                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Glasseye Snapper.7               =  License: Creative Commons Attribution 2.0 Generic                                                                
+       remark                           =  yes                                                                                                               
+       
+photo  Grey Reef Shark                  =  Grey Reef Shark                                                                                                   
+       url                              =  github://philiprbrenan/CoralReefFish/Grey Reef Shark.jpg                                                          
+fact   Grey Reef Shark.0                =  Fast-swimming, agile predator that feeds on free-swimming bony fish                                              
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.1                =  During mating, the male will bite at the female's body or fins to hold her in place                              
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.2                =  Gives birth to live young                                                                                        
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.3                =  Aggressive demeanour enables them to dominate many other shark species on the reef                               
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.4                =  Swims in a "hunched" posture with dropped pectoral fins and a side-to-side swimming motion when threatened       
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.5                =  Forms groups of 5 to 20, splitting up in the evening to hunt.                                                    
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.6                =  *Grey Reef Shark                                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.7                =  Author: Albert kok                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.8                =  Date: 19.02.10                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Grey Reef Shark.9                =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Lagoon Triggerfish               =  Lagoon Triggerfish                                                                                                
+       url                              =  github://philiprbrenan/CoralReefFish/Lagoon Triggerfish.jpg                                                       
+fact   Lagoon Triggerfish.0             =  Also called "Picasso Fish" found in the Indo-Pacific region                                                      
+       remark                           =  yes                                                                                                               
+fact   Lagoon Triggerfish.1             =  Highly territorial, especially during the breeding season, when they will chase divers away                      
+       remark                           =  yes                                                                                                               
+fact   Lagoon Triggerfish.2             =  Some maintain a territory for 8 years or more                                                                    
+       remark                           =  yes                                                                                                               
+fact   Lagoon Triggerfish.3             =  *Lagoon Triggerfish                                                                                              
+       remark                           =  yes                                                                                                               
+fact   Lagoon Triggerfish.4             =  Author: Adrian Pingstone                                                                                         
+       remark                           =  yes                                                                                                               
+fact   Lagoon Triggerfish.5             =  Date: 18.12.05                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Lagoon Triggerfish.6             =  License:  Public Domain                                                                                          
+       remark                           =  yes                                                                                                               
+       
+photo  Longhorn Cowfish                 =  Longhorn Cowfish                                                                                                  
+       url                              =  github://philiprbrenan/CoralReefFish/Longhorn Cowfish.jpg                                                         
+fact   Longhorn Cowfish.0               =  Recognizable by long horns protruding its head, rather like those of a cow                                       
+       remark                           =  yes                                                                                                               
+fact   Longhorn Cowfish.1               =  Slow swimmers, easily caught by hand, making a grunting noise when captured                                      
+       remark                           =  yes                                                                                                               
+fact   Longhorn Cowfish.2               =  A variety of Boxfish which can exude a deadly toxin                                                              
+       remark                           =  yes                                                                                                               
+fact   Longhorn Cowfish.3               =  *Longhorn Cowfish                                                                                                
+       remark                           =  yes                                                                                                               
+fact   Longhorn Cowfish.4               =  Author: Drow male                                                                                                
+       remark                           =  yes                                                                                                               
+fact   Longhorn Cowfish.5               =  Date: 05.07.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Longhorn Cowfish.6               =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Malabar Grouper                  =  Malabar Grouper                                                                                                   
+       url                              =  github://philiprbrenan/CoralReefFish/Malabar Grouper.jpg                                                          
+fact   Malabar Grouper.0                =  One of the largest and most common cod found in tropical estuaries and on coastal reefs                          
+       remark                           =  yes                                                                                                               
+fact   Malabar Grouper.1                =  Swallow prey whole rather than biting pieces off it                                                              
+       remark                           =  yes                                                                                                               
+fact   Malabar Grouper.2                =  Can be found as deep as 60 m                                                                                     
+       remark                           =  yes                                                                                                               
+fact   Malabar Grouper.3                =  *Malabar Grouper                                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Malabar Grouper.4                =  Author: Jon Hanson                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Malabar Grouper.5                =  Date: 24.04.07                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Malabar Grouper.6                =  License: Creative Commons Attribution-Share Alike 2.0 Generic                                                    
+       remark                           =  yes                                                                                                               
+       
+photo  Mandarinfish                     =  Mandarinfish                                                                                                      
+       url                              =  github://philiprbrenan/CoralReefFish/Mandarinfish.jpg                                                             
+fact   Mandarinfish.0                   =  Small fish native to the Pacific                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Mandarinfish.1                   =  Sometimes called "Psychedelic" fish due to their bizarre colouration                                             
+       remark                           =  yes                                                                                                               
+fact   Mandarinfish.2                   =  Not easily seen due to their bottom-feeding habit and their small size                                           
+       remark                           =  yes                                                                                                               
+fact   Mandarinfish.3                   =  *Mandarinfish                                                                                                    
+       remark                           =  yes                                                                                                               
+fact   Mandarinfish.4                   =  Author: Luc Viatour / www.Lucnix.be                                                                              
+       remark                           =  yes                                                                                                               
+fact   Mandarinfish.5                   =  Date: 15.03.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Mandarinfish.6                   =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Mangrove Red Snapper             =  Mangrove Red Snapper                                                                                              
+       url                              =  github://philiprbrenan/CoralReefFish/Mangrove Red Snapper.jpg                                                     
+fact   Mangrove Red Snapper.0           =  Commonly called "Mangrove Jack" in Australia                                                                     
+       remark                           =  yes                                                                                                               
+fact   Mangrove Red Snapper.1           =  Explosive and powerful sport fish                                                                                
+       remark                           =  yes                                                                                                               
+fact   Mangrove Red Snapper.2           =  Eat prey that live on or near the ocean bottom                                                                   
+       remark                           =  yes                                                                                                               
+fact   Mangrove Red Snapper.3           =  *Mangrove Red Snapper                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Mangrove Red Snapper.4           =  Author: Taro Taylor                                                                                              
+       remark                           =  yes                                                                                                               
+fact   Mangrove Red Snapper.5           =  Date: 08.03.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Mangrove Red Snapper.6           =  License: Creative Commons Attribution 2.0 Generic                                                                
+       remark                           =  yes                                                                                                               
+       
+photo  Marbled Electric Ray             =  Marbled Electric Ray                                                                                              
+       url                              =  github://philiprbrenan/CoralReefFish/Marbled Electric Ray.jpg                                                     
+fact   Marbled Electric Ray.0           =  Can survive in low oxygen environments such as tidal pools                                                       
+       remark                           =  yes                                                                                                               
+fact   Marbled Electric Ray.1           =  Ambushes and feeds on small bony fishes, which it subdues with strong electric shocks                            
+       remark                           =  yes                                                                                                               
+fact   Marbled Electric Ray.2           =  Nocturnal and solitary                                                                                           
+       remark                           =  yes                                                                                                               
+fact   Marbled Electric Ray.3           =  Often found buried on the sea floor except for its eyes and spiracles                                            
+       remark                           =  yes                                                                                                               
+fact   Marbled Electric Ray.4           =  *Marbled Electric Ray                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Marbled Electric Ray.5           =  Author: Philippe Guillaume                                                                                       
+       remark                           =  yes                                                                                                               
+fact   Marbled Electric Ray.6           =  Date: 7.09.09                                                                                                    
+       remark                           =  yes                                                                                                               
+fact   Marbled Electric Ray.7           =  License: Creative Commons Attribution 2.0 Generic                                                                
+       remark                           =  yes                                                                                                               
+       
+photo  Masked Puffer                    =  Masked Puffer                                                                                                     
+       url                              =  github://philiprbrenan/CoralReefFish/Masked Puffer.jpg                                                            
+fact   Masked Puffer.0                  =  Second most poisonous vertebrates, after the golden poison frog                                                  
+       remark                           =  yes                                                                                                               
+fact   Masked Puffer.1                  =  Most poisonous fish in the world                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Masked Puffer.2                  =  Human consumption results in about six deaths a year in Japan                                                    
+       remark                           =  yes                                                                                                               
+fact   Masked Puffer.3                  =  *Masked Puffer                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Masked Puffer.4                  =  Author: Alan Slater (Photo2222)                                                                                  
+       remark                           =  yes                                                                                                               
+fact   Masked Puffer.5                  =  Date: 21.05.03                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Masked Puffer.6                  =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Midas Blenny                     =  Midas Blenny                                                                                                      
+       url                              =  github://philiprbrenan/CoralReefFish/Midas Blenny.jpg                                                             
+fact   Midas Blenny.0                   =  Swims with an eel-like motion                                                                                    
+       remark                           =  yes                                                                                                               
+fact   Midas Blenny.1                   =  Normal colour is golden orange but it can adapt its colour to match those of the fishes it mixes with            
+       remark                           =  yes                                                                                                               
+fact   Midas Blenny.2                   =  Grows to 13 cm in length                                                                                         
+       remark                           =  yes                                                                                                               
+fact   Midas Blenny.3                   =  *Midas Blenny                                                                                                    
+       remark                           =  yes                                                                                                               
+fact   Midas Blenny.4                   =  Author: Jason Marks                                                                                              
+       remark                           =  yes                                                                                                               
+fact   Midas Blenny.5                   =  Date: 28.03.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Midas Blenny.6                   =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Moorish Idol                     =  Moorish Idol                                                                                                      
+       url                              =  github://philiprbrenan/CoralReefFish/Moorish Idol.jpg                                                             
+fact   Moorish Idol.0                   =  Found at depths from 3 to 180 metres                                                                             
+       remark                           =  yes                                                                                                               
+fact   Moorish Idol.1                   =  Eat sponges and coral polyps                                                                                     
+       remark                           =  yes                                                                                                               
+fact   Moorish Idol.2                   =  At night they become a drab colour and hide at the bottom of the reef                                            
+       remark                           =  yes                                                                                                               
+fact   Moorish Idol.3                   =  Mate for life                                                                                                    
+       remark                           =  yes                                                                                                               
+fact   Moorish Idol.4                   =  *Moorish Idol                                                                                                    
+       remark                           =  yes                                                                                                               
+fact   Moorish Idol.5                   =  Author: Brocken Inaglory                                                                                         
+       remark                           =  yes                                                                                                               
+fact   Moorish Idol.6                   =  Date: 26.04.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Moorish Idol.7                   =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Orange-lined Triggerfish         =  Orange-lined Triggerfish                                                                                          
+       url                              =  github://philiprbrenan/CoralReefFish/Orange-lined Triggerfish.jpg                                                 
+fact   Orange-lined Triggerfish.0       =  It is a slow growing fish feeding on coral, crabs and invertebrates                                              
+       remark                           =  yes                                                                                                               
+fact   Orange-lined Triggerfish.1       =  Their mouths are adapted to crushing shells                                                                      
+       remark                           =  yes                                                                                                               
+fact   Orange-lined Triggerfish.2       =  Found in the tropical Indo-Pacific area up to 50m deep                                                           
+       remark                           =  yes                                                                                                               
+fact   Orange-lined Triggerfish.3       =  *Orange-lined Triggerfish                                                                                        
+       remark                           =  yes                                                                                                               
+fact   Orange-lined Triggerfish.4       =  Author: Hans Hillewaert                                                                                          
+       remark                           =  yes                                                                                                               
+fact   Orange-lined Triggerfish.5       =  Date: 16.03.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Orange-lined Triggerfish.6       =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Ornate Ghost Pipefish            =  Ornate Ghost Pipefish                                                                                             
+       url                              =  github://philiprbrenan/CoralReefFish/Ornate Ghost Pipefish.jpg                                                    
+fact   Ornate Ghost Pipefish.0          =  Female incubates young in a special brood pouch.                                                                 
+       remark                           =  yes                                                                                                               
+fact   Ornate Ghost Pipefish.1          =  Spend a lot of time motionless, floating upside down, mouth pointed downwards                                    
+       remark                           =  yes                                                                                                               
+fact   Ornate Ghost Pipefish.2          =  Weak swimmers, they stay within very small territories                                                           
+       remark                           =  yes                                                                                                               
+fact   Ornate Ghost Pipefish.3          =  *Ornate Ghost Pipefish                                                                                           
+       remark                           =  yes                                                                                                               
+fact   Ornate Ghost Pipefish.4          =  Author: Steve Childs                                                                                             
+       remark                           =  yes                                                                                                               
+fact   Ornate Ghost Pipefish.5          =  Date: 21.06.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Ornate Ghost Pipefish.6          =  License:  Creative Commons Attribution 2.0 Generic                                                               
+       remark                           =  yes                                                                                                               
+       
+photo  Peacock Flounder                 =  Peacock Flounder                                                                                                  
+       url                              =  github://philiprbrenan/CoralReefFish/Peacock Flounder.jpg                                                         
+fact   Peacock Flounder.0               =  Prefer to crawl on their fins along the bottom rather than swimming                                              
+       remark                           =  yes                                                                                                               
+fact   Peacock Flounder.1               =  Constantly change colours and patterns                                                                           
+       remark                           =  yes                                                                                                               
+fact   Peacock Flounder.2               =  Has difficulty maintaining its camouflage if one of the eyes is damaged or covered by sand                       
+       remark                           =  yes                                                                                                               
+fact   Peacock Flounder.3               =  Can change colours in just eight seconds                                                                         
+       remark                           =  yes                                                                                                               
+fact   Peacock Flounder.4               =  Like to bury themselves in sand leaving only eyes protruding                                                     
+       remark                           =  yes                                                                                                               
+fact   Peacock Flounder.5               =  *Peacock Flounder                                                                                                
+       remark                           =  yes                                                                                                               
+fact   Peacock Flounder.6               =  Author: Brocken Inaglory                                                                                         
+       remark                           =  yes                                                                                                               
+fact   Peacock Flounder.7               =  Date: 20.05.09                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Peacock Flounder.8               =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Puffer Fish                      =  Puffer Fish                                                                                                       
+       url                              =  github://philiprbrenan/CoralReefFish/Puffer Fish.jpg                                                              
+fact   Puffer Fish.0                    =  Common in the tropics with at least 120 different species world-wide                                             
+       remark                           =  yes                                                                                                               
+fact   Puffer Fish.1                    =  The most poisonous fish in the world with enough toxins to kill several humans                                   
+       remark                           =  yes                                                                                                               
+fact   Puffer Fish.2                    =  Can inflate its body into a ball by ingesting water, which deters predators                                      
+       remark                           =  yes                                                                                                               
+fact   Puffer Fish.3                    =  Excellent eyesight and eyes can be moved independently                                                           
+       remark                           =  yes                                                                                                               
+fact   Puffer Fish.4                    =  *Puffer Fish                                                                                                     
+       remark                           =  yes                                                                                                               
+fact   Puffer Fish.5                    =  Author: Brocken Inaglory                                                                                         
+       remark                           =  yes                                                                                                               
+fact   Puffer Fish.6                    =  Date: 07.09.04                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Puffer Fish.7                    =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Queen Angelfish                  =  Queen Angelfish                                                                                                   
+       url                              =  github://philiprbrenan/CoralReefFish/Queen Angelfish.jpg                                                          
+fact   Queen Angelfish.0                =  Commonly found near reefs in the warmer sections of the western Atlantic Ocean                                   
+       remark                           =  yes                                                                                                               
+fact   Queen Angelfish.1                =  Feeds mainly on sponges, as well as jellyfish, corals, algae and plankton                                        
+       remark                           =  yes                                                                                                               
+fact   Queen Angelfish.2                =  May live up to 15 years in the wild                                                                              
+       remark                           =  yes                                                                                                               
+fact   Queen Angelfish.3                =  *Queen Angelfish                                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Queen Angelfish.4                =  Author: Stan Shebs                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Queen Angelfish.5                =  Date: 11.11.05                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Queen Angelfish.6                =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Red Lionfish                     =  Red Lionfish                                                                                                      
+       url                              =  github://philiprbrenan/CoralReefFish/Red Lionfish.jpg                                                             
+fact   Red Lionfish.0                   =  Large, venomous spines protrude from the body like a mane                                                        
+       remark                           =  yes                                                                                                               
+fact   Red Lionfish.1                   =  Spines make the fish inedible or deter most potential predators                                                  
+       remark                           =  yes                                                                                                               
+fact   Red Lionfish.2                   =  Can live up to 10 years                                                                                          
+       remark                           =  yes                                                                                                               
+fact   Red Lionfish.3                   =  *Red Lionfish                                                                                                    
+       remark                           =  yes                                                                                                               
+fact   Red Lionfish.4                   =  Author: Jens Petersen                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Red Lionfish.5                   =  Date: October 2006                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Red Lionfish.6                   =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Red Sea Clownfish                =  Red Sea Clownfish                                                                                                 
+       url                              =  github://philiprbrenan/CoralReefFish/Red Sea Clownfish.jpg                                                        
+fact   Red Sea Clownfish.0              =  Robust, bold, strong swimmers and will spend most of their time out in the open                                  
+       remark                           =  yes                                                                                                               
+fact   Red Sea Clownfish.1              =  Monogamous pairs inhabit anemones, usually on coral reefs                                                        
+       remark                           =  yes                                                                                                               
+fact   Red Sea Clownfish.2              =  Stinging anenomes provide protection to the fish                                                                 
+       remark                           =  yes                                                                                                               
+fact   Red Sea Clownfish.3              =  All clown fish are born male, one at a time in each shoal becoming female                                        
+       remark                           =  yes                                                                                                               
+fact   Red Sea Clownfish.4              =  *Red Sea Clownfish                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Red Sea Clownfish.5              =  Author: Magnus Kjaergaard                                                                                        
+       remark                           =  yes                                                                                                               
+fact   Red Sea Clownfish.6              =  Date: 27 January 2011                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Red Sea Clownfish.7              =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Red Sea Sailfin Tang             =  Red Sea Sailfin Tang                                                                                              
+       url                              =  github://philiprbrenan/CoralReefFish/Red Sea Sailfin Tang.jpg                                                     
+fact   Red Sea Sailfin Tang.0           =  One of the largest of the tangs growing to 40 cm (16 in) in length                                               
+       remark                           =  yes                                                                                                               
+fact   Red Sea Sailfin Tang.1           =  Similar to and often confused with the Pacific Sailfin Tang                                                      
+       remark                           =  yes                                                                                                               
+fact   Red Sea Sailfin Tang.2           =  In common with all surgeonfish, scalpel-like spines are located on either side of the tail                       
+       remark                           =  yes                                                                                                               
+fact   Red Sea Sailfin Tang.3           =  *Red Sea Sailfin Tang                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Red Sea Sailfin Tang.4           =  Author: Karelj                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Red Sea Sailfin Tang.5           =  Date: 29.07.11                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Red Sea Sailfin Tang.6           =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Saddle Butterflyfish             =  Saddle Butterflyfish                                                                                              
+       url                              =  github://philiprbrenan/CoralReefFish/Saddle Butterflyfish.jpg                                                     
+fact   Saddle Butterflyfish.0           =  Widely distributed fish in the in the Indian and Pacific Oceans                                                  
+       remark                           =  yes                                                                                                               
+fact   Saddle Butterflyfish.1           =  Adults are usually seen in mated pairs and only occasionally seen as single                                      
+       remark                           =  yes                                                                                                               
+fact   Saddle Butterflyfish.2           =  Found at depths between 0 and 30 m                                                                               
+       remark                           =  yes                                                                                                               
+fact   Saddle Butterflyfish.3           =  *Saddle Butterflyfish                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Saddle Butterflyfish.4           =  Author: Leonard Low from Australia                                                                               
+       remark                           =  yes                                                                                                               
+fact   Saddle Butterflyfish.5           =  Date: 01.03.05                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Saddle Butterflyfish.6           =  License: Creative Commons Attribution 2.0 Generic                                                                
+       remark                           =  yes                                                                                                               
+       
+photo  Scissortail Sergeant             =  Scissortail Sergeant                                                                                              
+       url                              =  github://philiprbrenan/CoralReefFish/Scissortail Sergeant.jpg                                                     
+fact   Scissortail Sergeant.0           =  Named for the black striped tail and sides, reminiscent of a sergeant's insignia                                 
+       remark                           =  yes                                                                                                               
+fact   Scissortail Sergeant.1           =  Found in groups, usually in mid water feeding on plankton                                                        
+       remark                           =  yes                                                                                                               
+fact   Scissortail Sergeant.2           =  Found on reefs in the Indo-Pacific area                                                                          
+       remark                           =  yes                                                                                                               
+fact   Scissortail Sergeant.3           =  *Scissortail Sergeant                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Scissortail Sergeant.4           =  Author: Jenny (JennyHuang) from Taipei                                                                           
+       remark                           =  yes                                                                                                               
+fact   Scissortail Sergeant.5           =  Date: 05.05.06                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Scissortail Sergeant.6           =  License:  Creative Commons Attribution 2.0 Generic                                                               
+       remark                           =  yes                                                                                                               
+       
+photo  Sea Goldie                       =  Sea Goldie                                                                                                        
+       url                              =  github://philiprbrenan/CoralReefFish/Sea Goldie.jpg                                                               
+fact   Sea Goldie.0                     =  Commonly found in the Indian Ocean                                                                               
+       remark                           =  yes                                                                                                               
+fact   Sea Goldie.1                     =  A male retains a harem of 5-10 females                                                                           
+       remark                           =  yes                                                                                                               
+fact   Sea Goldie.2                     =  When the male dies, one of the females changes sex and takes the place of the dead male                          
+       remark                           =  yes                                                                                                               
+fact   Sea Goldie.3                     =  Often found in very large schools above the reef                                                                 
+       remark                           =  yes                                                                                                               
+fact   Sea Goldie.4                     =  *Sea Goldie                                                                                                      
+       remark                           =  yes                                                                                                               
+fact   Sea Goldie.5                     =  Author: de:Benutzer:BS Thurner Hof                                                                               
+       remark                           =  yes                                                                                                               
+fact   Sea Goldie.6                     =  Date: 20.11.05                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Sea Goldie.7                     =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Slender-spined Porcupine Fish    =  Slender-spined Porcupine Fish                                                                                     
+       url                              =  github://philiprbrenan/CoralReefFish/Slender-spined Porcupine Fish.jpg                                            
+fact   Slender-spined Porcupine Fish.0  =  Can inflate their bodies by swallowing water or air, which deters predators                                      
+       remark                           =  yes                                                                                                               
+fact   Slender-spined Porcupine Fish.1  =  Sharp spines radiate outwards when the body is inflated                                                          
+       remark                           =  yes                                                                                                               
+fact   Slender-spined Porcupine Fish.2  =  Poisonous species with a neurotoxin at least 1200 times more potent than cyanide                                 
+       remark                           =  yes                                                                                                               
+fact   Slender-spined Porcupine Fish.3  =  *Slender-spined Porcupine Fish                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Slender-spined Porcupine Fish.4  =  Author: Mikkel Elbech alias Springcold at da.wikipedia                                                           
+       remark                           =  yes                                                                                                               
+fact   Slender-spined Porcupine Fish.5  =  Date: 14.05.07                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Slender-spined Porcupine Fish.6  =  License:  Creative Commons Attribution-Share Alike 2.5 Generic                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Spiny Seahorse                   =  Spiny Seahorse                                                                                                    
+       url                              =  github://philiprbrenan/CoralReefFish/Spiny Seahorse.jpg                                                           
+fact   Spiny Seahorse.0                 =  Tail allows them to cling to seagrass as well as weedy or spongy reefs                                           
+       remark                           =  yes                                                                                                               
+fact   Spiny Seahorse.1                 =  Grows to 17 cm in length, one of the largest species ranges of any seahorse                                      
+       remark                           =  yes                                                                                                               
+fact   Spiny Seahorse.2                 =  Mates for life and male carries the young                                                                        
+       remark                           =  yes                                                                                                               
+fact   Spiny Seahorse.3                 =  *Spiny Seahorse                                                                                                  
+       remark                           =  yes                                                                                                               
+fact   Spiny Seahorse.4                 =  Author: Nick Hobgood                                                                                             
+       remark                           =  yes                                                                                                               
+fact   Spiny Seahorse.5                 =  Date: 12.06.07                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Spiny Seahorse.6                 =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Spotbase Burrfish                =  Spotbase Burrfish                                                                                                 
+       url                              =  github://philiprbrenan/CoralReefFish/Spotbase Burrfish.jpg                                                        
+fact   Spotbase Burrfish.0              =  Found under rock or coral ledges during the day, and active during the night                                     
+       remark                           =  yes                                                                                                               
+fact   Spotbase Burrfish.1              =  Feeds on hard-shelled invertebrates, mollusks, crustaceans and sea urchins                                       
+       remark                           =  yes                                                                                                               
+fact   Spotbase Burrfish.2              =  Strong jaws and a powerful neurotoxin make this a dangerous fish for humans                                      
+       remark                           =  yes                                                                                                               
+fact   Spotbase Burrfish.3              =  *Spotbase Burrfish                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Spotbase Burrfish.4              =  Author: Jon Hanson                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Spotbase Burrfish.5              =  Date: 24.06.06                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Spotbase Burrfish.6              =  License: Creative Commons Attribution-Share Alike 2.0 Generic                                                    
+       remark                           =  yes                                                                                                               
+       
+photo  Spotted Eagle Ray                =  Spotted Eagle Ray                                                                                                 
+       url                              =  github://philiprbrenan/CoralReefFish/Spotted Eagle Ray.jpg                                                        
+fact   Spotted Eagle Ray.0              =  Commonly leap out of water, occasionally into boats, resulting in one known death in Florida                     
+       remark                           =  yes                                                                                                               
+fact   Spotted Eagle Ray.1              =  Has several venomous, barbed stingers near the base of the tail                                                  
+       remark                           =  yes                                                                                                               
+fact   Spotted Eagle Ray.2              =  Will sometimes dig with their snouts to look for food buried in the sand on the sea bed                          
+       remark                           =  yes                                                                                                               
+fact   Spotted Eagle Ray.3              =  *Spotted Eagle Ray                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Spotted Eagle Ray.4              =  Author: john norton                                                                                              
+       remark                           =  yes                                                                                                               
+fact   Spotted Eagle Ray.5              =  Date: 29.03.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Spotted Eagle Ray.6              =  License:  Creative Commons Attribution 2.0 Generic                                                               
+       remark                           =  yes                                                                                                               
+       
+photo  Spotted Surgeonfish              =  Spotted Surgeonfish                                                                                               
+       url                              =  github://philiprbrenan/CoralReefFish/Spotted Surgeonfish.jpg                                                      
+fact   Spotted Surgeonfish.0            =  Also commonly called "Kole Tang"                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Spotted Surgeonfish.1            =  In common with all surgeonfish, scalpel-like spines are located on either side of the tail                       
+       remark                           =  yes                                                                                                               
+fact   Spotted Surgeonfish.2            =  Small mouths have a single row of teeth used for grazing on algae                                                
+       remark                           =  yes                                                                                                               
+fact   Spotted Surgeonfish.3            =  *Spotted Surgeonfish                                                                                             
+       remark                           =  yes                                                                                                               
+fact   Spotted Surgeonfish.4            =  Author: Stan Shebs                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Spotted Surgeonfish.5            =  Date: 11.11.05                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Spotted Surgeonfish.6            =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Stonefish                        =  Stonefish                                                                                                         
+       url                              =  github://philiprbrenan/CoralReefFish/Stonefish.jpg                                                                
+fact   Stonefish.0                      =  Named after its ability to camouflage itself to look like a stone                                                
+       remark                           =  yes                                                                                                               
+fact   Stonefish.1                      =  One of the most venomous fish in the world                                                                       
+       remark                           =  yes                                                                                                               
+fact   Stonefish.2                      =  When threatened, it can secrete potent neurotoxins from its dorsal spines                                        
+       remark                           =  yes                                                                                                               
+fact   Stonefish.3                      =  Venom can prove lethal to humans if not treated                                                                  
+       remark                           =  yes                                                                                                               
+fact   Stonefish.4                      =  *Stonefish                                                                                                       
+       remark                           =  yes                                                                                                               
+fact   Stonefish.5                      =  Author: SeanMack                                                                                                 
+       remark                           =  yes                                                                                                               
+fact   Stonefish.6                      =  Date: 16.07.06                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Stonefish.7                      =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Tiger Grouper                    =  Tiger Grouper                                                                                                     
+       url                              =  github://philiprbrenan/CoralReefFish/Tiger Grouper.jpg                                                            
+fact   Tiger Grouper.0                  =  Big robust predators that draw in food by sucking it into their mouths                                           
+       remark                           =  yes                                                                                                               
+fact   Tiger Grouper.1                  =  Its mouth and lips are large with rows of teeth which trap prey                                                  
+       remark                           =  yes                                                                                                               
+fact   Tiger Grouper.2                  =  Often found resting with their gills and mouths flared open for cleaning                                         
+       remark                           =  yes                                                                                                               
+fact   Tiger Grouper.3                  =  Spawning is seasonal and controlled by the moons phase                                                           
+       remark                           =  yes                                                                                                               
+fact   Tiger Grouper.4                  =  *Tiger Grouper                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Tiger Grouper.5                  =  Author: Albert kok                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Tiger Grouper.6                  =  Date: 12.02.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Tiger Grouper.7                  =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Titan Triggerfish                =  Titan Triggerfish                                                                                                 
+       url                              =  github://philiprbrenan/CoralReefFish/Titan Triggerfish.jpg                                                        
+fact   Titan Triggerfish.0              =  Large species of triggerfish found in lagoons and reefs in most of the Indo-Pacific                              
+       remark                           =  yes                                                                                                               
+fact   Titan Triggerfish.1              =  Feed on shellfish, urchins, crustaceans and coral                                                                
+       remark                           =  yes                                                                                                               
+fact   Titan Triggerfish.2              =  Often surrounded by other fish feeding from their leftovers                                                      
+       remark                           =  yes                                                                                                               
+fact   Titan Triggerfish.3              =  Highly territorial, especially during the breeding season                                                        
+       remark                           =  yes                                                                                                               
+fact   Titan Triggerfish.4              =  *Titan Triggerfish                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Titan Triggerfish.5              =  Author: Uxbona                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Titan Triggerfish.6              =  Date: 24.10.08                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Titan Triggerfish.7              =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Yellow Boxfish                   =  Yellow Boxfish                                                                                                    
+       url                              =  github://philiprbrenan/CoralReefFish/Yellow Boxfish.jpg                                                           
+fact   Yellow Boxfish.0                 =  Named after its shape, which looks like box                                                                      
+       remark                           =  yes                                                                                                               
+fact   Yellow Boxfish.1                 =  Very bright yellow when young fish which fades to blue/grey with ageing                                          
+       remark                           =  yes                                                                                                               
+fact   Yellow Boxfish.2                 =  In 2006, Mercedes-Benz unveiled its Bionic concept car, inspired by the Yellow Boxfish                           
+       remark                           =  yes                                                                                                               
+fact   Yellow Boxfish.3                 =  *Yellow Boxfish                                                                                                  
+       remark                           =  yes                                                                                                               
+fact   Yellow Boxfish.4                 =  Author: prilfish (Silke Baron)                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Yellow Boxfish.5                 =  Date: 15.09.07                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Yellow Boxfish.6                 =  License:  Creative Commons Attribution 2.0 Generic                                                               
+       remark                           =  yes                                                                                                               
+       
+photo  Yellow Tang                      =  Yellow Tang                                                                                                       
+       url                              =  github://philiprbrenan/CoralReefFish/Yellow Tang.jpg                                                              
+fact   Yellow Tang.0                    =  'Dory and Bubbles' from the movie "Finding Nemo" were Tang Fish                                                  
+       remark                           =  yes                                                                                                               
+fact   Yellow Tang.1                    =  Member of the surgeonfish family with a sharp spine near the tail                                                
+       remark                           =  yes                                                                                                               
+fact   Yellow Tang.2                    =  Bright yellow daytime colour fades at night                                                                      
+       remark                           =  yes                                                                                                               
+fact   Yellow Tang.3                    =  One of the most popular aquarium fish                                                                            
+       remark                           =  yes                                                                                                               
+fact   Yellow Tang.4                    =  *Yellow Tang                                                                                                     
+       remark                           =  yes                                                                                                               
+fact   Yellow Tang.5                    =  Author: Benjamint444                                                                                             
+       remark                           =  yes                                                                                                               
+fact   Yellow Tang.6                    =  Date: None                                                                                                       
+       remark                           =  yes                                                                                                               
+fact   Yellow Tang.7                    =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
+       
+photo  Yellow-edged Lyretail            =  Yellow-edged Lyretail                                                                                             
+       url                              =  github://philiprbrenan/CoralReefFish/Yellow-edged Lyretail.jpg                                                    
+fact   Yellow-edged Lyretail.0          =  Grows to 81 cm in length and 12 kg in weight                                                                     
+       remark                           =  yes                                                                                                               
+fact   Yellow-edged Lyretail.1          =  Diet is mainly fishes, crabs, shrimps                                                                            
+       remark                           =  yes                                                                                                               
+fact   Yellow-edged Lyretail.2          =  Inhabits lagoons, channels and seaward reefs, 3 m to 250 m deep                                                  
+       remark                           =  yes                                                                                                               
+fact   Yellow-edged Lyretail.3          =  *Yellow-edged Lyretail                                                                                           
+       remark                           =  yes                                                                                                               
+fact   Yellow-edged Lyretail.4          =  Author: Albert kok                                                                                               
+       remark                           =  yes                                                                                                               
+fact   Yellow-edged Lyretail.5          =  Date: 12.06.07                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Yellow-edged Lyretail.6          =  License: Creative Commons Attribution-Share Alike 3.0 Unported                                                   
+       remark                           =  yes                                                                                                               
+       
+photo  Yellowtail Clownfish             =  Yellowtail Clownfish                                                                                              
+       url                              =  github://philiprbrenan/CoralReefFish/Yellowtail Clownfish.jpg                                                     
+fact   Yellowtail Clownfish.0           =  Also called "Clark's Anemonefish"                                                                                
+       remark                           =  yes                                                                                                               
+fact   Yellowtail Clownfish.1           =  Spectacular colours with the patterns varying from one area to another                                           
+       remark                           =  yes                                                                                                               
+fact   Yellowtail Clownfish.2           =  Clownfish perform an elaborate dance with an anemone before taking up residence                                  
+       remark                           =  yes                                                                                                               
+fact   Yellowtail Clownfish.3           =  *Yellowtail Clownfish                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Yellowtail Clownfish.4           =  Author: Jens Petersen                                                                                            
+       remark                           =  yes                                                                                                               
+fact   Yellowtail Clownfish.5           =  Date: 31.01.06                                                                                                   
+       remark                           =  yes                                                                                                               
+fact   Yellowtail Clownfish.6           =  License:  Creative Commons Attribution-Share Alike 3.0 Unported                                                  
+       remark                           =  yes                                                                                                               
