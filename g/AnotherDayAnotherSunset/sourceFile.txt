@@ -6,28 +6,28 @@ app g.AnotherDayAnotherSunset   = Another Day, Another Sunset
   speakers     = Amy
 
        
-photo  A Winter's Day               =                                                                                  
+photo  A.Winter's.Day               =                                                                                  
        url                          =  github://philiprbrenan/AnotherDayAnotherSunset/A Winter's Day.jpg               
        
-photo  Adios Amigos                 =                                                                                  
+photo  Adios.Amigos                 =                                                                                  
        url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Adios Amigos.jpg                 
        
-photo  Another Day, Another Sunset  =                                                                                  
+photo  Another.Day,.Another.Sunset  =                                                                                  
        url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Another Day, Another Sunset.jpg  
        
-photo  Beach Siesta                 =                                                                                  
+photo  Beach.Siesta                 =                                                                                  
        url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Beach Siesta.jpg                 
        
 photo  Carrauntoohil                =                                                                                  
        url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Carrauntoohil.jpg                
        
-photo  Going Somewhere              =                                                                                  
+photo  Going.Somewhere              =                                                                                  
        url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Going Somewhere.jpg              
        
-photo  Happy Days                   =                                                                                  
+photo  Happy.Days                   =                                                                                  
        url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Happy Days.jpg                   
        
-photo  Love is Everything           =                                                                                  
+photo  Love.is.Everything           =                                                                                  
        url                          =  github://philiprbrenan/AnotherDayAnotherSunset/Love is Everything.jpg           
        
 photo  Memories                     =                                                                                  
