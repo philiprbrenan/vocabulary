@@ -1,0 +1,247 @@
+app g.Alphabet   = Easy English Alphabet
+  description  = Learn about Easy English Alphabet in English
+  icon         = Palm.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Airplane  =                                                
+       url       =  github://philiprbrenan/Alphabet/Airplane.jpg  
+       
+photo  Apple     =                                                
+       url       =  github://philiprbrenan/Alphabet/Apple.jpg     
+       
+photo  Arm       =                                                
+       url       =  github://philiprbrenan/Alphabet/Arm.jpg       
+       
+photo  Baby      =                                                
+       url       =  github://philiprbrenan/Alphabet/Baby.jpg      
+       
+photo  Boat      =                                                
+       url       =  github://philiprbrenan/Alphabet/Boat.jpg      
+       
+photo  Bridge    =                                                
+       url       =  github://philiprbrenan/Alphabet/Bridge.jpg    
+       
+photo  Bus       =                                                
+       url       =  github://philiprbrenan/Alphabet/Bus.jpg       
+       
+photo  Cannon    =                                                
+       url       =  github://philiprbrenan/Alphabet/Cannon.jpg    
+       
+photo  Car       =                                                
+       url       =  github://philiprbrenan/Alphabet/Car.jpg       
+       
+photo  Church    =                                                
+       url       =  github://philiprbrenan/Alphabet/Church.jpg    
+       
+photo  Clouds    =                                                
+       url       =  github://philiprbrenan/Alphabet/Clouds.jpg    
+       
+photo  Daisy     =                                                
+       url       =  github://philiprbrenan/Alphabet/Daisy.jpg     
+       
+photo  Dish      =                                                
+       url       =  github://philiprbrenan/Alphabet/Dish.jpg      
+       
+photo  Door      =                                                
+       url       =  github://philiprbrenan/Alphabet/Door.jpg      
+       
+photo  Ear       =                                                
+       url       =  github://philiprbrenan/Alphabet/Ear.jpg       
+       
+photo  Egg       =                                                
+       url       =  github://philiprbrenan/Alphabet/Egg.jpg       
+       
+photo  Eight     =                                                
+       url       =  github://philiprbrenan/Alphabet/Eight.jpg     
+       
+photo  Flag      =                                                
+       url       =  github://philiprbrenan/Alphabet/Flag.jpg      
+       
+photo  Flower    =                                                
+       url       =  github://philiprbrenan/Alphabet/Flower.jpg    
+       
+photo  Fork      =                                                
+       url       =  github://philiprbrenan/Alphabet/Fork.jpg      
+       
+photo  Gate      =                                                
+       url       =  github://philiprbrenan/Alphabet/Gate.jpg      
+       
+photo  Glass     =                                                
+       url       =  github://philiprbrenan/Alphabet/Glass.jpg     
+       
+photo  Glasses   =                                                
+       url       =  github://philiprbrenan/Alphabet/Glasses.jpg   
+       
+photo  Grape     =                                                
+       url       =  github://philiprbrenan/Alphabet/Grape.jpg     
+       
+photo  Hand      =                                                
+       url       =  github://philiprbrenan/Alphabet/Hand.jpg      
+       
+photo  Hat       =                                                
+       url       =  github://philiprbrenan/Alphabet/Hat.jpg       
+       
+photo  House     =                                                
+       url       =  github://philiprbrenan/Alphabet/House.jpg     
+       
+photo  Ice       =                                                
+       url       =  github://philiprbrenan/Alphabet/Ice.jpg       
+       
+photo  Iris      =                                                
+       url       =  github://philiprbrenan/Alphabet/Iris.jpg      
+       
+photo  Island    =                                                
+       url       =  github://philiprbrenan/Alphabet/Island.jpg    
+       
+photo  Jar       =                                                
+       url       =  github://philiprbrenan/Alphabet/Jar.jpg       
+       
+photo  Jeep      =                                                
+       url       =  github://philiprbrenan/Alphabet/Jeep.jpg      
+       
+photo  Jug       =                                                
+       url       =  github://philiprbrenan/Alphabet/Jug.jpg       
+       
+photo  Kayak     =                                                
+       url       =  github://philiprbrenan/Alphabet/Kayak.jpg     
+       
+photo  Kettle    =                                                
+       url       =  github://philiprbrenan/Alphabet/Kettle.jpg    
+       
+photo  Key       =                                                
+       url       =  github://philiprbrenan/Alphabet/Key.jpg       
+       
+photo  Lamp      =                                                
+       url       =  github://philiprbrenan/Alphabet/Lamp.jpg      
+       
+photo  Leaf      =                                                
+       url       =  github://philiprbrenan/Alphabet/Leaf.jpg      
+       
+photo  Lily      =                                                
+       url       =  github://philiprbrenan/Alphabet/Lily.jpg      
+       
+photo  Map       =                                                
+       url       =  github://philiprbrenan/Alphabet/Map.jpg       
+       
+photo  Moon      =                                                
+       url       =  github://philiprbrenan/Alphabet/Moon.jpg      
+       
+photo  Mosque    =                                                
+       url       =  github://philiprbrenan/Alphabet/Mosque.jpg    
+       
+photo  Mountain  =                                                
+       url       =  github://philiprbrenan/Alphabet/Mountain.jpg  
+       
+photo  Mushroom  =                                                
+       url       =  github://philiprbrenan/Alphabet/Mushroom.jpg  
+       
+photo  Nail      =                                                
+       url       =  github://philiprbrenan/Alphabet/Nail.jpg      
+       
+photo  Needle    =                                                
+       url       =  github://philiprbrenan/Alphabet/Needle.jpg    
+       
+photo  Nest      =                                                
+       url       =  github://philiprbrenan/Alphabet/Nest.jpg      
+       
+photo  Note      =                                                
+       url       =  github://philiprbrenan/Alphabet/Note.jpg      
+       
+photo  Oar       =                                                
+       url       =  github://philiprbrenan/Alphabet/Oar.jpg       
+       
+photo  Orange    =                                                
+       url       =  github://philiprbrenan/Alphabet/Orange.jpg    
+       
+photo  Palm      =                                                
+       url       =  github://philiprbrenan/Alphabet/Palm.jpg      
+       
+photo  Pansy     =                                                
+       url       =  github://philiprbrenan/Alphabet/Pansy.jpg     
+       
+photo  Plate     =                                                
+       url       =  github://philiprbrenan/Alphabet/Plate.jpg     
+       
+photo  Quarter   =                                                
+       url       =  github://philiprbrenan/Alphabet/Quarter.jpg   
+       
+photo  Quilt     =                                                
+       url       =  github://philiprbrenan/Alphabet/Quilt.jpg     
+       
+photo  Road      =                                                
+       url       =  github://philiprbrenan/Alphabet/Road.jpg      
+       
+photo  Rope      =                                                
+       url       =  github://philiprbrenan/Alphabet/Rope.jpg      
+       
+photo  Rose      =                                                
+       url       =  github://philiprbrenan/Alphabet/Rose.jpg      
+       
+photo  Sail      =                                                
+       url       =  github://philiprbrenan/Alphabet/Sail.jpg      
+       
+photo  Sea       =                                                
+       url       =  github://philiprbrenan/Alphabet/Sea.jpg       
+       
+photo  Snowman   =                                                
+       url       =  github://philiprbrenan/Alphabet/Snowman.jpg   
+       
+photo  Sun       =                                                
+       url       =  github://philiprbrenan/Alphabet/Sun.jpg       
+       
+photo  Teddy     =                                                
+       url       =  github://philiprbrenan/Alphabet/Teddy.jpg     
+       
+photo  Tent      =                                                
+       url       =  github://philiprbrenan/Alphabet/Tent.jpg      
+       
+photo  Train     =                                                
+       url       =  github://philiprbrenan/Alphabet/Train.jpg     
+       
+photo  Tree      =                                                
+       url       =  github://philiprbrenan/Alphabet/Tree.jpg      
+       
+photo  Umbrella  =                                                
+       url       =  github://philiprbrenan/Alphabet/Umbrella.jpg  
+       
+photo  Van       =                                                
+       url       =  github://philiprbrenan/Alphabet/Van.jpg       
+       
+photo  Vase      =                                                
+       url       =  github://philiprbrenan/Alphabet/Vase.jpg      
+       
+photo  Violet    =                                                
+       url       =  github://philiprbrenan/Alphabet/Violet.jpg    
+       
+photo  Wall      =                                                
+       url       =  github://philiprbrenan/Alphabet/Wall.jpg      
+       
+photo  Wheel     =                                                
+       url       =  github://philiprbrenan/Alphabet/Wheel.jpg     
+       
+photo  Windmill  =                                                
+       url       =  github://philiprbrenan/Alphabet/Windmill.jpg  
+       
+photo  X-ray     =                                                
+       url       =  github://philiprbrenan/Alphabet/X-ray.jpg     
+       
+photo  Yacht     =                                                
+       url       =  github://philiprbrenan/Alphabet/Yacht.jpg     
+       
+photo  Yarn      =                                                
+       url       =  github://philiprbrenan/Alphabet/Yarn.jpg      
+       
+photo  Yolk      =                                                
+       url       =  github://philiprbrenan/Alphabet/Yolk.jpg      
+       
+photo  Zero      =                                                
+       url       =  github://philiprbrenan/Alphabet/Zero.jpg      
+       
+photo  Zigzag    =                                                
+       url       =  github://philiprbrenan/Alphabet/Zigzag.jpg    
+       
+photo  Zip       =                                                
+       url       =  github://philiprbrenan/Alphabet/Zip.jpg       
