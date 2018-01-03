@@ -6,182 +6,182 @@ app g.CountEuros   = Count Euros
   speakers     = Amy
 
        
-photo  0-30   =  0-30                                         
-       url    =  github://philiprbrenan/CountEuros/0-30.jpg   
+photo  0-30   =  0-30                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/0-30.jpg   
        
-photo  0-71   =  0-71                                         
-       url    =  github://philiprbrenan/CountEuros/0-71.jpg   
+photo  0-71   =  0-71                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/0-71.jpg   
        
-photo  1-48   =  1-48                                         
-       url    =  github://philiprbrenan/CountEuros/1-48.jpg   
+photo  1-48   =  1-48                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/1-48.jpg   
        
-photo  1-80   =  1-80                                         
-       url    =  github://philiprbrenan/CountEuros/1-80.jpg   
+photo  1-80   =  1-80                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/1-80.jpg   
        
-photo  1-90   =  1-90                                         
-       url    =  github://philiprbrenan/CountEuros/1-90.jpg   
+photo  1-90   =  1-90                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/1-90.jpg   
        
-photo  1-95   =  1-95                                         
-       url    =  github://philiprbrenan/CountEuros/1-95.jpg   
+photo  1-95   =  1-95                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/1-95.jpg   
        
-photo  10-10  =  10-10                                        
-       url    =  github://philiprbrenan/CountEuros/10-10.jpg  
+photo  10-10  =  10-10                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/10-10.jpg  
        
-photo  10-29  =  10-29                                        
-       url    =  github://philiprbrenan/CountEuros/10-29.jpg  
+photo  10-29  =  10-29                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/10-29.jpg  
        
-photo  10-36  =  10-36                                        
-       url    =  github://philiprbrenan/CountEuros/10-36.jpg  
+photo  10-36  =  10-36                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/10-36.jpg  
        
-photo  10-50  =  10-50                                        
-       url    =  github://philiprbrenan/CountEuros/10-50.jpg  
+photo  10-50  =  10-50                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/10-50.jpg  
        
-photo  10-66  =  10-66                                        
-       url    =  github://philiprbrenan/CountEuros/10-66.jpg  
+photo  10-66  =  10-66                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/10-66.jpg  
        
-photo  10-80  =  10-80                                        
-       url    =  github://philiprbrenan/CountEuros/10-80.jpg  
+photo  10-80  =  10-80                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/10-80.jpg  
        
-photo  11-00  =  11-00                                        
-       url    =  github://philiprbrenan/CountEuros/11-00.jpg  
+photo  11-00  =  11-00                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/11-00.jpg  
        
-photo  11-10  =  11-10                                        
-       url    =  github://philiprbrenan/CountEuros/11-10.jpg  
+photo  11-10  =  11-10                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/11-10.jpg  
        
-photo  12-15  =  12-15                                        
-       url    =  github://philiprbrenan/CountEuros/12-15.jpg  
+photo  12-15  =  12-15                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/12-15.jpg  
        
-photo  12-25  =  12-25                                        
-       url    =  github://philiprbrenan/CountEuros/12-25.jpg  
+photo  12-25  =  12-25                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/12-25.jpg  
        
-photo  12-30  =  12-30                                        
-       url    =  github://philiprbrenan/CountEuros/12-30.jpg  
+photo  12-30  =  12-30                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/12-30.jpg  
        
-photo  12-60  =  12-60                                        
-       url    =  github://philiprbrenan/CountEuros/12-60.jpg  
+photo  12-60  =  12-60                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/12-60.jpg  
        
-photo  12-74  =  12-74                                        
-       url    =  github://philiprbrenan/CountEuros/12-74.jpg  
+photo  12-74  =  12-74                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/12-74.jpg  
        
-photo  12.25  =                                        12.25  
-       url    =  github://philiprbrenan/CountEuros/12.25.jpg  
+photo  12.25  =                                                            12.25  
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/12.25.jpg  
        
-photo  12.35  =                                        12.35  
-       url    =  github://philiprbrenan/CountEuros/12.35.jpg  
+photo  12.35  =                                                            12.35  
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/12.35.jpg  
        
-photo  13-00  =  13-00                                        
-       url    =  github://philiprbrenan/CountEuros/13-00.jpg  
+photo  13-00  =  13-00                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/13-00.jpg  
        
-photo  13-25  =  13-25                                        
-       url    =  github://philiprbrenan/CountEuros/13-25.jpg  
+photo  13-25  =  13-25                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/13-25.jpg  
        
-photo  14-00  =  14-00                                        
-       url    =  github://philiprbrenan/CountEuros/14-00.jpg  
+photo  14-00  =  14-00                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/14-00.jpg  
        
-photo  14-80  =  14-80                                        
-       url    =  github://philiprbrenan/CountEuros/14-80.jpg  
+photo  14-80  =  14-80                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/14-80.jpg  
        
-photo  15-50  =  15-50                                        
-       url    =  github://philiprbrenan/CountEuros/15-50.jpg  
+photo  15-50  =  15-50                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/15-50.jpg  
        
-photo  18-90  =  18-90                                        
-       url    =  github://philiprbrenan/CountEuros/18-90.jpg  
+photo  18-90  =  18-90                                                            
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/18-90.jpg  
        
-photo  2-45   =  2-45                                         
-       url    =  github://philiprbrenan/CountEuros/2-45.jpg   
+photo  2-45   =  2-45                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/2-45.jpg   
        
-photo  2-46   =  2-46                                         
-       url    =  github://philiprbrenan/CountEuros/2-46.jpg   
+photo  2-46   =  2-46                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/2-46.jpg   
        
-photo  2-61   =  2-61                                         
-       url    =  github://philiprbrenan/CountEuros/2-61.jpg   
+photo  2-61   =  2-61                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/2-61.jpg   
        
-photo  2-65   =  2-65                                         
-       url    =  github://philiprbrenan/CountEuros/2-65.jpg   
+photo  2-65   =  2-65                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/2-65.jpg   
        
-photo  3-14   =  3-14                                         
-       url    =  github://philiprbrenan/CountEuros/3-14.jpg   
+photo  3-14   =  3-14                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/3-14.jpg   
        
-photo  3-30   =  3-30                                         
-       url    =  github://philiprbrenan/CountEuros/3-30.jpg   
+photo  3-30   =  3-30                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/3-30.jpg   
        
-photo  3-53   =  3-53                                         
-       url    =  github://philiprbrenan/CountEuros/3-53.jpg   
+photo  3-53   =  3-53                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/3-53.jpg   
        
-photo  3-88   =  3-88                                         
-       url    =  github://philiprbrenan/CountEuros/3-88.jpg   
+photo  3-88   =  3-88                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/3-88.jpg   
        
-photo  4-79   =  4-79                                         
-       url    =  github://philiprbrenan/CountEuros/4-79.jpg   
+photo  4-79   =  4-79                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/4-79.jpg   
        
-photo  5-0    =  5-0                                          
-       url    =  github://philiprbrenan/CountEuros/5-0.jpg    
+photo  5-0    =  5-0                                                              
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/5-0.jpg    
        
-photo  5-05   =  5-05                                         
-       url    =  github://philiprbrenan/CountEuros/5-05.jpg   
+photo  5-05   =  5-05                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/5-05.jpg   
        
-photo  5-65   =  5-65                                         
-       url    =  github://philiprbrenan/CountEuros/5-65.jpg   
+photo  5-65   =  5-65                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/5-65.jpg   
        
-photo  5-89   =  5-89                                         
-       url    =  github://philiprbrenan/CountEuros/5-89.jpg   
+photo  5-89   =  5-89                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/5-89.jpg   
        
-photo  6-18   =  6-18                                         
-       url    =  github://philiprbrenan/CountEuros/6-18.jpg   
+photo  6-18   =  6-18                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/6-18.jpg   
        
-photo  6-39   =  6-39                                         
-       url    =  github://philiprbrenan/CountEuros/6-39.jpg   
+photo  6-39   =  6-39                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/6-39.jpg   
        
-photo  7-33   =  7-33                                         
-       url    =  github://philiprbrenan/CountEuros/7-33.jpg   
+photo  7-33   =  7-33                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/7-33.jpg   
        
-photo  7-35   =  7-35                                         
-       url    =  github://philiprbrenan/CountEuros/7-35.jpg   
+photo  7-35   =  7-35                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/7-35.jpg   
        
-photo  7-40   =  7-40                                         
-       url    =  github://philiprbrenan/CountEuros/7-40.jpg   
+photo  7-40   =  7-40                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/7-40.jpg   
        
-photo  7-46   =  7-46                                         
-       url    =  github://philiprbrenan/CountEuros/7-46.jpg   
+photo  7-46   =  7-46                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/7-46.jpg   
        
-photo  7-60   =  7-60                                         
-       url    =  github://philiprbrenan/CountEuros/7-60.jpg   
+photo  7-60   =  7-60                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/7-60.jpg   
        
-photo  7-65   =  7-65                                         
-       url    =  github://philiprbrenan/CountEuros/7-65.jpg   
+photo  7-65   =  7-65                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/7-65.jpg   
        
-photo  7-79   =  7-79                                         
-       url    =  github://philiprbrenan/CountEuros/7-79.jpg   
+photo  7-79   =  7-79                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/7-79.jpg   
        
-photo  7-80   =  7-80                                         
-       url    =  github://philiprbrenan/CountEuros/7-80.jpg   
+photo  7-80   =  7-80                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/7-80.jpg   
        
-photo  8-00   =  8-00                                         
-       url    =  github://philiprbrenan/CountEuros/8-00.jpg   
+photo  8-00   =  8-00                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/8-00.jpg   
        
-photo  8-10   =  8-10                                         
-       url    =  github://philiprbrenan/CountEuros/8-10.jpg   
+photo  8-10   =  8-10                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/8-10.jpg   
        
-photo  8-15   =  8-15                                         
-       url    =  github://philiprbrenan/CountEuros/8-15.jpg   
+photo  8-15   =  8-15                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/8-15.jpg   
        
-photo  8-25   =  8-25                                         
-       url    =  github://philiprbrenan/CountEuros/8-25.jpg   
+photo  8-25   =  8-25                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/8-25.jpg   
        
-photo  8-55   =  8-55                                         
-       url    =  github://philiprbrenan/CountEuros/8-55.jpg   
+photo  8-55   =  8-55                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/8-55.jpg   
        
-photo  8-75   =  8-75                                         
-       url    =  github://philiprbrenan/CountEuros/8-75.jpg   
+photo  8-75   =  8-75                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/8-75.jpg   
        
-photo  9-20   =  9-20                                         
-       url    =  github://philiprbrenan/CountEuros/9-20.jpg   
+photo  9-20   =  9-20                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/9-20.jpg   
        
-photo  9-46   =  9-46                                         
-       url    =  github://philiprbrenan/CountEuros/9-46.jpg   
+photo  9-46   =  9-46                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/9-46.jpg   
        
-photo  9-75   =  9-75                                         
-       url    =  github://philiprbrenan/CountEuros/9-75.jpg   
+photo  9-75   =  9-75                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/9-75.jpg   
        
-photo  9-95   =  9-95                                         
-       url    =  github://philiprbrenan/CountEuros/9-95.jpg   
+photo  9-95   =  9-95                                                             
+       url    =  github://philiprbrenan/vocabulary-4/images/CountEuros/9-95.jpg   
