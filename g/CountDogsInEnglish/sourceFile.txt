@@ -6,32 +6,32 @@ app g.CountDogsInEnglish   = Count Dogs 1-10
   speakers     = Amy
 
        
-photo    1  =  One                                               
-       url  =  github://philiprbrenan/CountDogsInEnglish/1.jpg   
+photo    1  =  One                                                                   
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/1.jpg   
        
-photo   10  =  Ten                                               
-       url  =  github://philiprbrenan/CountDogsInEnglish/10.jpg  
+photo   10  =  Ten                                                                   
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/10.jpg  
        
-photo    2  =  Two                                               
-       url  =  github://philiprbrenan/CountDogsInEnglish/2.jpg   
+photo    2  =  Two                                                                   
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/2.jpg   
        
-photo    3  =  Three                                             
-       url  =  github://philiprbrenan/CountDogsInEnglish/3.jpg   
+photo    3  =  Three                                                                 
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/3.jpg   
        
-photo    4  =  Four                                              
-       url  =  github://philiprbrenan/CountDogsInEnglish/4.jpg   
+photo    4  =  Four                                                                  
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/4.jpg   
        
-photo    5  =  Five                                              
-       url  =  github://philiprbrenan/CountDogsInEnglish/5.jpg   
+photo    5  =  Five                                                                  
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/5.jpg   
        
-photo    6  =  Six                                               
-       url  =  github://philiprbrenan/CountDogsInEnglish/6.jpg   
+photo    6  =  Six                                                                   
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/6.jpg   
        
-photo    7  =  Seven                                             
-       url  =  github://philiprbrenan/CountDogsInEnglish/7.jpg   
+photo    7  =  Seven                                                                 
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/7.jpg   
        
-photo    8  =  Eight                                             
-       url  =  github://philiprbrenan/CountDogsInEnglish/8.jpg   
+photo    8  =  Eight                                                                 
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/8.jpg   
        
-photo    9  =  Nine                                              
-       url  =  github://philiprbrenan/CountDogsInEnglish/9.jpg   
+photo    9  =  Nine                                                                  
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDogsInEnglish/9.jpg   
