@@ -6,62 +6,62 @@ app g.CountDollsInEnglish   = Count Dolls 1-20
   speakers     = Amy
 
        
-photo    1  =  One                                                
-       url  =  github://philiprbrenan/CountDollsInEnglish/1.jpg   
+photo    1  =  One                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/1.jpg   
        
-photo   10  =  Ten                                                
-       url  =  github://philiprbrenan/CountDollsInEnglish/10.jpg  
+photo   10  =  Ten                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/10.jpg  
        
-photo   11  =  Eleven                                             
-       url  =  github://philiprbrenan/CountDollsInEnglish/11.jpg  
+photo   11  =  Eleven                                                                 
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/11.jpg  
        
-photo   12  =  Twelve                                             
-       url  =  github://philiprbrenan/CountDollsInEnglish/12.jpg  
+photo   12  =  Twelve                                                                 
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/12.jpg  
        
-photo   13  =  Thirteen                                           
-       url  =  github://philiprbrenan/CountDollsInEnglish/13.jpg  
+photo   13  =  Thirteen                                                               
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/13.jpg  
        
-photo   14  =  Fourteen                                           
-       url  =  github://philiprbrenan/CountDollsInEnglish/14.jpg  
+photo   14  =  Fourteen                                                               
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/14.jpg  
        
-photo   15  =  Fifteen                                            
-       url  =  github://philiprbrenan/CountDollsInEnglish/15.jpg  
+photo   15  =  Fifteen                                                                
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/15.jpg  
        
-photo   16  =  Sixteen                                            
-       url  =  github://philiprbrenan/CountDollsInEnglish/16.jpg  
+photo   16  =  Sixteen                                                                
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/16.jpg  
        
-photo   17  =  Seventeen                                          
-       url  =  github://philiprbrenan/CountDollsInEnglish/17.jpg  
+photo   17  =  Seventeen                                                              
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/17.jpg  
        
-photo   18  =  Eighteen                                           
-       url  =  github://philiprbrenan/CountDollsInEnglish/18.jpg  
+photo   18  =  Eighteen                                                               
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/18.jpg  
        
-photo   19  =  Nineteen                                           
-       url  =  github://philiprbrenan/CountDollsInEnglish/19.jpg  
+photo   19  =  Nineteen                                                               
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/19.jpg  
        
-photo    2  =  Two                                                
-       url  =  github://philiprbrenan/CountDollsInEnglish/2.jpg   
+photo    2  =  Two                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/2.jpg   
        
-photo   20  =  Twenty                                             
-       url  =  github://philiprbrenan/CountDollsInEnglish/20.jpg  
+photo   20  =  Twenty                                                                 
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/20.jpg  
        
-photo    3  =  Three                                              
-       url  =  github://philiprbrenan/CountDollsInEnglish/3.jpg   
+photo    3  =  Three                                                                  
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/3.jpg   
        
-photo    4  =  Four                                               
-       url  =  github://philiprbrenan/CountDollsInEnglish/4.jpg   
+photo    4  =  Four                                                                   
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/4.jpg   
        
-photo    5  =  Five                                               
-       url  =  github://philiprbrenan/CountDollsInEnglish/5.jpg   
+photo    5  =  Five                                                                   
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/5.jpg   
        
-photo    6  =  Six                                                
-       url  =  github://philiprbrenan/CountDollsInEnglish/6.jpg   
+photo    6  =  Six                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/6.jpg   
        
-photo    7  =  Seven                                              
-       url  =  github://philiprbrenan/CountDollsInEnglish/7.jpg   
+photo    7  =  Seven                                                                  
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/7.jpg   
        
-photo    8  =  Eight                                              
-       url  =  github://philiprbrenan/CountDollsInEnglish/8.jpg   
+photo    8  =  Eight                                                                  
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/8.jpg   
        
-photo    9  =  Nine                                               
-       url  =  github://philiprbrenan/CountDollsInEnglish/9.jpg   
+photo    9  =  Nine                                                                   
+       url  =  github://philiprbrenan/vocabulary-4/images/CountDollsInEnglish/9.jpg   
