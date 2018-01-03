@@ -1,0 +1,8 @@
+app g.GeographyManmadeFeaturesGerman   = Geography Man-Made Features in German
+  description  = Learn about Geography Man-Made Features in German in English
+  icon         = Fly-over.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+
