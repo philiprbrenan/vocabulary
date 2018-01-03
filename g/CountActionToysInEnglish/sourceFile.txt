@@ -6,32 +6,32 @@ app g.CountActionToysInEnglish   = Count Action Toys 1-10
   speakers     = Amy
 
        
-photo  Eight  =  Eight                                                      
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Eight.jpg  
+photo  Eight  =  Eight                                                                          
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Eight.jpg  
        
-photo  Five   =  Five                                                       
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Five.jpg   
+photo  Five   =  Five                                                                           
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Five.jpg   
        
-photo  Four   =  Four                                                       
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Four.jpg   
+photo  Four   =  Four                                                                           
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Four.jpg   
        
-photo  Nine   =  Nine                                                       
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Nine.jpg   
+photo  Nine   =  Nine                                                                           
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Nine.jpg   
        
-photo  One    =  One                                                        
-       url    =  github://philiprbrenan/CountActionToysInEnglish/One.jpg    
+photo  One    =  One                                                                            
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/One.jpg    
        
-photo  Seven  =  Seven                                                      
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Seven.jpg  
+photo  Seven  =  Seven                                                                          
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Seven.jpg  
        
-photo  Six    =  Six                                                        
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Six.jpg    
+photo  Six    =  Six                                                                            
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Six.jpg    
        
-photo  Ten    =  Ten                                                        
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Ten.jpg    
+photo  Ten    =  Ten                                                                            
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Ten.jpg    
        
-photo  Three  =  Three                                                      
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Three.jpg  
+photo  Three  =  Three                                                                          
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Three.jpg  
        
-photo  Two    =  Two                                                        
-       url    =  github://philiprbrenan/CountActionToysInEnglish/Two.jpg    
+photo  Two    =  Two                                                                            
+       url    =  github://philiprbrenan/vocabulary-3/images/CountActionToysInEnglish/Two.jpg    
