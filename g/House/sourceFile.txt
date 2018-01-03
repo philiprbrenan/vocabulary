@@ -1,0 +1,251 @@
+app g.House   = House
+  description  = Learn about House in English
+  icon         = icon0.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Air_Conditioner          =  AC                                                                          
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Air_Conditioner.jpg        
+fact   Air_Conditioner.0        =  To hot for me, we need AC                                                   
+       
+photo  Aquarium                 =  Aquarium                                                                    
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Aquarium.jpg               
+fact   Aquarium.0               =  Every home| planetarium|, should have its own| large aquarium               
+       
+photo  Basin                    =  Basin                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Basin.jpg                  
+fact   Basin.0                  =  I'd like to wash| my hot face in|, your nice cool white| bathroom basin     
+       
+photo  Bunk_bed                 =  Bunk Bed                                                                    
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Bunk_bed.jpg               
+fact   Bunk_bed.0               =  Be careful not|, to bump your head|, when you sit up|, in a bunk bed        
+       
+photo  Bus_Stop                 =  Bus Stop                                                                    
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Bus_Stop.jpg               
+fact   Bus_Stop.0               =  If you want to| go to the shop|, start your journey| at the bus stop        
+       
+photo  Car_garage               =  Garage                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Car_garage.jpg             
+fact   Car_garage.0             =  Put the carriage in the garage|, put the collage in the garage              
+       
+photo  Carpet                   =  Carpet                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Carpet.jpg                 
+fact   Carpet.0                 =  No need to fret about the carpet                                            
+       
+photo  Ceiling_fan              =  Fan                                                                         
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Ceiling_fan.jpg            
+fact   Ceiling_fan.0            =  I think I can, switch on the fan                                            
+       
+photo  Chinese_vase             =  Vase                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Chinese_vase.jpg           
+fact   Chinese_vase.0           =  That is my Ma's, that Chinese vase                                          
+       
+photo  Couch                    =  Sofa                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Couch.jpg                  
+fact   Couch.0                  =  I will get you a cold soda while you're sitting on the sofa                 
+       
+photo  CrochetHammock           =  Hammock                                                                     
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/CrochetHammock.jpg         
+fact   CrochetHammock.0         =  I like to rock, in a hammock                                                
+       
+photo  Dining_Room              =  Dining Room                                                                 
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Dining_Room.jpg            
+fact   Dining_Room.0            =  Let's see if the| flowers will bloom|, in your spacious| new dining room    
+       
+photo  Dining_table             =  Dining Table                                                                
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Dining_table.jpg           
+fact   Dining_table.0           =  Eat and drink all| that you are able| at our nice small| dining table       
+       
+photo  Door_bell                =  Door bell                                                                   
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Door_bell.jpg              
+fact   Door_bell.0              =  Can you foretell|, who'll ring your bell?                                   
+       
+photo  Flower_Bed               =  Flower Bed                                                                  
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Flower_Bed.jpg             
+fact   Flower_Bed.0             =  I want to see tulips so red, in that herbacious flower bed                  
+       
+photo  Garden_bench_001         =  Bench                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Garden_bench_001.jpg       
+fact   Garden_bench_001.0       =  I used a wrench|, to make that bench                                        
+       
+photo  Gate_lock                =  Lock                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Gate_lock.jpg              
+fact   Gate_lock.0              =  I hid the key behind the clock, now you can try it in the lock              
+       
+photo  House_Lobby              =  Lobby                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/House_Lobby.jpg            
+fact   House_Lobby.0            =  I will practice my new hobby, while I'm waiting in the lobby                
+       
+photo  Living_Room              =  Living Room                                                                 
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Living_Room.jpg            
+fact   Living_Room.0            =  I like to watch|the storm clouds loom|, while sitting in| our living room   
+       
+photo  Modern_kitchen           =  Kitchen                                                                     
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Modern_kitchen.jpg         
+fact   Modern_kitchen.0         =  This is my den, my new kitchen!                                             
+       
+photo  Roof                     =  Roof                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Roof.jpg                   
+fact   Roof.0                   =  If you want proof, look at the roof                                         
+       
+photo  Saucer_magnolia          =  Tree                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Saucer_magnolia.jpg        
+fact   Saucer_magnolia.0        =  Planted by me, this flowering tree.                                         
+       
+photo  Showerhead               =  Shower                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Showerhead.jpg             
+fact   Showerhead.0             =  I can enjoy| every hour| lots of water| in my shower                        
+       
+photo  Sink                     =  Sink                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Sink.jpg                   
+fact   Sink.0                   =  That dirty dish I like to think, will surely wish, to meet the sink         
+       
+photo  Stairway                 =  Stairs                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Stairway.jpg               
+fact   Stairway.0               =  I run upstairs, but slide downstairs                                        
+       
+photo  Table                    =  Table                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Table.jpg                  
+fact   Table.0                  =  Enrico Fermi was able|, to work on a wooden table                           
+       
+photo  Vacuum_Cleaner           =  Hoover                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Vacuum_Cleaner.jpg         
+fact   Vacuum_Cleaner.0         =  I always like to manoeuvre, with a really fast clean hoover                 
+       
+photo  Watering-can-green       =  Watering Can                                                                
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Watering-can-green.jpg     
+fact   Watering-can-green.0     =  In the summer during the ban, water with a watering can                     
+       
+photo  Welcome_mat              =  Door mat                                                                    
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Welcome_mat.jpg            
+fact   Welcome_mat.0            =  Do you like that, big front door mat                                        
+       
+photo  Writing_desk             =  Desk                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/Writing_desk.jpg           
+fact   Writing_desk.0           =  How picturesque, an antique desk                                            
+       
+photo  balcony                  =  Balcony                                                                     
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/balcony.jpg                
+fact   balcony.0                =  The horizon|, I hope to see|, when I stand on|, your balcony                
+       
+photo  bath_tub                 =  Bathtub                                                                     
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/bath_tub.jpg               
+fact   bath_tub.0               =  Would you like to|, wash rinse or scrub|, with hot water|, in the bathtub   
+       
+photo  bathroom                 =  Bathroom                                                                    
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/bathroom.jpg               
+fact   bathroom.0               =  I'm pretty sure|, we can assume|, that is the floor| of the bathroom        
+       
+photo  bed                      =  Bed                                                                         
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/bed.jpg                    
+fact   bed.0                    =  The time has come the daddy said|, for the babies to go to bed              
+       
+photo  bedroom                  =  Bedroom                                                                     
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/bedroom.jpg                
+fact   bedroom.0                =  She said she was| going to zoom|, to take a look| at the bedroom            
+       
+photo  car                      =  Car                                                                         
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/car.jpg                    
+fact   car.0                    =  Did you drive far, in your fast car?                                        
+       
+photo  ceiling                  =  Ceiling                                                                     
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/ceiling.jpg                
+fact   ceiling.0                =  The upstairs floor| I've a feeling|, is part of the| downstairs ceiling     
+       
+photo  chair_1                  =  Chair                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/chair_1.jpg                
+fact   chair_1.0                =  Sit over there, on that wood chair                                          
+       
+photo  clock                    =  Clock                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/clock.jpg                  
+fact   clock.0                  =  I am in shock, an antique clock                                             
+       
+photo  curtain                  =  Curtain                                                                     
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/curtain.jpg                
+fact   curtain.0                =  If you think that sun is certain, I will open the red curtain               
+       
+photo  doghouse                 =  Dog house                                                                   
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/doghouse.jpg               
+fact   doghouse.0               =  It is a dog| not a fat mouse|, that is looking| out of that house           
+       
+photo  driveway                 =  Drive                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/driveway.jpg               
+fact   driveway.0               =  There is a house|, just one, not five| at the far end| of that long drive   
+       
+photo  floor                    =  Floor                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/floor.jpg                  
+fact   floor.0                  =  Let's walk some more|, on your wood floor                                   
+       
+photo  gardens                  =  Garden                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/gardens.jpg                
+fact   gardens.0                =  This hot sun will surely harden|, all the wet soil in my garden             
+       
+photo  gas_stove                =  Stove                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/gas_stove.jpg              
+fact   gas_stove.0              =  Add just one clove|, cook on the stove                                      
+       
+photo  hedge                    =  Hedge                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/hedge.jpg                  
+fact   hedge.0                  =  Several trees| at the edge|, lots of leaves|, a fine hedge                  
+       
+photo  house_door               =  Door                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/house_door.jpg             
+fact   house_door.0             =  I just adore|, your new front door                                          
+       
+photo  letter_box               =  Letter Box                                                                  
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/letter_box.jpg             
+fact   letter_box.0             =  I hope to see, my orange socks, delivered in, that letter box               
+       
+photo  microwave_oven           =  Oven                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/microwave_oven.jpg         
+fact   microwave_oven.0         =  You could cook more than a dozen, in a micro waved oven                     
+       
+photo  mirror                   =  Mirror                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/mirror.jpg                 
+fact   mirror.0                 =  Cats like to purr, near a mirror                                            
+       
+photo  modern_wall_shelf        =  Shelf                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/modern_wall_shelf.jpg      
+fact   modern_wall_shelf.0      =  I often say| just to myself|, elephants go|, upon the shelf                 
+       
+photo  pillow                   =  Pillow                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/pillow.jpg                 
+fact   pillow.0                 =  My favorite| peccadillo|, is a nice soft| fluffy pillow                     
+       
+photo  refrigerator_interior    =  Fridge                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/refrigerator_interior.jpg  
+fact   refrigerator_interior.0  =  Beyond that bridge, you'll see a fridge                                     
+       
+photo  stool_seat               =  Stool                                                                       
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/stool_seat.jpg             
+fact   stool_seat.0             =  Break every rule, stand on a stool                                          
+       
+photo  street                   =  Street                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/street.jpg                 
+fact   street.0                 =  Using your feet|, walk down the street                                      
+       
+photo  table_lamp               =  Table Lamp                                                                  
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/table_lamp.jpg             
+fact   table_lamp.0             =  To see the damp, you'll need a lamp                                         
+       
+photo  telephone                =  Telephone                                                                   
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/telephone.jpg              
+fact   telephone.0              =  I do like your mellifluous tone, when you talk on the telephone             
+       
+photo  television               =  TV                                                                          
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/television.jpg             
+fact   television.0             =  Can you see me, on your TV                                                  
+       
+photo  toilet                   =  Toilet                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/toilet.jpg                 
+fact   toilet.0                 =  Surely we would hate to spoil it, such a lovely nice clean toilet           
+       
+photo  wall                     =  Wall                                                                        
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/wall.jpg                   
+fact   wall.0                   =  Is there a mall, beyond that wall                                           
+       
+photo  window                   =  Window                                                                      
+       url                      =  github://philiprbrenan/vocabulary-7/images/House/window.jpg                 
+fact   window.0                 =  Let the air flow, through the window                                        
