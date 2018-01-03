@@ -6,474 +6,474 @@ app g.Chocolate   = Chocolate
   speakers     = Amy
 
        
-photo  Black Forest Gateau         =  Black Forest Gateau                                                                                   
-       url                         =  github://philiprbrenan/Chocolate/Black Forest Gateau.jpg                                              
-fact   Black Forest Gateau.0       =  Traditional German cake with cherry fruit brandy                                                     
-       remark                      =  yes                                                                                                   
-fact   Black Forest Gateau.1       =  Layers of chocolate cake with whipped cream and cherries between each layer                          
-       remark                      =  yes                                                                                                   
-fact   Black Forest Gateau.2       =  Decorated with whipped cream, Maraschino cherries, and chocolate shavings                            
-       remark                      =  yes                                                                                                   
+photo  Black.Forest.Gateau         =  Black Forest Gateau                                                                                  
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/BlackForestGateau.jpg                           
+fact   Black.Forest.Gateau.0       =  Traditional German cake with cherry fruit brandy                                                     
+       remark                      =  yes                                                                                                  
+fact   Black.Forest.Gateau.1       =  Layers of chocolate cake with whipped cream and cherries between each layer                          
+       remark                      =  yes                                                                                                  
+fact   Black.Forest.Gateau.2       =  Decorated with whipped cream, Maraschino cherries, and chocolate shavings                            
+       remark                      =  yes                                                                                                  
        
-photo  Boston Cream Pie            =  Boston Cream Pie                                                                                      
-       url                         =  github://philiprbrenan/Chocolate/Boston Cream Pie.jpg                                                 
-fact   Boston Cream Pie.0          =  Two layers of sponge cake filled with custard or cream filling and topped with chocolate             
-       remark                      =  yes                                                                                                   
-fact   Boston Cream Pie.1          =  It is a cake and not a pie                                                                           
-       remark                      =  yes                                                                                                   
-fact   Boston Cream Pie.2          =  Official dessert of Massachusetts, U.S.A                                                             
-       remark                      =  yes                                                                                                   
+photo  Boston.Cream.Pie            =  Boston Cream Pie                                                                                     
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/BostonCreamPie.jpg                              
+fact   Boston.Cream.Pie.0          =  Two layers of sponge cake filled with custard or cream filling and topped with chocolate             
+       remark                      =  yes                                                                                                  
+fact   Boston.Cream.Pie.1          =  It is a cake and not a pie                                                                           
+       remark                      =  yes                                                                                                  
+fact   Boston.Cream.Pie.2          =  Official dessert of Massachusetts, U.S.A                                                             
+       remark                      =  yes                                                                                                  
        
-photo  Bourbon Biscuit             =  Bourbon Biscuit                                                                                       
-       url                         =  github://philiprbrenan/Chocolate/Bourbon Biscuit.jpg                                                  
-fact   Bourbon Biscuit.0           =  Popular sandwich biscuit                                                                             
-       remark                      =  yes                                                                                                   
-fact   Bourbon Biscuit.1           =  Two oblong chocolate biscuits cover a chocolate fondant filling                                      
-       remark                      =  yes                                                                                                   
-fact   Bourbon Biscuit.2           =  Introduced in 1910 in London, UK                                                                     
-       remark                      =  yes                                                                                                   
+photo  Bourbon.Biscuit             =  Bourbon Biscuit                                                                                      
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/BourbonBiscuit.jpg                              
+fact   Bourbon.Biscuit.0           =  Popular sandwich biscuit                                                                             
+       remark                      =  yes                                                                                                  
+fact   Bourbon.Biscuit.1           =  Two oblong chocolate biscuits cover a chocolate fondant filling                                      
+       remark                      =  yes                                                                                                  
+fact   Bourbon.Biscuit.2           =  Introduced in 1910 in London, UK                                                                     
+       remark                      =  yes                                                                                                  
        
-photo  Box of Chocolates           =  Box of Chocolates                                                                                     
-       url                         =  github://philiprbrenan/Chocolate/Box of Chocolates.jpg                                                
-fact   Box of Chocolates.0         =  Traditional gift to loved ones and friends                                                           
-       remark                      =  yes                                                                                                   
-fact   Box of Chocolates.1         =  Usually contains a selection of plain, milk and white chocolate                                      
-       remark                      =  yes                                                                                                   
-fact   Box of Chocolates.2         =  Heart-shaped boxes are popular on St.Valentine's Day                                                 
-       remark                      =  yes                                                                                                   
+photo  Box.of.Chocolates           =  Box of Chocolates                                                                                    
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/BoxofChocolates.jpg                             
+fact   Box.of.Chocolates.0         =  Traditional gift to loved ones and friends                                                           
+       remark                      =  yes                                                                                                  
+fact   Box.of.Chocolates.1         =  Usually contains a selection of plain, milk and white chocolate                                      
+       remark                      =  yes                                                                                                  
+fact   Box.of.Chocolates.2         =  Heart-shaped boxes are popular on St.Valentine's Day                                                 
+       remark                      =  yes                                                                                                  
        
-photo  Cadbury Caramel Egg         =  Cadbury Caramel Egg                                                                                   
-       url                         =  github://philiprbrenan/Chocolate/Cadbury Caramel Egg.jpg                                              
-fact   Cadbury Caramel Egg.0       =  Popular chocolate egg made by Cadbury UK                                                             
-       remark                      =  yes                                                                                                   
-fact   Cadbury Caramel Egg.1       =  Thick milk chocolate surrounds a caramel filling                                                     
-       remark                      =  yes                                                                                                   
-fact   Cadbury Caramel Egg.2       =  Launched in 1994                                                                                     
-       remark                      =  yes                                                                                                   
+photo  Cadbury.Caramel.Egg         =  Cadbury Caramel Egg                                                                                  
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/CadburyCaramelEgg.jpg                           
+fact   Cadbury.Caramel.Egg.0       =  Popular chocolate egg made by Cadbury UK                                                             
+       remark                      =  yes                                                                                                  
+fact   Cadbury.Caramel.Egg.1       =  Thick milk chocolate surrounds a caramel filling                                                     
+       remark                      =  yes                                                                                                  
+fact   Cadbury.Caramel.Egg.2       =  Launched in 1994                                                                                     
+       remark                      =  yes                                                                                                  
        
-photo  Cadbury Creme Egg           =  Cadbury Creme Egg                                                                                     
-       url                         =  github://philiprbrenan/Chocolate/Cadbury Creme Egg.jpg                                                
-fact   Cadbury Creme Egg.0         =  Popular chocolate egg made by Cadbury UK                                                             
-       remark                      =  yes                                                                                                   
-fact   Cadbury Creme Egg.1         =  Thick milk chocolate surrounds a white and yellow fondant filling                                    
-       remark                      =  yes                                                                                                   
-fact   Cadbury Creme Egg.2         =  Best-selling confectionery item between New Year's Day and Easter in the UK                          
-       remark                      =  yes                                                                                                   
-fact   Cadbury Creme Egg.3         =  Manufactured at a rate of 1.5 million per day                                                        
-       remark                      =  yes                                                                                                   
+photo  Cadbury.Creme.Egg           =  Cadbury Creme Egg                                                                                    
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/CadburyCremeEgg.jpg                             
+fact   Cadbury.Creme.Egg.0         =  Popular chocolate egg made by Cadbury UK                                                             
+       remark                      =  yes                                                                                                  
+fact   Cadbury.Creme.Egg.1         =  Thick milk chocolate surrounds a white and yellow fondant filling                                    
+       remark                      =  yes                                                                                                  
+fact   Cadbury.Creme.Egg.2         =  Best-selling confectionery item between New Year's Day and Easter in the UK                          
+       remark                      =  yes                                                                                                  
+fact   Cadbury.Creme.Egg.3         =  Manufactured at a rate of 1.5 million per day                                                        
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Brownie           =  Chocolate Brownie                                                                                     
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Brownie.jpg                                                
-fact   Chocolate Brownie.0         =  Flat, baked square or bar developed in the U.S.A                                                     
-       remark                      =  yes                                                                                                   
-fact   Chocolate Brownie.1         =  A cross between a cake and a cookie in texture                                                       
-       remark                      =  yes                                                                                                   
-fact   Chocolate Brownie.2         =  May include nuts and chocolate chips                                                                 
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Brownie           =  Chocolate Brownie                                                                                    
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateBrownie.jpg                            
+fact   Chocolate.Brownie.0         =  Flat, baked square or bar developed in the U.S.A                                                     
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Brownie.1         =  A cross between a cake and a cookie in texture                                                       
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Brownie.2         =  May include nuts and chocolate chips                                                                 
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Bundt Cake        =  Chocolate Bundt Cake                                                                                  
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Bundt Cake.jpg                                             
-fact   Chocolate Bundt Cake.0      =  A cake that has been baked in a "bundt" pan                                                          
-       remark                      =  yes                                                                                                   
-fact   Chocolate Bundt Cake.1      =  Distinctive ring-shape with ridges                                                                   
-       remark                      =  yes                                                                                                   
-fact   Chocolate Bundt Cake.2      =  Can be any flavour including chocolate                                                               
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Bundt.Cake        =  Chocolate Bundt Cake                                                                                 
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateBundtCake.jpg                          
+fact   Chocolate.Bundt.Cake.0      =  A cake that has been baked in a "bundt" pan                                                          
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Bundt.Cake.1      =  Distinctive ring-shape with ridges                                                                   
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Bundt.Cake.2      =  Can be any flavour including chocolate                                                               
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Chip Cookie       =  Chocolate Chip Cookie                                                                                 
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Chip Cookie.jpg                                            
-fact   Chocolate Chip Cookie.0     =  Example of "Drop cookies" made from a soft dough that is dropped by spoonfuls onto the baking sheet  
-       remark                      =  yes                                                                                                   
-fact   Chocolate Chip Cookie.1     =  Includes large chocolate chips                                                                       
-       remark                      =  yes                                                                                                   
-fact   Chocolate Chip Cookie.2     =  Recipe originated in the U.S.A in 1930                                                               
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Chip.Cookie       =  Chocolate Chip Cookie                                                                                
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateChipCookie.jpg                         
+fact   Chocolate.Chip.Cookie.0     =  Example of "Drop cookies" made from a soft dough that is dropped by spoonfuls onto the baking sheet  
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Chip.Cookie.1     =  Includes large chocolate chips                                                                       
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Chip.Cookie.2     =  Recipe originated in the U.S.A in 1930                                                               
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Cupcakes          =  Chocolate Cupcakes                                                                                    
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Cupcakes.jpg                                               
-fact   Chocolate Cupcakes.0        =  Also called "Fairy Cakes"                                                                            
-       remark                      =  yes                                                                                                   
-fact   Chocolate Cupcakes.1        =  Small cake often baked in a thin paper cup                                                           
-       remark                      =  yes                                                                                                   
-fact   Chocolate Cupcakes.2        =  Icing and cake decorations are common                                                                
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Cupcakes          =  Chocolate Cupcakes                                                                                   
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateCupcakes.jpg                           
+fact   Chocolate.Cupcakes.0        =  Also called "Fairy Cakes"                                                                            
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Cupcakes.1        =  Small cake often baked in a thin paper cup                                                           
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Cupcakes.2        =  Icing and cake decorations are common                                                                
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Eclair            =  Chocolate Eclair                                                                                      
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Eclair.jpg                                                 
-fact   Chocolate Eclair.0          =  Oblong pastry made with choux dough                                                                  
-       remark                      =  yes                                                                                                   
-fact   Chocolate Eclair.1          =  Filled with cream and topped with chocolate icing                                                    
-       remark                      =  yes                                                                                                   
-fact   Chocolate Eclair.2          =  Originated in France and today popular all over the world                                            
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Eclair            =  Chocolate Eclair                                                                                     
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateEclair.jpg                             
+fact   Chocolate.Eclair.0          =  Oblong pastry made with choux dough                                                                  
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Eclair.1          =  Filled with cream and topped with chocolate icing                                                    
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Eclair.2          =  Originated in France and today popular all over the world                                            
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Fondue            =  Chocolate Fondue                                                                                      
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Fondue.jpg                                                 
-fact   Chocolate Fondue.0          =  Slices of fruit or pastry are dipped in a pot of melted chocolate                                    
-       remark                      =  yes                                                                                                   
-fact   Chocolate Fondue.1          =  The chocolate is melted over a lamp on the dinner table                                              
-       remark                      =  yes                                                                                                   
-fact   Chocolate Fondue.2          =  Long-stemmed forks are used for the fondue                                                           
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Fondue            =  Chocolate Fondue                                                                                     
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateFondue.jpg                             
+fact   Chocolate.Fondue.0          =  Slices of fruit or pastry are dipped in a pot of melted chocolate                                    
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Fondue.1          =  The chocolate is melted over a lamp on the dinner table                                              
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Fondue.2          =  Long-stemmed forks are used for the fondue                                                           
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Fudge             =  Chocolate Fudge                                                                                       
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Fudge.jpg                                                  
-fact   Chocolate Fudge.0           =  Sweet and rich confectionery                                                                         
-       remark                      =  yes                                                                                                   
-fact   Chocolate Fudge.1           =  Made with sugar, butter, chocolate and milk                                                          
-       remark                      =  yes                                                                                                   
-fact   Chocolate Fudge.2           =  Nuts and dried fruit are often added                                                                 
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Fudge             =  Chocolate Fudge                                                                                      
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateFudge.jpg                              
+fact   Chocolate.Fudge.0           =  Sweet and rich confectionery                                                                         
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Fudge.1           =  Made with sugar, butter, chocolate and milk                                                          
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Fudge.2           =  Nuts and dried fruit are often added                                                                 
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Fudge Cake        =  Chocolate Fudge Cake                                                                                  
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Fudge Cake.jpg                                             
-fact   Chocolate Fudge Cake.0      =  Rich chocolate cake containing fudge                                                                 
-       remark                      =  yes                                                                                                   
-fact   Chocolate Fudge Cake.1      =  Served alone or with chocolate sauce, whipped cream, or custard                                      
-       remark                      =  yes                                                                                                   
-fact   Chocolate Fudge Cake.2      =  Popular dessert                                                                                      
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Fudge.Cake        =  Chocolate Fudge Cake                                                                                 
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateFudgeCake.jpg                          
+fact   Chocolate.Fudge.Cake.0      =  Rich chocolate cake containing fudge                                                                 
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Fudge.Cake.1      =  Served alone or with chocolate sauce, whipped cream, or custard                                      
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Fudge.Cake.2      =  Popular dessert                                                                                      
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Gold Coins        =  Chocolate Gold Coins                                                                                  
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Gold Coins.jpg                                             
-fact   Chocolate Gold Coins.0      =  Popular Christmas present                                                                            
-       remark                      =  yes                                                                                                   
-fact   Chocolate Gold Coins.1      =  Milk chocolate coins wrapped in gold foil                                                            
-       remark                      =  yes                                                                                                   
-fact   Chocolate Gold Coins.2      =  Often sold in mesh pouches resembling money bags                                                     
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Gold.Coins        =  Chocolate Gold Coins                                                                                 
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateGoldCoins.jpg                          
+fact   Chocolate.Gold.Coins.0      =  Popular Christmas present                                                                            
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Gold.Coins.1      =  Milk chocolate coins wrapped in gold foil                                                            
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Gold.Coins.2      =  Often sold in mesh pouches resembling money bags                                                     
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Guinness Cake     =  Chocolate Guinness Cake                                                                               
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Guinness Cake.jpg                                          
-fact   Chocolate Guinness Cake.0   =  Rich chocolate cake made with Guinness or other dark beer                                            
-       remark                      =  yes                                                                                                   
-fact   Chocolate Guinness Cake.1   =  Layers of chocolate cake separated by layers of chocolate icing                                      
-       remark                      =  yes                                                                                                   
-fact   Chocolate Guinness Cake.2   =  Decorated with chocolate icing and dark chocolate shavings                                           
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Guinness.Cake     =  Chocolate Guinness Cake                                                                              
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateGuinnessCake.jpg                       
+fact   Chocolate.Guinness.Cake.0   =  Rich chocolate cake made with Guinness or other dark beer                                            
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Guinness.Cake.1   =  Layers of chocolate cake separated by layers of chocolate icing                                      
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Guinness.Cake.2   =  Decorated with chocolate icing and dark chocolate shavings                                           
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Ice-Cream         =  Chocolate Ice-Cream                                                                                   
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Ice-Cream.jpg                                              
-fact   Chocolate Ice-Cream.0       =  Second most popular flavour of ice-cream after vanilla                                               
-       remark                      =  yes                                                                                                   
-fact   Chocolate Ice-Cream.1       =  Made by blending cocoa powder with eggs, cream, vanilla and sugar                                    
-       remark                      =  yes                                                                                                   
-fact   Chocolate Ice-Cream.2       =  Some chocolate ice cream has chocolate chips added                                                   
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Ice-Cream         =  Chocolate Ice-Cream                                                                                  
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateIce-Cream.jpg                          
+fact   Chocolate.Ice-Cream.0       =  Second most popular flavour of ice-cream after vanilla                                               
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Ice-Cream.1       =  Made by blending cocoa powder with eggs, cream, vanilla and sugar                                    
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Ice-Cream.2       =  Some chocolate ice cream has chocolate chips added                                                   
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Milk              =  Chocolate Milk                                                                                        
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Milk.jpg                                                   
-fact   Chocolate Milk.0            =  Sweetened, cocoa-flavoured milk drink                                                                
-       remark                      =  yes                                                                                                   
-fact   Chocolate Milk.1            =  Usually served refrigerated                                                                          
-       remark                      =  yes                                                                                                   
-fact   Chocolate Milk.2            =  Created by mixing chocolate syrup (or chocolate powder) with milk                                    
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Milk              =  Chocolate Milk                                                                                       
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateMilk.jpg                               
+fact   Chocolate.Milk.0            =  Sweetened, cocoa-flavoured milk drink                                                                
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Milk.1            =  Usually served refrigerated                                                                          
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Milk.2            =  Created by mixing chocolate syrup (or chocolate powder) with milk                                    
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Milkshake         =  Chocolate Milkshake                                                                                   
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Milkshake.jpg                                              
-fact   Chocolate Milkshake.0       =  Sweet, cold beverage made from milk, ice cream or iced milk                                          
-       remark                      =  yes                                                                                                   
-fact   Chocolate Milkshake.1       =  Flavoured with chocolate syrup or powder                                                             
-       remark                      =  yes                                                                                                   
-fact   Chocolate Milkshake.2       =  Often served with a dollop of cream on top                                                           
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Milkshake         =  Chocolate Milkshake                                                                                  
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateMilkshake.jpg                          
+fact   Chocolate.Milkshake.0       =  Sweet, cold beverage made from milk, ice cream or iced milk                                          
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Milkshake.1       =  Flavoured with chocolate syrup or powder                                                             
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Milkshake.2       =  Often served with a dollop of cream on top                                                           
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Mousse            =  Chocolate Mousse                                                                                      
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Mousse.jpg                                                 
-fact   Chocolate Mousse.0          =  Sweet dessert made with whipped egg whites or whipped cream, and chocolate                           
-       remark                      =  yes                                                                                                   
-fact   Chocolate Mousse.1          =  Incorporates air bubbles to give it a light and airy texture                                         
-       remark                      =  yes                                                                                                   
-fact   Chocolate Mousse.2          =  Ranges from light and fluffy to creamy and thick                                                     
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Mousse            =  Chocolate Mousse                                                                                     
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateMousse.jpg                             
+fact   Chocolate.Mousse.0          =  Sweet dessert made with whipped egg whites or whipped cream, and chocolate                           
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Mousse.1          =  Incorporates air bubbles to give it a light and airy texture                                         
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Mousse.2          =  Ranges from light and fluffy to creamy and thick                                                     
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Mousse Cake       =  Chocolate Mousse Cake                                                                                 
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Mousse Cake.jpg                                            
-fact   Chocolate Mousse Cake.0     =  Delicious dessert made with chocolate mousse                                                         
-       remark                      =  yes                                                                                                   
-fact   Chocolate Mousse Cake.1     =  Layers of white and milk chocolate mousse above a hazelnut and chocolate cake base                   
-       remark                      =  yes                                                                                                   
-fact   Chocolate Mousse Cake.2     =  The cake is covered with dark chocolate                                                              
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Mousse.Cake       =  Chocolate Mousse Cake                                                                                
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateMousseCake.jpg                         
+fact   Chocolate.Mousse.Cake.0     =  Delicious dessert made with chocolate mousse                                                         
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Mousse.Cake.1     =  Layers of white and milk chocolate mousse above a hazelnut and chocolate cake base                   
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Mousse.Cake.2     =  The cake is covered with dark chocolate                                                              
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Muffins           =  Chocolate Muffins                                                                                     
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Muffins.jpg                                                
-fact   Chocolate Muffins.0         =  Small cakes baked in round paper cups                                                                
-       remark                      =  yes                                                                                                   
-fact   Chocolate Muffins.1         =  Made from quick bread which uses baking soda rather than yeast for leavening                         
-       remark                      =  yes                                                                                                   
-fact   Chocolate Muffins.2         =  Flavoured with cocoa powder and often contain chocolate chips                                        
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Muffins           =  Chocolate Muffins                                                                                    
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateMuffins.jpg                            
+fact   Chocolate.Muffins.0         =  Small cakes baked in round paper cups                                                                
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Muffins.1         =  Made from quick bread which uses baking soda rather than yeast for leavening                         
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Muffins.2         =  Flavoured with cocoa powder and often contain chocolate chips                                        
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Orange            =  Chocolate Orange                                                                                      
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Orange.jpg                                                 
-fact   Chocolate Orange.0          =  Popular confectionery product manufactured by Kraft Foods                                            
-       remark                      =  yes                                                                                                   
-fact   Chocolate Orange.1          =  Orange-shaped ball of chocolate mixed with orange oil                                                
-       remark                      =  yes                                                                                                   
-fact   Chocolate Orange.2          =  Divided into 20 segments similar to a real orange, and wrapped in orange foil                        
-       remark                      =  yes                                                                                                   
-fact   Chocolate Orange.3          =  First sold in the UK in 1931                                                                         
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Orange            =  Chocolate Orange                                                                                     
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateOrange.jpg                             
+fact   Chocolate.Orange.0          =  Popular confectionery product manufactured by Kraft Foods                                            
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Orange.1          =  Orange-shaped ball of chocolate mixed with orange oil                                                
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Orange.2          =  Divided into 20 segments similar to a real orange, and wrapped in orange foil                        
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Orange.3          =  First sold in the UK in 1931                                                                         
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Santa Claus       =  Chocolate Santa Claus                                                                                 
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Santa Claus.jpg                                            
-fact   Chocolate Santa Claus.0     =  Popular Christmas present                                                                            
-       remark                      =  yes                                                                                                   
-fact   Chocolate Santa Claus.1     =  Milk chocolate figure wrapped in coloured foil                                                       
-       remark                      =  yes                                                                                                   
-fact   Chocolate Santa Claus.2     =  Usually made of milk chocolate and hollow inside                                                     
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Santa.Claus       =  Chocolate Santa Claus                                                                                
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateSantaClaus.jpg                         
+fact   Chocolate.Santa.Claus.0     =  Popular Christmas present                                                                            
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Santa.Claus.1     =  Milk chocolate figure wrapped in coloured foil                                                       
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Santa.Claus.2     =  Usually made of milk chocolate and hollow inside                                                     
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Spread            =  Chocolate Spread                                                                                      
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Spread.jpg                                                 
-fact   Chocolate Spread.0          =  Chocolate-flavoured paste which is eaten spread on breads and toasts                                 
-       remark                      =  yes                                                                                                   
-fact   Chocolate Spread.1          =  Paste contains cocoa, oil and milk and sometimes nuts or honey                                       
-       remark                      =  yes                                                                                                   
-fact   Chocolate Spread.2          =  Nutella was launched in 1963 and is now sold in over 75 countries                                    
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Spread            =  Chocolate Spread                                                                                     
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateSpread.jpg                             
+fact   Chocolate.Spread.0          =  Chocolate-flavoured paste which is eaten spread on breads and toasts                                 
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Spread.1          =  Paste contains cocoa, oil and milk and sometimes nuts or honey                                       
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Spread.2          =  Nutella was launched in 1963 and is now sold in over 75 countries                                    
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Sundae            =  Chocolate Sundae                                                                                      
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Sundae.jpg                                                 
-fact   Chocolate Sundae.0          =  Luscious ice-cream dessert                                                                           
-       remark                      =  yes                                                                                                   
-fact   Chocolate Sundae.1          =  Scoops of chocolate ice-cream topped with cream and chocolate sauce or syrup                         
-       remark                      =  yes                                                                                                   
-fact   Chocolate Sundae.2          =  Wafers, chopped nuts and maraschino cherries may be added                                            
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Sundae            =  Chocolate Sundae                                                                                     
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateSundae.jpg                             
+fact   Chocolate.Sundae.0          =  Luscious ice-cream dessert                                                                           
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Sundae.1          =  Scoops of chocolate ice-cream topped with cream and chocolate sauce or syrup                         
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Sundae.2          =  Wafers, chopped nuts and maraschino cherries may be added                                            
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Syrup             =  Chocolate Syrup                                                                                       
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Syrup.jpg                                                  
-fact   Chocolate Syrup.0           =  Chocolate flavoured condiment                                                                        
-       remark                      =  yes                                                                                                   
-fact   Chocolate Syrup.1           =  Often used as a topping for various desserts, such as ice cream and puddings                         
-       remark                      =  yes                                                                                                   
-fact   Chocolate Syrup.2           =  Often used in black-and-white movies to simulate blood!                                              
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Syrup             =  Chocolate Syrup                                                                                      
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateSyrup.jpg                              
+fact   Chocolate.Syrup.0           =  Chocolate flavoured condiment                                                                        
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Syrup.1           =  Often used as a topping for various desserts, such as ice cream and puddings                         
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Syrup.2           =  Often used in black-and-white movies to simulate blood!                                              
+       remark                      =  yes                                                                                                  
        
-photo  Chocolate Truffles          =  Chocolate Truffles                                                                                    
-       url                         =  github://philiprbrenan/Chocolate/Chocolate Truffles.jpg                                               
-fact   Chocolate Truffles.0        =  Chocolate confectionery made with a soft cream and chocolate centre                                  
-       remark                      =  yes                                                                                                   
-fact   Chocolate Truffles.1        =  Usually in a spherical, conical, or curved shape                                                     
-       remark                      =  yes                                                                                                   
-fact   Chocolate Truffles.2        =  Other fillings may include liqueurs, caramel, nuts and nougat                                        
-       remark                      =  yes                                                                                                   
-fact   Chocolate Truffles.3        =  First created in France in 1895                                                                      
-       remark                      =  yes                                                                                                   
+photo  Chocolate.Truffles          =  Chocolate Truffles                                                                                   
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/ChocolateTruffles.jpg                           
+fact   Chocolate.Truffles.0        =  Chocolate confectionery made with a soft cream and chocolate centre                                  
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Truffles.1        =  Usually in a spherical, conical, or curved shape                                                     
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Truffles.2        =  Other fillings may include liqueurs, caramel, nuts and nougat                                        
+       remark                      =  yes                                                                                                  
+fact   Chocolate.Truffles.3        =  First created in France in 1895                                                                      
+       remark                      =  yes                                                                                                  
        
-photo  Dark Chocolate              =  Dark Chocolate                                                                                        
-       url                         =  github://philiprbrenan/Chocolate/Dark Chocolate.jpg                                                   
-fact   Dark Chocolate.0            =  Also called "Plain Chocolate" and "Black Chocolate"                                                  
-       remark                      =  yes                                                                                                   
-fact   Dark Chocolate.1            =  Solid chocolate made by adding fat and sugar to cocoa                                                
-       remark                      =  yes                                                                                                   
-fact   Dark Chocolate.2            =  Contains either no milk or much less than in milk chocolate                                          
-       remark                      =  yes                                                                                                   
-fact   Dark Chocolate.3            =  EU regulations specify a minimum of 35% cocoa solids                                                 
-       remark                      =  yes                                                                                                   
+photo  Dark.Chocolate              =  Dark Chocolate                                                                                       
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/DarkChocolate.jpg                               
+fact   Dark.Chocolate.0            =  Also called "Plain Chocolate" and "Black Chocolate"                                                  
+       remark                      =  yes                                                                                                  
+fact   Dark.Chocolate.1            =  Solid chocolate made by adding fat and sugar to cocoa                                                
+       remark                      =  yes                                                                                                  
+fact   Dark.Chocolate.2            =  Contains either no milk or much less than in milk chocolate                                          
+       remark                      =  yes                                                                                                  
+fact   Dark.Chocolate.3            =  EU regulations specify a minimum of 35% cocoa solids                                                 
+       remark                      =  yes                                                                                                  
        
-photo  Easter Eggs                 =  Easter Eggs                                                                                           
-       url                         =  github://philiprbrenan/Chocolate/Easter Eggs.jpg                                                      
-fact   Easter Eggs.0               =  Special chocolate eggs that are given to celebrate Easter                                            
-       remark                      =  yes                                                                                                   
-fact   Easter Eggs.1               =  Often hidden for children to find on Easter morning                                                  
-       remark                      =  yes                                                                                                   
-fact   Easter Eggs.2               =  Usually covered in brightly coloured silver foil                                                     
-       remark                      =  yes                                                                                                   
+photo  Easter.Eggs                 =  Easter Eggs                                                                                          
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/EasterEggs.jpg                                  
+fact   Easter.Eggs.0               =  Special chocolate eggs that are given to celebrate Easter                                            
+       remark                      =  yes                                                                                                  
+fact   Easter.Eggs.1               =  Often hidden for children to find on Easter morning                                                  
+       remark                      =  yes                                                                                                  
+fact   Easter.Eggs.2               =  Usually covered in brightly coloured silver foil                                                     
+       remark                      =  yes                                                                                                  
        
-photo  Flourless Chocolate Cake    =  Flourless Chocolate Cake                                                                              
-       url                         =  github://philiprbrenan/Chocolate/Flourless Chocolate Cake.jpg                                         
-fact   Flourless Chocolate Cake.0  =  Traditional rich, moist French cake made without flour                                               
-       remark                      =  yes                                                                                                   
-fact   Flourless Chocolate Cake.1  =  Made with egg, chocolate, butter and sugar                                                           
-       remark                      =  yes                                                                                                   
-fact   Flourless Chocolate Cake.2  =  Popular for gluten-free diets                                                                        
-       remark                      =  yes                                                                                                   
+photo  Flourless.Chocolate.Cake    =  Flourless Chocolate Cake                                                                             
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/FlourlessChocolateCake.jpg                      
+fact   Flourless.Chocolate.Cake.0  =  Traditional rich, moist French cake made without flour                                               
+       remark                      =  yes                                                                                                  
+fact   Flourless.Chocolate.Cake.1  =  Made with egg, chocolate, butter and sugar                                                           
+       remark                      =  yes                                                                                                  
+fact   Flourless.Chocolate.Cake.2  =  Popular for gluten-free diets                                                                        
+       remark                      =  yes                                                                                                  
        
-photo  Frys Turkish Delight        =  Frys Turkish Delight                                                                                  
-       url                         =  github://philiprbrenan/Chocolate/Frys Turkish Delight.jpg                                             
-fact   Frys Turkish Delight.0      =  Popular confectionery product manufactured by Cadbury                                                
-       remark                      =  yes                                                                                                   
-fact   Frys Turkish Delight.1      =  Rose-flavoured Turkish delight surrounded by milk chocolate                                          
-       remark                      =  yes                                                                                                   
-fact   Frys Turkish Delight.2      =  First sold in the UK in 1914                                                                         
-       remark                      =  yes                                                                                                   
+photo  Frys.Turkish.Delight        =  Frys Turkish Delight                                                                                 
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/FrysTurkishDelight.jpg                          
+fact   Frys.Turkish.Delight.0      =  Popular confectionery product manufactured by Cadbury                                                
+       remark                      =  yes                                                                                                  
+fact   Frys.Turkish.Delight.1      =  Rose-flavoured Turkish delight surrounded by milk chocolate                                          
+       remark                      =  yes                                                                                                  
+fact   Frys.Turkish.Delight.2      =  First sold in the UK in 1914                                                                         
+       remark                      =  yes                                                                                                  
        
-photo  German Chocolate Cake       =  German Chocolate Cake                                                                                 
-       url                         =  github://philiprbrenan/Chocolate/German Chocolate Cake.jpg                                            
-fact   German Chocolate Cake.0     =  Layered chocolate cake filled and topped with a coconut-pecan frosting                               
-       remark                      =  yes                                                                                                   
-fact   German Chocolate Cake.1     =  Maraschino cherries are sometimes added as a garnish                                                 
-       remark                      =  yes                                                                                                   
-fact   German Chocolate Cake.2     =  Originated in the U.S.A in 1852                                                                      
-       remark                      =  yes                                                                                                   
+photo  German.Chocolate.Cake       =  German Chocolate Cake                                                                                
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/GermanChocolateCake.jpg                         
+fact   German.Chocolate.Cake.0     =  Layered chocolate cake filled and topped with a coconut-pecan frosting                               
+       remark                      =  yes                                                                                                  
+fact   German.Chocolate.Cake.1     =  Maraschino cherries are sometimes added as a garnish                                                 
+       remark                      =  yes                                                                                                  
+fact   German.Chocolate.Cake.2     =  Originated in the U.S.A in 1852                                                                      
+       remark                      =  yes                                                                                                  
        
-photo  Hot Chocolate               =  Hot Chocolate                                                                                         
-       url                         =  github://philiprbrenan/Chocolate/Hot Chocolate.jpg                                                    
-fact   Hot Chocolate.0             =  Also called "Hot Cocoa"                                                                              
-       remark                      =  yes                                                                                                   
-fact   Hot Chocolate.1             =  Heated beverage made of cocoa powder, heated milk or water, and sugar                                
-       remark                      =  yes                                                                                                   
-fact   Hot Chocolate.2             =  May be topped with whipped cream and marshmallows                                                    
-       remark                      =  yes                                                                                                   
+photo  Hot.Chocolate               =  Hot Chocolate                                                                                        
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/HotChocolate.jpg                                
+fact   Hot.Chocolate.0             =  Also called "Hot Cocoa"                                                                              
+       remark                      =  yes                                                                                                  
+fact   Hot.Chocolate.1             =  Heated beverage made of cocoa powder, heated milk or water, and sugar                                
+       remark                      =  yes                                                                                                  
+fact   Hot.Chocolate.2             =  May be topped with whipped cream and marshmallows                                                    
+       remark                      =  yes                                                                                                  
        
-photo  Kit Kat                     =  Kit Kat                                                                                               
-       url                         =  github://philiprbrenan/Chocolate/Kit Kat.jpg                                                          
-fact   Kit Kat.0                   =  Popular confectionery product manufactured by Nestle                                                 
-       remark                      =  yes                                                                                                   
-fact   Kit Kat.1                   =  Chocolate-covered wafer biscuit bar                                                                  
-       remark                      =  yes                                                                                                   
-fact   Kit Kat.2                   =  Each bar consists of fingers which can be snapped from the bar separately                            
-       remark                      =  yes                                                                                                   
-fact   Kit Kat.3                   =  First sold in the UK in 1935                                                                         
-       remark                      =  yes                                                                                                   
+photo  Kit.Kat                     =  Kit Kat                                                                                              
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/KitKat.jpg                                      
+fact   Kit.Kat.0                   =  Popular confectionery product manufactured by Nestle                                                 
+       remark                      =  yes                                                                                                  
+fact   Kit.Kat.1                   =  Chocolate-covered wafer biscuit bar                                                                  
+       remark                      =  yes                                                                                                  
+fact   Kit.Kat.2                   =  Each bar consists of fingers which can be snapped from the bar separately                            
+       remark                      =  yes                                                                                                  
+fact   Kit.Kat.3                   =  First sold in the UK in 1935                                                                         
+       remark                      =  yes                                                                                                  
        
-photo  Lindt Golden Bunny          =  Lindt Golden Bunny                                                                                    
-       url                         =  github://philiprbrenan/Chocolate/Lindt Golden Bunny.jpg                                               
-fact   Lindt Golden Bunny.0        =  Milk chocolate bunny made to celebrate Easter                                                        
-       remark                      =  yes                                                                                                   
-fact   Lindt Golden Bunny.1        =  Wrapped in gold foil with a red ribbon and golden bell                                               
-       remark                      =  yes                                                                                                   
-fact   Lindt Golden Bunny.2        =  First made in 1952                                                                                   
-       remark                      =  yes                                                                                                   
+photo  Lindt.Golden.Bunny          =  Lindt Golden Bunny                                                                                   
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/LindtGoldenBunny.jpg                            
+fact   Lindt.Golden.Bunny.0        =  Milk chocolate bunny made to celebrate Easter                                                        
+       remark                      =  yes                                                                                                  
+fact   Lindt.Golden.Bunny.1        =  Wrapped in gold foil with a red ribbon and golden bell                                               
+       remark                      =  yes                                                                                                  
+fact   Lindt.Golden.Bunny.2        =  First made in 1952                                                                                   
+       remark                      =  yes                                                                                                  
        
-photo  Maltesers                   =  Maltesers                                                                                             
-       url                         =  github://philiprbrenan/Chocolate/Maltesers.jpg                                                        
-fact   Maltesers.0                 =  Popular confectionery product manufactured by Mars Inc.                                              
-       remark                      =  yes                                                                                                   
-fact   Maltesers.1                 =  Spherical malt honeycomb centres are surrounded by milk chocolate                                    
-       remark                      =  yes                                                                                                   
-fact   Maltesers.2                 =  Famous slogans include "The chocolates with the less fattening centre"                               
-       remark                      =  yes                                                                                                   
-fact   Maltesers.3                 =  First sold in the UK in 1937                                                                         
-       remark                      =  yes                                                                                                   
+photo  Maltesers                   =  Maltesers                                                                                            
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/Maltesers.jpg                                   
+fact   Maltesers.0                 =  Popular confectionery product manufactured by Mars Inc.                                              
+       remark                      =  yes                                                                                                  
+fact   Maltesers.1                 =  Spherical malt honeycomb centres are surrounded by milk chocolate                                    
+       remark                      =  yes                                                                                                  
+fact   Maltesers.2                 =  Famous slogans include "The chocolates with the less fattening centre"                               
+       remark                      =  yes                                                                                                  
+fact   Maltesers.3                 =  First sold in the UK in 1937                                                                         
+       remark                      =  yes                                                                                                  
        
-photo  Mars Bar                    =  Mars Bar                                                                                              
-       url                         =  github://philiprbrenan/Chocolate/Mars Bar.jpg                                                         
-fact   Mars Bar.0                  =  Popular confectionery product manufactured by Mars Inc.                                              
-       remark                      =  yes                                                                                                   
-fact   Mars Bar.1                  =  Chocolate bar made of nougat and caramel covered in milk chocolate                                   
-       remark                      =  yes                                                                                                   
-fact   Mars Bar.2                  =  Famous slogans include "A Mars a day helps you work, rest and play"                                  
-       remark                      =  yes                                                                                                   
-fact   Mars Bar.3                  =  First sold in the UK in 1932                                                                         
-       remark                      =  yes                                                                                                   
+photo  Mars.Bar                    =  Mars Bar                                                                                             
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/MarsBar.jpg                                     
+fact   Mars.Bar.0                  =  Popular confectionery product manufactured by Mars Inc.                                              
+       remark                      =  yes                                                                                                  
+fact   Mars.Bar.1                  =  Chocolate bar made of nougat and caramel covered in milk chocolate                                   
+       remark                      =  yes                                                                                                  
+fact   Mars.Bar.2                  =  Famous slogans include "A Mars a day helps you work, rest and play"                                  
+       remark                      =  yes                                                                                                  
+fact   Mars.Bar.3                  =  First sold in the UK in 1932                                                                         
+       remark                      =  yes                                                                                                  
        
-photo  Milk Chocolate              =  Milk Chocolate                                                                                        
-       url                         =  github://philiprbrenan/Chocolate/Milk Chocolate.jpg                                                   
-fact   Milk Chocolate.0            =  Solid chocolate made with milk                                                                       
-       remark                      =  yes                                                                                                   
-fact   Milk Chocolate.1            =  Milk is in the form of milk powder, liquid milk, or condensed milk                                   
-       remark                      =  yes                                                                                                   
-fact   Milk Chocolate.2            =  EU regulations specify a minimum of 25% cocoa solids                                                 
-       remark                      =  yes                                                                                                   
+photo  Milk.Chocolate              =  Milk Chocolate                                                                                       
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/MilkChocolate.jpg                               
+fact   Milk.Chocolate.0            =  Solid chocolate made with milk                                                                       
+       remark                      =  yes                                                                                                  
+fact   Milk.Chocolate.1            =  Milk is in the form of milk powder, liquid milk, or condensed milk                                   
+       remark                      =  yes                                                                                                  
+fact   Milk.Chocolate.2            =  EU regulations specify a minimum of 25% cocoa solids                                                 
+       remark                      =  yes                                                                                                  
        
-photo  Milk Chocolate Digestive    =  Milk Chocolate Digestive                                                                              
-       url                         =  github://philiprbrenan/Chocolate/Milk Chocolate Digestive.jpg                                         
-fact   Milk Chocolate Digestive.0  =  Semi-sweet biscuit coated on one side with milk chocolate                                            
-       remark                      =  yes                                                                                                   
-fact   Milk Chocolate Digestive.1  =  Coarse brown wheat flour gives it the distinctive texture and flavour                                
-       remark                      =  yes                                                                                                   
-fact   Milk Chocolate Digestive.2  =  Originally produced in the UK by McVitie's in 1925                                                   
-       remark                      =  yes                                                                                                   
+photo  Milk.Chocolate.Digestive    =  Milk Chocolate Digestive                                                                             
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/MilkChocolateDigestive.jpg                      
+fact   Milk.Chocolate.Digestive.0  =  Semi-sweet biscuit coated on one side with milk chocolate                                            
+       remark                      =  yes                                                                                                  
+fact   Milk.Chocolate.Digestive.1  =  Coarse brown wheat flour gives it the distinctive texture and flavour                                
+       remark                      =  yes                                                                                                  
+fact   Milk.Chocolate.Digestive.2  =  Originally produced in the UK by McVitie's in 1925                                                   
+       remark                      =  yes                                                                                                  
        
-photo  Millionaire's Shortbread    =  Millionaire's Shortbread                                                                              
-       url                         =  github://philiprbrenan/Chocolate/Millionaire's Shortbread.jpg                                         
-fact   Millionaire's Shortbread.0  =  Also called "Caramel Slice" and "Caramel Shortbread"                                                 
-       remark                      =  yes                                                                                                   
-fact   Millionaire's Shortbread.1  =  Biscuit confectionery item consisting of three layers                                                
-       remark                      =  yes                                                                                                   
-fact   Millionaire's Shortbread.2  =  Shortbread biscuit base, a caramel filling and a milk chocolate topping                              
-       remark                      =  yes                                                                                                   
+photo  Millionaire's.Shortbread    =  Millionaire's Shortbread                                                                             
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/Millionaire'sShortbread.jpg                     
+fact   Millionaire's.Shortbread.0  =  Also called "Caramel Slice" and "Caramel Shortbread"                                                 
+       remark                      =  yes                                                                                                  
+fact   Millionaire's.Shortbread.1  =  Biscuit confectionery item consisting of three layers                                                
+       remark                      =  yes                                                                                                  
+fact   Millionaire's.Shortbread.2  =  Shortbread biscuit base, a caramel filling and a milk chocolate topping                              
+       remark                      =  yes                                                                                                  
        
-photo  Molten Chocolate Cake       =  Molten Chocolate Cake                                                                                 
-       url                         =  github://philiprbrenan/Chocolate/Molten Chocolate Cake.jpg                                            
-fact   Molten Chocolate Cake.0     =  Popular dessert, also called a "Lava Cake"                                                           
-       remark                      =  yes                                                                                                   
-fact   Molten Chocolate Cake.1     =  Butter, eggs, sugar and chocolate are baked together in ramekin dishes                               
-       remark                      =  yes                                                                                                   
-fact   Molten Chocolate Cake.2     =  Chocolate sauce is often drizzled over the warm cake                                                 
-       remark                      =  yes                                                                                                   
+photo  Molten.Chocolate.Cake       =  Molten Chocolate Cake                                                                                
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/MoltenChocolateCake.jpg                         
+fact   Molten.Chocolate.Cake.0     =  Popular dessert, also called a "Lava Cake"                                                           
+       remark                      =  yes                                                                                                  
+fact   Molten.Chocolate.Cake.1     =  Butter, eggs, sugar and chocolate are baked together in ramekin dishes                               
+       remark                      =  yes                                                                                                  
+fact   Molten.Chocolate.Cake.2     =  Chocolate sauce is often drizzled over the warm cake                                                 
+       remark                      =  yes                                                                                                  
        
-photo  Nanaimo Bar                 =  Nanaimo Bar                                                                                           
-       url                         =  github://philiprbrenan/Chocolate/Nanaimo Bar.jpg                                                      
-fact   Nanaimo Bar.0               =  A dessert of Canadian origin popular across North America                                            
-       remark                      =  yes                                                                                                   
-fact   Nanaimo Bar.1               =  Requires no baking                                                                                   
-       remark                      =  yes                                                                                                   
-fact   Nanaimo Bar.2               =  Wafer crumb-based and butter icing layers are covered with melted chocolate                          
-       remark                      =  yes                                                                                                   
-fact   Nanaimo Bar.3               =  Originated in British Columbia in the 1950s                                                          
-       remark                      =  yes                                                                                                   
+photo  Nanaimo.Bar                 =  Nanaimo Bar                                                                                          
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/NanaimoBar.jpg                                  
+fact   Nanaimo.Bar.0               =  A dessert of Canadian origin popular across North America                                            
+       remark                      =  yes                                                                                                  
+fact   Nanaimo.Bar.1               =  Requires no baking                                                                                   
+       remark                      =  yes                                                                                                  
+fact   Nanaimo.Bar.2               =  Wafer crumb-based and butter icing layers are covered with melted chocolate                          
+       remark                      =  yes                                                                                                  
+fact   Nanaimo.Bar.3               =  Originated in British Columbia in the 1950s                                                          
+       remark                      =  yes                                                                                                  
        
-photo  Oreos                       =  Oreos                                                                                                 
-       url                         =  github://philiprbrenan/Chocolate/Oreos.jpg                                                            
-fact   Oreos.0                     =  Chocolate sandwich cookie with a creamy white filling                                                
-       remark                      =  yes                                                                                                   
-fact   Oreos.1                     =  Best selling cookie in the United States and China                                                   
-       remark                      =  yes                                                                                                   
-fact   Oreos.2                     =  Introduced in 1912 and now available around the world                                                
-       remark                      =  yes                                                                                                   
+photo  Oreos                       =  Oreos                                                                                                
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/Oreos.jpg                                       
+fact   Oreos.0                     =  Chocolate sandwich cookie with a creamy white filling                                                
+       remark                      =  yes                                                                                                  
+fact   Oreos.1                     =  Best selling cookie in the United States and China                                                   
+       remark                      =  yes                                                                                                  
+fact   Oreos.2                     =  Introduced in 1912 and now available around the world                                                
+       remark                      =  yes                                                                                                  
        
-photo  Pain au Chocolat            =  Pain au Chocolat                                                                                      
-       url                         =  github://philiprbrenan/Chocolate/Pain au Chocolat.jpg                                                 
-fact   Pain au Chocolat.0          =  Also called a "Chocolate Croissant" and a "Chocolatine"                                              
-       remark                      =  yes                                                                                                   
-fact   Pain au Chocolat.1          =  Made of the same layered dough as a croissant                                                        
-       remark                      =  yes                                                                                                   
-fact   Pain au Chocolat.2          =  Has one or two pieces of chocolate running through the centre                                        
-       remark                      =  yes                                                                                                   
-fact   Pain au Chocolat.3          =  Often sold warm from the oven in bakeries                                                            
-       remark                      =  yes                                                                                                   
+photo  Pain.au.Chocolat            =  Pain au Chocolat                                                                                     
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/PainauChocolat.jpg                              
+fact   Pain.au.Chocolat.0          =  Also called a "Chocolate Croissant" and a "Chocolatine"                                              
+       remark                      =  yes                                                                                                  
+fact   Pain.au.Chocolat.1          =  Made of the same layered dough as a croissant                                                        
+       remark                      =  yes                                                                                                  
+fact   Pain.au.Chocolat.2          =  Has one or two pieces of chocolate running through the centre                                        
+       remark                      =  yes                                                                                                  
+fact   Pain.au.Chocolat.3          =  Often sold warm from the oven in bakeries                                                            
+       remark                      =  yes                                                                                                  
        
-photo  Prinzregententorte          =  Prinzregententorte                                                                                    
-       url                         =  github://philiprbrenan/Chocolate/Prinzregententorte.jpg                                               
-fact   Prinzregententorte.0        =  A traditional and very popular Bavarian cake                                                         
-       remark                      =  yes                                                                                                   
-fact   Prinzregententorte.1        =  At least six thin layers of sponge cake are interlaid with chocolate buttercream                     
-       remark                      =  yes                                                                                                   
-fact   Prinzregententorte.2        =  The exterior is covered in a dark chocolate glaze                                                    
-       remark                      =  yes                                                                                                   
+photo  Prinzregententorte          =  Prinzregententorte                                                                                   
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/Prinzregententorte.jpg                          
+fact   Prinzregententorte.0        =  A traditional and very popular Bavarian cake                                                         
+       remark                      =  yes                                                                                                  
+fact   Prinzregententorte.1        =  At least six thin layers of sponge cake are interlaid with chocolate buttercream                     
+       remark                      =  yes                                                                                                  
+fact   Prinzregententorte.2        =  The exterior is covered in a dark chocolate glaze                                                    
+       remark                      =  yes                                                                                                  
        
-photo  Profiterole                 =  Profiterole                                                                                           
-       url                         =  github://philiprbrenan/Chocolate/Profiterole.jpg                                                      
-fact   Profiterole.0               =  Also called a "Cream Puff" and "Choux a la creme"                                                    
-       remark                      =  yes                                                                                                   
-fact   Profiterole.1               =  A choux pastry ball filled with whipped cream or ice-cream                                           
-       remark                      =  yes                                                                                                   
-fact   Profiterole.2               =  Often drizzled with chocolate sauce                                                                  
-       remark                      =  yes                                                                                                   
+photo  Profiterole                 =  Profiterole                                                                                          
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/Profiterole.jpg                                 
+fact   Profiterole.0               =  Also called a "Cream Puff" and "Choux a la creme"                                                    
+       remark                      =  yes                                                                                                  
+fact   Profiterole.1               =  A choux pastry ball filled with whipped cream or ice-cream                                           
+       remark                      =  yes                                                                                                  
+fact   Profiterole.2               =  Often drizzled with chocolate sauce                                                                  
+       remark                      =  yes                                                                                                  
        
-photo  Sachertorte                 =  Sachertorte                                                                                           
-       url                         =  github://philiprbrenan/Chocolate/Sachertorte.jpg                                                      
-fact   Sachertorte.0               =  A traditional chocolate cake from Vienna, Austria                                                    
-       remark                      =  yes                                                                                                   
-fact   Sachertorte.1               =  One of the most famous Viennese culinary specialities                                                
-       remark                      =  yes                                                                                                   
-fact   Sachertorte.2               =  Two layers of dense chocolate sponge with a thin layer of apricot jam in the middle                  
-       remark                      =  yes                                                                                                   
-fact   Sachertorte.3               =  Coated in dark chocolate icing on the top and sides                                                  
-       remark                      =  yes                                                                                                   
+photo  Sachertorte                 =  Sachertorte                                                                                          
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/Sachertorte.jpg                                 
+fact   Sachertorte.0               =  A traditional chocolate cake from Vienna, Austria                                                    
+       remark                      =  yes                                                                                                  
+fact   Sachertorte.1               =  One of the most famous Viennese culinary specialities                                                
+       remark                      =  yes                                                                                                  
+fact   Sachertorte.2               =  Two layers of dense chocolate sponge with a thin layer of apricot jam in the middle                  
+       remark                      =  yes                                                                                                  
+fact   Sachertorte.3               =  Coated in dark chocolate icing on the top and sides                                                  
+       remark                      =  yes                                                                                                  
        
-photo  Walnut Whip                 =  Walnut Whip                                                                                           
-       url                         =  github://philiprbrenan/Chocolate/Walnut Whip.jpg                                                      
-fact   Walnut Whip.0               =  Popular confectionery product manufactured by Nestle                                                 
-       remark                      =  yes                                                                                                   
-fact   Walnut Whip.1               =  Whirl-shaped cone of milk chocolate with a vanilla fondant filling, topped with a walnut             
-       remark                      =  yes                                                                                                   
-fact   Walnut Whip.2               =  Over 1,000,000 walnuts are used every week in the manufacture of Walnut Whips!                       
-       remark                      =  yes                                                                                                   
-fact   Walnut Whip.3               =  First sold in the UK in 1910                                                                         
-       remark                      =  yes                                                                                                   
+photo  Walnut.Whip                 =  Walnut Whip                                                                                          
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/WalnutWhip.jpg                                  
+fact   Walnut.Whip.0               =  Popular confectionery product manufactured by Nestle                                                 
+       remark                      =  yes                                                                                                  
+fact   Walnut.Whip.1               =  Whirl-shaped cone of milk chocolate with a vanilla fondant filling, topped with a walnut             
+       remark                      =  yes                                                                                                  
+fact   Walnut.Whip.2               =  Over 1,000,000 walnuts are used every week in the manufacture of Walnut Whips!                       
+       remark                      =  yes                                                                                                  
+fact   Walnut.Whip.3               =  First sold in the UK in 1910                                                                         
+       remark                      =  yes                                                                                                  
        
-photo  White Chocolate             =  White Chocolate                                                                                       
-       url                         =  github://philiprbrenan/Chocolate/White Chocolate.jpg                                                  
-fact   White Chocolate.0           =  Solid chocolate made with sugar, milk, and cocoa butter                                              
-       remark                      =  yes                                                                                                   
-fact   White Chocolate.1           =  The chocolate contains no cocoa solids at all                                                        
-       remark                      =  yes                                                                                                   
-fact   White Chocolate.2           =  Has a characteristic pale yellow or ivory appearance                                                 
-       remark                      =  yes                                                                                                   
+photo  White.Chocolate             =  White Chocolate                                                                                      
+       url                         =  github://philiprbrenan/vocabulary-2/images/Chocolate/WhiteChocolate.jpg                              
+fact   White.Chocolate.0           =  Solid chocolate made with sugar, milk, and cocoa butter                                              
+       remark                      =  yes                                                                                                  
+fact   White.Chocolate.1           =  The chocolate contains no cocoa solids at all                                                        
+       remark                      =  yes                                                                                                  
+fact   White.Chocolate.2           =  Has a characteristic pale yellow or ivory appearance                                                 
+       remark                      =  yes                                                                                                  
