@@ -1,0 +1,1019 @@
+app g.Parks   = National Parks USA
+  description  = Learn about National Parks USA in English
+  icon         = Arches National Park, Delicate Arch.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Arches.National.Park                                                   =  Arches National Park                                                                                              
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ArchesNationalPark.jpg                                           
+fact   Arches.National.Park.0                                                 =  Located in Utah                                                                                                   
+fact   Arches.National.Park.1                                                 =  Park covers 76,679 acres                                                                                          
+       remark                                                                 =  yes                                                                                                               
+fact   Arches.National.Park.2                                                 =  Situated near Moab which has become a base for outdoor recreation                                                 
+fact   Arches.National.Park.3                                                 =  More than 2,000 sandstone arches carved by millions of years of erosion                                           
+fact   Arches.National.Park.4                                                 =  Popular with astronomers because of the dark night skies                                                          
+       remark                                                                 =  yes                                                                                                               
+fact   Arches.National.Park.5                                                 =  Many plants and animals including rattlesnake, red fox and mule deer                                              
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Arches.National.Park,.Balanced.Rock                                    =  Balanced Rock                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ArchesNationalPark,BalancedRock.jpg                              
+fact   Arches.National.Park,.Balanced.Rock.0                                  =  A large balancing rock, the size of three school buses                                                            
+fact   Arches.National.Park,.Balanced.Rock.1                                  =  Total height is about 39 m (128 ft), with the balancing rock 17 m (55 feet) above the base                        
+       remark                                                                 =  yes                                                                                                               
+fact   Arches.National.Park,.Balanced.Rock.2                                  =  A similar but smaller formation named "Chip Off The Old Block", collapsed in 1976                                 
+fact   Arches.National.Park,.Balanced.Rock.3                                  =  Much visited because located next to the park's main road                                                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Arches.National.Park,.Delicate.Arch                                    =  Delicate Arch                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ArchesNationalPark,DelicateArch.jpg                              
+fact   Arches.National.Park,.Delicate.Arch.0                                  =  A lone-standing arch which has become a symbol of Utah                                                            
+fact   Arches.National.Park,.Delicate.Arch.1                                  =  The most widely recognised landmark in the park                                                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Arches.National.Park,.Delicate.Arch.2                                  =  20 m (65 ft) tall and carved out of Entrada Sandstone                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Arches.National.Park,.Delicate.Arch.3                                  =  Olympic torch relay for the 2002 Winter Olympics passed through this arch                                         
+       
+photo  Arches.National.Park,.Double.Arch                                      =  Double Arch                                                                                                       
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ArchesNationalPark,DoubleArch.jpg                                
+fact   Arches.National.Park,.Double.Arch.0                                    =  A close-set pair of natural arches                                                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Arches.National.Park,.Double.Arch.1                                    =  There are no guardrails to prevent visitors from exploring the arches                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Arches.National.Park,.Double.Arch.2                                    =  Used as a backdrop for the opening scene of "Indiana Jones and the Last Crusade"                                  
+fact   Arches.National.Park,.Double.Arch.3                                    =  Known as a "pothole arch", formed by water erosion from above                                                     
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Arches.National.Park,.The.Organ                                        =  The Organ                                                                                                         
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ArchesNationalPark,TheOrgan.jpg                                  
+fact   Arches.National.Park,.The.Organ.0                                      =  Impressive sandstone tower 700 ft high                                                                            
+fact   Arches.National.Park,.The.Organ.1                                      =  Named after its likeness to a huge pipe organ                                                                     
+fact   Arches.National.Park,.The.Organ.2                                      =  Situated in the area of the park known as "Courthouse Towers"                                                     
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Badlands.National.Park                                                 =  Badlands National Park                                                                                            
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/BadlandsNationalPark.jpg                                         
+fact   Badlands.National.Park.0                                               =  Located in South Dakota                                                                                           
+fact   Badlands.National.Park.1                                               =  Park covers 242,756 acres                                                                                         
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park.2                                               =  Landscape of multicoloured canyons, buttes and spires                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park.3                                               =  Features the largest protected mixed grass prairie in the USA                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park.4                                               =  Bison, foxes, prairie dogs and bighorn sheep roam its prairies                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park.5                                               =  Has one of the world’s richest deposits of mammal fossil beds from 33 million years ago                           
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park.6                                               =  One quarter of the park is a designated wilderness area                                                           
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Badlands.National.Park,.Prairie.Wind.Overlook                          =  Prairie Wind Overlook                                                                                             
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/BadlandsNationalPark,PrairieWindOverlook.jpg                     
+fact   Badlands.National.Park,.Prairie.Wind.Overlook.0                        =  This overlook provides an excellent view of the prairie preserved in the park                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park,.Prairie.Wind.Overlook.1                        =  The prairie is mixed grassland containing species of both tall and short grass                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park,.Prairie.Wind.Overlook.2                        =  Less than 2% of the native prairie which once covered the Great Plains still exists today                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Badlands.National.Park,.View.of.Badlands                               =  View of Badlands                                                                                                  
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/BadlandsNationalPark,ViewofBadlands.jpg                          
+fact   Badlands.National.Park,.View.of.Badlands.0                             =  Formations composed of multicoloured materials of clay and sand                                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park,.View.of.Badlands.1                             =  The 51-mile Badlands Loop Road winds past multiple badlands in a classic one-day visit                            
+       remark                                                                 =  yes                                                                                                               
+fact   Badlands.National.Park,.View.of.Badlands.2                             =  Hiking trails can be accessed from the Badlands Loop Road                                                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Bryce.Canyon.National.Park                                             =  Bryce Canyon National Park                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/BryceCanyonNationalPark.jpg                                      
+fact   Bryce.Canyon.National.Park.0                                           =  Located in Utah                                                                                                   
+fact   Bryce.Canyon.National.Park.1                                           =  Park covers 35,835 acres (145 km2, 56 sq miles)                                                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Bryce.Canyon.National.Park.2                                           =  Known for its unusual geology formed from millions of years of erosion                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Bryce.Canyon.National.Park.3                                           =  Despite its name, it is not a canyon but a collection of giant natural amphitheatres                              
+fact   Bryce.Canyon.National.Park.4                                           =  Impressive collection of sandstone hoodoos and spire-shaped formations                                            
+fact   Bryce.Canyon.National.Park.5                                           =  One of the highest concentrations of hoodoos of any place on Earth                                                
+fact   Bryce.Canyon.National.Park.6                                           =  Relatively free from light pollution, the Park is popular for astronomy                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Bryce.Canyon.National.Park.7                                           =  In June, the park hosts an annual four-day astronomy festival                                                     
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Bryce.Canyon.National.Park,.Bryce.Amphitheatre                         =  Bryce Amphitheatre                                                                                                
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/BryceCanyonNationalPark,BryceAmphitheatre.jpg                    
+fact   Bryce.Canyon.National.Park,.Bryce.Amphitheatre.0                       =  Major feature of the park with spectacular red, orange, and white rocks                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Bryce.Canyon.National.Park,.Bryce.Amphitheatre.1                       =  Numerous tall spires of rock called hoodoos, ranging from 5-200 ft in height                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Bryce.Canyon.National.Park,.Bryce.Amphitheatre.2                       =  The Park's largest amphitheatre at 12 miles long, 3 miles wide and 800 ft (240 m) deep                            
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Bryce.Canyon.National.Park,.Natural.Bridge                             =  Natural Bridge                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/BryceCanyonNationalPark,NaturalBridge.jpg                        
+fact   Bryce.Canyon.National.Park,.Natural.Bridge.0                           =  Created by the erosion of sedimentary rocks                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Bryce.Canyon.National.Park,.Natural.Bridge.1                           =  The striking colour of the rock is due to mineral deposits                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Bryce.Canyon.National.Park,.Queen's.Garden.Trail                       =  Queen's Garden Trail                                                                                              
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/BryceCanyonNationalPark,Queen'sGardenTrail.jpg                   
+fact   Bryce.Canyon.National.Park,.Queen's.Garden.Trail.0                     =  One of 7 trails in the park                                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Bryce.Canyon.National.Park,.Queen's.Garden.Trail.1                     =  Leads to the Queen Victoria rock formation and includes 2 tunnels                                                 
+       
+photo  Bryce.Canyon.National.Park,.Thor's.Hammer                              =  Thor's Hammer                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/BryceCanyonNationalPark,Thor'sHammer.jpg                         
+fact   Bryce.Canyon.National.Park,.Thor's.Hammer.0                            =  One of the park's most famous hoodoos                                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Bryce.Canyon.National.Park,.Thor's.Hammer.1                            =  Composed of soft sedimentary rock and topped by a piece of harder stone                                           
+fact   Bryce.Canyon.National.Park,.Thor's.Hammer.2                            =  The variable thickness of a hoodoo is what differentiates it from a spire                                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Canyonlands.National.Park                                              =  Canyonlands National Park                                                                                         
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/CanyonlandsNationalPark.jpg                                      
+fact   Canyonlands.National.Park.0                                            =  Located in Utah                                                                                                   
+fact   Canyonlands.National.Park.1                                            =  Park covers 337,598 acres                                                                                         
+       remark                                                                 =  yes                                                                                                               
+fact   Canyonlands.National.Park.2                                            =  Situated near Moab which has become a base for outdoor recreation                                                 
+fact   Canyonlands.National.Park.3                                            =  The Park features countless canyons, mesas and buttes                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Canyonlands.National.Park.4                                            =  Colourful landscape eroded by the Colorado and Green Rivers                                                       
+fact   Canyonlands.National.Park.5                                            =  Popular with hikers, mountain bikers, backpackers, rafters and kayakers                                           
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Canyonlands.National.Park,.Butte.in.Horseshoe.Canyon                   =  Butte in Horseshoe Canyon                                                                                         
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/CanyonlandsNationalPark,ButteinHorseshoeCanyon.jpg               
+fact   Canyonlands.National.Park,.Butte.in.Horseshoe.Canyon.0                 =  Conspicuous isolated hill with steep sides and a small, relatively flat top                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Canyonlands.National.Park,.Butte.in.Horseshoe.Canyon.1                 =  The word butte comes from a French word meaning "small hill"                                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Canyonlands.National.Park,.Butte.in.Horseshoe.Canyon.2                 =  Distinguished from a "mesa" by having a top narrower than its height                                              
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Canyonlands.National.Park,.Cataract.Canyon                             =  Cataract Canyon                                                                                                   
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/CanyonlandsNationalPark,CataractCanyon.jpg                       
+fact   Canyonlands.National.Park,.Cataract.Canyon.0                           =  74 km (46-mile) long canyon of the Colorado River                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Canyonlands.National.Park,.Cataract.Canyon.1                           =  Popular for whitewater rafting                                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Canyonlands.National.Park,.Cataract.Canyon.2                           =  Guided trips through the canyon last between 1 and 6 days                                                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Canyonlands.National.Park,.Green.River.Overlook                        =  Green River Overlook                                                                                              
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/CanyonlandsNationalPark,GreenRiverOverlook.jpg                   
+fact   Canyonlands.National.Park,.Green.River.Overlook.0                      =  Chief tributary of the Colorado River                                                                             
+fact   Canyonlands.National.Park,.Green.River.Overlook.1                      =  Carved spectacular canyons into the Colorado Plateau                                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Canyonlands.National.Park,.Green.River.Overlook.2                      =  Runs for 730 miles                                                                                                
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Canyonlands.National.Park,.Rock.pinnacles.in.The.Needles               =  Rock pinnacles in The Needles                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/CanyonlandsNationalPark,RockpinnaclesinTheNeedles.jpg            
+fact   Canyonlands.National.Park,.Rock.pinnacles.in.The.Needles.0             =  The Needles district is named after its red and white banded rock pinnacles                                       
+fact   Canyonlands.National.Park,.Rock.pinnacles.in.The.Needles.1             =  Also features canyons, potholes and arches                                                                        
+       remark                                                                 =  yes                                                                                                               
+fact   Canyonlands.National.Park,.Rock.pinnacles.in.The.Needles.2             =  Once home to the Ancestral Puebloans, an ancient Native American culture                                          
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Death.Valley.National.Park                                             =  Death Valley National Park                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/DeathValleyNationalPark.jpg                                      
+fact   Death.Valley.National.Park.0                                           =  Located in California and Nevada                                                                                  
+fact   Death.Valley.National.Park.1                                           =  Lies east of the Sierra Nevada                                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Death.Valley.National.Park.2                                           =  Park covers 3,373,063 acres                                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Death.Valley.National.Park.3                                           =  95% of the park is a designated wilderness area                                                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Death.Valley.National.Park.4                                           =  The park protects the northwest corner of the Mojave Desert                                                       
+fact   Death.Valley.National.Park.5                                           =  Salt flats, sand dunes, badlands, valleys, canyons, and mountains                                                 
+fact   Death.Valley.National.Park.6                                           =  Largest national park in the USA outside Alaska                                                                   
+fact   Death.Valley.National.Park.7                                           =  Hottest and driest of the national parks in the USA                                                               
+fact   Death.Valley.National.Park.8                                           =  Death Valley holds the record for the highest recorded temperature on Earth                                       
+fact   Death.Valley.National.Park.9                                           =  Home to many species adapted to deserts such as the creosote bush and the Coyote                                  
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Death.Valley.National.Park,.Artists's.Palette                          =  Artists's Palette                                                                                                 
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/DeathValleyNationalPark,Artists'sPalette.jpg                     
+fact   Death.Valley.National.Park,.Artists's.Palette.0                        =  Situated on the face of the Black Mountains above Death Valley                                                    
+fact   Death.Valley.National.Park,.Artists's.Palette.1                        =  The colours are caused by the oxidation of different metals                                                       
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Death.Valley.National.Park,.Badwater.Basin.and.Telescope.Peak          =  Badwater Basin and Telescope Peak                                                                                 
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/DeathValleyNationalPark,BadwaterBasinandTelescopePeak.jpg        
+fact   Death.Valley.National.Park,.Badwater.Basin.and.Telescope.Peak.0        =  A salt flat which is the second-lowest elevation in the Western Hemisphere                                        
+       remark                                                                 =  yes                                                                                                               
+fact   Death.Valley.National.Park,.Badwater.Basin.and.Telescope.Peak.1        =  Lowest elevation in North America at 86 m (282 ft) below sea level                                                
+fact   Death.Valley.National.Park,.Badwater.Basin.and.Telescope.Peak.2        =  Telescope Peak is the highest point within the park                                                               
+fact   Death.Valley.National.Park,.Badwater.Basin.and.Telescope.Peak.3        =  Named for the great distance visible from the summit (approx. 100 miles)                                          
+       
+photo  Death.Valley.National.Park,.Devil's.Golf.Course                        =  Devil's Golf Course                                                                                               
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/DeathValleyNationalPark,Devil'sGolfCourse.jpg                    
+fact   Death.Valley.National.Park,.Devil's.Golf.Course.0                      =  Large salt pan on the floor of Death Valley                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Death.Valley.National.Park,.Devil's.Golf.Course.1                      =  Named after a line in the 1934 park guide book                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Death.Valley.National.Park,.Devil's.Golf.Course.2                      =  "Only the devil could play golf" on its rough surface                                                             
+fact   Death.Valley.National.Park,.Devil's.Golf.Course.3                      =  Rough texture caused by the large rock salt crystal formations                                                    
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Death.Valley.National.Park,.Mesquite.Sand.Dunes                        =  Mesquite Sand Dunes                                                                                               
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/DeathValleyNationalPark,MesquiteSandDunes.jpg                    
+fact   Death.Valley.National.Park,.Mesquite.Sand.Dunes.0                      =  Have featured in several movies including films in the Star Wars series                                           
+fact   Death.Valley.National.Park,.Mesquite.Sand.Dunes.1                      =  Some dunes are as deep as 180 to 210 metres                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Death.Valley.National.Park,.Mesquite.Sand.Dunes.2                      =  Creosote bushes and Mesquite trees grow between the dunes                                                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Death.Valley.National.Park,.Racetrack.Playa                            =  Racetrack Playa                                                                                                   
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/DeathValleyNationalPark,RacetrackPlaya.jpg                       
+fact   Death.Valley.National.Park,.Racetrack.Playa.0                          =  Scenic dry lake or "playa"                                                                                        
+fact   Death.Valley.National.Park,.Racetrack.Playa.1                          =  Exceptionally flat with the northern end being only 4 cm higher than the southern                                 
+fact   Death.Valley.National.Park,.Racetrack.Playa.2                          =  Features so-called "sailing stones" that leave linear "racetrack" imprints                                        
+fact   Death.Valley.National.Park,.Racetrack.Playa.3                          =  Strange geological phenomenon involving tracks of up to hundreds of feet in length                                
+       
+photo  Death.Valley.National.Park,.Zabriskie.Point                            =  Zabriskie Point                                                                                                   
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/DeathValleyNationalPark,ZabriskiePoint.jpg                       
+fact   Death.Valley.National.Park,.Zabriskie.Point.0                          =  Part of the Amargosa Mountain Range which runs along the eastern side of Death Valley                             
+fact   Death.Valley.National.Park,.Zabriskie.Point.1                          =  Noted for its colourful sedimentary rock "badlands"                                                               
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Glacier.National.Park                                                  =  Glacier National Park                                                                                             
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GlacierNationalPark.jpg                                          
+fact   Glacier.National.Park.0                                                =  Located in Montana                                                                                                
+fact   Glacier.National.Park.1                                                =  Park covers 1,013,322 acres (4,101 km2, 1,583 sq miles)                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park.2                                                =  Named after the glaciers that carved its landscape millions of years ago                                          
+fact   Glacier.National.Park.3                                                =  The park has 13 campsites and more than 700 miles of hiking trails                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park.4                                                =  Vast pristine ecosystem with over 130 named lakes                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park.5                                                =  More than 1,000 different species of plants                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park.6                                                =  Hundreds of species of animals include grizzly bears, mountain goat and lynx                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park.7                                                =  Native Americans know it as the "Backbone of the World"                                                           
+       
+photo  Glacier.National.Park,.Chief.Mountain                                  =  Chief Mountain                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GlacierNationalPark,ChiefMountain.jpg                            
+fact   Glacier.National.Park,.Chief.Mountain.0                                =  Prominent peak along the Rocky Mountain Front                                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.Chief.Mountain.1                                =  Stands 1,524 m (5,000 ft) above the Great Plains to the east                                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.Chief.Mountain.2                                =  Sacred mountain to Native American tribes                                                                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Glacier.National.Park,.Iceberg.Cirque                                  =  Iceberg Cirque                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GlacierNationalPark,IcebergCirque.jpg                            
+fact   Glacier.National.Park,.Iceberg.Cirque.0                                =  Large amphitheatre carved out by glaciation                                                                       
+fact   Glacier.National.Park,.Iceberg.Cirque.1                                =  Can be reached by a hike from the historic "Many Glacier Hotel"                                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.Iceberg.Cirque.2                                =  Located in the Many Glacier section of the park                                                                   
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Glacier.National.Park,.Lake.McDonald                                   =  Lake McDonald                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GlacierNationalPark,LakeMcDonald.jpg                             
+fact   Glacier.National.Park,.Lake.McDonald.0                                 =  Largest lake in the Park                                                                                          
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.Lake.McDonald.1                                 =  16 km (10 miles) long, over 1.6 km (1 mile) wide and 130 m (472 ft) deep                                          
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.Lake.McDonald.2                                 =  Surrounded by coniferous forest dominated by spruce, fir, and larch                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.Lake.McDonald.3                                 =  Located on the west side of the Continental Divide                                                                
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Glacier.National.Park,.St.Mary.Lake                                    =  St Mary Lake                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GlacierNationalPark,StMaryLake.jpg                               
+fact   Glacier.National.Park,.St.Mary.Lake.0                                  =  Second largest lake in the Park                                                                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.St.Mary.Lake.1                                  =  Located on the east side of the Continental Divide                                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.St.Mary.Lake.2                                  =  16 km (10 miles) long and 91 m (300 ft) deep                                                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.St.Mary.Lake.3                                  =  In winter, the lake often freezes with ice up to 1.2 m (4 ft) thick                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Glacier.National.Park,.St.Mary.Lake.4                                  =  460 m (1,500 ft) higher in altitude than Lake McDonald                                                            
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Grand.Canyon.National.Park                                             =  Grand Canyon National Park                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandCanyonNationalPark.jpg                                      
+fact   Grand.Canyon.National.Park.0                                           =  Located in Arizona                                                                                                
+fact   Grand.Canyon.National.Park.1                                           =  Park covers 1,217,262 acres (4,926 km2, 1,902 sq miles)                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Canyon.National.Park.2                                           =  Central feature is the Grand Canyon, a gorge of the Colorado River                                                
+fact   Grand.Canyon.National.Park.3                                           =  Nearly two billion years of the Earth's geological history are exposed in places                                  
+fact   Grand.Canyon.National.Park.4                                           =  UNESCO World Heritage Site                                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Grand.Canyon.National.Park,.Eagle.Rock                                 =  Eagle Rock                                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandCanyonNationalPark,EagleRock.jpg                            
+fact   Grand.Canyon.National.Park,.Eagle.Rock.0                               =  So named because the rock resembles an eagle                                                                      
+fact   Grand.Canyon.National.Park,.Eagle.Rock.1                               =  Located at Eagle Point on the west rim of the canyon                                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Canyon.National.Park,.Eagle.Rock.2                               =  Considered sacred by the native Hualapai Indians                                                                  
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Grand.Canyon.National.Park,.Grand.Canyon                               =  Grand Canyon                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandCanyonNationalPark,GrandCanyon.jpg                          
+fact   Grand.Canyon.National.Park,.Grand.Canyon.0                             =  446 km (277 miles) long                                                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Canyon.National.Park,.Grand.Canyon.1                             =  1,800 m (6,000 ft) at its deepest, which is over one mile                                                         
+fact   Grand.Canyon.National.Park,.Grand.Canyon.2                             =  29 km (18 miles) wide in some places                                                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Canyon.National.Park,.Grand.Canyon.3                             =  Takes two days to hike to the bottom of the Canyon and back because you must carry lots of water                  
+       
+photo  Grand.Canyon.National.Park,.Marble.Canyon                              =  Marble Canyon                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandCanyonNationalPark,MarbleCanyon.jpg                         
+fact   Grand.Canyon.National.Park,.Marble.Canyon.0                            =  Uppermost section of the Grand Canyon                                                                             
+fact   Grand.Canyon.National.Park,.Marble.Canyon.1                            =  So named because the canyon walls of polished limestone resemble marble                                           
+fact   Grand.Canyon.National.Park,.Marble.Canyon.2                            =  Popular starting point for boat trips through the Grand Canyon                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Canyon.National.Park,.Marble.Canyon.3                            =  Crossed by the Navajo Bridge, one of only two roads which cross the river in 600 miles                            
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Grand.Canyon.National.Park,.Tonto.Trail.and.the.Tower.of.Set           =  Tonto Trail and the Tower of Set                                                                                  
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandCanyonNationalPark,TontoTrailandtheTowerofSet.jpg           
+fact   Grand.Canyon.National.Park,.Tonto.Trail.and.the.Tower.of.Set.0         =  Hiking trail on the South Rim of the Grand Canyon                                                                 
+fact   Grand.Canyon.National.Park,.Tonto.Trail.and.the.Tower.of.Set.1         =  113 km (70 miles) in length                                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Canyon.National.Park,.Tonto.Trail.and.the.Tower.of.Set.2         =  A year round trail, graded moderate to strenuous                                                                  
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Grand.Teton.National.Park                                              =  Grand Teton National Park                                                                                         
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandTetonNationalPark.jpg                                       
+fact   Grand.Teton.National.Park.0                                            =  Located in Wyoming                                                                                                
+fact   Grand.Teton.National.Park.1                                            =  Lies 10 miles south of Yellowstone National Park                                                                  
+fact   Grand.Teton.National.Park.2                                            =  Park covers 310,000 acres                                                                                         
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park.3                                            =  Named for Grand Teton, the tallest mountain in the Teton Range at 4,199 m (13,775 ft)                             
+fact   Grand.Teton.National.Park.4                                            =  485 square miles of mountains, lakes, rivers and wilderness                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park.5                                            =  Famous for its wildlife including bald eagles, otters, beavers, elk and bison                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park.6                                            =  Over 1,000 drive-in campsites and more than 200 miles (320 km) of hiking trails                                   
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Grand.Teton.National.Park,.Cathedral.Group                             =  Cathedral Group                                                                                                   
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandTetonNationalPark,CathedralGroup.jpg                        
+fact   Grand.Teton.National.Park,.Cathedral.Group.0                           =  Tallest mountains of the Teton Range                                                                              
+fact   Grand.Teton.National.Park,.Cathedral.Group.1                           =  Highest peak is Grand Teton rising over 2,100 m (7,000 ft) above Jackson Hole valley                              
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park,.Cathedral.Group.2                           =  Teton Glacier at the foot of Grand Teton is the Park's largest glacier                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park,.Cathedral.Group.3                           =  Numerous trails and rock climbing routes                                                                          
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Grand.Teton.National.Park,.Hidden.Falls                                =  Hidden Falls                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandTetonNationalPark,HiddenFalls.jpg                           
+fact   Grand.Teton.National.Park,.Hidden.Falls.0                              =  One of the busiest tourist attractions in the Park                                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park,.Hidden.Falls.1                              =  Located on Cascade Creek near the eastern end of Cascade Canyon                                                   
+fact   Grand.Teton.National.Park,.Hidden.Falls.2                              =  Accessed via the Cascade Canyon Trail and Jenny Lake Trail                                                        
+fact   Grand.Teton.National.Park,.Hidden.Falls.3                              =  Falls drop 30 m (100 ft)                                                                                          
+       
+photo  Grand.Teton.National.Park,.Jackson.Lake                                =  Jackson Lake                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandTetonNationalPark,JacksonLake.jpg                           
+fact   Grand.Teton.National.Park,.Jackson.Lake.0                              =  One of the largest high altitude lakes in the United States                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park,.Jackson.Lake.1                              =  2,064 m (6,772 ft) above sea level                                                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park,.Jackson.Lake.2                              =  15 miles (24 km) long and 7 miles (11 km) wide                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park,.Jackson.Lake.3                              =  Fed by the Snake River                                                                                            
+       
+photo  Grand.Teton.National.Park,.Jenny.Lake                                  =  Jenny Lake                                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GrandTetonNationalPark,JennyLake.jpg                             
+fact   Grand.Teton.National.Park,.Jenny.Lake.0                                =  Major focal point in the Park for hiking, boating and rock climbing                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Grand.Teton.National.Park,.Jenny.Lake.1                                =  The popular 7-mile Jenny Lake hiking trail circles the lake                                                       
+fact   Grand.Teton.National.Park,.Jenny.Lake.2                                =  Named after a Shoshone Indian who married an Englishman                                                           
+       
+photo  Great.Smoky.Mountains.National.Park                                    =  Great Smoky Mountains National Park                                                                               
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GreatSmokyMountainsNationalPark.jpg                              
+fact   Great.Smoky.Mountains.National.Park.0                                  =  Located in North Carolina and Tennessee                                                                           
+fact   Great.Smoky.Mountains.National.Park.1                                  =  Most visited national park in America                                                                             
+fact   Great.Smoky.Mountains.National.Park.2                                  =  Park covers 522,419 acres (2,114 km2, 816 sq miles)                                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Great.Smoky.Mountains.National.Park.3                                  =  Straddles the ridge line of the Great Smoky Mountains                                                             
+fact   Great.Smoky.Mountains.National.Park.4                                  =  Part of the Appalachian Mountain chain                                                                            
+fact   Great.Smoky.Mountains.National.Park.5                                  =  The Appalachian Trail passes through the centre of the park                                                       
+fact   Great.Smoky.Mountains.National.Park.6                                  =  Over 1,660 kinds of flowering plants, more than any other national park in America                                
+fact   Great.Smoky.Mountains.National.Park.7                                  =  Nicknamed "the wildflower park"                                                                                   
+fact   Great.Smoky.Mountains.National.Park.8                                  =  850 miles of maintained trails                                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Great.Smoky.Mountains.National.Park.9                                  =  UNESCO World Heritage Site                                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Great.Smoky.Mountains.National.Park,.Clingman's.Dome                   =  Clingman's Dome                                                                                                   
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GreatSmokyMountainsNationalPark,Clingman'sDome.jpg               
+fact   Great.Smoky.Mountains.National.Park,.Clingman's.Dome.0                 =  Highest mountain in the Great Smoky Mountains at 2,025 m (6,643 ft)                                               
+fact   Great.Smoky.Mountains.National.Park,.Clingman's.Dome.1                 =  Highest point along the Appalachian Trail                                                                         
+fact   Great.Smoky.Mountains.National.Park,.Clingman's.Dome.2                 =  Concrete observation tower gives a panoramic view in every direction                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Great.Smoky.Mountains.National.Park,.Clingman's.Dome.3                 =  Summit rises 1,500 m (5,000 ft) above its base                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Great.Smoky.Mountains.National.Park,.Clingman's.Dome.4                 =  Named after an American Civil War general                                                                         
+       
+photo  Great.Smoky.Mountains.National.Park,.Great.Smoky.Mountains.forest      =  Great Smoky Mountains forest                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GreatSmokyMountainsNationalPark,GreatSmokyMountainsforest.jpg    
+fact   Great.Smoky.Mountains.National.Park,.Great.Smoky.Mountains.forest.0    =  About 100 native tree species live in the Park, more than in all of northern Europe                               
+fact   Great.Smoky.Mountains.National.Park,.Great.Smoky.Mountains.forest.1    =  One of the largest areas of old-growth temperate deciduous forest in North America                                
+fact   Great.Smoky.Mountains.National.Park,.Great.Smoky.Mountains.forest.2    =  Deciduous forests give way to coniferous trees at higher altitudes                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Great.Smoky.Mountains.National.Park,.Great.Smoky.Mountains.forest.3    =  Huge diversity of plant and animal life including black bears and elk                                             
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Great.Smoky.Mountains.National.Park,.Laurel.Falls                      =  Laurel Falls                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GreatSmokyMountainsNationalPark,LaurelFalls.jpg                  
+fact   Great.Smoky.Mountains.National.Park,.Laurel.Falls.0                    =  One of the most popular waterfalls in the park                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Great.Smoky.Mountains.National.Park,.Laurel.Falls.1                    =  Magnificent 23 m (75 ft) multi-level waterfall                                                                    
+fact   Great.Smoky.Mountains.National.Park,.Laurel.Falls.2                    =  Part of the Laurel Falls Trail; 6.4 km (4 miles) in length                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Great.Smoky.Mountains.National.Park,.Oconaluftee.Overlook              =  Oconaluftee Overlook                                                                                              
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/GreatSmokyMountainsNationalPark,OconalufteeOverlook.jpg          
+fact   Great.Smoky.Mountains.National.Park,.Oconaluftee.Overlook.0            =  Stunning view from Newfound Gap Road which crosses the Great Smoky Mountains                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Great.Smoky.Mountains.National.Park,.Oconaluftee.Overlook.1            =  Oconaluftee Visitor Centre is one of two main centres in the park                                                 
+fact   Great.Smoky.Mountains.National.Park,.Oconaluftee.Overlook.2            =  The Centre has exhibits on wildlife, geology, and the history of the park                                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Hawaii.Volcanoes.National.Park                                         =  Hawaii Volcanoes National Park                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/HawaiiVolcanoesNationalPark.jpg                                  
+fact   Hawaii.Volcanoes.National.Park.0                                       =  Located in Hawaii                                                                                                 
+fact   Hawaii.Volcanoes.National.Park.1                                       =  Park covers 323,431 acres (1,309 km2, 505 sq miles)                                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Hawaii.Volcanoes.National.Park.2                                       =  The site of two active volcanoes with dramatic volcanic landscapes                                                
+fact   Hawaii.Volcanoes.National.Park.3                                       =  Contains "Mauna Loa", the world's largest volcano                                                                 
+fact   Hawaii.Volcanoes.National.Park.4                                       =  Contains "Kilauea" which is the most active of the five volcanoes that form the island                            
+fact   Hawaii.Volcanoes.National.Park.5                                       =  Over half the park is a designated wilderness area                                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Hawaii.Volcanoes.National.Park.6                                       =  More than 150 miles of trails                                                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Hawaii.Volcanoes.National.Park.7                                       =  Climates range from lush tropical rain forests to arid desert                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Hawaii.Volcanoes.National.Park.8                                       =  UNESCO World Heritage Site                                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Hawaii.Volcanoes.National.Park,.Lava.and.Pacific.Ocean                 =  Lava and Pacific Ocean                                                                                            
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/HawaiiVolcanoesNationalPark,LavaandPacificOcean.jpg              
+fact   Hawaii.Volcanoes.National.Park,.Lava.and.Pacific.Ocean.0               =  Lava flows into the Pacific Ocean increasing the size of the island                                               
+       
+photo  Hawaii.Volcanoes.National.Park,.Pahoehoe.lava.fountain                 =  Pahoehoe lava fountain                                                                                            
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/HawaiiVolcanoesNationalPark,Pahoehoelavafountain.jpg             
+fact   Hawaii.Volcanoes.National.Park,.Pahoehoe.lava.fountain.0               =  10 m high fountain of pahoehoe lava                                                                               
+fact   Hawaii.Volcanoes.National.Park,.Pahoehoe.lava.fountain.1               =  This is very fluid lava that moves along under a congealing surface crust                                         
+       remark                                                                 =  yes                                                                                                               
+fact   Hawaii.Volcanoes.National.Park,.Pahoehoe.lava.fountain.2               =  This type of lava typically has a temperature of 1100 to 1200 °C                                                  
+       remark                                                                 =  yes                                                                                                               
+fact   Hawaii.Volcanoes.National.Park,.Pahoehoe.lava.fountain.3               =  Forms extensive lava tubes                                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Hawaii.Volcanoes.National.Park,.Pu'u.O'o                               =  Pu'u O'o                                                                                                          
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/HawaiiVolcanoesNationalPark,Pu'uO'o.jpg                          
+fact   Hawaii.Volcanoes.National.Park,.Pu'u.O'o.0                             =  A spatter cone formed when molten lava is ejected from the vent                                                   
+fact   Hawaii.Volcanoes.National.Park,.Pu'u.O'o.1                             =  Located on the flank of "Kilauea", Hawaii's most active volcano                                                   
+fact   Hawaii.Volcanoes.National.Park,.Pu'u.O'o.2                             =  Has been erupting continuously since January 3, 1983                                                              
+fact   Hawaii.Volcanoes.National.Park,.Pu'u.O'o.3                             =  The coastal highway has been closed since 1987, buried under lava up to 35 m thick                                
+       
+photo  Hawaii.Volcanoes.National.Park,.Thurston.Lava.Tube                     =  Thurston Lava Tube                                                                                                
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/HawaiiVolcanoesNationalPark,ThurstonLavaTube.jpg                 
+fact   Hawaii.Volcanoes.National.Park,.Thurston.Lava.Tube.0                   =  Lava tubes are formed when a river of lava gradually builds solid walls and a ceiling                             
+       remark                                                                 =  yes                                                                                                               
+fact   Hawaii.Volcanoes.National.Park,.Thurston.Lava.Tube.1                   =  When the lava flow stops and the last of it passes downhill, a long cave is formed                                
+       remark                                                                 =  yes                                                                                                               
+fact   Hawaii.Volcanoes.National.Park,.Thurston.Lava.Tube.2                   =  Thurston Lava Tube is a fantastic example of a massive lava cave                                                  
+fact   Hawaii.Volcanoes.National.Park,.Thurston.Lava.Tube.3                   =  The step mark on the right wall indicates the depth at which the lava flowed                                      
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Joshua.Tree.National.Park                                              =  Joshua Tree National Park                                                                                         
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/JoshuaTreeNationalPark.jpg                                       
+fact   Joshua.Tree.National.Park.0                                            =  Located in California                                                                                             
+fact   Joshua.Tree.National.Park.1                                            =  Park covers 790,636 acres (3,200 km2, 1,235 sq miles)                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park.2                                            =  Named for the Joshua tree (Yucca brevifolia) forests native to the park                                           
+fact   Joshua.Tree.National.Park.3                                            =  More than half the park is a designated wilderness area                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park.4                                            =  Includes parts of two deserts, the Mojave Desert and Colorado Desert                                              
+fact   Joshua.Tree.National.Park.5                                            =  9 campgrounds and several hiking trails exist in the park                                                         
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park.6                                            =  Thousands of rock climbing routes, at all levels of difficulty                                                    
+fact   Joshua.Tree.National.Park.7                                            =  Known for its dark skies, the park is popular for stargazing                                                      
+fact   Joshua.Tree.National.Park.8                                            =  Many animal and plant species adapted to desert conditions                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Joshua.Tree.National.Park,.Giant.Marbles                               =  Giant Marbles                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/JoshuaTreeNationalPark,GiantMarbles.jpg                          
+fact   Joshua.Tree.National.Park,.Giant.Marbles.0                             =  Formed 100 million years ago from the cooling of magma beneath the surface                                        
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park,.Giant.Marbles.1                             =  Eroded from rectangular blocks by groundwater                                                                     
+       
+photo  Joshua.Tree.National.Park,.Hidden.Valley.Campground                    =  Hidden Valley Campground                                                                                          
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/JoshuaTreeNationalPark,HiddenValleyCampground.jpg                
+fact   Joshua.Tree.National.Park,.Hidden.Valley.Campground.0                  =  Access to the one-mile hike through Hidden Valley                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park,.Hidden.Valley.Campground.1                  =  9 campgrounds like this one exist in the park                                                                     
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Joshua.Tree.National.Park,.Joshua.Trees                                =  Joshua Trees                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/JoshuaTreeNationalPark,JoshuaTrees.jpg                           
+fact   Joshua.Tree.National.Park,.Joshua.Trees.0                              =  A species of Yucca which is tree-like in habit                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park,.Joshua.Trees.1                              =  Native to the states of California, Arizona, Utah and Nevada, mostly in the Mojave Desert                         
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park,.Joshua.Trees.2                              =  Occurs at altitudes between 400 and 1,800 m                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park,.Joshua.Trees.3                              =  Can live for hundreds of years with some trees living to a thousand years                                         
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Joshua.Tree.National.Park,.Old.Woman.Rock                              =  Old Woman Rock                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/JoshuaTreeNationalPark,OldWomanRock.jpg                          
+fact   Joshua.Tree.National.Park,.Old.Woman.Rock.0                            =  One of the many rock formations in the park                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park,.Old.Woman.Rock.1                            =  This and other formations are popular with rock climbers                                                          
+       remark                                                                 =  yes                                                                                                               
+fact   Joshua.Tree.National.Park,.Old.Woman.Rock.2                            =  Composed of quartz monzonite, a very rough type of granite                                                        
+       
+photo  Kings.Canyon.National.Park                                             =  Kings Canyon National Park                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/KingsCanyonNationalPark.jpg                                      
+fact   Kings.Canyon.National.Park.0                                           =  Located in California                                                                                             
+fact   Kings.Canyon.National.Park.1                                           =  Lies in the southern Sierra Nevada mountains                                                                      
+fact   Kings.Canyon.National.Park.2                                           =  Park covers 461,901 acres                                                                                         
+       remark                                                                 =  yes                                                                                                               
+fact   Kings.Canyon.National.Park.3                                           =  Includes the General Grant Grove of giant sequoias                                                                
+fact   Kings.Canyon.National.Park.4                                           =  Includes the Redwood Mountain Grove, the largest grove of giant sequoias on earth                                 
+fact   Kings.Canyon.National.Park.5                                           =  North of and contiguous with Sequoia National Park                                                                
+fact   Kings.Canyon.National.Park.6                                           =  Abundant wildlife including mule deer, black bears, bobcats and beaver                                            
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Kings.Canyon.National.Park,.Boyden.Cave                                =  Boyden Cave                                                                                                       
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/KingsCanyonNationalPark,BoydenCave.jpg                           
+fact   Kings.Canyon.National.Park,.Boyden.Cave.0                              =  One of several cave systems in Kings Canyon                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Kings.Canyon.National.Park,.Boyden.Cave.1                              =  Open to the public for guided tours                                                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Kings.Canyon.National.Park,.Boyden.Cave.2                              =  Magnificent cavern with many varieties of limestone formation                                                     
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Kings.Canyon.National.Park,.General.Grant.tree                         =  General Grant tree                                                                                                
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/KingsCanyonNationalPark,GeneralGranttree.jpg                     
+fact   Kings.Canyon.National.Park,.General.Grant.tree.0                       =  Largest giant sequoia in the General Grant Grove                                                                  
+fact   Kings.Canyon.National.Park,.General.Grant.tree.1                       =  Third largest tree in the world                                                                                   
+fact   Kings.Canyon.National.Park,.General.Grant.tree.2                       =  Named after Ulysses S. Grant, the 18th President of the USA (1869 to 1877)                                        
+       remark                                                                 =  yes                                                                                                               
+fact   Kings.Canyon.National.Park,.General.Grant.tree.3                       =  Thought to be 1,650 years old                                                                                     
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Kings.Canyon.National.Park,.Kings.Canyon                               =  Kings Canyon                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/KingsCanyonNationalPark,KingsCanyon.jpg                          
+fact   Kings.Canyon.National.Park,.Kings.Canyon.0                             =  At 2,500 m (8,200 ft) deep, it is one of the deepest canyons in the USA                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Kings.Canyon.National.Park,.Kings.Canyon.1                             =  Spectacular U-shaped glacial gorge with a flat floor and towering granite cliffs                                  
+fact   Kings.Canyon.National.Park,.Kings.Canyon.2                             =  Has several cave systems, one of which is the Boyden Cave                                                         
+       
+photo  Kings.Canyon.National.Park,.Kings.River                                =  Kings River                                                                                                       
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/KingsCanyonNationalPark,KingsRiver.jpg                           
+fact   Kings.Canyon.National.Park,.Kings.River.0                              =  Major river of south-central California, about 125 miles long                                                     
+fact   Kings.Canyon.National.Park,.Kings.River.1                              =  Arises in the Sierra Nevada, consisting of three forks                                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Kings.Canyon.National.Park,.Kings.River.2                              =  The South Fork flows in Kings Canyon                                                                              
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Mammoth.Cave.National.Park                                             =  Mammoth Cave National Park                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MammothCaveNationalPark.jpg                                      
+fact   Mammoth.Cave.National.Park.0                                           =  Located in Kentucky                                                                                               
+fact   Mammoth.Cave.National.Park.1                                           =  Centred around the Green River                                                                                    
+fact   Mammoth.Cave.National.Park.2                                           =  Park covers 52,830 acres                                                                                          
+       remark                                                                 =  yes                                                                                                               
+fact   Mammoth.Cave.National.Park.3                                           =  Longest known cave system in the world                                                                            
+fact   Mammoth.Cave.National.Park.4                                           =  640 km (400 miles) of explored caverns and passageways                                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Mammoth.Cave.National.Park.5                                           =  Approx. 15 million years old                                                                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Mammoth.Cave.National.Park.6                                           =  UNESCO World Heritage Site                                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Mammoth.Cave.National.Park,.Frozen.Niagara                             =  Frozen Niagara                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MammothCaveNationalPark,FrozenNiagara.jpg                        
+fact   Mammoth.Cave.National.Park,.Frozen.Niagara.0                           =  The most highly-decorated area of the cave                                                                        
+       remark                                                                 =  yes                                                                                                               
+fact   Mammoth.Cave.National.Park,.Frozen.Niagara.1                           =  Many examples of stalactites which hang from the ceiling of the cave                                              
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Mammoth.Cave.National.Park,.Mammoth.Cave.stalagmites                   =  Mammoth Cave stalagmites                                                                                          
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MammothCaveNationalPark,MammothCavestalagmites.jpg               
+fact   Mammoth.Cave.National.Park,.Mammoth.Cave.stalagmites.0                 =  Rock formation that rises from the floor of a limestone cave                                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Mammoth.Cave.National.Park,.Mammoth.Cave.stalagmites.1                 =  Created by the dripping of water containing minerals and the deposition of calcium carbonate                      
+       
+photo  Mammoth.Cave.National.Park,.Mammoth.Cave.tour                          =  Mammoth Cave tour                                                                                                 
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MammothCaveNationalPark,MammothCavetour.jpg                      
+fact   Mammoth.Cave.National.Park,.Mammoth.Cave.tour.0                        =  Guided tours are available ranging from one to six hours in length                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Mammoth.Cave.National.Park,.Mammoth.Cave.tour.1                        =  Lectures give information about the cave's formation, human history and prehistory                                
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Mount.Rainier.National.Park                                            =  Mount Rainier National Park                                                                                       
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MountRainierNationalPark.jpg                                     
+fact   Mount.Rainier.National.Park.0                                          =  Located in Washington                                                                                             
+fact   Mount.Rainier.National.Park.1                                          =  Park covers 236,381 acres (957 km2, 369 sq miles)                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Mount.Rainier.National.Park.2                                          =  At 14,410 feet, Mt. Rainier, dominates the park's landscape                                                       
+fact   Mount.Rainier.National.Park.3                                          =  Mount Rainier is an active volcano that last erupted in the 1800s                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Mount.Rainier.National.Park.4                                          =  97% of the park is preserved as wilderness                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Mount.Rainier.National.Park,.Little.Tahoma.and.Paradise.Glacier        =  Little Tahoma and Paradise Glacier                                                                                
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MountRainierNationalPark,LittleTahomaandParadiseGlacier.jpg      
+fact   Mount.Rainier.National.Park,.Little.Tahoma.and.Paradise.Glacier.0      =  Satellite peak of Mount Rainier                                                                                   
+fact   Mount.Rainier.National.Park,.Little.Tahoma.and.Paradise.Glacier.1      =  Visible from Seattle over 97 km (60 miles) away                                                                   
+fact   Mount.Rainier.National.Park,.Little.Tahoma.and.Paradise.Glacier.2      =  Volcanic remnant first climbed in 1894                                                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Mount.Rainier.National.Park,.Little.Tahoma.and.Paradise.Glacier.3      =  Paradise Glacier once had the longest mapped system of ice caves in the world                                     
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Mount.Rainier.National.Park,.Mount.Rainier                             =  Mount Rainier                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MountRainierNationalPark,MountRainier.jpg                        
+fact   Mount.Rainier.National.Park,.Mount.Rainier.0                           =  Highest point in the Cascade Range of Mountains                                                                   
+fact   Mount.Rainier.National.Park,.Mount.Rainier.1                           =  Massive stratovolcano, considered to be one of the world's most dangerous volcanoes                               
+fact   Mount.Rainier.National.Park,.Mount.Rainier.2                           =  The most heavily glaciated peak in the United States outside Alaska                                               
+fact   Mount.Rainier.National.Park,.Mount.Rainier.3                           =  Located 87 km (54 miles) southeast of Seattle                                                                     
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Mount.Rainier.National.Park,.Reflection.Lake.and.Mount.Rainier         =  Reflection Lake and Mount Rainier                                                                                 
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MountRainierNationalPark,ReflectionLakeandMountRainier.jpg       
+fact   Mount.Rainier.National.Park,.Reflection.Lake.and.Mount.Rainier.0       =  One of the many lakes in the park                                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Mount.Rainier.National.Park,.Reflection.Lake.and.Mount.Rainier.1       =  Subalpine meadows abound with hundreds of species of wild flowers                                                 
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Mount.Rainier.National.Park,.Wonderland.Trail.and.Mount.Rainier        =  Wonderland Trail and Mount Rainier                                                                                
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/MountRainierNationalPark,WonderlandTrailandMountRainier.jpg      
+fact   Mount.Rainier.National.Park,.Wonderland.Trail.and.Mount.Rainier.0      =  150 km (93 mile) hiking trail that circumnavigates Mount Rainier                                                  
+fact   Mount.Rainier.National.Park,.Wonderland.Trail.and.Mount.Rainier.1      =  Average time taken to complete the entire trip is 10 to 14 days                                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Mount.Rainier.National.Park,.Wonderland.Trail.and.Mount.Rainier.2      =  Trail goes over many ridges of Mt. Rainier for a total elevation gain of 22,000 ft (6,700 m)                      
+fact   Mount.Rainier.National.Park,.Wonderland.Trail.and.Mount.Rainier.3      =  From lowland forests to subalpine meadows of wildflowers, and past 25 glaciers                                    
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Olympic.National.Park                                                  =  Olympic National Park                                                                                             
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/OlympicNationalPark.jpg                                          
+fact   Olympic.National.Park.0                                                =  Located in Washington                                                                                             
+fact   Olympic.National.Park.1                                                =  Lies on the Olympic Peninsula                                                                                     
+fact   Olympic.National.Park.2                                                =  Park covers 922,650 acres                                                                                         
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park.3                                                =  Parts of the park get as much as 12 feet of rain a year                                                           
+fact   Olympic.National.Park.4                                                =  Beaches, rain forests, glaciers and miles of hiking trails                                                        
+fact   Olympic.National.Park.5                                                =  Most of the park is wilderness                                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park.6                                                =  UNESCO World Heritage Site                                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Olympic.National.Park,.Hoh.Rainforest                                  =  Hoh Rainforest                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/OlympicNationalPark,HohRainforest.jpg                            
+fact   Olympic.National.Park,.Hoh.Rainforest.0                                =  One of the largest temperate rainforests in the U.S.                                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park,.Hoh.Rainforest.1                                =  Dominant species are Sitka Spruce and Western hemlock                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park,.Hoh.Rainforest.2                                =  Many unique mosses and lichens grow in the rainforest                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park,.Hoh.Rainforest.3                                =  Includes the famous hiking route - "The Hall of Mosses Trail"                                                     
+       
+photo  Olympic.National.Park,.Hurricane.Ridge                                 =  Hurricane Ridge                                                                                                   
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/OlympicNationalPark,HurricaneRidge.jpg                           
+fact   Olympic.National.Park,.Hurricane.Ridge.0                               =  So named for its intense gales and winds                                                                          
+fact   Olympic.National.Park,.Hurricane.Ridge.1                               =  The ridge offers spectacular views of the Olympic Mountains                                                       
+fact   Olympic.National.Park,.Hurricane.Ridge.2                               =  In summer, popular for hiking with many trails                                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park,.Hurricane.Ridge.3                               =  In winter, popular for skiing and snowboarding                                                                    
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Olympic.National.Park,.Mount.Olympus                                   =  Mount Olympus                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/OlympicNationalPark,MountOlympus.jpg                             
+fact   Olympic.National.Park,.Mount.Olympus.0                                 =  Tallest mountain in the Olympic Mountains                                                                         
+fact   Olympic.National.Park,.Mount.Olympus.1                                 =  Central feature of the national park                                                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park,.Mount.Olympus.2                                 =  Has large glaciers due to heavy winter snowfalls                                                                  
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park,.Mount.Olympus.3                                 =  Height is 2,432 m (7,980 ft)                                                                                      
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Olympic.National.Park,.Ruby.Beach                                      =  Ruby Beach                                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/OlympicNationalPark,RubyBeach.jpg                                
+fact   Olympic.National.Park,.Ruby.Beach.0                                    =  One of many beaches in the coastal section of the park                                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park,.Ruby.Beach.1                                    =  Has a tremendous amount of driftwood                                                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Olympic.National.Park,.Ruby.Beach.2                                    =  Notable for the number of sea stacks                                                                              
+       
+photo  Petrified.Forest.National.Park                                         =  Petrified Forest National Park                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/PetrifiedForestNationalPark.jpg                                  
+fact   Petrified.Forest.National.Park.0                                       =  Located in Arizona                                                                                                
+fact   Petrified.Forest.National.Park.1                                       =  Park covers 221,552 acres (380 km2, 146 sq miles)                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park.2                                       =  Known for its large deposits of petrified wood                                                                    
+fact   Petrified.Forest.National.Park.3                                       =  Fossils date from the Late Triassic, about 225 million years ago                                                  
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park.4                                       =  Dominant plants in the park are grasses, with over 100 species                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park.5                                       =  Animals include pronghorns, prairie dogs, coyotes and bobcats                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park.6                                       =  About half of the park is designated wilderness                                                                   
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Petrified.Forest.National.Park,.Painted.Desert                         =  Painted Desert                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/PetrifiedForestNationalPark,PaintedDesert.jpg                    
+fact   Petrified.Forest.National.Park,.Painted.Desert.0                       =  Vast area of "badlands" in both the Grand Canyon and Petrified Forest National Parks                              
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.Painted.Desert.1                       =  Sedimentary rocks and clay-rich soils have been eroded by wind and water                                          
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.Painted.Desert.2                       =  Deposits of minerals give the rocks their vivid colours                                                           
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Petrified.Forest.National.Park,.Petrified.Wood                         =  Petrified Wood                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/PetrifiedForestNationalPark,PetrifiedWood.jpg                    
+fact   Petrified.Forest.National.Park,.Petrified.Wood.0                       =  Petrification is a process that turns tree remains into stone                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.Petrified.Wood.1                       =  All organic materials have been replaced with minerals of different colours                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.Petrified.Wood.2                       =  The process occurs underground, when wood becomes buried under sediment                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.Petrified.Wood.3                       =  The original plant structure remains intact                                                                       
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Petrified.Forest.National.Park,.Petroglyphs                            =  Petroglyphs                                                                                                       
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/PetrifiedForestNationalPark,Petroglyphs.jpg                      
+fact   Petrified.Forest.National.Park,.Petroglyphs.0                          =  Images and symbols are scratched or engraved onto rock surfaces                                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.Petroglyphs.1                          =  Most are thought to be between 650 and 2,000 years old                                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.Petroglyphs.2                          =  Created by early farmers living in the area                                                                       
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Petrified.Forest.National.Park,.The.Tepees                             =  The Tepees                                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/PetrifiedForestNationalPark,TheTepees.jpg                        
+fact   Petrified.Forest.National.Park,.The.Tepees.0                           =  Named after the likeness of tented homes of North American Indians                                                
+fact   Petrified.Forest.National.Park,.The.Tepees.1                           =  About 220 to 225 million years old                                                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.The.Tepees.2                           =  Made from layers of mudstone and sandstone                                                                        
+       remark                                                                 =  yes                                                                                                               
+fact   Petrified.Forest.National.Park,.The.Tepees.3                           =  Laid down when the area was part of a huge tropical floodplain                                                    
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Rocky.Mountain.National.Park                                           =  Rocky Mountain National Park                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/RockyMountainNationalPark.jpg                                    
+fact   Rocky.Mountain.National.Park.0                                         =  Located in Colorado                                                                                               
+fact   Rocky.Mountain.National.Park.1                                         =  Park covers 265,761 acres (1,075 km2, 415 sq miles)                                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park.2                                         =  359 miles of hiking trails, 150 lakes and 450 miles of streams                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park.3                                         =  72 mountains taller than 3,700 m (12,000 ft)                                                                      
+fact   Rocky.Mountain.National.Park.4                                         =  Includes the headwaters of the Colorado River                                                                     
+fact   Rocky.Mountain.National.Park.5                                         =  Park is split by the Continental Divide                                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park.6                                         =  East side of the park is drier, with heavily glaciated peaks and cirques                                          
+fact   Rocky.Mountain.National.Park.7                                         =  West side of the park is wetter, with deep forests dominating                                                     
+fact   Rocky.Mountain.National.Park.8                                         =  Much wildlife includes elk, bighorn sheep, black bears, mountain lions and moose                                  
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Rocky.Mountain.National.Park,.Dream.Lake.and.Hallett.Peak              =  Dream Lake and Hallett Peak                                                                                       
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/RockyMountainNationalPark,DreamLakeandHallettPeak.jpg            
+fact   Rocky.Mountain.National.Park,.Dream.Lake.and.Hallett.Peak.0            =  High alpine lake located east of the Continental Divide                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park,.Dream.Lake.and.Hallett.Peak.1            =  Sits at the foot of Hallett Peak and reached by a hiking trail                                                    
+       
+photo  Rocky.Mountain.National.Park,.Grand.Lake                               =  Grand Lake                                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/RockyMountainNationalPark,GrandLake.jpg                          
+fact   Rocky.Mountain.National.Park,.Grand.Lake.0                             =  Colorado's largest and deepest natural lake                                                                       
+fact   Rocky.Mountain.National.Park,.Grand.Lake.1                             =  Fills a glaciated valley one mile from the Park's western entrance                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park,.Grand.Lake.2                             =  Historic town of Grand Lake sits on its northern shore                                                            
+fact   Rocky.Mountain.National.Park,.Grand.Lake.3                             =  The Park surrounds the lake on three sides                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Rocky.Mountain.National.Park,.Longs.Peak                               =  Longs Peak                                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/RockyMountainNationalPark,LongsPeak.jpg                          
+fact   Rocky.Mountain.National.Park,.Longs.Peak.0                             =  Highest mountain in the Park at 4,346 m (14,259 ft)                                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park,.Longs.Peak.1                             =  Dominates the Park and visible from many vantage points                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park,.Longs.Peak.2                             =  Named after Major Stephen Long who explored the area in the 1820s                                                 
+fact   Rocky.Mountain.National.Park,.Longs.Peak.3                             =  A number of hiking trails and rock climbing routes ascend to the summit                                           
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Rocky.Mountain.National.Park,.Milner.Pass                              =  Milner Pass                                                                                                       
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/RockyMountainNationalPark,MilnerPass.jpg                         
+fact   Rocky.Mountain.National.Park,.Milner.Pass.0                            =  Located on the Continental Divide                                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park,.Milner.Pass.1                            =  The "Great Divide" separates drainage to the Atlantic from drainage to the Pacific                                
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park,.Milner.Pass.2                            =  At this watershed, rainwater drains into the Pacific Ocean to the west                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Rocky.Mountain.National.Park,.Milner.Pass.3                            =  At this watershed, rainwater drains into the Atlantic Ocean to the east                                           
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Sequoia.National.Park                                                  =  Sequoia National Park                                                                                             
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/SequoiaNationalPark.jpg                                          
+fact   Sequoia.National.Park.0                                                =  Located in California                                                                                             
+fact   Sequoia.National.Park.1                                                =  Lies in the southern Sierra Nevada mountains                                                                      
+fact   Sequoia.National.Park.2                                                =  Park covers 404,063 acres (1,635 km2, 631 sq miles)                                                               
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park.3                                                =  The nation's second-oldest national park after Yellowstone                                                        
+fact   Sequoia.National.Park.4                                                =  Famous for its giant Sequoia trees                                                                                
+fact   Sequoia.National.Park.5                                                =  The park is south of and contiguous with Kings Canyon National Park                                               
+fact   Sequoia.National.Park.6                                                =  Most of the park is wilderness with no roads                                                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park.7                                                =  Home to abundant wildlife including mule deer, black bears and bobcats                                            
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Sequoia.National.Park,.Crystal.Cave                                    =  Crystal Cave                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/SequoiaNationalPark,CrystalCave.jpg                              
+fact   Sequoia.National.Park,.Crystal.Cave.0                                  =  One of over 240 known caves in the park                                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park,.Crystal.Cave.1                                  =  The park's second-longest at over 5.5 km (3.4 miles)                                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park,.Crystal.Cave.2                                  =  This is the only commercial cave open to park visitors                                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park,.Crystal.Cave.3                                  =  Temperature is a constant 48 °F (9 °C)                                                                            
+fact   Sequoia.National.Park,.Crystal.Cave.4                                  =  The cave is only accessible by a guided tour                                                                      
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Sequoia.National.Park,.Giant.Forest                                    =  Giant Forest                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/SequoiaNationalPark,GiantForest.jpg                              
+fact   Sequoia.National.Park,.Giant.Forest.0                                  =  Contains five out of the ten largest trees in the world                                                           
+fact   Sequoia.National.Park,.Giant.Forest.1                                  =  The General Sherman tree is the world's biggest and grows here                                                    
+fact   Sequoia.National.Park,.Giant.Forest.2                                  =  Over 64 km (40 miles) of hiking trails                                                                            
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Sequoia.National.Park,.Hamilton.Lake.and.High.Sierra.Trail             =  Hamilton Lake and High Sierra Trail                                                                               
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/SequoiaNationalPark,HamiltonLakeandHighSierraTrail.jpg           
+fact   Sequoia.National.Park,.Hamilton.Lake.and.High.Sierra.Trail.0           =  The High Sierra Trail crosses the Sierra Nevada from west to east                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park,.Hamilton.Lake.and.High.Sierra.Trail.1           =  The High Sierra Trail has switchbacks above Hamilton Lake                                                         
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park,.Hamilton.Lake.and.High.Sierra.Trail.2           =  Hamilton Lake lies beneath Kaweah Gap, through which the High Sierra Trail passes                                 
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Sequoia.National.Park,.Moro.Rock                                       =  Moro Rock                                                                                                         
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/SequoiaNationalPark,MoroRock.jpg                                 
+fact   Sequoia.National.Park,.Moro.Rock.0                                     =  Granite dome located in the centre of the park                                                                    
+fact   Sequoia.National.Park,.Moro.Rock.1                                     =  A 400-step stairway cut into the rock allows visitors to hike to the top                                          
+fact   Sequoia.National.Park,.Moro.Rock.2                                     =  The view from the top, at 2,050 m (6,725 ft), encompasses much of the park                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Sequoia.National.Park,.Mount.Whitney                                   =  Mount Whitney                                                                                                     
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/SequoiaNationalPark,MountWhitney.jpg                             
+fact   Sequoia.National.Park,.Mount.Whitney.0                                 =  Highest point in the in the United States outside Alaska                                                          
+fact   Sequoia.National.Park,.Mount.Whitney.1                                 =  Rises 4,421 m (14,505 feet) above sea level                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park,.Mount.Whitney.2                                 =  Lies on the eastern border of the park                                                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Sequoia.National.Park,.Mount.Whitney.3                                 =  Accessible from the Giant Forest via the High Sierra Trail                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Yellowstone.National.Park                                              =  Yellowstone National Park                                                                                         
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YellowstoneNationalPark.jpg                                      
+fact   Yellowstone.National.Park.0                                            =  Located in Wyoming (96%), Montana (3%) and Idaho (1%)                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park.1                                            =  The first national park in the world, established in 1872                                                         
+fact   Yellowstone.National.Park.2                                            =  Park covers 2,219,791 acres (8,983 km2, 3,468 sq miles)                                                           
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park.3                                            =  Known for its wildlife and its 10,000 geothermal features                                                         
+fact   Yellowstone.National.Park.4                                            =  Many different landscapes including lakes, canyons, rivers and mountain ranges                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park.5                                            =  Subalpine forest is the dominant ecosystem                                                                        
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park.6                                            =  80% of the forested areas comprise Lodgepole Pine                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park.7                                            =  Grizzly bears, wolves, and free-ranging herds of bison and elk live in the park                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park.8                                            =  The park sits on the Yellowstone Plateau which is a massive caldera of a supervolcano                             
+fact   Yellowstone.National.Park.9                                            =  Contains 60% of the world's geysers                                                                               
+fact   Yellowstone.National.Park.10                                           =  UNESCO World Heritage Site                                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Yellowstone.National.Park,.Fishing.Cone.Geyser.and.Yellowstone.Lake    =  Fishing Cone Geyser and Yellowstone Lake                                                                          
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YellowstoneNationalPark,FishingConeGeyserandYellowstoneLake.jpg  
+fact   Yellowstone.National.Park,.Fishing.Cone.Geyser.and.Yellowstone.Lake.0  =  Largest high-altitude lake in North America at 2,357 m (7,733 ft) above sea level                                 
+fact   Yellowstone.National.Park,.Fishing.Cone.Geyser.and.Yellowstone.Lake.1  =  Up to 120 m (400 ft) deep with 180 km (110 miles) of shoreline                                                    
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park,.Fishing.Cone.Geyser.and.Yellowstone.Lake.2  =  Centred over the Yellowstone Caldera, the largest supervolcano on the continent                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park,.Fishing.Cone.Geyser.and.Yellowstone.Lake.3  =  Fishing Cone Geyser used to erupt 12 m but is now a hot spring                                                    
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Yellowstone.National.Park,.Grand.Prismatic.Spring                      =  Grand Prismatic Spring                                                                                            
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YellowstoneNationalPark,GrandPrismaticSpring.jpg                 
+fact   Yellowstone.National.Park,.Grand.Prismatic.Spring.0                    =  The largest hot spring in the United States, and the third largest in the world                                   
+fact   Yellowstone.National.Park,.Grand.Prismatic.Spring.1                    =  Located in the Midway Geyser Basin                                                                                
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park,.Grand.Prismatic.Spring.2                    =  110 m (370 ft) wide and 37 m (121 ft) deep                                                                        
+fact   Yellowstone.National.Park,.Grand.Prismatic.Spring.3                    =  Named after the rainbow dispersion of white light by an optical prism                                             
+fact   Yellowstone.National.Park,.Grand.Prismatic.Spring.4                    =  Striking colours are caused by pigmented bacteria growing in the mineral-rich water                               
+       
+photo  Yellowstone.National.Park,.Great.Fountain.Geyser                       =  Great Fountain Geyser                                                                                             
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YellowstoneNationalPark,GreatFountainGeyser.jpg                  
+fact   Yellowstone.National.Park,.Great.Fountain.Geyser.0                     =  Located in the Lower Geyser Basin                                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Yellowstone.National.Park,.Great.Fountain.Geyser.1                     =  Erupts every 9 to 15 hours for about an hour                                                                      
+fact   Yellowstone.National.Park,.Great.Fountain.Geyser.2                     =  Height of eruption ranges from 23 m to 67 m (220 ft)                                                              
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Yellowstone.National.Park,.Old.Faithful                                =  Old Faithful                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YellowstoneNationalPark,OldFaithful.jpg                          
+fact   Yellowstone.National.Park,.Old.Faithful.0                              =  The most famous of 300 geysers in the park                                                                        
+fact   Yellowstone.National.Park,.Old.Faithful.1                              =  Called the most predictable geographical feature on Earth                                                         
+fact   Yellowstone.National.Park,.Old.Faithful.2                              =  Erupts almost every 91 minutes with scalding hot water                                                            
+fact   Yellowstone.National.Park,.Old.Faithful.3                              =  Eruptions can shoot up to 32,000 litres of boiling water to a height of 56 m (185 ft)                             
+fact   Yellowstone.National.Park,.Old.Faithful.4                              =  Eruptions last from 1.5 to 5 minutes                                                                              
+       
+photo  Yosemite.National.Park                                                 =  Yosemite National Park                                                                                            
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YosemiteNationalPark.jpg                                         
+fact   Yosemite.National.Park.0                                               =  Located in California                                                                                             
+fact   Yosemite.National.Park.1                                               =  Lies east of San Francisco in the Sierra Nevada mountains                                                         
+fact   Yosemite.National.Park.2                                               =  Park covers 761,268 acres (3,080 km2, 1,189 sq miles)                                                             
+       remark                                                                 =  yes                                                                                                               
+fact   Yosemite.National.Park.3                                               =  Deep valleys, vast meadows, granite cliffs and groves of Giant Sequoia trees                                      
+       remark                                                                 =  yes                                                                                                               
+fact   Yosemite.National.Park.4                                               =  95% of the park is designated as wilderness                                                                       
+       remark                                                                 =  yes                                                                                                               
+fact   Yosemite.National.Park.5                                               =  Has many spectacular waterfalls which are at their finest in spring                                               
+fact   Yosemite.National.Park.6                                               =  800 miles of hiking trails                                                                                        
+       remark                                                                 =  yes                                                                                                               
+fact   Yosemite.National.Park.7                                               =  UNESCO World Heritage Site                                                                                        
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Yosemite.National.Park,.El.Capitan                                     =  El Capitan                                                                                                        
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YosemiteNationalPark,ElCapitan.jpg                               
+fact   Yosemite.National.Park,.El.Capitan.0                                   =  Located on the north side of Yosemite Valley                                                                      
+fact   Yosemite.National.Park,.El.Capitan.1                                   =  This granite monolith is about 900 m (3,000 ft) high from base to summit                                          
+fact   Yosemite.National.Park,.El.Capitan.2                                   =  One of the world's favourite challenges for rock climbers with over 100 routes                                    
+       
+photo  Yosemite.National.Park,.Half.Dome                                      =  Half Dome                                                                                                         
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YosemiteNationalPark,HalfDome.jpg                                
+fact   Yosemite.National.Park,.Half.Dome.0                                    =  Possibly Yosemite's most familiar rock formation                                                                  
+fact   Yosemite.National.Park,.Half.Dome.1                                    =  This granite dome rises 1,444 m (4,737 ft) above the valley floor                                                 
+fact   Yosemite.National.Park,.Half.Dome.2                                    =  Hikers can reach the top by following a trail with steel cables near the summit                                   
+       remark                                                                 =  yes                                                                                                               
+fact   Yosemite.National.Park,.Half.Dome.3                                    =  Rock climbing routes ascend the vertical northwest face                                                           
+       
+photo  Yosemite.National.Park,.Vernal.Falls                                   =  Vernal Falls                                                                                                      
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YosemiteNationalPark,VernalFalls.jpg                             
+fact   Yosemite.National.Park,.Vernal.Falls.0                                 =  Magnificent 97 metre (317 ft) waterfall on the Merced River                                                       
+fact   Yosemite.National.Park,.Vernal.Falls.1                                 =  Part of the Mist Trail, one of Yosemite's most popular short hikes                                                
+fact   Yosemite.National.Park,.Vernal.Falls.2                                 =  Emerald Pool sits above the falls and, in spite of warnings, bathers have been swept over the falls               
+       
+photo  Yosemite.National.Park,.Yosemite.Valley                                =  Yosemite Valley                                                                                                   
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/YosemiteNationalPark,YosemiteValley.jpg                          
+fact   Yosemite.National.Park,.Yosemite.Valley.0                              =  Most visitors to the park visit this seven-square mile valley                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Yosemite.National.Park,.Yosemite.Valley.1                              =  Carved out by the Merced River and its many tributary streams                                                     
+fact   Yosemite.National.Park,.Yosemite.Valley.2                              =  Large meadows are surrounded by high granite summits such as Half Dome                                            
+fact   Yosemite.National.Park,.Yosemite.Valley.3                              =  Densely forested with pine trees                                                                                  
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Zion.National.Park                                                     =  Zion National Park                                                                                                
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ZionNationalPark.jpg                                             
+fact   Zion.National.Park.0                                                   =  Located in Utah                                                                                                   
+fact   Zion.National.Park.1                                                   =  Park covers 146,597 acres (590 km2, 229 sq miles)                                                                 
+       remark                                                                 =  yes                                                                                                               
+fact   Zion.National.Park.2                                                   =  Many multicoloured canyons, mesas, towers, rivers and natural arches                                              
+       remark                                                                 =  yes                                                                                                               
+fact   Zion.National.Park.3                                                   =  Many different plants and animals including 19 species of bat                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Zion.National.Park.4                                                   =  7 hiking trails and lots of rock climbing routes                                                                  
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Zion.National.Park,.Angels.Landing                                     =  Angels Landing                                                                                                    
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ZionNationalPark,AngelsLanding.jpg                               
+fact   Zion.National.Park,.Angels.Landing.0                                   =  Rock formation measuring 454 m (1,488 ft) in height                                                               
+fact   Zion.National.Park,.Angels.Landing.1                                   =  Popular trail leads to the top, cut out of the solid rock                                                         
+fact   Zion.National.Park,.Angels.Landing.2                                   =  Chain cables are provided for grip as there are sharp drop offs and narrow paths                                  
+fact   Zion.National.Park,.Angels.Landing.3                                   =  Summit gives a spectacular view of the canyon                                                                     
+       
+photo  Zion.National.Park,.Checkerboard.Mesa                                  =  Checkerboard Mesa                                                                                                 
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ZionNationalPark,CheckerboardMesa.jpg                            
+fact   Zion.National.Park,.Checkerboard.Mesa.0                                =  One of the best known mountains in the Park at 2,033 m                                                            
+       remark                                                                 =  yes                                                                                                               
+fact   Zion.National.Park,.Checkerboard.Mesa.1                                =  Named for its likeness to a checkerboard caused by lines of erosion in the sedimentary rock                       
+       
+photo  Zion.National.Park,.The.Narrows                                        =  The Narrows                                                                                                       
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ZionNationalPark,TheNarrows.jpg                                  
+fact   Zion.National.Park,.The.Narrows.0                                      =  Section of canyon upstream from the main Zion Canyon                                                              
+fact   Zion.National.Park,.The.Narrows.1                                      =  Hiking The Narrows is one of the premier hikes on the Colorado Plateau                                            
+fact   Zion.National.Park,.The.Narrows.2                                      =  The hike is 26 km (16 miles) long and is very tiring because it is in the river itself                            
+       remark                                                                 =  yes                                                                                                               
+fact   Zion.National.Park,.The.Narrows.3                                      =  Thunderstorms can cause The Narrows to flash flood during the summer                                              
+       remark                                                                 =  yes                                                                                                               
+       
+photo  Zion.National.Park,.Zion.Canyon.as.seen.from.Angel's.Landing           =  Zion Canyon as seen from Angel's Landing                                                                          
+       url                                                                    =  github://philiprbrenan/vocabulary-9/images/Parks/ZionNationalPark,ZionCanyonasseenfromAngel'sLanding.jpg          
+fact   Zion.National.Park,.Zion.Canyon.as.seen.from.Angel's.Landing.0         =  Park's most popular formation                                                                                     
+       remark                                                                 =  yes                                                                                                               
+fact   Zion.National.Park,.Zion.Canyon.as.seen.from.Angel's.Landing.1         =  24 km (15 miles) long and up to 800 m (half a mile) deep                                                          
+       remark                                                                 =  yes                                                                                                               
+fact   Zion.National.Park,.Zion.Canyon.as.seen.from.Angel's.Landing.2         =  Carved by the Virgin River cutting through the red and tan Navajo Sandstone                                       
