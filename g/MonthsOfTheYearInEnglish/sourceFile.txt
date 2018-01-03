@@ -1,0 +1,43 @@
+app g.MonthsOfTheYearInEnglish   = Months of the Year in English
+  description  = Learn about Months of the Year in English in English
+  icon         = October.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  April      =  April                                                                              
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/April.jpg      
+       
+photo  August     =  August                                                                             
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/August.jpg     
+       
+photo  December   =  December                                                                           
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/December.jpg   
+       
+photo  February   =  February                                                                           
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/February.jpg   
+       
+photo  January    =  January                                                                            
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/January.jpg    
+       
+photo  July       =  July                                                                               
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/July.jpg       
+       
+photo  June       =  June                                                                               
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/June.jpg       
+       
+photo  March      =  March                                                                              
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/March.jpg      
+       
+photo  May        =  May                                                                                
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/May.jpg        
+       
+photo  November   =  November                                                                           
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/November.jpg   
+       
+photo  October    =  October                                                                            
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/October.jpg    
+       
+photo  September  =  September                                                                          
+       url        =  github://philiprbrenan/vocabulary-8/images/MonthsOfTheYearInEnglish/September.jpg  
