@@ -1,0 +1,350 @@
+app g.Glacier   = Glacier National Park, USA
+  description  = Learn about Glacier National Park, USA in English
+  icon         = Bearhat Mountain and Hidden Lake.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Alpine.Glacier.Poppy                     =  Alpine Glacier Poppy                                                                       
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/AlpineGlacierPoppy.jpg                  
+fact   Alpine.Glacier.Poppy.0                   =  Native to British Columbia, Alberta, and Montana                                           
+       remark                                   =  yes                                                                                        
+fact   Alpine.Glacier.Poppy.1                   =  Grows on rocky terrain in high mountain habitat in alpine climates                         
+       remark                                   =  yes                                                                                        
+fact   Alpine.Glacier.Poppy.2                   =  Blooms in July and August                                                                  
+       remark                                   =  yes                                                                                        
+       
+photo  Avalanche.Lake                           =  Avalanche Lake                                                                             
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/AvalancheLake.jpg                       
+fact   Avalanche.Lake.0                         =  Receives meltwater from Sperry Glacier                                                     
+fact   Avalanche.Lake.1                         =  Reached via a 3.2 km (2 miles) hike along the Trail of the Cedars                          
+fact   Avalanche.Lake.2                         =  Trailhead is accessible from Going-to-the-Sun Road                                         
+       remark                                   =  yes                                                                                        
+       
+photo  Beargrass                                =  Beargrass                                                                                  
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/Beargrass.jpg                           
+fact   Beargrass.0                              =  Unofficial symbol of Glacier National Park                                                 
+fact   Beargrass.1                              =  Blooms on an unpredictable cycle of 3-7 years                                              
+fact   Beargrass.2                              =  Can survive fires and is often the first plant to sprout in a scorched area                
+fact   Beargrass.3                              =  Native Americans wove its fibrous, dried leaves into baskets                               
+       
+photo  Bearhat.Mountain.and.Hidden.Lake         =  Bearhat Mountain and Hidden Lake                                                           
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/BearhatMountainandHiddenLake.jpg        
+fact   Bearhat.Mountain.and.Hidden.Lake.0       =  View from Hidden Lake Overlook on the Hidden Lake Trail                                    
+fact   Bearhat.Mountain.and.Hidden.Lake.1       =  The lake is a popular 10 km (6 mile) round hike from Logan Pass                            
+       remark                                   =  yes                                                                                        
+fact   Bearhat.Mountain.and.Hidden.Lake.2       =  The mountain rises above Hidden Lake and the Hidden Lake Trail                             
+       remark                                   =  yes                                                                                        
+       
+photo  Big.Drift                                =  Big Drift                                                                                  
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/BigDrift.jpg                            
+fact   Big.Drift.0                              =  The huge annual snow drift along Going-to-the-Sun Road                                     
+fact   Big.Drift.1                              =  Located immediately east of Logan Pass                                                     
+fact   Big.Drift.2                              =  Winter snow accumulates to depths of more than 30 meters (100 ft)                          
+fact   Big.Drift.3                              =  It often takes a month of snow-ploughing to clear this one mile strech of road             
+fact   Big.Drift.4                              =  It takes about 10 weeks to remove all the snow from the entire 53 mile roadway             
+       remark                                   =  yes                                                                                        
+       
+photo  Bighorn.Sheep                            =  Bighorn Sheep                                                                              
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/BighornSheep.jpg                        
+fact   Bighorn.Sheep.0                          =  Named for its huge horns which can weigh up to 14 kilograms (30 lbs)                       
+fact   Bighorn.Sheep.1                          =  Native to North America, living in large flocks                                            
+       remark                                   =  yes                                                                                        
+fact   Bighorn.Sheep.2                          =  Found in alpine meadows, mountain slopes and rugged foothills                              
+       remark                                   =  yes                                                                                        
+fact   Bighorn.Sheep.3                          =  Well adapted to climbing steep terrain where they can find cover from predators            
+       
+photo  Bird.Woman.Falls                         =  Bird Woman Falls                                                                           
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/BirdWomanFalls.jpg                      
+fact   Bird.Woman.Falls.0                       =  One of the tallest waterfalls in the park at 170 m (560 ft)                                
+fact   Bird.Woman.Falls.1                       =  Drops from a hanging valley on Mount Oberlin, northwest of Logan Pass                      
+fact   Bird.Woman.Falls.2                       =  Visible from a distance of two miles (3.2 km) along the Going-to-the-Sun Road              
+       remark                                   =  yes                                                                                        
+fact   Bird.Woman.Falls.3                       =  Flow is greatest in late spring and early summer and can cease in the autumn               
+       remark                                   =  yes                                                                                        
+       
+photo  Clark's.Nutcracker                       =  Clark's Nutcracker                                                                         
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/Clark'sNutcracker.jpg                   
+fact   Clark's.Nutcracker.0                     =  Gathers and buries seeds from Whitebark pine cones which grow at the treeline              
+fact   Clark's.Nutcracker.1                     =  Can remember several hundred caches of Whitebark seeds made in a summer                    
+fact   Clark's.Nutcracker.2                     =  It finds and eats about 70 percent of the Whitebark seeds it has buried                    
+fact   Clark's.Nutcracker.3                     =  Uneaten seeds are placed at the perfect depth to grow new trees                            
+       
+photo  Clements.Mountain                        =  Clements Mountain                                                                          
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/ClementsMountain.jpg                    
+fact   Clements.Mountain.0                      =  2,670 m (8,760 ft) above sea level                                                         
+       remark                                   =  yes                                                                                        
+fact   Clements.Mountain.1                      =  Rises to the west of Logan Pass above Hidden Lake                                          
+       remark                                   =  yes                                                                                        
+fact   Clements.Mountain.2                      =  Named after the man who negotiated the purchase of Blackfeet land for the park             
+       
+photo  Garden.Wall                              =  Garden Wall                                                                                
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/GardenWall.jpg                          
+fact   Garden.Wall.0                            =  Knife-like ridge that separates the Many Glacier region from Lake McDonald valley          
+fact   Garden.Wall.1                            =  Located along the west side of the Continental Divide                                      
+       remark                                   =  yes                                                                                        
+fact   Garden.Wall.2                            =  Extends north from Logan Pass                                                              
+fact   Garden.Wall.3                            =  Can be traversed via the popular Highline Trail                                            
+fact   Garden.Wall.4                            =  Well known for spectacular displays of summer wildflowers                                  
+       remark                                   =  yes                                                                                        
+       
+photo  Glacier.Lily                             =  Glacier Lily                                                                               
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/GlacierLily.jpg                         
+fact   Glacier.Lily.0                           =  Fields of these wildflowers carpet the park's subalpine meadows in the spring              
+fact   Glacier.Lily.1                           =  The plant grows from a deep bulb which is 3 to 5 cm wide                                   
+fact   Glacier.Lily.2                           =  Its buld are an important food for grizzly bears, while its foliage is eaten by Mule Deer  
+       
+photo  Glacier.National.Park                    =  Glacier National Park                                                                      
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/GlacierNationalPark.jpg                 
+fact   Glacier.National.Park.0                  =  Located in Montana                                                                         
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.1                  =  Just south of the Canadian border in the Rocky Mountains                                   
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.2                  =  Park covers more than 4 thousand square kilometers (1,013,322 acres, 1,583 square miles)   
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.3                  =  Named after the glaciers that carved its landscape millions of years ago                   
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.4                  =  93% of the park is managed as wilderness                                                   
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.5                  =  13 campsites and more than 700 miles of hiking trails                                      
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.6                  =  Vast pristine ecosystem with over 130 named lakes                                          
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.7                  =  Two and a half thousand kilometers (1,557 miles) of perennial streams                      
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.8                  =  More than 1,000 different species of plants                                                
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.9                  =  Hundreds of species of animals include grizzly bears, mountain goat and lynx               
+       remark                                   =  yes                                                                                        
+fact   Glacier.National.Park.10                 =  Native Americans know it as the "Backbone of the World"                                    
+       remark                                   =  yes                                                                                        
+       
+photo  Going-to-the-Sun.Mountain                =  Going-to-the-Sun Mountain                                                                  
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/Going-to-the-SunMountain.jpg            
+fact   Going-to-the-Sun.Mountain.0              =  Rises dramatically above St. Mary Valley just north of the Going-to-the-Sun Road           
+fact   Going-to-the-Sun.Mountain.1              =  Dominates the eastbound view beyond Logan Pass                                             
+fact   Going-to-the-Sun.Mountain.2              =  Height is 2,939 m (9,642 ft)                                                               
+       remark                                   =  yes                                                                                        
+       
+photo  Going-to-the-Sun.Road                    =  Going-to-the-Sun Road                                                                      
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/Going-to-the-SunRoad.jpg                
+fact   Going-to-the-Sun.Road.0                  =  Only road through the heart of the park, 85 km (53 miles) long                             
+fact   Going-to-the-Sun.Road.1                  =  Crosses the Continental Divide at Logan Pass                                               
+fact   Going-to-the-Sun.Road.2                  =  Completed in 1932, it is now a National Historic Landmark                                  
+fact   Going-to-the-Sun.Road.3                  =  Generally open from early June to mid October                                              
+       remark                                   =  yes                                                                                        
+fact   Going-to-the-Sun.Road.4                  =  Usually takes 10 weeks to clear the snow each spring                                       
+       
+photo  Golden-mantled.Ground.Squirrel           =  Golden-mantled Ground Squirrel                                                             
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/Golden-mantledGroundSquirrel.jpg        
+fact   Golden-mantled.Ground.Squirrel.0         =  Found in mountainous areas of western North America                                        
+       remark                                   =  yes                                                                                        
+fact   Golden-mantled.Ground.Squirrel.1         =  Has chipmunk-like stripes and colouration, but lacks facial stripes                        
+fact   Golden-mantled.Ground.Squirrel.2         =  Stores food in its burrow for eating in the spring after hibernation                       
+fact   Golden-mantled.Ground.Squirrel.3         =  Carries food in cheek pouches; seeds, nuts, berries and insects                            
+       
+photo  Granite.Park.Chalet                      =  Granite Park Chalet                                                                        
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/GraniteParkChalet.jpg                   
+fact   Granite.Park.Chalet.0                    =  One of the two remaining backcountry chalets in the park                                   
+fact   Granite.Park.Chalet.1                    =  Accessible only by trail, either hiking or horseback                                       
+       remark                                   =  yes                                                                                        
+fact   Granite.Park.Chalet.2                    =  Built in 1914 by the Great Northern Railway and is a National Historic Landmark            
+       remark                                   =  yes                                                                                        
+fact   Granite.Park.Chalet.3                    =  Reached via the Loop, Highline and Swiftcurrent hiking trails                              
+       remark                                   =  yes                                                                                        
+       
+photo  Grinnell.Glacier                         =  Grinnell Glacier                                                                           
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/GrinnellGlacier.jpg                     
+fact   Grinnell.Glacier.0                       =  On the north side of Mount Gould in the Many Glacier region of the park                    
+fact   Grinnell.Glacier.1                       =  Can be seen from an overlook near the Highline Trail                                       
+fact   Grinnell.Glacier.2                       =  The Grinnell Glacier Trail is one of the park's most popular day hikes                     
+       remark                                   =  yes                                                                                        
+fact   Grinnell.Glacier.3                       =  One of the most photographed glaciers in the park                                          
+fact   Grinnell.Glacier.4                       =  Between 1966 and 2005, it lost almost 40 percent of its surface area                       
+       
+photo  Grinnell.Lake                            =  Grinnell Lake                                                                              
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/GrinnellLake.jpg                        
+fact   Grinnell.Lake.0                          =  Vivid turquoise appearance is caused by silt carried from Grinnell Glacier                 
+fact   Grinnell.Lake.1                          =  Lake can be reached via the Grinnell Glacier Trail                                         
+fact   Grinnell.Lake.2                          =  Mount Gould's sheer east face rises 4,000 feet above the valley below                      
+       
+photo  Grizzly.Bear                             =  Grizzly Bear                                                                               
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/GrizzlyBear.jpg                         
+fact   Grizzly.Bear.0                           =  About 300 bears live in the park                                                           
+       remark                                   =  yes                                                                                        
+fact   Grizzly.Bear.1                           =  Despite their size and strength, they feed mostly on plants                                
+fact   Grizzly.Bear.2                           =  Grasses, cow parsnip, glacier lilies and huckleberries make up the bulk of their diets     
+fact   Grizzly.Bear.3                           =  The sow teaches her cubs when and where these foods are available                          
+fact   Grizzly.Bear.4                           =  Large hump over the shoulders is a muscle used to power the forelimbs in digging           
+       
+photo  Highline.Trail                           =  Highline Trail                                                                             
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/HighlineTrail.jpg                       
+fact   Highline.Trail.0                         =  Popular hiking trail following the Garden Wall ridge and the Continental Divide            
+fact   Highline.Trail.1                         =  Offers scenic views of glaciated U-shaped valleys                                          
+       remark                                   =  yes                                                                                        
+fact   Highline.Trail.2                         =  Distance of 12 kilometers (7.5 miles) from Logan Pass to Granite Park Chalet               
+       remark                                   =  yes                                                                                        
+fact   Highline.Trail.3                         =  Short side trail goes to an overlook to Grinnell Glacier                                   
+       remark                                   =  yes                                                                                        
+       
+photo  Iceberg.Cirque                           =  Iceberg Cirque                                                                             
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/IcebergCirque.jpg                       
+fact   Iceberg.Cirque.0                         =  Large amphitheatre carved out by glaciation                                                
+fact   Iceberg.Cirque.1                         =  Can be reached by the popular Iceberg Lake Trail from the Many Glacier Hotel               
+fact   Iceberg.Cirque.2                         =  Located in the Many Glacier section of the park                                            
+       remark                                   =  yes                                                                                        
+       
+photo  Jackson.Glacier                          =  Jackson Glacier                                                                            
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/JacksonGlacier.jpg                      
+fact   Jackson.Glacier.0                        =  Seen from the Jackson Glacier Overlook just off the Going-to-the-Sun Road                  
+fact   Jackson.Glacier.1                        =  Located on the east side of the Continental Divide                                         
+       remark                                   =  yes                                                                                        
+fact   Jackson.Glacier.2                        =  Seventh largest of the remaining 25 glaciers in the park                                   
+fact   Jackson.Glacier.3                        =  Rests on the north side of Mount Jackson                                                   
+       
+photo  Lake.McDonald                            =  Lake McDonald                                                                              
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/LakeMcDonald.jpg                        
+fact   Lake.McDonald.0                          =  Largest lake in the Park                                                                   
+fact   Lake.McDonald.1                          =  16 kilometers (10 miles) long, over 1.6 km (1 mile) wide and 130 m (472 ft) deep           
+       remark                                   =  yes                                                                                        
+fact   Lake.McDonald.2                          =  Surrounded by coniferous forest dominated by spruce, fir, and larch                        
+       remark                                   =  yes                                                                                        
+fact   Lake.McDonald.3                          =  Located on the west side of the Continental Divide                                         
+       remark                                   =  yes                                                                                        
+       
+photo  Lake.McDonald.Lodge                      =  Lake McDonald Lodge                                                                        
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/LakeMcDonaldLodge.jpg                   
+fact   Lake.McDonald.Lodge.0                    =  Located on the southeast shore of Lake McDonald                                            
+fact   Lake.McDonald.Lodge.1                    =  Built in 1913 to resemble a rustic hunting lodge with Swiss influence                      
+fact   Lake.McDonald.Lodge.2                    =  Declared a National Historic Landmark in 1987                                              
+fact   Lake.McDonald.Lodge.3                    =  Starting point for the Sperry Trial which leads to Sperry Chalet                           
+       
+photo  Logan.Pass                               =  Logan Pass                                                                                 
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/LoganPass.jpg                           
+fact   Logan.Pass.0                             =  Located on the Continental Divide                                                          
+       remark                                   =  yes                                                                                        
+fact   Logan.Pass.1                             =  Highest point on the Going-to-the-Sun Road at 2,026 m (6,646 ft)                           
+fact   Logan.Pass.2                             =  Popular starting point for hiking trails including the Highline Trail                      
+fact   Logan.Pass.3                             =  Logan Pass Visitor Centre is one of the most visited centres in the park                   
+       remark                                   =  yes                                                                                        
+       
+photo  Many.Glacier.Hotel.and.Mount.Grinnell    =  Many Glacier Hotel and Mount Grinnell                                                      
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/ManyGlacierHotelandMountGrinnell.jpg    
+fact   Many.Glacier.Hotel.and.Mount.Grinnell.0  =  Largest hotel in the park on the east shore of Swiftcurrent Lake                           
+fact   Many.Glacier.Hotel.and.Mount.Grinnell.1  =  Built in 1915 by the Great Northern Railway and is a National Historic Landmark            
+       remark                                   =  yes                                                                                        
+fact   Many.Glacier.Hotel.and.Mount.Grinnell.2  =  Mount Grinnell rises above the lake                                                        
+       remark                                   =  yes                                                                                        
+fact   Many.Glacier.Hotel.and.Mount.Grinnell.3  =  This area is considered by many to be the heart of the park                                
+       
+photo  McDonald.Falls                           =  McDonald Falls                                                                             
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/McDonaldFalls.jpg                       
+fact   McDonald.Falls.0                         =  One of the largest of over 200 waterfalls in the park                                      
+fact   McDonald.Falls.1                         =  Located on McDonald Creek above Lake McDonald                                              
+fact   McDonald.Falls.2                         =  McDonald Creek is the longest stream (over 25 miles) inside the park                       
+       remark                                   =  yes                                                                                        
+       
+photo  Mountain.Goat                            =  Mountain Goat                                                                              
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/MountainGoat.jpg                        
+fact   Mountain.Goat.0                          =  Large-hoofed mammal found only in North America                                            
+fact   Mountain.Goat.1                          =  A sure-footed climber commonly seen on cliffs and ice                                      
+fact   Mountain.Goat.2                          =  Largest mammal found in its high-altitude habitats of up to 4,000 meters (13,000 ft)       
+fact   Mountain.Goat.3                          =  Lives above the tree line for much of the year                                             
+       
+photo  Red.Jammers                              =  Red Jammers                                                                                
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/RedJammers.jpg                          
+fact   Red.Jammers.0                            =  Elegant icons of the park built between 1936 and 1939                                      
+fact   Red.Jammers.1                            =  Oldest intact fleet of passenger carrying vehicles anywhere                                
+fact   Red.Jammers.2                            =  Each of the 33 buses has multiple doors and a rollback canvas top                          
+fact   Red.Jammers.3                            =  Run on Propane which is 93% cleaner than gasoline                                          
+fact   Red.Jammers.4                            =  Provides a bus service along Going-to-the-Sun Road                                         
+       
+photo  Sperry.Glacier                           =  Sperry Glacier                                                                             
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/SperryGlacier.jpg                       
+fact   Sperry.Glacier.0                         =  Located on Gunsight Mountain, west of the Continental Divide                               
+fact   Sperry.Glacier.1                         =  Once one of the largest glaciers in the park                                               
+       remark                                   =  yes                                                                                        
+fact   Sperry.Glacier.2                         =  Retreated 75% since the mid-19th century                                                   
+       remark                                   =  yes                                                                                        
+fact   Sperry.Glacier.3                         =  Reached via a side trail off the Sperry Trail from Sperry Chalet                           
+       
+photo  St..Mary.Falls                           =  St. Mary Falls                                                                             
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/St.MaryFalls.jpg                        
+fact   St..Mary.Falls.0                         =  Assessible by a short trail from the Going-to-the-Sun Road                                 
+       
+photo  St..Mary.Lake                            =  St. Mary Lake                                                                              
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/St.MaryLake.jpg                         
+fact   St..Mary.Lake.0                          =  Second largest lake in the Park                                                            
+fact   St..Mary.Lake.1                          =  Located on the east side of the Continental Divide                                         
+       remark                                   =  yes                                                                                        
+fact   St..Mary.Lake.2                          =  16 kilometers (10 miles) long and 91 m (300 ft) deep                                       
+       remark                                   =  yes                                                                                        
+fact   St..Mary.Lake.3                          =  In winter, the lake often freezes with ice up to 1.2 m (4 ft) thick                        
+       remark                                   =  yes                                                                                        
+fact   St..Mary.Lake.4                          =  460 meters (1,500 ft) higher in altitude than Lake McDonald                                
+       
+photo  Sunrift.Gorge                            =  Sunrift Gorge                                                                              
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/SunriftGorge.jpg                        
+fact   Sunrift.Gorge.0                          =  Picturesque gorge carved by glacial meltwater from Sexton Glacier                          
+fact   Sunrift.Gorge.1                          =  Assessible by a short trail from the Going-to-the-Sun Road                                 
+       
+photo  Swiftcurrent.Falls                       =  Swiftcurrent Falls                                                                         
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/SwiftcurrentFalls.jpg                   
+fact   Swiftcurrent.Falls.0                     =  Multi-pitched cascade with Mount Grinnell as a backdrop                                    
+fact   Swiftcurrent.Falls.1                     =  Located in the Many Glacier section of the park                                            
+       remark                                   =  yes                                                                                        
+fact   Swiftcurrent.Falls.2                     =  Trailhead to the Falls is just north of the Many Glacier Hotel                             
+       
+photo  Swiftcurrent.Lake.and.Mount.Gould        =  Swiftcurrent Lake and Mount Gould                                                          
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/SwiftcurrentLakeandMountGould.jpg       
+fact   Swiftcurrent.Lake.and.Mount.Gould.0      =  Located in the Many Glacier section of the park                                            
+       remark                                   =  yes                                                                                        
+fact   Swiftcurrent.Lake.and.Mount.Gould.1      =  The lake lies at 1,487 m (4,878 ft) above sea level                                        
+       remark                                   =  yes                                                                                        
+fact   Swiftcurrent.Lake.and.Mount.Gould.2      =  Many Glacier Hotel sits on the east shore of the lake                                      
+fact   Swiftcurrent.Lake.and.Mount.Gould.3      =  Mount Gould rises above the lake                                                           
+fact   Swiftcurrent.Lake.and.Mount.Gould.4      =  The summit is the highest point along the Garden Wall                                      
+       
+photo  Swiftcurrent.Pass.and.Bullhead.Lake      =  Swiftcurrent Pass and Bullhead Lake                                                        
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/SwiftcurrentPassandBullheadLake.jpg     
+fact   Swiftcurrent.Pass.and.Bullhead.Lake.0    =  The pass is 10 kilometers (6.6 miles) from the Swiftcurrent Trailhead                      
+       remark                                   =  yes                                                                                        
+fact   Swiftcurrent.Pass.and.Bullhead.Lake.1    =  Located in the Many Glacier section of the park                                            
+       remark                                   =  yes                                                                                        
+fact   Swiftcurrent.Pass.and.Bullhead.Lake.2    =  Bullhead Lake is located at the foot of the Continental Divide                             
+       remark                                   =  yes                                                                                        
+       
+photo  Trail.of.the.Cedars                      =  Trail of the Cedars                                                                        
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/TrailoftheCedars.jpg                    
+fact   Trail.of.the.Cedars.0                    =  Hiking trail accessible from Going-to-the-Sun Road                                         
+       remark                                   =  yes                                                                                        
+fact   Trail.of.the.Cedars.1                    =  Paved, loop trail that runs 1 kilometer (0.6 miles) through a forest of tall cedars        
+fact   Trail.of.the.Cedars.2                    =  Passes the beautiful Avalanche Gorge and waterfall                                         
+fact   Trail.of.the.Cedars.3                    =  Trail continues to Avalanche Lake                                                          
+       remark                                   =  yes                                                                                        
+       
+photo  Two.Medicine.Lake                        =  Two Medicine Lake                                                                          
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/TwoMedicineLake.jpg                     
+fact   Two.Medicine.Lake.0                      =  Located in the southeast of the park with a campground                                     
+       remark                                   =  yes                                                                                        
+fact   Two.Medicine.Lake.1                      =  Starting point for many hiking trails and tour boats on the lake                           
+       remark                                   =  yes                                                                                        
+fact   Two.Medicine.Lake.2                      =  Late Cretaceous Dinosaurs and their eggs have been found in this area                      
+       remark                                   =  yes                                                                                        
+       
+photo  Weeping.Wall                             =  Weeping Wall                                                                               
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/WeepingWall.jpg                         
+fact   Weeping.Wall.0                           =  Located along a part of the Going-to-the-Sun Road                                          
+       remark                                   =  yes                                                                                        
+fact   Weeping.Wall.1                           =  Natural waterfall that seeps out from the Garden Wall to the road below                    
+fact   Weeping.Wall.2                           =  Fed by runoff from snowmelt and at its most dramatic in the spring                         
+       remark                                   =  yes                                                                                        
+       
+photo  Western.Meadowlark                       =  Western Meadowlark                                                                         
+       url                                      =  github://philiprbrenan/vocabulary-7/images/Glacier/WesternMeadowlark.jpg                   
+fact   Western.Meadowlark.0                     =  The state bird of Montana                                                                  
+fact   Western.Meadowlark.1                     =  One of more than 260 species of bird found in the park                                     
+       remark                                   =  yes                                                                                        
+fact   Western.Meadowlark.2                     =  Feeds mostly on insects, but also seeds and berries                                        
+       remark                                   =  yes                                                                                        
