@@ -1,0 +1,187 @@
+app g.Functions   = Mathematical Functions
+  description  = Learn about Mathematical Functions in English
+  icon         = cos.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  cos                             =  cos                                                                                 
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/cos.jpg                        
+       
+photo  cubed                           =  cubed                                                                               
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/cubed.jpg                      
+       
+photo  exp                             =  exp                                                                                 
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/exp.jpg                        
+       
+photo  exp.squared                     =  exp squared                                                                         
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/expsquared.jpg                 
+       
+photo  exp.squared.cos                 =  exp squared cos                                                                     
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/expsquaredcos.jpg              
+       
+photo  exp.squared.sin                 =  exp squared sin                                                                     
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/expsquaredsin.jpg              
+       
+photo  linear                          =  linear                                                                              
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/linear.jpg                     
+       
+photo  log                             =  log                                                                                 
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/log.jpg                        
+       
+photo  minus.cos                       =  minus cos                                                                           
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minuscos.jpg                   
+       
+photo  minus.cubed                     =  minus cubed                                                                         
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minuscubed.jpg                 
+       
+photo  minus.exp                       =  minus exp                                                                           
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusexp.jpg                   
+       
+photo  minus.exp.squared               =  minus exp squared                                                                   
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusexpsquared.jpg            
+       
+photo  minus.exp.squared.cos           =  minus exp squared cos                                                               
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusexpsquaredcos.jpg         
+       
+photo  minus.exp.squared.sin           =  minus exp squared sin                                                               
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusexpsquaredsin.jpg         
+       
+photo  minus.linear                    =  minus linear                                                                        
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minuslinear.jpg                
+       
+photo  minus.log                       =  minus log                                                                           
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minuslog.jpg                   
+       
+photo  minus.one.over.cos              =  minus one over cos                                                                  
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneovercos.jpg            
+       
+photo  minus.one.over.cubed            =  minus one over cubed                                                                
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneovercubed.jpg          
+       
+photo  minus.one.over.exp              =  minus one over exp                                                                  
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoverexp.jpg            
+       
+photo  minus.one.over.exp.squared      =  minus one over exp squared                                                          
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoverexpsquared.jpg     
+       
+photo  minus.one.over.exp.squared.cos  =  minus one over exp squared cos                                                      
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoverexpsquaredcos.jpg  
+       
+photo  minus.one.over.exp.squared.sin  =  minus one over exp squared sin                                                      
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoverexpsquaredsin.jpg  
+       
+photo  minus.one.over.linear           =  minus one over linear                                                               
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoverlinear.jpg         
+       
+photo  minus.one.over.log              =  minus one over log                                                                  
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoverlog.jpg            
+       
+photo  minus.one.over.sin              =  minus one over sin                                                                  
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoversin.jpg            
+       
+photo  minus.one.over.sinc             =  minus one over sinc                                                                 
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoversinc.jpg           
+       
+photo  minus.one.over.squared          =  minus one over squared                                                              
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoversquared.jpg        
+       
+photo  minus.one.over.squared.cos      =  minus one over squared cos                                                          
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoversquaredcos.jpg     
+       
+photo  minus.one.over.squared.log      =  minus one over squared log                                                          
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoversquaredlog.jpg     
+       
+photo  minus.one.over.squared.sin      =  minus one over squared sin                                                          
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneoversquaredsin.jpg     
+       
+photo  minus.one.over.tan              =  minus one over tan                                                                  
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minusoneovertan.jpg            
+       
+photo  minus.sin                       =  minus sin                                                                           
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minussin.jpg                   
+       
+photo  minus.sinc                      =  minus sinc                                                                          
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minussinc.jpg                  
+       
+photo  minus.squared                   =  minus squared                                                                       
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minussquared.jpg               
+       
+photo  minus.squared.cos               =  minus squared cos                                                                   
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minussquaredcos.jpg            
+       
+photo  minus.squared.log               =  minus squared log                                                                   
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minussquaredlog.jpg            
+       
+photo  minus.squared.sin               =  minus squared sin                                                                   
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minussquaredsin.jpg            
+       
+photo  minus.tan                       =  minus tan                                                                           
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/minustan.jpg                   
+       
+photo  one.over.cos                    =  one over cos                                                                        
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneovercos.jpg                 
+       
+photo  one.over.cubed                  =  one over cubed                                                                      
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneovercubed.jpg               
+       
+photo  one.over.exp                    =  one over exp                                                                        
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoverexp.jpg                 
+       
+photo  one.over.exp.squared            =  one over exp squared                                                                
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoverexpsquared.jpg          
+       
+photo  one.over.exp.squared.cos        =  one over exp squared cos                                                            
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoverexpsquaredcos.jpg       
+       
+photo  one.over.exp.squared.sin        =  one over exp squared sin                                                            
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoverexpsquaredsin.jpg       
+       
+photo  one.over.linear                 =  one over linear                                                                     
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoverlinear.jpg              
+       
+photo  one.over.log                    =  one over log                                                                        
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoverlog.jpg                 
+       
+photo  one.over.sin                    =  one over sin                                                                        
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoversin.jpg                 
+       
+photo  one.over.sinc                   =  one over sinc                                                                       
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoversinc.jpg                
+       
+photo  one.over.squared                =  one over squared                                                                    
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoversquared.jpg             
+       
+photo  one.over.squared.cos            =  one over squared cos                                                                
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoversquaredcos.jpg          
+       
+photo  one.over.squared.log            =  one over squared log                                                                
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoversquaredlog.jpg          
+       
+photo  one.over.squared.sin            =  one over squared sin                                                                
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneoversquaredsin.jpg          
+       
+photo  one.over.tan                    =  one over tan                                                                        
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/oneovertan.jpg                 
+       
+photo  sin                             =  sin                                                                                 
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/sin.jpg                        
+       
+photo  sinc                            =  sinc                                                                                
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/sinc.jpg                       
+       
+photo  squared                         =  squared                                                                             
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/squared.jpg                    
+       
+photo  squared.cos                     =  squared cos                                                                         
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/squaredcos.jpg                 
+       
+photo  squared.log                     =  squared log                                                                         
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/squaredlog.jpg                 
+       
+photo  squared.sin                     =  squared sin                                                                         
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/squaredsin.jpg                 
+       
+photo  tan                             =  tan                                                                                 
+       url                             =  github://philiprbrenan/vocabulary-6/images/Functions/tan.jpg                        
