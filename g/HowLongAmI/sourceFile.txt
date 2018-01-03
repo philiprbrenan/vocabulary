@@ -1,0 +1,8 @@
+app g.HowLongAmI   = How Long Am I?
+  description  = Learn about How Long Am I? in English
+  icon         = Heaviest land reptile (Galapagos Tortoise).png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+
