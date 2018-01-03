@@ -1,0 +1,719 @@
+app g.ManOnTheMoon   = Man On The Moon
+  description  = Learn about Man On The Moon in English
+  icon         = icon.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  35th.Anniversary                                       =  35th Anniversary                                                                                                   
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/35thAnniversary.jpg                                        
+fact   35th.Anniversary.0                                     =  35th anniversary of the Moon landing, July 20 2004                                                                 
+       remark                                                 =  yes                                                                                                                
+fact   35th.Anniversary.1                                     =  Collins (left), Armstrong (2nd right), and Aldrin (right), with U.S. President George W. Bush                      
+       remark                                                 =  yes                                                                                                                
+       
+photo  40th.Anniversary                                       =  40th Anniversary                                                                                                   
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/40thAnniversary.jpg                                        
+fact   40th.Anniversary.0                                     =  40th anniversary of the Moon landing, July 20 2009                                                                 
+fact   40th.Anniversary.1                                     =  Aldrin (left), Collins (centre), and Armstrong (right), with U.S. President Barack Obama                           
+       
+photo  Apollo.11.crew                                         =  Apollo 11 crew                                                                                                     
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Apollo11crew.jpg                                           
+fact   Apollo.11.crew.0                                       =  Each crew member had made a spaceflight before this mission                                                        
+       remark                                                 =  yes                                                                                                                
+fact   Apollo.11.crew.1                                       =  One of only two all-veteran crews in spaceflight history (the other being Apollo 10)                               
+       remark                                                 =  yes                                                                                                                
+fact   Apollo.11.crew.2                                       =  Neil A. Armstrong, Michael Collins and Edwin "Buzz" E. Aldrin Jr.                                                  
+       remark                                                 =  yes                                                                                                                
+       
+photo  Apollo.11.insignia                                     =  Apollo 11 insignia                                                                                                 
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Apollo11insignia.jpg                                       
+fact   Apollo.11.insignia.0                                   =  Designed by Michael Collins, pilot of the Command Module                                                           
+fact   Apollo.11.insignia.1                                   =  Symbolises a peaceful lunar landing by the United States                                                           
+fact   Apollo.11.insignia.2                                   =  Bald Eagle is the USA's national bird and an olive branch symbolises peace                                         
+       remark                                                 =  yes                                                                                                                
+fact   Apollo.11.insignia.3                                   =  Bald Eagle carries an olive branch in its talons                                                                   
+       remark                                                 =  yes                                                                                                                
+fact   Apollo.11.insignia.4                                   =  Apollo 11 was the spaceflight that landed the first humans on the Moon                                             
+       remark                                                 =  yes                                                                                                                
+       
+photo  Apollo.spacecraft                                      =  Apollo spacecraft                                                                                                  
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Apollospacecraft.jpg                                       
+fact   Apollo.spacecraft.0                                    =  Consisted of the Command Module, Service Module and Lunar Module                                                   
+       remark                                                 =  yes                                                                                                                
+fact   Apollo.spacecraft.1                                    =  After separating from Saturn V, it travelled for three days until it entered lunar orbit                           
+fact   Apollo.spacecraft.2                                    =  After lunar orbit, the Lunar Module separated and descended to the Moon                                            
+       remark                                                 =  yes                                                                                                                
+       
+photo  Apollo.spacecraft.at.launch                            =  Apollo spacecraft at launch                                                                                        
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Apollospacecraftatlaunch.jpg                               
+fact   Apollo.spacecraft.at.launch.0                          =  Apollo 11 sat on top of the Saturn V rocket                                                                        
+       remark                                                 =  yes                                                                                                                
+fact   Apollo.spacecraft.at.launch.1                          =  Designed for single-use and came in four main parts                                                                
+       remark                                                 =  yes                                                                                                                
+fact   Apollo.spacecraft.at.launch.2                          =  Consisted of the Command Module, Service Module and Lunar Module                                                   
+fact   Apollo.spacecraft.at.launch.3                          =  An emergency Launch Escape System sat at the top                                                                   
+       remark                                                 =  yes                                                                                                                
+       
+photo  Assembly.of.Command-Service.Module.and.Lunar.Module    =  Assembly of Command-Service Module and Lunar Module                                                                
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/AssemblyofCommand-ServiceModuleandLunarModule.jpg          
+fact   Assembly.of.Command-Service.Module.and.Lunar.Module.0  =  Mating of the Command/Service Module to the Lunar Module                                                           
+       remark                                                 =  yes                                                                                                                
+fact   Assembly.of.Command-Service.Module.and.Lunar.Module.1  =  Assembly took place at the Kennedy Space Centre, Florida                                                           
+       remark                                                 =  yes                                                                                                                
+       
+photo  Astronauts.after.countdown.test                        =  Astronauts after countdown test                                                                                    
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Astronautsaftercountdowntest.jpg                           
+fact   Astronauts.after.countdown.test.0                      =  Astronauts finish a test in the Apollo spacecraft                                                                  
+       remark                                                 =  yes                                                                                                                
+fact   Astronauts.after.countdown.test.1                      =  Seen here in the White Room, on top of the gantry on Launch Complex 39 Pad                                         
+fact   Astronauts.after.countdown.test.2                      =  Michael Collins (left), Buzz Aldrin (centre), Neil Armstrong (right)                                               
+       remark                                                 =  yes                                                                                                                
+       
+photo  Buzz.Aldrin                                            =  Buzz Aldrin                                                                                                        
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/BuzzAldrin.jpg                                             
+fact   Buzz.Aldrin.0                                          =  Born: January 20 1930                                                                                              
+fact   Buzz.Aldrin.1                                          =  Place of birth: Glen Ridge, New Jersey, U.S.A                                                                      
+fact   Buzz.Aldrin.2                                          =  The second person to walk on the Moon                                                                              
+fact   Buzz.Aldrin.3                                          =  Pilot of Lunar Module, "Eagle"                                                                                     
+fact   Buzz.Aldrin.4                                          =  Retired United States Air Force pilot                                                                              
+       remark                                                 =  yes                                                                                                                
+fact   Buzz.Aldrin.5                                          =  Missions: Gemini 12 and Apollo 11                                                                                  
+fact   Buzz.Aldrin.6                                          =  Time in space: 12 days, 1 hour, 52 minutes                                                                         
+       
+photo  Buzz.Aldrin.bootprint                                  =  Buzz Aldrin bootprint                                                                                              
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/BuzzAldrinbootprint.jpg                                    
+fact   Buzz.Aldrin.bootprint.0                                =  One of the first steps taken on the Moon                                                                           
+       remark                                                 =  yes                                                                                                                
+fact   Buzz.Aldrin.bootprint.1                                =  Image of Buzz Aldrin's bootprint from the Apollo 11 mission                                                        
+       remark                                                 =  yes                                                                                                                
+       
+photo  Buzz.Aldrin.carries.the.EASEP                          =  Buzz Aldrin carries the EASEP                                                                                      
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/BuzzAldrincarriestheEASEP.jpg                              
+fact   Buzz.Aldrin.carries.the.EASEP.0                        =  Set of scientific instruments placed by the astronauts at the Moon landing site                                    
+       remark                                                 =  yes                                                                                                                
+fact   Buzz.Aldrin.carries.the.EASEP.1                        =  Included a passive seismograph and a laser ranging retro-reflector                                                 
+       remark                                                 =  yes                                                                                                                
+fact   Buzz.Aldrin.carries.the.EASEP.2                        =  Called the "Early Apollo Scientific Experiments Package" (EASEP)                                                   
+       remark                                                 =  yes                                                                                                                
+       
+photo  Buzz.Aldrin.in.Lunar.Module                            =  Buzz Aldrin in Lunar Module                                                                                        
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/BuzzAldrininLunarModule.jpg                                
+fact   Buzz.Aldrin.in.Lunar.Module.0                          =  Interior view of "Eagle", the Lunar Module                                                                         
+fact   Buzz.Aldrin.in.Lunar.Module.1                          =  Buzz Aldrin, lunar module pilot, prior to the Moon landing                                                         
+fact   Buzz.Aldrin.in.Lunar.Module.2                          =  Photograph taken by Commander, Neil Armstrong                                                                      
+       remark                                                 =  yes                                                                                                                
+       
+photo  Buzz.Aldrin.near.Lunar.Module                          =  Buzz Aldrin near Lunar Module                                                                                      
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/BuzzAldrinnearLunarModule.jpg                              
+fact   Buzz.Aldrin.near.Lunar.Module.0                        =  Buzz Aldrin near one of the Lunar Module legs on the Moon                                                          
+       remark                                                 =  yes                                                                                                                
+fact   Buzz.Aldrin.near.Lunar.Module.1                        =  Photograph taken by Commander, Neil Armstrong                                                                      
+       remark                                                 =  yes                                                                                                                
+       
+photo  Buzz.Aldrin.on.the.Moon                                =  Buzz Aldrin on the Moon                                                                                            
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/BuzzAldrinontheMoon.jpg                                    
+fact   Buzz.Aldrin.on.the.Moon.0                              =  Buzz Aldrin walks on the surface of the Moon                                                                       
+       remark                                                 =  yes                                                                                                                
+fact   Buzz.Aldrin.on.the.Moon.1                              =  Photograph taken by Commander, Neil Armstrong                                                                      
+       remark                                                 =  yes                                                                                                                
+       
+photo  Checks.in.the.Command.Module                           =  Checks in the Command Module                                                                                       
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/ChecksintheCommandModule.jpg                               
+fact   Checks.in.the.Command.Module.0                         =  Apollo 11 crew conducting checks in their command module                                                           
+       remark                                                 =  yes                                                                                                                
+fact   Checks.in.the.Command.Module.1                         =  Neil Armstrong (left), Michael Collins (centre), Buzz Aldrin (right)                                               
+       remark                                                 =  yes                                                                                                                
+       
+photo  Command.Module                                         =  Command Module                                                                                                     
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/CommandModule.jpg                                          
+fact   Command.Module.0                                       =  Apollo 11 cabin which housed the crew                                                                              
+       remark                                                 =  yes                                                                                                                
+fact   Command.Module.1                                       =  Only part of the Apollo 11 spacecraft that returned with the crew to Earth                                         
+fact   Command.Module.2                                       =  Also housed equipment needed for re-entry and splashdown such as parachutes                                        
+fact   Command.Module.3                                       =  Height: 3.2 m (10 ft 7 in). Diameter at base: 3.9 m (12 ft 10 in)                                                  
+       remark                                                 =  yes                                                                                                                
+fact   Command.Module.4                                       =  Named "Columbia" after a fictitious cannon shell in a Jules Verne novel                                            
+fact   Command.Module.5                                       =  Michael Collins piloted the command module alone in lunar orbit                                                    
+fact   Command.Module.6                                       =  Armstrong and Aldrin returned to the command module after walking on the Moon                                      
+       remark                                                 =  yes                                                                                                                
+fact   Command.Module.7                                       =  Depicted here in recovery mode with floatation collar and air bags used in the Pacific Ocean                       
+       
+photo  Command.Module.Simulator                               =  Command Module Simulator                                                                                           
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/CommandModuleSimulator.jpg                                 
+fact   Command.Module.Simulator.0                             =  Command Module pilot, Michael Collins, in training, June 19 1969                                                   
+       remark                                                 =  yes                                                                                                                
+fact   Command.Module.Simulator.1                             =  Simulated rendezvous and docking manoeuvre                                                                         
+       remark                                                 =  yes                                                                                                                
+       
+photo  Command.Service.Module                                 =  Command Service Module                                                                                             
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/CommandServiceModule.jpg                                   
+fact   Command.Service.Module.0                               =  Consisted of two segments: the Command Module and the Service Module                                               
+       remark                                                 =  yes                                                                                                                
+fact   Command.Service.Module.1                               =  Command Module housed the crew                                                                                     
+       remark                                                 =  yes                                                                                                                
+fact   Command.Service.Module.2                               =  Service Module provided propulsion, electrical power, oxygen and water, and storage                                
+       remark                                                 =  yes                                                                                                                
+fact   Command.Service.Module.3                               =  Command Service Module orbited the Moon 30 times                                                                   
+fact   Command.Service.Module.4                               =  When the Lunar Module descended to the Moon, the CSM orbited the Moon alone                                        
+fact   Command.Service.Module.5                               =  Michael Collins piloted the command module alone in lunar orbit                                                    
+fact   Command.Service.Module.6                               =  Armstrong and Aldrin returned to the command module after walking on the Moon                                      
+fact   Command.Service.Module.7                               =  Service Module was jettisoned before re-entry to Earth                                                             
+       remark                                                 =  yes                                                                                                                
+       
+photo  Commemorative.stamp                                    =  Commemorative stamp                                                                                                
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Commemorativestamp.jpg                                     
+fact   Commemorative.stamp.0                                  =  U.S. Post Office airmail stamp issued September 8 1969                                                             
+fact   Commemorative.stamp.1                                  =  Neil Armstrong is depicted taking man's first step on the Moon                                                     
+       remark                                                 =  yes                                                                                                                
+fact   Commemorative.stamp.2                                  =  More than 152 million were issued                                                                                  
+       
+photo  Crawler-Transporter                                    =  Crawler-Transporter                                                                                                
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Crawler-Transporter.jpg                                    
+fact   Crawler-Transporter.0                                  =  Pair of vehicles with caterpillar tracks used to transport spacecraft                                              
+fact   Crawler-Transporter.1                                  =  Largest self-powered land vehicles in the world                                                                    
+fact   Crawler-Transporter.2                                  =  Transporter weighed 2,721 metric tonnes                                                                            
+       remark                                                 =  yes                                                                                                                
+fact   Crawler-Transporter.3                                  =  Carried Apollo 11 from NASA's Vehicle Assembly Building to Launch Complex 39                                       
+       
+photo  Crescent.Earth                                         =  Crescent Earth                                                                                                     
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/CrescentEarth.jpg                                          
+fact   Crescent.Earth.0                                       =  One-third of the Earth's sphere illuminated, as seen from Apollo 11                                                
+       
+photo  Crew.in.quarantine                                     =  Crew in quarantine                                                                                                 
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Crewinquarantine.jpg                                       
+fact   Crew.in.quarantine.0                                   =  President Nixon welcomed the Apollo 11 astronauts home to Earth aboard USS Hornet                                  
+fact   Crew.in.quarantine.1                                   =  Astronauts confined to quarantine for 21 days at the Johnson Space Centre                                          
+       remark                                                 =  yes                                                                                                                
+fact   Crew.in.quarantine.2                                   =  Feared that the Moon might contain pathogens which could endanger life on Earth                                    
+       remark                                                 =  yes                                                                                                                
+fact   Crew.in.quarantine.3                                   =  Astronauts left quarantine on August 10 1969                                                                       
+       remark                                                 =  yes                                                                                                                
+fact   Crew.in.quarantine.4                                   =  Neil Armstrong (left), Michael Collins (centre), Buzz Aldrin (right)                                               
+       remark                                                 =  yes                                                                                                                
+       
+photo  Eagle.in.lunar.orbit                                   =  Eagle in lunar orbit                                                                                               
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Eagleinlunarorbit.jpg                                      
+fact   Eagle.in.lunar.orbit.0                                 =  Lunar Module, "Eagle", is in a landing configuration ready to descend to the Moon                                  
+fact   Eagle.in.lunar.orbit.1                                 =  Photographed from "Columbia" by Michael Collins after "Eagle" had separated away                                   
+fact   Eagle.in.lunar.orbit.2                                 =  Contained Neil A. Armstrong and Buzz Aldrin                                                                        
+       remark                                                 =  yes                                                                                                                
+fact   Eagle.in.lunar.orbit.3                                 =  Long protrusions under the landing pods are lunar surface sensing probes                                           
+fact   Eagle.in.lunar.orbit.4                                 =  Crew shut down the descent engine when sensing probes touched the lunar surface                                    
+       
+photo  Earth.from.Apollo.11                                   =  Earth from Apollo 11                                                                                               
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/EarthfromApollo11.jpg                                      
+fact   Earth.from.Apollo.11.0                                 =  Earth as seen by Apollo 11 astronauts at the beginning of the third day                                            
+       remark                                                 =  yes                                                                                                                
+       
+photo  Earth.over.Lunar.Module                                =  Earth over Lunar Module                                                                                            
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/EarthoverLunarModule.jpg                                   
+fact   Earth.over.Lunar.Module.0                              =  Photo of Earth taken from behind the Apollo 11 Lunar Module                                                        
+       remark                                                 =  yes                                                                                                                
+       
+photo  First.step.on.the.Moon                                 =  First step on the Moon                                                                                             
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/FirststepontheMoon.jpg                                     
+fact   First.step.on.the.Moon.0                               =  On July 20th 1969 at 02:56:15 UTC                                                                                  
+fact   First.step.on.the.Moon.1                               =  Armstrong became the first human to set foot upon the Moon                                                         
+fact   First.step.on.the.Moon.2                               =  "That's one small step for a man, one giant leap for mankind."                                                     
+       remark                                                 =  yes                                                                                                                
+fact   First.step.on.the.Moon.3                               =  Armstrong and Aldrin spent two and a half hours outside the spacecraft                                             
+       remark                                                 =  yes                                                                                                                
+fact   First.step.on.the.Moon.4                               =  600 million people on Earth watched on live TV                                                                     
+       
+photo  Helicopter.recovery                                    =  Helicopter recovery                                                                                                
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Helicopterrecovery.jpg                                     
+fact   Helicopter.recovery.0                                  =  U.S. Navy Sea King helicopter arrived to recover the astronauts from the South Pacific                             
+fact   Helicopter.recovery.1                                  =  Divers attached a flotation collar to the Command Module                                                           
+fact   Helicopter.recovery.2                                  =  Astronauts left the Command Module and got into a life raft                                                        
+fact   Helicopter.recovery.3                                  =  Astronauts were rubbed down with disinfectant and donned Biological Isolation Garments                             
+fact   Helicopter.recovery.4                                  =  Command Module was wiped down with an antiseptic liquid to remove lunar dust                                       
+       remark                                                 =  yes                                                                                                                
+fact   Helicopter.recovery.5                                  =  Life raft containing decontamination materials was then sunk                                                       
+       remark                                                 =  yes                                                                                                                
+       
+photo  John.F..Kennedy                                        =  John F. Kennedy                                                                                                    
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/JohnF.Kennedy.jpg                                          
+fact   John.F..Kennedy.0                                      =  35th President of the United States of America                                                                     
+fact   John.F..Kennedy.1                                      =  In office: January 20 1961 - November 22 1963                                                                      
+fact   John.F..Kennedy.2                                      =  Kennedy first proposed the goal of landing a man on the Moon on May 25, 1961                                       
+       remark                                                 =  yes                                                                                                                
+fact   John.F..Kennedy.3                                      =  "Before this decade is out, of landing a man on the Moon and returning him safely to the Earth"                    
+fact   John.F..Kennedy.4                                      =  Neil Armstrong set foot on the Moon almost 6 years after Kennedy's death                                           
+       
+photo  Johnson.Space.Centre                                   =  Johnson Space Centre                                                                                               
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/JohnsonSpaceCentre.jpg                                     
+fact   Johnson.Space.Centre.0                                 =  Location of the Mission Control Centre for Apollo 11                                                               
+fact   Johnson.Space.Centre.1                                 =  Centre for human spaceflight training, research, and flight control                                                
+       remark                                                 =  yes                                                                                                                
+fact   Johnson.Space.Centre.2                                 =  Complex of 100 buildings in Houston, Texas                                                                         
+fact   Johnson.Space.Centre.3                                 =  NASA's astronaut training takes place here                                                                         
+       
+photo  Kennedy.Space.Centre                                   =  Kennedy Space Centre                                                                                               
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/KennedySpaceCentre.jpg                                     
+fact   Kennedy.Space.Centre.0                                 =  Located on Merritt Island, Florida, USA                                                                            
+fact   Kennedy.Space.Centre.1                                 =  Launch site of every NASA human space flight since 1968                                                            
+fact   Kennedy.Space.Centre.2                                 =  Home of the Vehicle Assembly Building and Launch Complex 39A used by Apollo 11                                     
+fact   Kennedy.Space.Centre.3                                 =  Major Florida tourist destination                                                                                  
+       remark                                                 =  yes                                                                                                                
+       
+photo  Launch.Complex.39                                      =  Launch Complex 39                                                                                                  
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/LaunchComplex39.jpg                                        
+fact   Launch.Complex.39.0                                    =  Rocket launch site at the Kennedy Space Centre on Merritt Island, Florida, USA.                                    
+       remark                                                 =  yes                                                                                                                
+fact   Launch.Complex.39.1                                    =  Includes two launch pads and the Vehicle Assembly Building                                                         
+       remark                                                 =  yes                                                                                                                
+fact   Launch.Complex.39.2                                    =  Apollo 11 launched from Launch Pad 39A (top right of photograph)                                                   
+       remark                                                 =  yes                                                                                                                
+       
+photo  Launch.Escape.System                                   =  Launch Escape System                                                                                               
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/LaunchEscapeSystem.jpg                                     
+fact   Launch.Escape.System.0                                 =  Designed to be used only in the event of a launch emergency                                                        
+fact   Launch.Escape.System.1                                 =  Designed for use when the crew were in danger, such as an impending explosion                                      
+fact   Launch.Escape.System.2                                 =  Connected to the command module containing the crew                                                                
+       remark                                                 =  yes                                                                                                                
+fact   Launch.Escape.System.3                                 =  Designed to separate the command module quickly from the rest of the rocket                                        
+fact   Launch.Escape.System.4                                 =  Used a solid-fuel rocket motor                                                                                     
+       remark                                                 =  yes                                                                                                                
+fact   Launch.Escape.System.5                                 =  Jettisoned during launch upon reaching the point where it was no longer needed                                     
+       remark                                                 =  yes                                                                                                                
+       
+photo  Launch.Pad.39A                                         =  Launch Pad 39A                                                                                                     
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/LaunchPad39A.jpg                                           
+fact   Launch.Pad.39A.0                                       =  Part of the Launch Complex 39 site at Kennedy Space Centre                                                         
+       remark                                                 =  yes                                                                                                                
+fact   Launch.Pad.39A.1                                       =  Connected to the Vehicle Assembly Building via the Crawlerway                                                      
+fact   Launch.Pad.39A.2                                       =  Apollo 11 travelled along the crawlerway to Launch Pad 39A                                                         
+       remark                                                 =  yes                                                                                                                
+fact   Launch.Pad.39A.3                                       =  Launched at 13:32:00 UTC, 16 July 1969                                                                             
+       remark                                                 =  yes                                                                                                                
+       
+photo  Liquid.Cooling.and.Ventilation.Garment                 =  Liquid Cooling and Ventilation Garment                                                                             
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/LiquidCoolingandVentilationGarment.jpg                     
+fact   Liquid.Cooling.and.Ventilation.Garment.0               =  Body-hugging garment with flexible tubing sewn onto the fabric                                                     
+fact   Liquid.Cooling.and.Ventilation.Garment.1               =  Cool water circulates through the tubing in direct contact with the skin                                           
+fact   Liquid.Cooling.and.Ventilation.Garment.2               =  Water draws heat away from the body at a rate of 586 watts                                                         
+fact   Liquid.Cooling.and.Ventilation.Garment.3               =  Maintains a comfortable core body temperature                                                                      
+fact   Liquid.Cooling.and.Ventilation.Garment.4               =  Water returns to the Primary Life Support System for cooling before recirculation                                  
+       
+photo  Lunar.Laser.Ranging.experiment                         =  Lunar Laser Ranging experiment                                                                                     
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/LunarLaserRangingexperiment.jpg                            
+fact   Lunar.Laser.Ranging.experiment.0                       =  This retro-reflector was left on the Moon by astronauts on the Apollo 11 mission                                   
+fact   Lunar.Laser.Ranging.experiment.1                       =  Astronomers all over the world have reflected laser light off this reflector                                       
+fact   Lunar.Laser.Ranging.experiment.2                       =  Now possible to measure the distance between Earth and Moon precisely                                              
+       remark                                                 =  yes                                                                                                                
+       
+photo  Lunar.Module                                           =  Lunar Module                                                                                                       
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/LunarModule.jpg                                            
+fact   Lunar.Module.0                                         =  Named "Eagle" after the U.S national bird, the Bald Eagle                                                          
+fact   Lunar.Module.1                                         =  Piloted by Buzz Aldrin                                                                                             
+fact   Lunar.Module.2                                         =  Designed in 2 parts, an Ascent Stage and a Descent Stage                                                           
+fact   Lunar.Module.3                                         =  Used to descend to the Moon's surface while Collins orbited overhead in "Columbia"                                 
+fact   Lunar.Module.4                                         =  "Eagle" landed on the Moon on July 20 1969 at 20:18 UTC                                                            
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.Module.5                                         =  "Eagle" landed in the southern Sea of Tranquility                                                                  
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.Module.6                                         =  Armstrong radioed back to Earth: "Houston, Tranquility Base here, the Eagle has landed"                            
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.Module.7                                         =  22 hours were spent on the Moon                                                                                    
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.Module.8                                         =  Descent Stage of the lunar module was left behind on the Moon                                                      
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.Module.9                                         =  Descent Stage served as the launch pad for the Ascent Stage                                                        
+       
+photo  Lunar.Module,.Moon.and.Earth                           =  Lunar Module, Moon and Earth                                                                                       
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/LunarModule,MoonandEarth.jpg                               
+fact   Lunar.Module,.Moon.and.Earth.0                         =  View of the Apollo 11 lunar module "Eagle" as it returned from the lunar surface                                   
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.Module,.Moon.and.Earth.1                         =  "Eagle" is about to dock with the Command Module, "Columbia".                                                      
+fact   Lunar.Module,.Moon.and.Earth.2                         =  Photograph taken by "Columbia" pilot, Michael Collins, just before docking                                         
+fact   Lunar.Module,.Moon.and.Earth.3                         =  Lunar Module docked at 21:34:00 UTC, July 21 1969                                                                  
+       remark                                                 =  yes                                                                                                                
+       
+photo  Lunar.orbit                                            =  Lunar orbit                                                                                                        
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Lunarorbit.jpg                                             
+fact   Lunar.orbit.0                                          =  Apollo 11 entered lunar orbit, 3 days after lift off, on July 19 1969 at 17:21:50 UTC                              
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.orbit.1                                          =  Command Service Module orbited the Moon 30 times                                                                   
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.orbit.2                                          =  Earth appears to rise above the lunar surface                                                                      
+       remark                                                 =  yes                                                                                                                
+fact   Lunar.orbit.3                                          =  Phenomenon only visible from someone in orbit around the Moon                                                      
+       
+photo  Michael.Collins                                        =  Michael Collins                                                                                                    
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/MichaelCollins.jpg                                         
+fact   Michael.Collins.0                                      =  Born: October 31 1930                                                                                              
+fact   Michael.Collins.1                                      =  Place of birth: Rome, Italy                                                                                        
+fact   Michael.Collins.2                                      =  Pilot of the Apollo 11 command module, "Columbia"                                                                  
+fact   Michael.Collins.3                                      =  Also a U.S. Air Force test pilot                                                                                   
+       remark                                                 =  yes                                                                                                                
+fact   Michael.Collins.4                                      =  Missions: Gemini 10 and Apollo 11                                                                                  
+fact   Michael.Collins.5                                      =  Time in space: 11 days, 2 hours, 4 minutes                                                                         
+       
+photo  Mission.Control.Centre                                 =  Mission Control Centre                                                                                             
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/MissionControlCentre.jpg                                   
+fact   Mission.Control.Centre.0                               =  Located at the Johnson Space Centre in Houston                                                                     
+fact   Mission.Control.Centre.1                               =  Control room for the Apollo 11 mission                                                                             
+fact   Mission.Control.Centre.2                               =  Engineers and astronauts controlled every aspect of the mission from this room                                     
+       remark                                                 =  yes                                                                                                                
+fact   Mission.Control.Centre.3                               =  TV audiences around the world watched the unfolding drama                                                          
+       remark                                                 =  yes                                                                                                                
+       
+photo  Moon.craters                                           =  Moon craters                                                                                                       
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Mooncraters.jpg                                            
+fact   Moon.craters.0                                         =  Two large craters are called Sabine (centre right) and Ritter (right edge)                                         
+       remark                                                 =  yes                                                                                                                
+fact   Moon.craters.1                                         =  Smaller crater near the centre is Schmidt                                                                          
+       remark                                                 =  yes                                                                                                                
+fact   Moon.craters.2                                         =  Image taken during Apollo 11 mission                                                                               
+       
+photo  Moon.landing.site                                      =  Moon landing site                                                                                                  
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Moonlandingsite.jpg                                        
+fact   Moon.landing.site.0                                    =  "Eagle" landed in the southern Sea of Tranquility                                                                  
+       remark                                                 =  yes                                                                                                                
+fact   Moon.landing.site.1                                    =  Selected as relatively flat and smooth for landing and for experiments                                             
+fact   Moon.landing.site.2                                    =  Neil Armstrong radioed Mission Control in Houston with confirmation of landing                                     
+fact   Moon.landing.site.3                                    =  "Houston, Tranquility Base here. The Eagle has landed."                                                            
+fact   Moon.landing.site.4                                    =  Armstrong's change of call sign from "Eagle" to "Tranquility Base" confirmed success                               
+       
+photo  Moon.rock                                              =  Moon rock                                                                                                          
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Moonrock.jpg                                               
+fact   Moon.rock.0                                            =  Grain of rock from the Apollo 11 mission to the Moon (size 5mm)                                                    
+fact   Moon.rock.1                                            =  Armalcolite is a titanium-rich mineral first found at Tranquility Base by Apollo 11                                
+fact   Moon.rock.2                                            =  Armalcolite is named after Armstrong, Aldrin and Collins                                                           
+fact   Moon.rock.3                                            =  One of the 3 minerals discovered on the Moon by Apollo 11                                                          
+       
+photo  Moon.surface                                           =  Moon surface                                                                                                       
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Moonsurface.jpg                                            
+fact   Moon.surface.0                                         =  Photo from Apollo 11 mission to the Moon                                                                           
+       remark                                                 =  yes                                                                                                                
+       
+photo  NASA.insignia                                          =  NASA insignia                                                                                                      
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/NASAinsignia.jpg                                           
+fact   NASA.insignia.0                                        =  Stands for the National Aeronautics and Space Administration                                                       
+       remark                                                 =  yes                                                                                                                
+fact   NASA.insignia.1                                        =  NASA was established by President Eisenhower in 1958                                                               
+       remark                                                 =  yes                                                                                                                
+fact   NASA.insignia.2                                        =  NASA is the USA's centre for space exploration and scientific discovery                                            
+       remark                                                 =  yes                                                                                                                
+fact   NASA.insignia.3                                        =  Apollo 11 was the fifth manned mission of NASA's Apollo program                                                    
+       remark                                                 =  yes                                                                                                                
+fact   NASA.insignia.4                                        =  24 astronauts were launched to the Moon from December 1968 to December 1972                                        
+       remark                                                 =  yes                                                                                                                
+       
+photo  Neil.Armstrong                                         =  Neil Armstrong                                                                                                     
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/NeilArmstrong.jpg                                          
+fact   Neil.Armstrong.0                                       =  Born: August 5 1930                                                                                                
+fact   Neil.Armstrong.1                                       =  Died: August 25 2012 (aged 82)                                                                                     
+fact   Neil.Armstrong.2                                       =  Place of birth: Wapakoneta, Ohio, U.S.A                                                                            
+fact   Neil.Armstrong.3                                       =  The first person to walk on the Moon                                                                               
+fact   Neil.Armstrong.4                                       =  Commander of the Apollo 11 mission                                                                                 
+fact   Neil.Armstrong.5                                       =  Also an aerospace engineer, naval aviator, test pilot and university professor                                     
+fact   Neil.Armstrong.6                                       =  Missions: Gemini 8, Apollo 11                                                                                      
+fact   Neil.Armstrong.7                                       =  Time in space: 8 days, 14 hours, 12 minutes, and 30 seconds                                                        
+       
+photo  Neil.Armstrong.and.Lunar.Module                        =  Neil Armstrong and Lunar Module                                                                                    
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/NeilArmstrongandLunarModule.jpg                            
+fact   Neil.Armstrong.and.Lunar.Module.0                      =  Seven minutes after stepping onto the Moon, Armstrong collected a small soil sample                                
+       remark                                                 =  yes                                                                                                                
+fact   Neil.Armstrong.and.Lunar.Module.1                      =  Armstrong put a sample of Moon dust into a pocket on his right thigh                                               
+       remark                                                 =  yes                                                                                                                
+fact   Neil.Armstrong.and.Lunar.Module.2                      =  Armstrong quickly collected Moon dust in case a crisis meant they had to abandon experiments                       
+       remark                                                 =  yes                                                                                                                
+       
+photo  Neil.Armstrong.in.Lunar.Module                         =  Neil Armstrong in Lunar Module                                                                                     
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/NeilArmstronginLunarModule.jpg                             
+fact   Neil.Armstrong.in.Lunar.Module.0                       =  Commander of the Apollo 11 mission                                                                                 
+       remark                                                 =  yes                                                                                                                
+       
+photo  Nixon.phonecall                                        =  Nixon phonecall                                                                                                    
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Nixonphonecall.jpg                                         
+fact   Nixon.phonecall.0                                      =  Composite photo of President Nixon as he telephoned "Tranquility Base" and the astronauts                          
+       remark                                                 =  yes                                                                                                                
+fact   Nixon.phonecall.1                                      =  President: "... For one priceless moment in the history of man, all of the people on this Earth are truly one..."  
+fact   Nixon.phonecall.2                                      =  Armstrong: "...Thank You, Mr. President. It is a great honour and privilege for us to be here...."                 
+       
+photo  Plaque                                                 =  Plaque                                                                                                             
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Plaque.jpg                                                 
+fact   Plaque.0                                               =  Stainless steel dedication plaque left upon the Moon by Apollo 11 astronauts                                       
+fact   Plaque.1                                               =  Plaque attached to the lunar module's ladder                                                                       
+fact   Plaque.2                                               =  Signatures on the plaque are of the three crew members and President Richard Nixon                                 
+       remark                                                 =  yes                                                                                                                
+       
+photo  President.Nixon.and.astronauts                         =  President Nixon and astronauts                                                                                     
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/PresidentNixonandastronauts.jpg                            
+fact   President.Nixon.and.astronauts.0                       =  President Nixon meets the astronauts on the White House lawn, November 5 1969                                      
+fact   President.Nixon.and.astronauts.1                       =  Armstrong, Aldrin and Collins are at the end of their Global Goodwill Tour                                         
+fact   President.Nixon.and.astronauts.2                       =  Goodwill Tour emphasised the willingness of the U.S. to share its space knowledge                                  
+       remark                                                 =  yes                                                                                                                
+fact   President.Nixon.and.astronauts.3                       =  On tour, the astronauts and their wives visited 24 countries and 27 cities in 45 days                              
+       
+photo  Primary.Life.Support.System                            =  Primary Life Support System                                                                                        
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/PrimaryLifeSupportSystem.jpg                               
+fact   Primary.Life.Support.System.0                          =  Worn on the astronaut's back and connected to the spacesuit                                                        
+fact   Primary.Life.Support.System.1                          =  Dimensions: 66 cm high, 46 cm wide, 25 cm deep                                                                     
+       remark                                                 =  yes                                                                                                                
+fact   Primary.Life.Support.System.2                          =  Weight: 38 kg (84 lb) on Earth; 6.4 kg (14 lb) on the Moon                                                         
+       remark                                                 =  yes                                                                                                                
+fact   Primary.Life.Support.System.3                          =  Allows the astronaut to leave the spacecraft                                                                       
+fact   Primary.Life.Support.System.4                          =  Regulates suit pressure                                                                                            
+fact   Primary.Life.Support.System.5                          =  Provides breathable oxygen and removes carbon dioxide and contaminants                                             
+fact   Primary.Life.Support.System.6                          =  Provides two-way voice communication                                                                               
+fact   Primary.Life.Support.System.7                          =  Records heart rate and other health parameters                                                                     
+fact   Primary.Life.Support.System.8                          =  Cools and recirculates oxygen and water                                                                            
+       
+photo  Quarantine.suits                                       =  Quarantine suits                                                                                                   
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Quarantinesuits.jpg                                        
+fact   Quarantine.suits.0                                     =  Apollo 11 astronauts in Biological Isolation Garments after recovery at sea                                        
+       remark                                                 =  yes                                                                                                                
+fact   Quarantine.suits.1                                     =  Seen here leaving the recovery helicopter on board USS Hornet                                                      
+       remark                                                 =  yes                                                                                                                
+fact   Quarantine.suits.2                                     =  Astronauts about to spend the next 21 days in quarantine                                                           
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saluting.the.American.flag                             =  Saluting the American flag                                                                                         
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SalutingtheAmericanflag.jpg                                
+fact   Saluting.the.American.flag.0                           =  Buzz Aldrin salutes the American flag                                                                              
+       remark                                                 =  yes                                                                                                                
+fact   Saluting.the.American.flag.1                           =  Specially designed with a horizontal pole to support the flag on the airless Moon                                  
+fact   Saluting.the.American.flag.2                           =  American flag blew over as "Eagle" blasted off from the Moon's surface                                             
+       
+photo  Saturn.V.Apollo.11                                     =  Saturn V Apollo 11                                                                                                 
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVApollo11.jpg                                        
+fact   Saturn.V.Apollo.11.0                                   =  Single-use rocket used for all NASA's Apollo missions                                                              
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.Apollo.11.1                                   =  Apollo 11 was lifted into space by the Saturn V rocket                                                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.Apollo.11.2                                   =  Tallest, heaviest, and most powerful rocket ever built                                                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.Apollo.11.3                                   =  111 m (363 ft) tall and 10 m (33 ft) in diameter without fins                                                      
+fact   Saturn.V.Apollo.11.4                                   =  58 ft taller than the Statue of Liberty; same height as St. Paul's Cathedral, London                               
+fact   Saturn.V.Apollo.11.5                                   =  Only rocket to have transported humans beyond low Earth orbit                                                      
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.Apollo.11.6                                   =  Holds the record for the heaviest launch payload (carrying capacity) of any craft                                  
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.Apollo.11.7                                   =  Multi-stage rocket with 3 rockets stacked one on top of each other                                                 
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.Apollo.11.8                                   =  As each stage ran out of fuel, it was discarded with a small explosive charge                                      
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.Apollo.11.9                                   =  As stages were discarded, the rocket became lighter and could accelerate faster                                    
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.Apollo.11.10                                  =  Each stage used a different type of rocket motor                                                                   
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saturn.V.engines                                       =  Saturn V engines                                                                                                   
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVengines.jpg                                         
+fact   Saturn.V.engines.0                                     =  Five F-1 engines were used to blast Apollo 11 into space                                                           
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.engines.1                                     =  Most powerful liquid-fuelled rocket engines ever developed                                                         
+fact   Saturn.V.engines.2                                     =  Burned kerosene as fuel and used liquid oxygen as the oxidiser                                                     
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.engines.3                                     =  Burned 12,710 litres (3,357 US gallons) per second                                                                 
+fact   Saturn.V.engines.4                                     =  34 mega newtons of thrust forced the rocket to an altitude of 67 km (42 miles)                                     
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.engines.5                                     =  When the engines cut off after 2.5 minutes, the rocket was moving at 6,164 miles/hour                              
+fact   Saturn.V.engines.6                                     =  On March 28 2012, the original F-1 rocket engines from Apollo 11 were found                                        
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.engines.7                                     =  Apollo 11's F-1 rocket engines lie 4,300 m (14,000 ft) deep on the floor of the Atlantic Ocean                     
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.engines.8                                     =  Jeff Bezos, founder of Amazon.com, funded the search for Apollo's F-1 rocket engines                               
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saturn.V.engines.firing                                =  Saturn V engines firing                                                                                            
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVenginesfiring.jpg                                   
+fact   Saturn.V.engines.firing.0                              =  Apollo 11 was lifted into space by the Saturn V rocket                                                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.engines.firing.1                              =  Ignition of the F-1 rocket engines began 9 seconds before liftoff                                                  
+fact   Saturn.V.engines.firing.2                              =  13:32:00 UTC (9:32 a.m. EDT) July 16, 1969                                                                         
+       
+photo  Saturn.V.first.stage                                   =  Saturn V first stage                                                                                               
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVfirststage.jpg                                      
+fact   Saturn.V.first.stage.0                                 =  First stage of the Saturn V rocket being erected in the Vehicle Assembly Building                                  
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.first.stage.1                                 =  This is the stage that blasted Apollo 11 into space                                                                
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.first.stage.2                                 =  Height: 42 m (138 ft). Diameter: 10 m (33 ft)                                                                      
+fact   Saturn.V.first.stage.3                                 =  Powered by five F-1 engines                                                                                        
+       
+photo  Saturn.V.first.stage.separation                        =  Saturn V first stage separation                                                                                    
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVfirststageseparation.jpg                            
+fact   Saturn.V.first.stage.separation.0                      =  Apollo 11 was lifted into space by the Saturn V rocket                                                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.first.stage.separation.1                      =  First stage engines burned for 168 seconds                                                                         
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.first.stage.separation.2                      =  First stage rocket separated from the rest of Saturn V at altitude of 67 km (42 miles)                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.first.stage.separation.3                      =  First stage rocket fell in the Atlantic Ocean about 560 km (350 mi) downrange                                      
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saturn.V.into.orbit                                    =  Saturn V into orbit                                                                                                
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVintoorbit.jpg                                       
+fact   Saturn.V.into.orbit.0                                  =  Apollo 11 was lifted into space by the Saturn V rocket                                                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.into.orbit.1                                  =  Climbing towards Earth orbit after 2.5 minutes of powered flight                                                   
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.into.orbit.2                                  =  Saturn V entered Earth orbit 12 minutes after lift off                                                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.into.orbit.3                                  =  Photo taken with a 70mm telescopic camera mounted in an Air Force plane                                            
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saturn.V.lift.off                                      =  Saturn V lift off                                                                                                  
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVliftoff.jpg                                         
+fact   Saturn.V.lift.off.0                                    =  Apollo 11 was lifted into space by the Saturn V rocket                                                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.lift.off.1                                    =  13:32:00 UTC (9:32 a.m. EDT) July 16, 1969                                                                         
+fact   Saturn.V.lift.off.2                                    =  From Launch Complex 39A at Kennedy Space Centre                                                                    
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.lift.off.3                                    =  At launch, most of its mass of 3,000 metric tons (6.5 million lb) was fuel                                         
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.lift.off.4                                    =  Payload capacity (carrying capacity) of 120 metric tons (260,000 lb) to low Earth orbit                            
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.lift.off.5                                    =  Swing arms moved away and a plume of smoke and flame signaled lift off                                             
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.lift.off.6                                    =  Fired its engines for 168 seconds                                                                                  
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saturn.V.on.crawler-transporter                        =  Saturn V on crawler-transporter                                                                                    
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVoncrawler-transporter.jpg                           
+fact   Saturn.V.on.crawler-transporter.0                      =  Roll out of the Saturn V rocket from the Vehicle Assembly Building to launch pad 39A                               
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.on.crawler-transporter.1                      =  Apollo 11 was lifted into space by the Saturn V rocket                                                             
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saturn.V.on.way.to.launch.pad                          =  Saturn V on way to launch pad                                                                                      
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVonwaytolaunchpad.jpg                                
+fact   Saturn.V.on.way.to.launch.pad.0                        =  Crawler-transporter travelled at 1 mile per hour (2 miles per hour unloaded)                                       
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.on.way.to.launch.pad.1                        =  Distance of 5.6 km (3.5 miles) from Vehicle Assembly Building to the launch pad                                    
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.on.way.to.launch.pad.2                        =  Journey along crawlerway to launch pad took 5 hours                                                                
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.on.way.to.launch.pad.3                        =  Roadway was 2 m (7 ft) deep and covered with special rock to reduce friction and sparks                            
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.on.way.to.launch.pad.4                        =  Apollo 11 was lifted into space by the Saturn V rocket                                                             
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saturn.V.second.stage                                  =  Saturn V second stage                                                                                              
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVsecondstage.jpg                                     
+fact   Saturn.V.second.stage.0                                =  Second stage of the Saturn V rocket that blasted Apollo 11 into space                                              
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.second.stage.1                                =  After the first stage rocket had been jettisoned, this second stage rocket took over                               
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.second.stage.2                                =  Height: 25 m (82 ft). Diameter: 10 m (33 ft)                                                                       
+fact   Saturn.V.second.stage.3                                =  Accelerated the Saturn V through the upper atmosphere with 5.1 mega newtons of thrust                              
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.second.stage.4                                =  Powered by five J-2 engines which burned for 6 minutes                                                             
+fact   Saturn.V.second.stage.5                                =  Fully fuelled weighed 480 metric tons                                                                              
+fact   Saturn.V.second.stage.6                                =  Over 90% of the weight was fuel                                                                                    
+       remark                                                 =  yes                                                                                                                
+       
+photo  Saturn.V.third.stage                                   =  Saturn V third stage                                                                                               
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SaturnVthirdstage.jpg                                      
+fact   Saturn.V.third.stage.0                                 =  Third stage of the Saturn V rocket that blasted Apollo 11 into space                                               
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.third.stage.1                                 =  After the second stage rocket had been jettisoned, this third stage rocket took over                               
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.third.stage.2                                 =  Orbited the Earth two and a half times and then changed direction to fly to the Moon                               
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.third.stage.3                                 =  Height: 18m (59 ft). Diameter: 6.6 m (22 ft)                                                                       
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.third.stage.4                                 =  Fully fuelled weighed 119 metric tons                                                                              
+fact   Saturn.V.third.stage.5                                 =  Powered by one J-2 engine which was used twice                                                                     
+fact   Saturn.V.third.stage.6                                 =  Burned for 2.5 minutes to position rocket in Earth orbit                                                           
+fact   Saturn.V.third.stage.7                                 =  Burned for another 6 minutes to fly towards the Moon                                                               
+fact   Saturn.V.third.stage.8                                 =  On course for the Moon, the third stage separated from Apollo 11 Command Service Module                            
+       remark                                                 =  yes                                                                                                                
+fact   Saturn.V.third.stage.9                                 =  Third stage flew past the Moon and into orbit around the sun                                                       
+       remark                                                 =  yes                                                                                                                
+       
+photo  Scientific.experiments                                 =  Scientific experiments                                                                                             
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Scientificexperiments.jpg                                  
+fact   Scientific.experiments.0                               =  Deployed to transmit data about the lunar environment                                                              
+fact   Scientific.experiments.1                               =  Buzz Aldrin stands next to the Passive Seismic Experiment Package (PSEP)                                           
+       remark                                                 =  yes                                                                                                                
+fact   Scientific.experiments.2                               =  PSEP was designed to detect "moonquakes," to help study the structure of the subsurface                            
+       remark                                                 =  yes                                                                                                                
+fact   Scientific.experiments.3                               =  PSEP carried its own power source (solar), electronics, and communications equipment                               
+       remark                                                 =  yes                                                                                                                
+fact   Scientific.experiments.4                               =  Astronauts collected 21.5 kg (47.5 pounds) of lunar material for return to Earth                                   
+       remark                                                 =  yes                                                                                                                
+       
+photo  Second.man.on.the.Moon                                 =  Second man on the Moon                                                                                             
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/SecondmanontheMoon.jpg                                     
+fact   Second.man.on.the.Moon.0                               =  Buzz Aldrin leaves "Eagle" to become the second man on the Moon                                                    
+fact   Second.man.on.the.Moon.1                               =  Aldrin tested methods of moving around in lunar gravity, one-sixth of that on Earth                                
+       remark                                                 =  yes                                                                                                                
+fact   Second.man.on.the.Moon.2                               =  Global TV audiences saw Aldrin jumping with two-footed kangaroo hops                                               
+       remark                                                 =  yes                                                                                                                
+       
+photo  Solar.wind.experiment                                  =  Solar wind experiment                                                                                              
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Solarwindexperiment.jpg                                    
+fact   Solar.wind.experiment.0                                =  Buzz Aldrin with the Solar Wind Composition experiment                                                             
+       remark                                                 =  yes                                                                                                                
+fact   Solar.wind.experiment.1                                =  Solar wind is a stream of charged particles released from the upper atmosphere of the Sun                          
+       remark                                                 =  yes                                                                                                                
+fact   Solar.wind.experiment.2                                =  Apollo's experiment measured and sampled the solar wind successfully                                               
+       remark                                                 =  yes                                                                                                                
+fact   Solar.wind.experiment.3                                =  Experiment provided accurate He, Ne and Ar isotopic compositions of the solar wind                                 
+       remark                                                 =  yes                                                                                                                
+       
+photo  Space.suit                                             =  Space suit                                                                                                         
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Spacesuit.jpg                                              
+fact   Space.suit.0                                           =  Worn to keep a human alive in the harsh environment of outer space                                                 
+fact   Space.suit.1                                           =  Also worn inside spacecraft in case of loss of cabin pressure                                                      
+fact   Space.suit.2                                           =  Provides a stable internal pressure, temperature regulation and mobility                                           
+fact   Space.suit.3                                           =  Provides a means of collecting and containing solid and liquid waste                                               
+fact   Space.suit.4                                           =  Provides a supply of breathable oxygen and elimination of carbon dioxide                                           
+       
+photo  Splashdown                                             =  Splashdown                                                                                                         
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Splashdown.jpg                                             
+fact   Splashdown.0                                           =  Apollo 11 splashed down at 11:49 am (CDT), July 24, 1969                                                           
+       remark                                                 =  yes                                                                                                                
+fact   Splashdown.1                                           =  812 nautical miles southwest of Hawaii in the Pacific Ocean                                                        
+fact   Splashdown.2                                           =  Apollo 11 crew awaited pickup by a helicopter from the recovery ship, USS Hornet                                   
+       remark                                                 =  yes                                                                                                                
+fact   Splashdown.3                                           =  Fourth man in the raft was a U.S. Navy underwater demolition team swimmer                                          
+       remark                                                 =  yes                                                                                                                
+fact   Splashdown.4                                           =  Biological Isolation Garments were worn in case pathogens had been brought back from the Moon                      
+       remark                                                 =  yes                                                                                                                
+       
+photo  The.Washington.Post                                    =  The Washington Post                                                                                                
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/TheWashingtonPost.jpg                                      
+fact   The.Washington.Post.0                                  =  Front page of the most widely circulated American daily newspaper                                                  
+fact   The.Washington.Post.1                                  =  July 21 1969 edition carried the headline "'The Eagle Has Landed' - Two Men Walk on the Moon"                      
+       remark                                                 =  yes                                                                                                                
+       
+photo  Training.exercise                                      =  Training exercise                                                                                                  
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/Trainingexercise.jpg                                       
+fact   Training.exercise.0                                    =  Training to use lunar tools on the surface of the Moon                                                             
+fact   Training.exercise.1                                    =  Buzz Aldrin uses a scoop and tongs to pick up a soil sample                                                        
+       remark                                                 =  yes                                                                                                                
+       
+photo  USS.Hornet                                             =  USS Hornet                                                                                                         
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/USSHornet.jpg                                              
+fact   USS.Hornet.0                                           =  United States Navy aircraft carrier                                                                                
+       remark                                                 =  yes                                                                                                                
+fact   USS.Hornet.1                                           =  Recovered the Apollo 11 astronauts from the Pacific Ocean on July 24 1969                                          
+fact   USS.Hornet.2                                           =  President Nixon was on board USS Hornet to welcome the astronauts back to Earth                                    
+       remark                                                 =  yes                                                                                                                
+fact   USS.Hornet.3                                           =  Astronauts lived in quarantine aboard USS Hornet before transfer to quarantine at Houston                          
+       remark                                                 =  yes                                                                                                                
+fact   USS.Hornet.4                                           =  First steps on Earth of the returning astronauts are marked on her hangar deck                                     
+       
+photo  Vehicle.Assembly.Building                              =  Vehicle Assembly Building                                                                                          
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/VehicleAssemblyBuilding.jpg                                
+fact   Vehicle.Assembly.Building.0                            =  Largest single-story building in the world covering 8 acres                                                        
+fact   Vehicle.Assembly.Building.1                            =  Fourth-largest structure in the world by volume                                                                    
+fact   Vehicle.Assembly.Building.2                            =  Located at NASA's Kennedy Space Centre on Florida's Atlantic coast                                                 
+       remark                                                 =  yes                                                                                                                
+fact   Vehicle.Assembly.Building.3                            =  Used to assemble the Saturn V rocket for Apollo 11                                                                 
+fact   Vehicle.Assembly.Building.4                            =  Height: 160 m (526 ft); Volume: 3,665,000 cubic metres                                                             
+fact   Vehicle.Assembly.Building.5                            =  Interior of the building is so vast that it has its own weather                                                    
+fact   Vehicle.Assembly.Building.6                            =  Rain clouds form below the ceiling on very humid days                                                              
+       
+photo  White.Room                                             =  White Room                                                                                                         
+       url                                                    =  github://philiprbrenan/vocabulary-8/images/ManOnTheMoon/WhiteRoom.jpg                                              
+fact   White.Room.0                                           =  Placed at the top of the Saturn V rocket                                                                           
+       remark                                                 =  yes                                                                                                                
+fact   White.Room.1                                           =  Astronauts entered the spacecraft through this room                                                                
