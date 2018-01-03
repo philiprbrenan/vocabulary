@@ -6,32 +6,32 @@ app g.CountFlowersInEnglish   = Count Flowers 1-10
   speakers     = Amy
 
        
-photo    1  =  One                                                  
-       url  =  github://philiprbrenan/CountFlowersInEnglish/1.jpg   
+photo    1  =  One                                                                      
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/1.jpg   
        
-photo   10  =  Ten                                                  
-       url  =  github://philiprbrenan/CountFlowersInEnglish/10.jpg  
+photo   10  =  Ten                                                                      
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/10.jpg  
        
-photo    2  =  Two                                                  
-       url  =  github://philiprbrenan/CountFlowersInEnglish/2.jpg   
+photo    2  =  Two                                                                      
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/2.jpg   
        
-photo    3  =  Three                                                
-       url  =  github://philiprbrenan/CountFlowersInEnglish/3.jpg   
+photo    3  =  Three                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/3.jpg   
        
-photo    4  =  Four                                                 
-       url  =  github://philiprbrenan/CountFlowersInEnglish/4.jpg   
+photo    4  =  Four                                                                     
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/4.jpg   
        
-photo    5  =  Five                                                 
-       url  =  github://philiprbrenan/CountFlowersInEnglish/5.jpg   
+photo    5  =  Five                                                                     
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/5.jpg   
        
-photo    6  =  Six                                                  
-       url  =  github://philiprbrenan/CountFlowersInEnglish/6.jpg   
+photo    6  =  Six                                                                      
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/6.jpg   
        
-photo    7  =  Seven                                                
-       url  =  github://philiprbrenan/CountFlowersInEnglish/7.jpg   
+photo    7  =  Seven                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/7.jpg   
        
-photo    8  =  Eight                                                
-       url  =  github://philiprbrenan/CountFlowersInEnglish/8.jpg   
+photo    8  =  Eight                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/8.jpg   
        
-photo    9  =  Nine                                                 
-       url  =  github://philiprbrenan/CountFlowersInEnglish/9.jpg   
+photo    9  =  Nine                                                                     
+       url  =  github://philiprbrenan/vocabulary-4/images/CountFlowersInEnglish/9.jpg   
