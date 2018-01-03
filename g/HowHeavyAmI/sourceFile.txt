@@ -1,0 +1,324 @@
+app g.HowHeavyAmI   = How Heavy Am I?
+  description  = Learn about How Heavy Am I? in English
+  icon         = Heaviest land reptile (Galapagos Tortoise).png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Heaviest.animal.ever.(Blue.Whale)                 =  Blue Whale                                                                                             
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestanimalever(BlueWhale).jpg               
+fact   Heaviest.animal.ever.(Blue.Whale).0               =  Heaviest animal that has ever lived in the world                                                       
+fact   Heaviest.animal.ever.(Blue.Whale).1               =  170 tonnes (170,000 kg)                                                                                
+fact   Heaviest.animal.ever.(Blue.Whale).2               =  Lives in all the oceans on Earth                                                                       
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.ant.(Army.Ant)                           =  Army Ant                                                                                               
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestant(ArmyAnt).jpg                        
+fact   Heaviest.ant.(Army.Ant).0                         =  Heaviest ant in the world                                                                              
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.ant.(Army.Ant).1                         =  Average female weight: 8.5 g                                                                           
+fact   Heaviest.ant.(Army.Ant).2                         =  Lives in central and east Africa                                                                       
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.armadillo.(Giant.Armadillo)              =  Giant Armadillo                                                                                        
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestarmadillo(GiantArmadillo).jpg           
+fact   Heaviest.armadillo.(Giant.Armadillo).0            =  Heaviest armadillo in the world                                                                        
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.armadillo.(Giant.Armadillo).1            =  Average male weight: 30 kg                                                                             
+fact   Heaviest.armadillo.(Giant.Armadillo).2            =  Lives in tropical forests of South America                                                             
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.bat.(Giant.Golden-Crowned.Flying.Fox)    =  Giant Golden-Crowned Flying Fox                                                                        
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestbat(GiantGolden-CrownedFlyingFox).jpg   
+fact   Heaviest.bat.(Giant.Golden-Crowned.Flying.Fox).0  =  Heaviest bat in the world                                                                              
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.bat.(Giant.Golden-Crowned.Flying.Fox).1  =  Average male weight: 1 kg                                                                              
+fact   Heaviest.bat.(Giant.Golden-Crowned.Flying.Fox).2  =  Lives in forests in the Philippines                                                                    
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.bird.(Ostrich)                           =  Ostrich                                                                                                
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestbird(Ostrich).jpg                       
+fact   Heaviest.bird.(Ostrich).0                         =  Heaviest bird in the world                                                                             
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.bird.(Ostrich).1                         =  Average male weight: 115 kg                                                                            
+fact   Heaviest.bird.(Ostrich).2                         =  Lives in Africa                                                                                        
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.bird.of.prey.(Eurasian.Black.Vulture)    =  Eurasian Black Vulture                                                                                 
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestbirdofprey(EurasianBlackVulture).jpg    
+fact   Heaviest.bird.of.prey.(Eurasian.Black.Vulture).0  =  Heaviest bird of prey in the world                                                                     
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.bird.of.prey.(Eurasian.Black.Vulture).1  =  Average weight: 11 kg                                                                                  
+fact   Heaviest.bird.of.prey.(Eurasian.Black.Vulture).2  =  Lives in mountainous areas of Europe and Asia                                                          
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.bony.fish.(Ocean.Sunfish)                =  Ocean Sunfish                                                                                          
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestbonyfish(OceanSunfish).jpg              
+fact   Heaviest.bony.fish.(Ocean.Sunfish).0              =  Heaviest bony fish in the world                                                                        
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.bony.fish.(Ocean.Sunfish).1              =  Average weight: 1 tonne (1,000 kg)                                                                     
+fact   Heaviest.bony.fish.(Ocean.Sunfish).2              =  Lives in tropical and temperate waters                                                                 
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.carnivore.(Southern.Elephant.Seal)       =  Southern Elephant Seal                                                                                 
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestcarnivore(SouthernElephantSeal).jpg     
+fact   Heaviest.carnivore.(Southern.Elephant.Seal).0     =  Heaviest carnivore in the world                                                                        
+fact   Heaviest.carnivore.(Southern.Elephant.Seal).1     =  Average male weight: 3.2 tonnes (3,200 kg)                                                             
+fact   Heaviest.carnivore.(Southern.Elephant.Seal).2     =  Heaviest seal living in Antarctica                                                                     
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.cat.(Bengal.Tiger)                       =  Bengal Tiger                                                                                           
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestcat(BengalTiger).jpg                    
+fact   Heaviest.cat.(Bengal.Tiger).0                     =  Heaviest cat in the world                                                                              
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.cat.(Bengal.Tiger).1                     =  Average male weight: 230 kg                                                                            
+fact   Heaviest.cat.(Bengal.Tiger).2                     =  Lives in India, Nepal and Bhutan                                                                       
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.cockroach.(Giant.Burrowing.Cockroach)    =  Giant Burrowing Cockroach                                                                              
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestcockroach(GiantBurrowingCockroach).jpg  
+fact   Heaviest.cockroach.(Giant.Burrowing.Cockroach).0  =  Heaviest cockroach in the world                                                                        
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.cockroach.(Giant.Burrowing.Cockroach).1  =  Average weight: 35 g                                                                                   
+fact   Heaviest.cockroach.(Giant.Burrowing.Cockroach).2  =  Lives in tropical Queensland, Australia                                                                
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.crustacean.(American.lobster)            =  American lobster                                                                                       
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestcrustacean(Americanlobster).jpg         
+fact   Heaviest.crustacean.(American.lobster).0          =  Heaviest crustacean in the world                                                                       
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.crustacean.(American.lobster).1          =  Average weight: 20 kg                                                                                  
+fact   Heaviest.crustacean.(American.lobster).2          =  Lives on the Atlantic coast of North America                                                           
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.dolphin.(Killer.Whale)                   =  Killer Whale                                                                                           
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestdolphin(KillerWhale).jpg                
+fact   Heaviest.dolphin.(Killer.Whale).0                 =  Heaviest dolphin in the world                                                                          
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.dolphin.(Killer.Whale).1                 =  Average male weight: 6 tonnes (6,000 kg)                                                               
+fact   Heaviest.dolphin.(Killer.Whale).2                 =  Lives in all the oceans on Earth                                                                       
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.even-toed.ungulate.(Hippopotamus)        =  Hippopotamus                                                                                           
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviesteven-toedungulate(Hippopotamus).jpg     
+fact   Heaviest.even-toed.ungulate.(Hippopotamus).0      =  Heaviest even-toed ungulate in the world                                                               
+fact   Heaviest.even-toed.ungulate.(Hippopotamus).1      =  An even-toed ungulate is an animal that stands on the third and fourth toes of its foot                
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.even-toed.ungulate.(Hippopotamus).2      =  Third heaviest land animal after the African Elephant and the Rhinoceros                               
+fact   Heaviest.even-toed.ungulate.(Hippopotamus).3      =  Average male weight: 1.7 tonnes (1,700 kg)                                                             
+fact   Heaviest.even-toed.ungulate.(Hippopotamus).4      =  Lives in the rivers, lakes and swamps of sub-Saharan Africa                                            
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.fish.(Whale.Shark)                       =  Whale Shark                                                                                            
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestfish(WhaleShark).jpg                    
+fact   Heaviest.fish.(Whale.Shark).0                     =  Heaviest fish in the world                                                                             
+fact   Heaviest.fish.(Whale.Shark).1                     =  Average male weight: 9 tonnes (9,000 kg)                                                               
+fact   Heaviest.fish.(Whale.Shark).2                     =  Lives in tropical and warm oceans                                                                      
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.hummingbird.(Giant.Hummingbird)          =  Giant Hummingbird                                                                                      
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviesthummingbird(GiantHummingbird).jpg       
+fact   Heaviest.hummingbird.(Giant.Hummingbird).0        =  Heaviest hummingbird in the world                                                                      
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.hummingbird.(Giant.Hummingbird).1        =  Average weight: 21 g                                                                                   
+fact   Heaviest.hummingbird.(Giant.Hummingbird).2        =  Lives in the Andes of South America                                                                    
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.insect.(Goliath.Beetle)                  =  Goliath Beetle                                                                                         
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestinsect(GoliathBeetle).jpg               
+fact   Heaviest.insect.(Goliath.Beetle).0                =  Heaviest insect in the world                                                                           
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.insect.(Goliath.Beetle).1                =  Average weight for larva: 90 g                                                                         
+fact   Heaviest.insect.(Goliath.Beetle).2                =  Live in tropical forests in Africa                                                                     
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.jellyfish.(Lion's.Mane.Jellyfish)        =  Lion's Mane Jellyfish                                                                                  
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestjellyfish(Lion'sManeJellyfish).jpg      
+fact   Heaviest.jellyfish.(Lion's.Mane.Jellyfish).0      =  Heaviest jellyfish in the world                                                                        
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.jellyfish.(Lion's.Mane.Jellyfish).1      =  Highest recorded weight: 150 kg                                                                        
+fact   Heaviest.jellyfish.(Lion's.Mane.Jellyfish).2      =  Lives in cold waters of the Arctic, northern Atlantic and Pacific Oceans                               
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.land.animal.(African.Bush.Elephant)      =  African Bush Elephant                                                                                  
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestlandanimal(AfricanBushElephant).jpg     
+fact   Heaviest.land.animal.(African.Bush.Elephant).0    =  Heaviest land animal in the world                                                                      
+fact   Heaviest.land.animal.(African.Bush.Elephant).1    =  Average male weight: 5 tonnes (5,000 kg)                                                               
+fact   Heaviest.land.animal.(African.Bush.Elephant).2    =  Lives in Eastern, Southern and West Africa                                                             
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.land.carnivore.(Polar.Bear)              =  Polar Bear                                                                                             
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestlandcarnivore(PolarBear).jpg            
+fact   Heaviest.land.carnivore.(Polar.Bear).0            =  Heaviest land carnivore in the world                                                                   
+fact   Heaviest.land.carnivore.(Polar.Bear).1            =  Average male weight: 525 kg                                                                            
+fact   Heaviest.land.carnivore.(Polar.Bear).2            =  Lives in the Arctic                                                                                    
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.land.reptile.(Galapagos.Tortoise)        =  Galapagos Tortoise                                                                                     
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestlandreptile(GalapagosTortoise).jpg      
+fact   Heaviest.land.reptile.(Galapagos.Tortoise).0      =  Heaviest tortoise in the world                                                                         
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.land.reptile.(Galapagos.Tortoise).1      =  Heaviest truly terrestrial reptile                                                                     
+fact   Heaviest.land.reptile.(Galapagos.Tortoise).2      =  Largest recorded weight: 400 kg                                                                        
+fact   Heaviest.land.reptile.(Galapagos.Tortoise).3      =  Lives in all tropical and subtropical oceans                                                           
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.land-living.arthropod.(Coconut.crab)     =  Coconut crab                                                                                           
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestland-livingarthropod(Coconutcrab).jpg   
+fact   Heaviest.land-living.arthropod.(Coconut.crab).0   =  Heaviest land-living arthropod in the world                                                            
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.land-living.arthropod.(Coconut.crab).1   =  An arthropod has its skeleton or "cuticle" on the outside of its body                                  
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.land-living.arthropod.(Coconut.crab).2   =  Average male weight: 4 kg                                                                              
+fact   Heaviest.land-living.arthropod.(Coconut.crab).3   =  Found on islands in the Indian and Pacific Oceans                                                      
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.lizard.(Komodo.Dragon)                   =  Komodo Dragon                                                                                          
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestlizard(KomodoDragon).jpg                
+fact   Heaviest.lizard.(Komodo.Dragon).0                 =  Heaviest lizard in the world                                                                           
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.lizard.(Komodo.Dragon).1                 =  Average male weight: 85 kg                                                                             
+fact   Heaviest.lizard.(Komodo.Dragon).2                 =  Lives on a number of Indonesian islands                                                                
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.marsupial.(Red.Kangaroo)                 =  Red Kangaroo                                                                                           
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestmarsupial(RedKangaroo).jpg              
+fact   Heaviest.marsupial.(Red.Kangaroo).0               =  Heaviest marsupial in the world                                                                        
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.marsupial.(Red.Kangaroo).1               =  Heaviest member of the kangaroo family                                                                 
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.marsupial.(Red.Kangaroo).2               =  Average male weight: 70 kg                                                                             
+fact   Heaviest.marsupial.(Red.Kangaroo).3               =  Lives in Australia                                                                                     
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.marsupial.carnivore.(Tasmanian.Devil)    =  Tasmanian Devil                                                                                        
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestmarsupialcarnivore(TasmanianDevil).jpg  
+fact   Heaviest.marsupial.carnivore.(Tasmanian.Devil).0  =  Heaviest marsupial carnivore in the world                                                              
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.marsupial.carnivore.(Tasmanian.Devil).1  =  Average male weight: 8 kg                                                                              
+fact   Heaviest.marsupial.carnivore.(Tasmanian.Devil).2  =  Lives in Tasmania                                                                                      
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.mollusk.(Colossal.Squid)                 =  Colossal Squid                                                                                         
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestmollusk(ColossalSquid).jpg              
+fact   Heaviest.mollusk.(Colossal.Squid).0               =  Heaviest mollusk and invertebrate in the world                                                         
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.mollusk.(Colossal.Squid).1               =  Highest recorded weight: 495 kg                                                                        
+fact   Heaviest.mollusk.(Colossal.Squid).2               =  Lives in the Southern Ocean                                                                            
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.moth.(Atlas.Moth)                        =  Atlas Moth                                                                                             
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestmoth(AtlasMoth).jpg                     
+fact   Heaviest.moth.(Atlas.Moth).0                      =  Heaviest moth in the world                                                                             
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.moth.(Atlas.Moth).1                      =  Average weight: 12 g                                                                                   
+fact   Heaviest.moth.(Atlas.Moth).2                      =  Lives in the tropical forests of Southeast Asia                                                        
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.odd-toed.ungulate.(White.Rhinoceros)     =  White Rhinoceros                                                                                       
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestodd-toedungulate(WhiteRhinoceros).jpg   
+fact   Heaviest.odd-toed.ungulate.(White.Rhinoceros).0   =  Heaviest odd-toed ungulate in the world                                                                
+fact   Heaviest.odd-toed.ungulate.(White.Rhinoceros).1   =  An odd-toed ungulate is an animal that stands on the third toe of its foot                             
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.odd-toed.ungulate.(White.Rhinoceros).2   =  Second heaviest land animal after the African Elephant                                                 
+fact   Heaviest.odd-toed.ungulate.(White.Rhinoceros).3   =  Average male weight: 2.3 tonnes (2,300 kg)                                                             
+fact   Heaviest.odd-toed.ungulate.(White.Rhinoceros).4   =  Lives in southern Africa                                                                               
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.owl.(Eurasian.Eagle-Owl)                 =  Eurasian Eagle-Owl                                                                                     
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestowl(EurasianEagle-Owl).jpg              
+fact   Heaviest.owl.(Eurasian.Eagle-Owl).0               =  Heaviest owl in the world                                                                              
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.owl.(Eurasian.Eagle-Owl).1               =  Average male weight: 2.3 kg                                                                            
+fact   Heaviest.owl.(Eurasian.Eagle-Owl).2               =  Found in North Africa, Europe, Asia and the Middle East                                                
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.penguin.(Emperor.Penguin)                =  Emperor Penguin                                                                                        
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestpenguin(EmperorPenguin).jpg             
+fact   Heaviest.penguin.(Emperor.Penguin).0              =  Heaviest penguin in the world                                                                          
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.penguin.(Emperor.Penguin).1              =  Average male weight: 38 kg                                                                             
+fact   Heaviest.penguin.(Emperor.Penguin).2              =  Lives in Antarctica                                                                                    
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.plover.(Masked.Lapwing)                  =  Masked Lapwing                                                                                         
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestplover(MaskedLapwing).jpg               
+fact   Heaviest.plover.(Masked.Lapwing).0                =  Heaviest plover in the world                                                                           
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.plover.(Masked.Lapwing).1                =  Average weight: 400 g                                                                                  
+fact   Heaviest.plover.(Masked.Lapwing).2                =  Lives in wetlands in Australia                                                                         
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.primate.(Gorilla)                        =  Gorilla                                                                                                
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestprimate(Gorilla).jpg                    
+fact   Heaviest.primate.(Gorilla).0                      =  Heaviest primate in the world                                                                          
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.primate.(Gorilla).1                      =  Average male weight: 170 kg                                                                            
+fact   Heaviest.primate.(Gorilla).2                      =  Lives in tropical forests in Africa                                                                    
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.reptile.(Saltwater.Crocodile)            =  Saltwater Crocodile                                                                                    
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestreptile(SaltwaterCrocodile).jpg         
+fact   Heaviest.reptile.(Saltwater.Crocodile).0          =  Heaviest reptile in the world                                                                          
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.reptile.(Saltwater.Crocodile).1          =  Average male weight: 700 kg                                                                            
+fact   Heaviest.reptile.(Saltwater.Crocodile).2          =  Lives in southern Asia and Australia                                                                   
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.rodent.(Capybara)                        =  Capybara                                                                                               
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestrodent(Capybara).jpg                    
+fact   Heaviest.rodent.(Capybara).0                      =  Heaviest rodent in the world                                                                           
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.rodent.(Capybara).1                      =  Average male weight: 50 kg                                                                             
+fact   Heaviest.rodent.(Capybara).2                      =  Lives in tropical and temperate parts of South America                                                 
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.snake.(Green.Anaconda)                   =  Green Anaconda                                                                                         
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestsnake(GreenAnaconda).jpg                
+fact   Heaviest.snake.(Green.Anaconda).0                 =  Heaviest snake in the world                                                                            
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.snake.(Green.Anaconda).1                 =  Average weight: 97 kg                                                                                  
+fact   Heaviest.snake.(Green.Anaconda).2                 =  Live in the tropical rain forests of the Amazon and Orinoco basins of South America                    
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.spider.(Goliath.Birdeater)               =  Goliath Birdeater                                                                                      
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestspider(GoliathBirdeater).jpg            
+fact   Heaviest.spider.(Goliath.Birdeater).0             =  Heaviest spider in the world                                                                           
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.spider.(Goliath.Birdeater).1             =  Average weight: 170 g                                                                                  
+fact   Heaviest.spider.(Goliath.Birdeater).2             =  Lives in the rainforests of South America                                                              
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.tern.(Caspian.Tern)                      =  Caspian Tern                                                                                           
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviesttern(CaspianTern).jpg                   
+fact   Heaviest.tern.(Caspian.Tern).0                    =  Heaviest tern in the world                                                                             
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.tern.(Caspian.Tern).1                    =  Average weight: 660 g                                                                                  
+fact   Heaviest.tern.(Caspian.Tern).2                    =  Lives on large lakes and along ocean coats in most parts of the world                                  
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.toothed.whale.(Sperm.Whale)              =  Sperm Whale                                                                                            
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviesttoothedwhale(SpermWhale).jpg            
+fact   Heaviest.toothed.whale.(Sperm.Whale).0            =  Heaviest toothed whale in the world                                                                    
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.toothed.whale.(Sperm.Whale).1            =  The world's largest living toothed animal                                                              
+fact   Heaviest.toothed.whale.(Sperm.Whale).2            =  Average male weight: 41 tonnes (41,000 kg)                                                             
+fact   Heaviest.toothed.whale.(Sperm.Whale).3            =  Lives in all the oceans on Earth                                                                       
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.turtle.(Leatherback.Sea.Turtle)          =  Leatherback Sea Turtle                                                                                 
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestturtle(LeatherbackSeaTurtle).jpg        
+fact   Heaviest.turtle.(Leatherback.Sea.Turtle).0        =  Heaviest turtle in the world                                                                           
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.turtle.(Leatherback.Sea.Turtle).1        =  Average male weight: 475 kg                                                                            
+fact   Heaviest.turtle.(Leatherback.Sea.Turtle).2        =  Lives in all tropical and subtropical oceans                                                           
+       remark                                            =  yes                                                                                                    
+       
+photo  Heaviest.waterfowl.(Trumpeter.Swan)               =  Trumpeter Swan                                                                                         
+       url                                               =  github://philiprbrenan/vocabulary-7/images/HowHeavyAmI/Heaviestwaterfowl(TrumpeterSwan).jpg            
+fact   Heaviest.waterfowl.(Trumpeter.Swan).0             =  Heaviest waterfowl in the world                                                                        
+       remark                                            =  yes                                                                                                    
+fact   Heaviest.waterfowl.(Trumpeter.Swan).1             =  Average male weight: 12 kg                                                                             
+fact   Heaviest.waterfowl.(Trumpeter.Swan).2             =  Lives in North America                                                                                 
+       remark                                            =  yes                                                                                                    
