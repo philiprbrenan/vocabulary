@@ -6,80 +6,80 @@ app g.CollectiveNounsInEnglish   = Collective Nouns in English
   speakers     = Amy
 
        
-photo  Bed of roses          =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Bed of roses.jpg          
+photo  Bed.of.roses          =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Bedofroses.jpg          
        
-photo  Bouquet of flowers    =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Bouquet of flowers.jpg    
+photo  Bouquet.of.flowers    =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Bouquetofflowers.jpg    
        
-photo  Bunch of bananas      =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Bunch of bananas.jpg      
+photo  Bunch.of.bananas      =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Bunchofbananas.jpg      
        
-photo  Bunch of grapes       =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Bunch of grapes.jpg       
+photo  Bunch.of.grapes       =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Bunchofgrapes.jpg       
        
-photo  Cache of jewels       =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Cache of jewels.jpg       
+photo  Cache.of.jewels       =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Cacheofjewels.jpg       
        
-photo  Clump of trees        =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Clump of trees.jpg        
+photo  Clump.of.trees        =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Clumpoftrees.jpg        
        
-photo  Fleet of cars         =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Fleet of cars.jpg         
+photo  Fleet.of.cars         =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Fleetofcars.jpg         
        
-photo  Flock of birds        =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Flock of birds.jpg        
+photo  Flock.of.birds        =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Flockofbirds.jpg        
        
-photo  Flotilla of ships     =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Flotilla of ships.jpg     
+photo  Flotilla.of.ships     =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Flotillaofships.jpg     
        
-photo  Galaxy of stars       =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Galaxy of stars.jpg       
+photo  Galaxy.of.stars       =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Galaxyofstars.jpg       
        
-photo  Hand of cards         =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Hand of cards.jpg         
+photo  Hand.of.cards         =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Handofcards.jpg         
        
-photo  Herd of seahorses     =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Herd of seahorses.jpg     
+photo  Herd.of.seahorses     =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Herdofseahorses.jpg     
        
-photo  Host of angels        =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Host of angels.jpg        
+photo  Host.of.angels        =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Hostofangels.jpg        
        
-photo  Library of books      =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Library of books.jpg      
+photo  Library.of.books      =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Libraryofbooks.jpg      
        
-photo  Nest of eggs          =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Nest of eggs.jpg          
+photo  Nest.of.eggs          =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Nestofeggs.jpg          
        
-photo  Peal of bells         =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Peal of bells.jpg         
+photo  Peal.of.bells         =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Pealofbells.jpg         
        
-photo  Pile of bricks        =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Pile of bricks.jpg        
+photo  Pile.of.bricks        =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Pileofbricks.jpg        
        
-photo  Pile of logs          =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Pile of logs.jpg          
+photo  Pile.of.logs          =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Pileoflogs.jpg          
        
-photo  Pod of peas           =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Pod of peas.jpg           
+photo  Pod.of.peas           =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Podofpeas.jpg           
        
-photo  Quiver of arrows      =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Quiver of arrows.jpg      
+photo  Quiver.of.arrows      =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Quiverofarrows.jpg      
        
-photo  Range of mountains    =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Range of mountains.jpg    
+photo  Range.of.mountains    =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Rangeofmountains.jpg    
        
-photo  Ring of keys          =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Ring of keys.jpg          
+photo  Ring.of.keys          =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Ringofkeys.jpg          
        
-photo  Round of beer         =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Round of beer.jpg         
+photo  Round.of.beer         =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Roundofbeer.jpg         
        
-photo  Squadron of aircraft  =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Squadron of aircraft.jpg  
+photo  Squadron.of.aircraft  =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Squadronofaircraft.jpg  
        
-photo  Stack of plates       =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/Stack of plates.jpg       
+photo  Stack.of.plates       =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/Stackofplates.jpg       
        
-photo  String of Pearls      =                                                                            
-       url                   =  github://philiprbrenan/CollectiveNounsInEnglish/String of Pearls.jpg      
+photo  String.of.Pearls      =                                                                                              
+       url                   =  github://philiprbrenan/vocabulary-3/images/CollectiveNounsInEnglish/StringofPearls.jpg      
