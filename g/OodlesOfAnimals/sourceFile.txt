@@ -1,0 +1,247 @@
+app g.OodlesOfAnimals   = Lots of Animals
+  description  = Learn about Lots of Animals in English
+  icon         = Herd of deer.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Army.of.ants              =  Army of ants                                                                         
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Armyofants.jpg            
+fact   Army.of.ants.0            =  Army                                                                                 
+       
+photo  Army.of.caterpillars      =  Army of caterpillars                                                                 
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Armyofcaterpillars.jpg    
+fact   Army.of.caterpillars.0    =  Army                                                                                 
+       
+photo  Bed.of.clams              =  Bed of clams                                                                         
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Bedofclams.jpg            
+fact   Bed.of.clams.0            =  Bed                                                                                  
+       
+photo  Bed.of.eels               =  Bed of eels                                                                          
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Bedofeels.jpg             
+fact   Bed.of.eels.0             =  Bed                                                                                  
+       
+photo  Bed.of.mussels            =  Bed of mussels                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Bedofmussels.jpg          
+fact   Bed.of.mussels.0          =  Bed                                                                                  
+       
+photo  Bevy.of.otters            =  Bevy of otters                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Bevyofotters.jpg          
+fact   Bevy.of.otters.0          =  Bevy                                                                                 
+       
+photo  Bevy.of.swans             =  Bevy of swans                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Bevyofswans.jpg           
+fact   Bevy.of.swans.0           =  Bevy                                                                                 
+       
+photo  Brood.of.chicks           =  Brood of chicks                                                                      
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Broodofchicks.jpg         
+fact   Brood.of.chicks.0         =  Brood                                                                                
+       
+photo  Brood.of.ducklings        =  Brood of ducklings                                                                   
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Broodofducklings.jpg      
+fact   Brood.of.ducklings.0      =  Brood                                                                                
+       
+photo  Brood.of.goslings         =  Brood of goslings                                                                    
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Broodofgoslings.jpg       
+fact   Brood.of.goslings.0       =  Brood                                                                                
+       
+photo  Brood.of.honey.bees       =  Brood of honey bees                                                                  
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Broodofhoneybees.jpg      
+fact   Brood.of.honey.bees.0     =  Brood                                                                                
+       
+photo  Cloud.of.bats             =  Cloud of bats                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Cloudofbats.jpg           
+fact   Cloud.of.bats.0           =  Cloud                                                                                
+       
+photo  Cloud.of.flies            =  Cloud of flies                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Cloudofflies.jpg          
+fact   Cloud.of.flies.0          =  Cloud                                                                                
+       
+photo  Cluster.of.butterflies    =  Cluster of butterflies                                                               
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Clusterofbutterflies.jpg  
+fact   Cluster.of.butterflies.0  =  Cluster                                                                              
+       
+photo  Cluster.of.spiders        =  Cluster of spiders                                                                   
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Clusterofspiders.jpg      
+fact   Cluster.of.spiders.0      =  Cluster                                                                              
+       
+photo  Colony.of.ants            =  Colony of ants                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Colonyofants.jpg          
+fact   Colony.of.ants.0          =  Colony                                                                               
+       
+photo  Colony.of.bats            =  Colony of bats                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Colonyofbats.jpg          
+fact   Colony.of.bats.0          =  Colony                                                                               
+       
+photo  Colony.of.honey.bees      =  Colony of honey bees                                                                 
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Colonyofhoneybees.jpg     
+fact   Colony.of.honey.bees.0    =  Colony                                                                               
+       
+photo  Colony.of.sea.lions       =  Colony of sea lions                                                                  
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Colonyofsealions.jpg      
+fact   Colony.of.sea.lions.0     =  Colony                                                                               
+       
+photo  Crowd.of.people           =  Crowd of people                                                                      
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Crowdofpeople.jpg         
+fact   Crowd.of.people.0         =  Crowd                                                                                
+       
+photo  Flock.of.geese            =  Flock of geese                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Flockofgeese.jpg          
+fact   Flock.of.geese.0          =  Flock                                                                                
+       
+photo  Flock.of.seagulls         =  Flock of seagulls                                                                    
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Flockofseagulls.jpg       
+fact   Flock.of.seagulls.0       =  Flock                                                                                
+       
+photo  Flock.of.sheep            =  Flock of sheep                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Flockofsheep.jpg          
+fact   Flock.of.sheep.0          =  Flock                                                                                
+       
+photo  Flock.of.starlings        =  Flock of starlings                                                                   
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Flockofstarlings.jpg      
+fact   Flock.of.starlings.0      =  Flock                                                                                
+       
+photo  Herd.of.cattle            =  Herd of cattle                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Herdofcattle.jpg          
+fact   Herd.of.cattle.0          =  Herd                                                                                 
+       
+photo  Herd.of.deer              =  Herd of deer                                                                         
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Herdofdeer.jpg            
+fact   Herd.of.deer.0            =  Herd                                                                                 
+       
+photo  Herd.of.elephants         =  Herd of elephants                                                                    
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Herdofelephants.jpg       
+fact   Herd.of.elephants.0       =  Herd                                                                                 
+       
+photo  Herd.of.goats             =  Herd of goats                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Herdofgoats.jpg           
+fact   Herd.of.goats.0           =  Herd                                                                                 
+       
+photo  Herd.of.horses            =  Herd of horses                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Herdofhorses.jpg          
+fact   Herd.of.horses.0          =  Herd                                                                                 
+       
+photo  Herd.of.mules             =  Herd of mules                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Herdofmules.jpg           
+fact   Herd.of.mules.0           =  Herd                                                                                 
+       
+photo  Herd.of.walruses          =  Herd of walruses                                                                     
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Herdofwalruses.jpg        
+fact   Herd.of.walruses.0        =  Herd                                                                                 
+       
+photo  Herd.of.wildebeest        =  Herd of wildebeest                                                                   
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Herdofwildebeest.jpg      
+fact   Herd.of.wildebeest.0      =  Herd                                                                                 
+       
+photo  Litter.of.kittens         =  Litter of kittens                                                                    
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Litterofkittens.jpg       
+fact   Litter.of.kittens.0       =  Litter                                                                               
+       
+photo  Litter.of.pigs            =  Litter of pigs                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Litterofpigs.jpg          
+fact   Litter.of.pigs.0          =  Litter                                                                               
+       
+photo  Litter.of.puppies         =  Litter of puppies                                                                    
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Litterofpuppies.jpg       
+fact   Litter.of.puppies.0       =  Litter                                                                               
+       
+photo  Nest.of.birds             =  Nest of birds                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Nestofbirds.jpg           
+fact   Nest.of.birds.0           =  Nest                                                                                 
+       
+photo  Nest.of.eggs              =  Nest of eggs                                                                         
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Nestofeggs.jpg            
+fact   Nest.of.eggs.0            =  Nest                                                                                 
+       
+photo  Nest.of.mice              =  Nest of mice                                                                         
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Nestofmice.jpg            
+fact   Nest.of.mice.0            =  Nest                                                                                 
+       
+photo  Nest.of.vipers            =  Nest of vipers                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Nestofvipers.jpg          
+fact   Nest.of.vipers.0          =  Nest                                                                                 
+       
+photo  Pack.of.hounds            =  Pack of hounds                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Packofhounds.jpg          
+fact   Pack.of.hounds.0          =  Pack                                                                                 
+       
+photo  Pack.of.wild.dogs         =  Pack of wild dogs                                                                    
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Packofwilddogs.jpg        
+fact   Pack.of.wild.dogs.0       =  Pack                                                                                 
+       
+photo  Pack.of.wolves            =  Pack of wolves                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Packofwolves.jpg          
+fact   Pack.of.wolves.0          =  Pack                                                                                 
+       
+photo  Parade.of.elephants       =  Parade of elephants                                                                  
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Paradeofelephants.jpg     
+fact   Parade.of.elephants.0     =  Parade                                                                               
+       
+photo  Pod.of.dolphins           =  Pod of dolphins                                                                      
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Podofdolphins.jpg         
+fact   Pod.of.dolphins.0         =  Pod                                                                                  
+       
+photo  Pod.of.hippos             =  Pod of hippos                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Podofhippos.jpg           
+fact   Pod.of.hippos.0           =  Pod                                                                                  
+       
+photo  Pod.of.sea.lions          =  Pod of sea lions                                                                     
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Podofsealions.jpg         
+fact   Pod.of.sea.lions.0        =  Pod                                                                                  
+       
+photo  Pod.of.whales             =  Pod of whales                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Podofwhales.jpg           
+fact   Pod.of.whales.0           =  Pod                                                                                  
+       
+photo  Pride.of.lions            =  Pride of lions                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Prideoflions.jpg          
+fact   Pride.of.lions.0          =  Pride                                                                                
+       
+photo  Pride.of.peacocks         =  Pride of peacocks                                                                    
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Prideofpeacocks.jpg       
+fact   Pride.of.peacocks.0       =  Pride                                                                                
+       
+photo  School.of.fish            =  School of fish                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Schooloffish.jpg          
+fact   School.of.fish.0          =  School                                                                               
+       
+photo  Shoal.of.fish             =  Shoal of fish                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Shoaloffish.jpg           
+fact   Shoal.of.fish.0           =  Shoal                                                                                
+       
+photo  Swarm.of.ants             =  Swarm of ants                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Swarmofants.jpg           
+fact   Swarm.of.ants.0           =  Swarm                                                                                
+       
+photo  Swarm.of.bees             =  Swarm of bees                                                                        
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Swarmofbees.jpg           
+fact   Swarm.of.bees.0           =  Swarm                                                                                
+       
+photo  Swarm.of.flies            =  Swarm of flies                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Swarmofflies.jpg          
+fact   Swarm.of.flies.0          =  Swarm                                                                                
+       
+photo  Team.of.dogs              =  Team of dogs                                                                         
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Teamofdogs.jpg            
+fact   Team.of.dogs.0            =  Team                                                                                 
+       
+photo  Team.of.horses            =  Team of horses                                                                       
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Teamofhorses.jpg          
+fact   Team.of.horses.0          =  Team                                                                                 
+       
+photo  Team.of.oxen              =  Team of oxen                                                                         
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Teamofoxen.jpg            
+fact   Team.of.oxen.0            =  Team                                                                                 
+       
+photo  Troop.of.baboons          =  Troop of baboons                                                                     
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Troopofbaboons.jpg        
+fact   Troop.of.baboons.0        =  Troop                                                                                
+       
+photo  Troop.of.chimpanzees      =  Troop of chimpanzees                                                                 
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Troopofchimpanzees.jpg    
+fact   Troop.of.chimpanzees.0    =  Troop                                                                                
+       
+photo  Troop.of.gorillas         =  Troop of gorillas                                                                    
+       url                       =  github://philiprbrenan/vocabulary-9/images/OodlesOfAnimals/Troopofgorillas.jpg       
+fact   Troop.of.gorillas.0       =  Troop                                                                                
