@@ -1,0 +1,727 @@
+app g.Past   = The Irregular Past in English
+  description  = Learn about The Irregular Past in English in English
+  icon         = Pay.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Arise       =  Arise                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Arise.jpg                                           
+fact   Arise.0     =  I should've arisen| before problems arose| but I had chosen| to live on that rose                   
+       remark      =  yes                                                                                                 
+       
+photo  Awake       =  Awake                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Awake.jpg                                           
+fact   Awake.0     =  I had awoken from| a long deep dream| in which I awoke| by a falling stream                         
+       remark      =  yes                                                                                                 
+       
+photo  Be          =  Be                                                                                                  
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Be.jpg                                              
+fact   Be.0        =  I knew you'd been| to visit her| when she told me| how nice you were                                
+       remark      =  yes                                                                                                 
+       
+photo  Bear        =  Bear                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Bear.jpg                                            
+fact   Bear.0      =  We had borne more| than we could bear| before your bore| more than a bear                           
+       remark      =  yes                                                                                                 
+       
+photo  Beat        =  Beat                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Beat.jpg                                            
+fact   Beat.0      =  I have beaten| that drunken beat| that I heard you| beat down the street                            
+       remark      =  yes                                                                                                 
+       
+photo  Begin       =  Begin                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Begin.jpg                                           
+fact   Begin.0     =  Day has begun| with the new sun|, when it began|, I had a plan                                      
+       remark      =  yes                                                                                                 
+       
+photo  Bend        =  Bend                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Bend.jpg                                            
+fact   Bend.0      =  It had been bent| around the bend| before you bent| the other end                                   
+       remark      =  yes                                                                                                 
+       
+photo  Bet         =  Bet                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Bet.jpg                                             
+fact   Bet.0       =  They could have bet| before we met| for when they bet| they were not wet.                           
+       remark      =  yes                                                                                                 
+       
+photo  Bid         =  Bid                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Bid.jpg                                             
+fact   Bid.0       =  He might have bid| against your bid| because he bid| after you did.                                 
+       remark      =  yes                                                                                                 
+       
+photo  Bind        =  Bind                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Bind.jpg                                            
+fact   Bind.0      =  I've unbound| that lost hound| that you found| and then bound                                       
+       remark      =  yes                                                                                                 
+       
+photo  Bite        =  Bite                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Bite.jpg                                            
+fact   Bite.0      =  I had just bitten| a bit of that byte| the byte which you found| and bit in the night               
+       remark      =  yes                                                                                                 
+       
+photo  Blow        =  Blow                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Blow.jpg                                            
+fact   Blow.0      =  The wind had blown us| quite frozen and blue| but when the sun rose|, away the wind blew            
+       remark      =  yes                                                                                                 
+       
+photo  Break       =  Break                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Break.jpg                                           
+fact   Break.0     =  I have broken| the bike brake| since you broke| for your break                                      
+       remark      =  yes                                                                                                 
+       
+photo  Breed       =  Breed                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Breed.jpg                                           
+fact   Breed.0     =  I have bred| a new breed| of split bread| from the head| of the seed| that you bred                 
+       remark      =  yes                                                                                                 
+       
+photo  Bring       =  Bring                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Bring.jpg                                           
+fact   Bring.0     =  You have brung more today| than I brang yesterday                                                   
+       remark      =  yes                                                                                                 
+       
+photo  Build       =  Build                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Build.jpg                                           
+fact   Build.0     =  When it was built| it had no tilt|, that was the way| those builders built                          
+       remark      =  yes                                                                                                 
+       
+photo  Burn        =  Burn                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Burn.jpg                                            
+fact   Burn.0      =  I had just burnt| the bread to toast| before I burnt| the dinner roast                              
+       remark      =  yes                                                                                                 
+       
+photo  Burst       =  Burst                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Burst.jpg                                           
+fact   Burst.0     =  It was not the first| that I had seen burst|, although when it burst|, I thought it the worst       
+       remark      =  yes                                                                                                 
+       
+photo  Buy         =  Buy                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Buy.jpg                                             
+fact   Buy.0       =  What I have bought| belongs to me|, if you bought it|, it must be free                              
+       remark      =  yes                                                                                                 
+       
+photo  Cast        =  Cast                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Cast.jpg                                            
+fact   Cast.0      =  It had been cast| into a stall| before it cast| a cannon ball                                       
+       remark      =  yes                                                                                                 
+       
+photo  Catch       =  Catch                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Catch.jpg                                           
+fact   Catch.0     =  We had not caught| so many fish|, before you caught up| with your first wish                        
+       remark      =  yes                                                                                                 
+       
+photo  Choose      =  Choose                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Choose.jpg                                          
+fact   Choose.0    =  I've chosen those shoes| that you chose to lose                                                     
+       remark      =  yes                                                                                                 
+       
+photo  Cling       =  Cling                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Cling.jpg                                           
+fact   Cling.0     =  I must have clung| to that wide rung| as we all clung| when we were young                           
+       remark      =  yes                                                                                                 
+       
+photo  Clothe      =  Clothe                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Clothe.jpg                                          
+fact   Clothe.0    =  They were clad in the green| that clad trees at the scene                                           
+       remark      =  yes                                                                                                 
+       
+photo  Come        =  Come                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Come.jpg                                            
+fact   Come.0      =  He had become| very witty|, before he came| to the city                                             
+       remark      =  yes                                                                                                 
+       
+photo  Cost        =  Cost                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Cost.jpg                                            
+fact   Cost.0      =  It has cost a lot more| than it cost us before                                                      
+       remark      =  yes                                                                                                 
+       
+photo  Creep       =  Creep                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Creep.jpg                                           
+fact   Creep.0     =  I had just crept| out of the mill| when the sun lept| over the hill                                 
+       remark      =  yes                                                                                                 
+       
+photo  Cut         =  Cut                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Cut.jpg                                             
+fact   Cut.0       =  I had cut in| the bright search light| it cut through the dark| to make night light                 
+       remark      =  yes                                                                                                 
+       
+photo  Deal        =  Deal                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Deal.jpg                                            
+fact   Deal.0      =  I had been dealt| cards for a meal| before you dealt| with my appeal                                
+       remark      =  yes                                                                                                 
+       
+photo  Dig         =  Dig                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Dig.jpg                                             
+fact   Dig.0       =  You had dug like a beginner| before I dug into my dinner                                            
+       remark      =  yes                                                                                                 
+       
+photo  Do          =  Do                                                                                                  
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Do.jpg                                              
+fact   Do.0        =  I have done up the lid| which I think you undid                                                     
+       remark      =  yes                                                                                                 
+       
+photo  Draw        =  Draw                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Draw.jpg                                            
+fact   Draw.0      =  I have redrawn the canyon view| in the image that you withdrew                                      
+       remark      =  yes                                                                                                 
+       
+photo  Drink       =  Drink                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Drink.jpg                                           
+fact   Drink.0     =  He had drunk all the tea| so he drank some coffee                                                   
+       remark      =  yes                                                                                                 
+       
+photo  Drive       =  Drive                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Drive.jpg                                           
+fact   Drive.0     =  I had driven| that new red car| before you drove| it very far                                       
+       remark      =  yes                                                                                                 
+       
+photo  Dwell       =  Dwell                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Dwell.jpg                                           
+fact   Dwell.0     =  I have dwelt in a house| in which dwelt a drunk mouse                                               
+       remark      =  yes                                                                                                 
+       
+photo  Eat         =  Eat                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Eat.jpg                                             
+fact   Eat.0       =  I have eaten a lot more cake| than you just ate to stay awake                                       
+       remark      =  yes                                                                                                 
+       
+photo  Fall        =  Fall                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Fall.jpg                                            
+fact   Fall.0      =  It has fallen| but if it fell|, during the fall|, I cannot tell                                     
+       remark      =  yes                                                                                                 
+       
+photo  Feed        =  Feed                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Feed.jpg                                            
+fact   Feed.0      =  She'd got fed up| with the oats| so she fed them| to the goats                                      
+       remark      =  yes                                                                                                 
+       
+photo  Feel        =  Feel                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Feel.jpg                                            
+fact   Feel.0      =  The felt would have felt wetter| before the felt felt any better                                    
+       remark      =  yes                                                                                                 
+       
+photo  Fight       =  Fight                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Fight.jpg                                           
+fact   Fight.0     =  It had fought hard| against the breeze| before I fought| the urge to sneeze                         
+       remark      =  yes                                                                                                 
+       
+photo  Find        =  Find                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Find.jpg                                            
+fact   Find.0      =  We have found out| about the find| he found below| the gold he mined                                
+       remark      =  yes                                                                                                 
+       
+photo  Fit         =  Fit                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Fit.jpg                                             
+fact   Fit.0       =  The cam had fit into the slot|, it fit so well the rope got hot                                     
+       remark      =  yes                                                                                                 
+       
+photo  Flee        =  Flee                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Flee.jpg                                            
+fact   Flee.0      =  They had just fled| from disaster|, before you fled| from that aster                                
+       remark      =  yes                                                                                                 
+       
+photo  Fling       =  Fling                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Fling.jpg                                           
+fact   Fling.0     =  I have flung down the glove| that you flung at my love                                              
+       remark      =  yes                                                                                                 
+       
+photo  Fly         =  Fly                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Fly.jpg                                             
+fact   Fly.0       =  If I had flown| as fast as you|, it would be time| that you flew too                                
+       remark      =  yes                                                                                                 
+       
+photo  Forbid      =  Forbid                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Forbid.jpg                                          
+fact   Forbid.0    =  He was forbidden and not paid| because he knew what you forbade                                     
+       remark      =  yes                                                                                                 
+       
+photo  Forecast    =  Forecast                                                                                            
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Forecast.jpg                                        
+fact   Forecast.0  =  They had forecast| that warm weather| before it cast| them together                                 
+       remark      =  yes                                                                                                 
+       
+photo  Foresee     =  Foresee                                                                                             
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Foresee.jpg                                         
+fact   Foresee.0   =  We had foreseen| that you foresaw| what might have been| before the thaw                            
+       remark      =  yes                                                                                                 
+       
+photo  Foretell    =  Foretell                                                                                            
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Foretell.jpg                                        
+fact   Foretell.0  =  I've been told| it was sold| faster than| you foretold                                              
+       remark      =  yes                                                                                                 
+       
+photo  Forget      =  Forget                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Forget.jpg                                          
+fact   Forget.0    =  I'd forgotten| what she would say| if I forgot| her next birthday                                   
+       remark      =  yes                                                                                                 
+       
+photo  Forgive     =  Forgive                                                                                             
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Forgive.jpg                                         
+fact   Forgive.0   =  To be forgiven| for the broken jar|, I forgave her when| she came in by car                         
+       remark      =  yes                                                                                                 
+       
+photo  Forsake     =  Forsake                                                                                             
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Forsake.jpg                                         
+fact   Forsake.0   =  I had forsaken| those spiral clocks| before you forsook| those frozen socks                         
+       remark      =  yes                                                                                                 
+       
+photo  Freeze      =  Freeze                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Freeze.jpg                                          
+fact   Freeze.0    =  I had refrozen| those you had chosen| before you unfroze| the ones that I chose                     
+       remark      =  yes                                                                                                 
+       
+photo  Get         =  Get                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Get.jpg                                             
+fact   Get.0       =  I have got| a lot more| than you got| from the store                                                
+       remark      =  yes                                                                                                 
+       
+photo  Give        =  Give                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Give.jpg                                            
+fact   Give.0      =  It was given in the nave| for the gift that you gave                                                
+       remark      =  yes                                                                                                 
+       
+photo  Go          =  Go                                                                                                  
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Go.jpg                                              
+fact   Go.0        =  The sun had shone|, and shone all day|, when it had gone|, I went away                              
+       remark      =  yes                                                                                                 
+       
+photo  Grind       =  Grind                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Grind.jpg                                           
+fact   Grind.0     =  The coffee| had been ground|, I ground it|, by the pound                                            
+       remark      =  yes                                                                                                 
+       
+photo  Grow        =  Grow                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Grow.jpg                                            
+fact   Grow.0      =  The trees have grown| over the view| that we had here| before they grew                             
+       remark      =  yes                                                                                                 
+       
+photo  Hang        =  Hang                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Hang.jpg                                            
+fact   Hang.0      =  I've hung out| in the breeze| on ropes hung| through the trees                                      
+       remark      =  yes                                                                                                 
+       
+photo  Have        =  Have                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Have.jpg                                            
+fact   Have.0      =  we would have had| a lot less fun| if we had had| a bet that won                                    
+       remark      =  yes                                                                                                 
+       
+photo  Hear        =  Hear                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Hear.jpg                                            
+fact   Hear.0      =  I thought you'd heard| about the herd| before they heard| something absurd                          
+       remark      =  yes                                                                                                 
+       
+photo  Hide        =  Hide                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Hide.jpg                                            
+fact   Hide.0      =  They had hidden| behind their kilts| before you hid| their Scottish quilts                          
+       remark      =  yes                                                                                                 
+       
+photo  Hit         =  Hit                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Hit.jpg                                             
+fact   Hit.0       =  It seems to have been hit| before the car hit it                                                    
+       remark      =  yes                                                                                                 
+       
+photo  Hold        =  Hold                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Hold.jpg                                            
+fact   Hold.0      =  I had held up| the entire roof| while you held out| for some more proof                             
+       remark      =  yes                                                                                                 
+       
+photo  Keep        =  Keep                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Keep.jpg                                            
+fact   Keep.0      =  It was kept in the keep| where you kept me from sleep                                               
+       remark      =  yes                                                                                                 
+       
+photo  Kneel       =  Kneel                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Kneel.jpg                                           
+fact   Kneel.0     =  He had knelt in the field|, though he knelt he wouldn't yield                                       
+       remark      =  yes                                                                                                 
+       
+photo  Know        =  Know                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Know.jpg                                            
+fact   Know.0      =  I should have known| that you would say| you knew it all| from yesterday.                           
+       remark      =  yes                                                                                                 
+       
+photo  Lay         =  Lay                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Lay.jpg                                             
+fact   Lay.0       =  It had lain long| in the deep snow|, why it laid there|, I do not know                              
+       remark      =  yes                                                                                                 
+       
+photo  Lead        =  Lead                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Lead.jpg                                            
+fact   Lead.0      =  They were led there| by a star| it led them there| from afar                                        
+       remark      =  yes                                                                                                 
+       
+photo  Leave       =  Leave                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Leave.jpg                                           
+fact   Leave.0     =  I had left it| there on the left|, I left a leaf| where it was left                                 
+       remark      =  yes                                                                                                 
+       
+photo  Lend        =  Lend                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Lend.jpg                                            
+fact   Lend.0      =  I had been lent| a brilliant gem| before you lent| against the stem                                 
+       remark      =  yes                                                                                                 
+       
+photo  Let         =  Let                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Let.jpg                                             
+fact   Let.0       =  We had to let |the soldiers go| we let them out| above the snow                                     
+       remark      =  yes                                                                                                 
+       
+photo  Lose        =  Lose                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Lose.jpg                                            
+fact   Lose.0      =  I had got lost| within the mews|, I lost my way| before the news                                    
+       remark      =  yes                                                                                                 
+       
+photo  Make        =  Make                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Make.jpg                                            
+fact   Make.0      =  It was made|, as I bade|, for the shade| that it made                                               
+       remark      =  yes                                                                                                 
+       
+photo  Mean        =  Mean                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Mean.jpg                                            
+fact   Mean.0      =  It was meant| to be spent| if that is| what you meant                                               
+       remark      =  yes                                                                                                 
+       
+photo  Meet        =  Meet                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Meet.jpg                                            
+fact   Meet.0      =  I could have met| all these people| before we met| at the steeple                                   
+       remark      =  yes                                                                                                 
+       
+photo  Pay         =  Pay                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Pay.jpg                                             
+fact   Pay.0       =  When you said that| we had been paid|, I paid for it| to be relaid                                  
+       remark      =  yes                                                                                                 
+       
+photo  Put         =  Put                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Put.jpg                                             
+fact   Put.0       =  I have input| a likely bit| so it would sit| where you put it                                       
+       remark      =  yes                                                                                                 
+       
+photo  Quit        =  Quit                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Quit.jpg                                            
+fact   Quit.0      =  We should have quit| before they quit                                                               
+       remark      =  yes                                                                                                 
+       
+photo  Read        =  Read                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Read.jpg                                            
+fact   Read.0      =  She has read the big book| that you read in one look                                                
+       remark      =  yes                                                                                                 
+       
+photo  Ride        =  Ride                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Ride.jpg                                            
+fact   Ride.0      =  He has ridden| along the road| on that bay horse| you almost rode                                   
+       remark      =  yes                                                                                                 
+       
+photo  Ring        =  Ring                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Ring.jpg                                            
+fact   Ring.0      =  They have rung out| the song or shout|, I think you sang| when I first rang|                        
+       remark      =  yes                                                                                                 
+       
+photo  Rise        =  Rise                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Rise.jpg                                            
+fact   Rise.0      =  The seeds had risen| in circular rows|, it began to rain| then problems arose                       
+       remark      =  yes                                                                                                 
+       
+photo  Run         =  Run                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Run.jpg                                             
+fact   Run.0       =  Water had run| over that bank|, they ran away| before it sank                                       
+       remark      =  yes                                                                                                 
+       
+photo  Say         =  Say                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Say.jpg                                             
+fact   Say.0       =  After all was said and done|, we said that we would have to run                                     
+       remark      =  yes                                                                                                 
+       
+photo  See         =  See                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/See.jpg                                             
+fact   See.0       =  I was seen in the sea by a shark that saw me                                                        
+       remark      =  yes                                                                                                 
+       
+photo  Seek        =  Seek                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Seek.jpg                                            
+fact   Seek.0      =  I've often sought| to find the things| I thought you sought| from the three kings                   
+       remark      =  yes                                                                                                 
+       
+photo  Sell        =  Sell                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Sell.jpg                                            
+fact   Sell.0      =  It was sold| I've been told| when you sold| all your gold                                           
+       remark      =  yes                                                                                                 
+       
+photo  Send        =  Send                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Send.jpg                                            
+fact   Send.0      =  She must have sent| some of that scent|, I sent a note| to where it went                            
+       remark      =  yes                                                                                                 
+       
+photo  Set         =  Set                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Set.jpg                                             
+fact   Set.0       =  I have set| the new jet| where you set| your duet                                                   
+       remark      =  yes                                                                                                 
+       
+photo  Shake       =  Shake                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Shake.jpg                                           
+fact   Shake.0     =  I had shaken| that ice cold shake| which you then took| and shook to make                           
+       remark      =  yes                                                                                                 
+       
+photo  Shed        =  Shed                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Shed.jpg                                            
+fact   Shed.0      =  The tree has shed| a single leaf| where you shed| your last belief                                  
+       remark      =  yes                                                                                                 
+       
+photo  Shine       =  Shine                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Shine.jpg                                           
+fact   Shine.0     =  The sun has shone|, but now its gone|, it shone all day|, then went away                            
+       remark      =  yes                                                                                                 
+       
+photo  Shoot       =  Shoot                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Shoot.jpg                                           
+fact   Shoot.0     =  Light has shot| through that slot| in the snap| that you shot                                       
+       remark      =  yes                                                                                                 
+       
+photo  Shrink      =  Shrink                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Shrink.jpg                                          
+fact   Shrink.0    =  I had reshrunk| two pairs of socks|, before you shrank| into that box.                              
+       remark      =  yes                                                                                                 
+       
+photo  Shut        =  Shut                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Shut.jpg                                            
+fact   Shut.0      =  They had shut down the core| before you shut the door                                               
+       remark      =  yes                                                                                                 
+       
+photo  Sing        =  Sing                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Sing.jpg                                            
+fact   Sing.0      =  They had sung| a long song| to which you| sang a long                                               
+       remark      =  yes                                                                                                 
+       
+photo  Sink        =  Sink                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Sink.jpg                                            
+fact   Sink.0      =  It has just sunk| into the sink| in which you sank| into the drink                                  
+       remark      =  yes                                                                                                 
+       
+photo  Sit         =  Sit                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Sit.jpg                                             
+fact   Sit.0       =  I must have sat down| before I arose| yet when I sat up| I stood on my toes                         
+       remark      =  yes                                                                                                 
+       
+photo  Slay        =  Slay                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Slay.jpg                                            
+fact   Slay.0      =  They were all slain| it think it's true| on their lone sleigh| the one they slew                    
+       remark      =  yes                                                                                                 
+       
+photo  Sleep       =  Sleep                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Sleep.jpg                                           
+fact   Sleep.0     =  I have slept| longer here| than I slept| as a peer                                                  
+       remark      =  yes                                                                                                 
+       
+photo  Slide       =  Slide                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Slide.jpg                                           
+fact   Slide.0     =  It would have slid| right down the track| its blade had dug| when it slid back                      
+       remark      =  yes                                                                                                 
+       
+photo  Sling       =  Sling                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Sling.jpg                                           
+fact   Sling.0     =  I've slung away| that length of rope| because you slung| away my soap                               
+       remark      =  yes                                                                                                 
+       
+photo  Slink       =  Slink                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Slink.jpg                                           
+fact   Slink.0     =  The fox has slunk| away to roam, I think it's time| we slunk off home                               
+       remark      =  yes                                                                                                 
+       
+photo  Speak       =  Speak                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Speak.jpg                                           
+fact   Speak.0     =  I have spoken| to that nice bloke| to whom you spoke| about your spoke                              
+       remark      =  yes                                                                                                 
+       
+photo  Speed       =  Speed                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Speed.jpg                                           
+fact   Speed.0     =  Now we have sped| around the dome|, I think it's time| that we sped home                            
+       remark      =  yes                                                                                                 
+       
+photo  Spell       =  Spell                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Spell.jpg                                           
+fact   Spell.0     =  Now that you've spelt| hello and hi|, I think it's time| you spelt good bye                         
+       remark      =  yes                                                                                                 
+       
+photo  Spend       =  Spend                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Spend.jpg                                           
+fact   Spend.0     =  I have spent less money| than you spent on honey                                                    
+       remark      =  yes                                                                                                 
+       
+photo  Spill       =  Spill                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Spill.jpg                                           
+fact   Spill.0     =  I have spilt a cup of tea| where you spilt coffee on me                                             
+       remark      =  yes                                                                                                 
+       
+photo  Spin        =  Spin                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Spin.jpg                                            
+fact   Spin.0      =  I had just spun| the wet things dry| before you spun| your tale or lie                              
+       remark      =  yes                                                                                                 
+       
+photo  Split       =  Split                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Split.jpg                                           
+fact   Split.0     =  I have split| ten more logs| than you split| in those clogs                                         
+       remark      =  yes                                                                                                 
+       
+photo  Spread      =  Spread                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Spread.jpg                                          
+fact   Spread.0    =  I have spread| some more spread| on the bread| that you spread                                      
+       remark      =  yes                                                                                                 
+       
+photo  Spring      =  Spring                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Spring.jpg                                          
+fact   Spring.0    =  It had just sprung| into our view|, and then it sprang|, right over you                             
+       remark      =  yes                                                                                                 
+       
+photo  Stand       =  Stand                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Stand.jpg                                           
+fact   Stand.0     =  I've understood| the reason why| it stood so still| against the sky                                 
+       remark      =  yes                                                                                                 
+       
+photo  Steal       =  Steal                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Steal.jpg                                           
+fact   Steal.0     =  It's been stolen| I thought he said|, he stole the steel| above his head                            
+       remark      =  yes                                                                                                 
+       
+photo  Stick       =  Stick                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Stick.jpg                                           
+fact   Stick.0     =  It was stuck| in the muck| which you stuck| on your truck                                           
+       remark      =  yes                                                                                                 
+       
+photo  Sting       =  Sting                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Sting.jpg                                           
+fact   Sting.0     =  I got stung by a bee|, but it stung only me                                                         
+       remark      =  yes                                                                                                 
+       
+photo  Stride      =  Stride                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Stride.jpg                                          
+fact   Stride.0    =  I had stridden| to match his stride|, I strode upstairs| then went inside                           
+       remark      =  yes                                                                                                 
+       
+photo  Strike      =  Strike                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Strike.jpg                                          
+fact   Strike.0    =  I had struck out| into the sea|, when I got there| a wave struck me                                 
+       remark      =  yes                                                                                                 
+       
+photo  String      =  String                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/String.jpg                                          
+fact   String.0    =  I could have strung| beads on the string| before you strung| it through the ring                    
+       remark      =  yes                                                                                                 
+       
+photo  Strive      =  Strive                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Strive.jpg                                          
+fact   Strive.0    =  I have striven| to redesign| the things you strove| to redefine                                     
+       remark      =  yes                                                                                                 
+       
+photo  Swear       =  Swear                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Swear.jpg                                           
+fact   Swear.0     =  Now, I have sworn| to wash the floor| of that great bore| at whom you swore                         
+       remark      =  yes                                                                                                 
+       
+photo  Sweep       =  Sweep                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Sweep.jpg                                           
+fact   Sweep.0     =  I had swept up| with a new broom| before she swept| out of the room                                 
+       remark      =  yes                                                                                                 
+       
+photo  Swell       =  Swell                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Swell.jpg                                           
+fact   Swell.0     =  They have swollen alright|, they swelled up in the night                                            
+       remark      =  yes                                                                                                 
+       
+photo  Swim        =  Swim                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Swim.jpg                                            
+fact   Swim.0      =  They have not swum| here to dine|, because they swam| in a line                                     
+       remark      =  yes                                                                                                 
+       
+photo  Swing       =  Swing                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Swing.jpg                                           
+fact   Swing.0     =  The lights had swung| from left to right| before they swung| into the night                         
+       remark      =  yes                                                                                                 
+       
+photo  Take        =  Take                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Take.jpg                                            
+fact   Take.0      =  I've taken| a long look| at the book| that you took                                                 
+       remark      =  yes                                                                                                 
+       
+photo  Teach       =  Teach                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Teach.jpg                                           
+fact   Teach.0     =  He has taught| me to see| all the words| you taught me.                                             
+       remark      =  yes                                                                                                 
+       
+photo  Tear        =  Tear                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Tear.jpg                                            
+fact   Tear.0      =  My shoe got torn| on a sharp stall| before the light tore| through the hall                         
+       remark      =  yes                                                                                                 
+       
+photo  Tell        =  Tell                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Tell.jpg                                            
+fact   Tell.0      =  I have retold| under that tree|, the long secret| that you told me                                  
+       remark      =  yes                                                                                                 
+       
+photo  Think       =  Think                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Think.jpg                                           
+fact   Think.0     =  I must have thought| incessantly| about the things| you thought of me                               
+       remark      =  yes                                                                                                 
+       
+photo  Throw       =  Throw                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Throw.jpg                                           
+fact   Throw.0     =  I should have thrown| them all away| before you threw| them in the bay                              
+       remark      =  yes                                                                                                 
+       
+photo  Thrust      =  Thrust                                                                                              
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Thrust.jpg                                          
+fact   Thrust.0    =  I was thrust, well| into the sky| because you thrust| so very high                                  
+       remark      =  yes                                                                                                 
+       
+photo  Tread       =  Tread                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Tread.jpg                                           
+fact   Tread.0     =  I've trodden| on the sod| in the glen| where he trod                                                
+       remark      =  yes                                                                                                 
+       
+photo  Wake        =  Wake                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Wake.jpg                                            
+fact   Wake.0      =  I had woken up| by drinking a cup| of very hot tea| before you woke me                              
+       remark      =  yes                                                                                                 
+       
+photo  Wear        =  Wear                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Wear.jpg                                            
+fact   Wear.0      =  I've worn my trainers| some what more|, to make them like| the ones you wore                        
+       remark      =  yes                                                                                                 
+       
+photo  Weave       =  Weave                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Weave.jpg                                           
+fact   Weave.0     =  They have woven| this complex grove| from the new weave| they made and wove                         
+       remark      =  yes                                                                                                 
+       
+photo  Wed         =  Wed                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Wed.jpg                                             
+fact   Wed.0       =  They were wed| to the sled| as they sped| straight ahead| to the clan| where she wed| her Scotsman  
+       remark      =  yes                                                                                                 
+       
+photo  Weep        =  Weep                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Weep.jpg                                            
+fact   Weep.0      =  They had wept there| by the wide stream|, before they swept| into my dream                          
+       remark      =  yes                                                                                                 
+       
+photo  Wet         =  Wet                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Wet.jpg                                             
+fact   Wet.0       =  The falling rain| had not wet me| before it wet| all of the tree                                    
+       remark      =  yes                                                                                                 
+       
+photo  Wind        =  Wind                                                                                                
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Wind.jpg                                            
+fact   Wind.0      =  The clock had unwound| in the breeze| as the road wound| through the trees                          
+       remark      =  yes                                                                                                 
+       
+photo  Won         =  Won                                                                                                 
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Won.jpg                                             
+fact   Won.0       =  They had won| twenty one| before you| won just one                                                  
+       remark      =  yes                                                                                                 
+       
+photo  Wring       =  Wring                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Wring.jpg                                           
+fact   Wring.0     =  I was wrung out| by the wringer|, it wrung me dry| on its first try                                 
+       remark      =  yes                                                                                                 
+       
+photo  Write       =  Write                                                                                               
+       url         =  github://philiprbrenan/vocabulary-9/images/Past/Write.jpg                                           
+fact   Write.0     =  I have written a note| on the writ that you wrote                                                   
+       remark      =  yes                                                                                                 
