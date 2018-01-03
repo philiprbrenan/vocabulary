@@ -6,212 +6,212 @@ app g.Body   = Parts of the Body
   speakers     = Amy
 
        
-photo  Arm.-.Arm                =  Arm - Arm                                                
-       url                      =  github://philiprbrenan/Body/Arm - Arm.jpg                
+photo  Arm.-.Arm                =  Arm - Arm                                                                 
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Arm-Arm.jpg               
        
-photo  Arm.-.Armpit             =  Arm - Armpit                                             
-       url                      =  github://philiprbrenan/Body/Arm - Armpit.jpg             
+photo  Arm.-.Armpit             =  Arm - Armpit                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Arm-Armpit.jpg            
        
-photo  Arm.-.Biceps.muscle      =  Arm - Biceps muscle                                      
-       url                      =  github://philiprbrenan/Body/Arm - Biceps muscle.jpg      
+photo  Arm.-.Biceps.muscle      =  Arm - Biceps muscle                                                       
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Arm-Bicepsmuscle.jpg      
        
-photo  Arm.-.Elbow.1            =  Arm - Elbow 1                                            
-       url                      =  github://philiprbrenan/Body/Arm - Elbow 1.jpg            
+photo  Arm.-.Elbow.1            =  Arm - Elbow 1                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Arm-Elbow1.jpg            
        
-photo  Arm.-.Elbow.2            =  Arm - Elbow 2                                            
-       url                      =  github://philiprbrenan/Body/Arm - Elbow 2.jpg            
+photo  Arm.-.Elbow.2            =  Arm - Elbow 2                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Arm-Elbow2.jpg            
        
-photo  Arm.-.Forearm            =  Arm - Forearm                                            
-       url                      =  github://philiprbrenan/Body/Arm - Forearm.jpg            
+photo  Arm.-.Forearm            =  Arm - Forearm                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Arm-Forearm.jpg           
        
-photo  Arm.-.Upper.arm          =  Arm - Upper arm                                          
-       url                      =  github://philiprbrenan/Body/Arm - Upper arm.jpg          
+photo  Arm.-.Upper.arm          =  Arm - Upper arm                                                           
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Arm-Upperarm.jpg          
        
-photo  Back.-.Back              =  Back - Back                                              
-       url                      =  github://philiprbrenan/Body/Back - Back.jpg              
+photo  Back.-.Back              =  Back - Back                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Back-Back.jpg             
        
-photo  Back.-.Bottom            =  Back - Bottom                                            
-       url                      =  github://philiprbrenan/Body/Back - Bottom.jpg            
+photo  Back.-.Bottom            =  Back - Bottom                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Back-Bottom.jpg           
        
-photo  Back.-.Shoulder          =  Back - Shoulder                                          
-       url                      =  github://philiprbrenan/Body/Back - Shoulder.jpg          
+photo  Back.-.Shoulder          =  Back - Shoulder                                                           
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Back-Shoulder.jpg         
        
-photo  Back.-.Shoulder.blade    =  Back - Shoulder blade                                    
-       url                      =  github://philiprbrenan/Body/Back - Shoulder blade.jpg    
+photo  Back.-.Shoulder.blade    =  Back - Shoulder blade                                                     
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Back-Shoulderblade.jpg    
        
-photo  Back.-Waist.2            =  Back -Waist 2                                            
-       url                      =  github://philiprbrenan/Body/Back -Waist 2.jpg            
+photo  Back.-Waist.2            =  Back -Waist 2                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Back-Waist2.jpg           
        
-photo  Eye.-.Eye                =  Eye - Eye                                                
-       url                      =  github://philiprbrenan/Body/Eye - Eye.jpg                
+photo  Eye.-.Eye                =  Eye - Eye                                                                 
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Eye-Eye.jpg               
        
-photo  Eye.-.Eyebrow            =  Eye - Eyebrow                                            
-       url                      =  github://philiprbrenan/Body/Eye - Eyebrow.jpg            
+photo  Eye.-.Eyebrow            =  Eye - Eyebrow                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Eye-Eyebrow.jpg           
        
-photo  Eye.-.Eyelashes          =  Eye - Eyelashes                                          
-       url                      =  github://philiprbrenan/Body/Eye - Eyelashes.jpg          
+photo  Eye.-.Eyelashes          =  Eye - Eyelashes                                                           
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Eye-Eyelashes.jpg         
        
-photo  Eye.-.Eyelid             =  Eye - Eyelid                                             
-       url                      =  github://philiprbrenan/Body/Eye - Eyelid.jpg             
+photo  Eye.-.Eyelid             =  Eye - Eyelid                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Eye-Eyelid.jpg            
        
-photo  Fingers.-.Finger.Nails   =  Fingers - Finger Nails                                   
-       url                      =  github://philiprbrenan/Body/Fingers - Finger Nails.jpg   
+photo  Fingers.-.Finger.Nails   =  Fingers - Finger Nails                                                    
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Fingers-FingerNails.jpg   
        
-photo  Fingers.-.Index.finger   =  Fingers - Index finger                                   
-       url                      =  github://philiprbrenan/Body/Fingers - Index finger.jpg   
+photo  Fingers.-.Index.finger   =  Fingers - Index finger                                                    
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Fingers-Indexfinger.jpg   
        
-photo  Fingers.-.Ring.finger    =  Fingers - Ring finger                                    
-       url                      =  github://philiprbrenan/Body/Fingers - Ring finger.jpg    
+photo  Fingers.-.Ring.finger    =  Fingers - Ring finger                                                     
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Fingers-Ringfinger.jpg    
        
-photo  Fingers.-.Thumb          =  Fingers - Thumb                                          
-       url                      =  github://philiprbrenan/Body/Fingers - Thumb.jpg          
+photo  Fingers.-.Thumb          =  Fingers - Thumb                                                           
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Fingers-Thumb.jpg         
        
-photo  Fingers.-Little.finger   =  Fingers -Little finger                                   
-       url                      =  github://philiprbrenan/Body/Fingers -Little finger.jpg   
+photo  Fingers.-Little.finger   =  Fingers -Little finger                                                    
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Fingers-Littlefinger.jpg  
        
-photo  Fingers.-Middle.finger   =  Fingers -Middle finger                                   
-       url                      =  github://philiprbrenan/Body/Fingers -Middle finger.jpg   
+photo  Fingers.-Middle.finger   =  Fingers -Middle finger                                                    
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Fingers-Middlefinger.jpg  
        
-photo  Foot.-.Ankle             =  Foot - Ankle                                             
-       url                      =  github://philiprbrenan/Body/Foot - Ankle.jpg             
+photo  Foot.-.Ankle             =  Foot - Ankle                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Foot-Ankle.jpg            
        
-photo  Foot.-.Arch              =  Foot - Arch                                              
-       url                      =  github://philiprbrenan/Body/Foot - Arch.jpg              
+photo  Foot.-.Arch              =  Foot - Arch                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Foot-Arch.jpg             
        
-photo  Foot.-.Foot              =  Foot - Foot                                              
-       url                      =  github://philiprbrenan/Body/Foot - Foot.jpg              
+photo  Foot.-.Foot              =  Foot - Foot                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Foot-Foot.jpg             
        
-photo  Foot.-.Heel              =  Foot - Heel                                              
-       url                      =  github://philiprbrenan/Body/Foot - Heel.jpg              
+photo  Foot.-.Heel              =  Foot - Heel                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Foot-Heel.jpg             
        
-photo  Foot.-.Instep            =  Foot - Instep                                            
-       url                      =  github://philiprbrenan/Body/Foot - Instep.jpg            
+photo  Foot.-.Instep            =  Foot - Instep                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Foot-Instep.jpg           
        
-photo  Front.-.Abdomen          =  Front - Abdomen                                          
-       url                      =  github://philiprbrenan/Body/Front - Abdomen.jpg          
+photo  Front.-.Abdomen          =  Front - Abdomen                                                           
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Front-Abdomen.jpg         
        
-photo  Front.-.Chest            =  Front - Chest                                            
-       url                      =  github://philiprbrenan/Body/Front - Chest.jpg            
+photo  Front.-.Chest            =  Front - Chest                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Front-Chest.jpg           
        
-photo  Front.-.Collarbones      =  Front - Collarbones                                      
-       url                      =  github://philiprbrenan/Body/Front - Collarbones.jpg      
+photo  Front.-.Collarbones      =  Front - Collarbones                                                       
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Front-Collarbones.jpg     
        
-photo  Front.-.Ribs             =  Front - Ribs                                             
-       url                      =  github://philiprbrenan/Body/Front - Ribs.jpg             
+photo  Front.-.Ribs             =  Front - Ribs                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Front-Ribs.jpg            
        
-photo  Front.-Shoulders         =  Front -Shoulders                                         
-       url                      =  github://philiprbrenan/Body/Front -Shoulders.jpg         
+photo  Front.-Shoulders         =  Front -Shoulders                                                          
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Front-Shoulders.jpg       
        
-photo  Front.-Tummy.Button      =  Front -Tummy Button                                      
-       url                      =  github://philiprbrenan/Body/Front -Tummy Button.jpg      
+photo  Front.-Tummy.Button      =  Front -Tummy Button                                                       
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Front-TummyButton.jpg     
        
-photo  Front.-Waist.1           =  Front -Waist 1                                           
-       url                      =  github://philiprbrenan/Body/Front -Waist 1.jpg           
+photo  Front.-Waist.1           =  Front -Waist 1                                                            
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Front-Waist1.jpg          
        
-photo  Hand.-.Back.of.the.hand  =  Hand - Back of the hand                                  
-       url                      =  github://philiprbrenan/Body/Hand - Back of the hand.jpg  
+photo  Hand.-.Back.of.the.hand  =  Hand - Back of the hand                                                   
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Hand-Backofthehand.jpg    
        
-photo  Hand.-.Fist              =  Hand - Fist                                              
-       url                      =  github://philiprbrenan/Body/Hand - Fist.jpg              
+photo  Hand.-.Fist              =  Hand - Fist                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Hand-Fist.jpg             
        
-photo  Hand.-.Hand.1            =  Hand - Hand 1                                            
-       url                      =  github://philiprbrenan/Body/Hand - Hand 1.jpg            
+photo  Hand.-.Hand.1            =  Hand - Hand 1                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Hand-Hand1.jpg            
        
-photo  Hand.-.Knuckles          =  Hand - Knuckles                                          
-       url                      =  github://philiprbrenan/Body/Hand - Knuckles.jpg          
+photo  Hand.-.Knuckles          =  Hand - Knuckles                                                           
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Hand-Knuckles.jpg         
        
-photo  Hand.-.Wrist             =  Hand - Wrist                                             
-       url                      =  github://philiprbrenan/Body/Hand - Wrist.jpg             
+photo  Hand.-.Wrist             =  Hand - Wrist                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Hand-Wrist.jpg            
        
-photo  Hand.-Palm               =  Hand -Palm                                               
-       url                      =  github://philiprbrenan/Body/Hand -Palm.jpg               
+photo  Hand.-Palm               =  Hand -Palm                                                                
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Hand-Palm.jpg             
        
-photo  Head.-.Cheek             =  Head - Cheek                                             
-       url                      =  github://philiprbrenan/Body/Head - Cheek.jpg             
+photo  Head.-.Cheek             =  Head - Cheek                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Head-Cheek.jpg            
        
-photo  Head.-.Chin              =  Head - Chin                                              
-       url                      =  github://philiprbrenan/Body/Head - Chin.jpg              
+photo  Head.-.Chin              =  Head - Chin                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Head-Chin.jpg             
        
-photo  Head.-.Ear               =  Head - Ear                                               
-       url                      =  github://philiprbrenan/Body/Head - Ear.jpg               
+photo  Head.-.Ear               =  Head - Ear                                                                
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Head-Ear.jpg              
        
-photo  Head.-.Face              =  Head - Face                                              
-       url                      =  github://philiprbrenan/Body/Head - Face.jpg              
+photo  Head.-.Face              =  Head - Face                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Head-Face.jpg             
        
-photo  Head.-.Forehead          =  Head - Forehead                                          
-       url                      =  github://philiprbrenan/Body/Head - Forehead.jpg          
+photo  Head.-.Forehead          =  Head - Forehead                                                           
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Head-Forehead.jpg         
        
-photo  Head.-.Hair              =  Head - Hair                                              
-       url                      =  github://philiprbrenan/Body/Head - Hair.jpg              
+photo  Head.-.Hair              =  Head - Hair                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Head-Hair.jpg             
        
-photo  Head.-.Head              =  Head - Head                                              
-       url                      =  github://philiprbrenan/Body/Head - Head.jpg              
+photo  Head.-.Head              =  Head - Head                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Head-Head.jpg             
        
-photo  Head.-.Jaw               =  Head - Jaw                                               
-       url                      =  github://philiprbrenan/Body/Head - Jaw.jpg               
+photo  Head.-.Jaw               =  Head - Jaw                                                                
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Head-Jaw.jpg              
        
-photo  Leg.-.Calf.1             =  Leg - Calf 1                                             
-       url                      =  github://philiprbrenan/Body/Leg - Calf 1.jpg             
+photo  Leg.-.Calf.1             =  Leg - Calf 1                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Leg-Calf1.jpg             
        
-photo  Leg.-.Calf.2             =  Leg - Calf 2                                             
-       url                      =  github://philiprbrenan/Body/Leg - Calf 2.jpg             
+photo  Leg.-.Calf.2             =  Leg - Calf 2                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Leg-Calf2.jpg             
        
-photo  Leg.-.Hip                =  Leg - Hip                                                
-       url                      =  github://philiprbrenan/Body/Leg - Hip.jpg                
+photo  Leg.-.Hip                =  Leg - Hip                                                                 
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Leg-Hip.jpg               
        
-photo  Leg.-.Knees              =  Leg - Knees                                              
-       url                      =  github://philiprbrenan/Body/Leg - Knees.jpg              
+photo  Leg.-.Knees              =  Leg - Knees                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Leg-Knees.jpg             
        
-photo  Leg.-.Leg                =  Leg - Leg                                                
-       url                      =  github://philiprbrenan/Body/Leg - Leg.jpg                
+photo  Leg.-.Leg                =  Leg - Leg                                                                 
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Leg-Leg.jpg               
        
-photo  Leg.-.Shin               =  Leg - Shin                                               
-       url                      =  github://philiprbrenan/Body/Leg - Shin.jpg               
+photo  Leg.-.Shin               =  Leg - Shin                                                                
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Leg-Shin.jpg              
        
-photo  Leg.-.Thigh.1            =  Leg - Thigh 1                                            
-       url                      =  github://philiprbrenan/Body/Leg - Thigh 1.jpg            
+photo  Leg.-.Thigh.1            =  Leg - Thigh 1                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Leg-Thigh1.jpg            
        
-photo  Leg.-.Thigh.2            =  Leg - Thigh 2                                            
-       url                      =  github://philiprbrenan/Body/Leg - Thigh 2.jpg            
+photo  Leg.-.Thigh.2            =  Leg - Thigh 2                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Leg-Thigh2.jpg            
        
-photo  Mouth.-.Lower.lip.2      =  Mouth - Lower lip 2                                      
-       url                      =  github://philiprbrenan/Body/Mouth - Lower lip 2.jpg      
+photo  Mouth.-.Lower.lip.2      =  Mouth - Lower lip 2                                                       
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Mouth-Lowerlip2.jpg       
        
-photo  Mouth.-.Mouth            =  Mouth - Mouth                                            
-       url                      =  github://philiprbrenan/Body/Mouth - Mouth.jpg            
+photo  Mouth.-.Mouth            =  Mouth - Mouth                                                             
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Mouth-Mouth.jpg           
        
-photo  Mouth.-.Upper.Lip        =  Mouth - Upper Lip                                        
-       url                      =  github://philiprbrenan/Body/Mouth - Upper Lip.jpg        
+photo  Mouth.-.Upper.Lip        =  Mouth - Upper Lip                                                         
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Mouth-UpperLip.jpg        
        
-photo  Mouth.-Teeth             =  Mouth -Teeth                                             
-       url                      =  github://philiprbrenan/Body/Mouth -Teeth.jpg             
+photo  Mouth.-Teeth             =  Mouth -Teeth                                                              
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Mouth-Teeth.jpg           
        
-photo  Neck.-.Adam's.Apple      =  Neck - Adam's Apple                                      
-       url                      =  github://philiprbrenan/Body/Neck - Adam's Apple.jpg      
+photo  Neck.-.Adam's.Apple      =  Neck - Adam's Apple                                                       
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Neck-Adam'sApple.jpg      
        
-photo  Neck.-.Neck              =  Neck - Neck                                              
-       url                      =  github://philiprbrenan/Body/Neck - Neck.jpg              
+photo  Neck.-.Neck              =  Neck - Neck                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Neck-Neck.jpg             
        
-photo  Nose.-.Nose              =  Nose - Nose                                              
-       url                      =  github://philiprbrenan/Body/Nose - Nose.jpg              
+photo  Nose.-.Nose              =  Nose - Nose                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Nose-Nose.jpg             
        
-photo  Nose.-.Nostril           =  Nose - Nostril                                           
-       url                      =  github://philiprbrenan/Body/Nose - Nostril.jpg           
+photo  Nose.-.Nostril           =  Nose - Nostril                                                            
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Nose-Nostril.jpg          
        
-photo  Toes.-.Big.Toe           =  Toes - Big Toe                                           
-       url                      =  github://philiprbrenan/Body/Toes - Big Toe.jpg           
+photo  Toes.-.Big.Toe           =  Toes - Big Toe                                                            
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Toes-BigToe.jpg           
        
-photo  Toes.-.Fourth.toe        =  Toes - Fourth toe                                        
-       url                      =  github://philiprbrenan/Body/Toes - Fourth toe.jpg        
+photo  Toes.-.Fourth.toe        =  Toes - Fourth toe                                                         
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Toes-Fourthtoe.jpg        
        
-photo  Toes.-.Little.toe        =  Toes - Little toe                                        
-       url                      =  github://philiprbrenan/Body/Toes - Little toe.jpg        
+photo  Toes.-.Little.toe        =  Toes - Little toe                                                         
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Toes-Littletoe.jpg        
        
-photo  Toes.-.Second.toe        =  Toes - Second toe                                        
-       url                      =  github://philiprbrenan/Body/Toes - Second toe.jpg        
+photo  Toes.-.Second.toe        =  Toes - Second toe                                                         
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Toes-Secondtoe.jpg        
        
-photo  Toes.-.Third.toe         =  Toes - Third toe                                         
-       url                      =  github://philiprbrenan/Body/Toes - Third toe.jpg         
+photo  Toes.-.Third.toe         =  Toes - Third toe                                                          
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Toes-Thirdtoe.jpg         
        
-photo  Toes.-.Toes              =  Toes - Toes                                              
-       url                      =  github://philiprbrenan/Body/Toes - Toes.jpg              
+photo  Toes.-.Toes              =  Toes - Toes                                                               
+       url                      =  github://philiprbrenan/vocabulary-1/images/Body/Toes-Toes.jpg             
