@@ -1,0 +1,348 @@
+app g.DeathValley   = Death Valley USA
+  description  = Learn about Death Valley USA in English
+  icon         = Mesquite Sand Dunes.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Artists's.Palette                     =  Artists's Palette                                                                          
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/Artists'sPalette.jpg                
+fact   Artists's.Palette.0                   =  Situated on the face of the Black Mountains above Death Valley                             
+fact   Artists's.Palette.1                   =  Different coloured rocks are the result of the oxidation of different metals               
+       
+photo  Badwater.Basin.(at.ground.level)      =  Badwater Basin (at ground level)                                                           
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/BadwaterBasin(atgroundlevel).jpg    
+fact   Badwater.Basin.(at.ground.level).0    =  A salt flat on the floor of Death Valley                                                   
+       remark                                =  yes                                                                                        
+fact   Badwater.Basin.(at.ground.level).1    =  Has the second-lowest elevation in the Western Hemisphere                                  
+       remark                                =  yes                                                                                        
+fact   Badwater.Basin.(at.ground.level).2    =  Has the lowest elevation in North America at 86 m (282 ft) below sea level                 
+       remark                                =  yes                                                                                        
+       
+photo  Badwater.Basin.(from.above)           =  Badwater Basin (from above)                                                                
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/BadwaterBasin(fromabove).jpg        
+fact   Badwater.Basin.(from.above).0         =  Average annual rainfall is 48 mm; average annual evaporation rate is 3,800 mm!             
+       remark                                =  yes                                                                                        
+fact   Badwater.Basin.(from.above).1         =  Even a 12-foot-deep, 30-mile-long lake would dry up in a single year                       
+       remark                                =  yes                                                                                        
+fact   Badwater.Basin.(from.above).2         =  Any dissolved salts are redeposited when rainwater evaporates                              
+       remark                                =  yes                                                                                        
+       
+photo  Badwater.Basin.salt.flats             =  Badwater Basin salt flats                                                                  
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/BadwaterBasinsaltflats.jpg          
+fact   Badwater.Basin.salt.flats.0           =  Some of the largest salt flats in the world                                                
+       remark                                =  yes                                                                                        
+fact   Badwater.Basin.salt.flats.1           =  Dangerous to cross because often only a thin white crust over mud                          
+       remark                                =  yes                                                                                        
+fact   Badwater.Basin.salt.flats.2           =  Rich in minerals such as borax                                                             
+       remark                                =  yes                                                                                        
+fact   Badwater.Basin.salt.flats.3           =  The largest salt pan covers 520 sq. km (200 sq. miles)                                     
+       remark                                =  yes                                                                                        
+       
+photo  Bobcat                                =  Bobcat                                                                                     
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/Bobcat.jpg                          
+fact   Bobcat.0                              =  About twice as large as the domestic cat                                                   
+       remark                                =  yes                                                                                        
+fact   Bobcat.1                              =  Adaptable predator that lives in wooded areas as well as semi-desert                       
+       remark                                =  yes                                                                                        
+fact   Bobcat.2                              =  Will hunt anything but eats mostly rabbits and hares                                       
+       remark                                =  yes                                                                                        
+       
+photo  Bristlecone.Pine                      =  Bristlecone Pine                                                                           
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/BristleconePine.jpg                 
+fact   Bristlecone.Pine.0                    =  Very long-lived tree; the oldest is 5,062 years (as of 2012)                               
+fact   Bristlecone.Pine.1                    =  The oldest known living organism (non-clonal) on Earth                                     
+fact   Bristlecone.Pine.2                    =  Some leaves can remain green for 45 years                                                  
+fact   Bristlecone.Pine.3                    =  Found in the higher mountains of the southwest United States                               
+       remark                                =  yes                                                                                        
+       
+photo  Coyote                                =  Coyote                                                                                     
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/Coyote.jpg                          
+fact   Coyote.0                              =  Also known as the American Jackal or Prairie Wolf                                          
+fact   Coyote.1                              =  Fast-running carnivore, closely related to the wolf                                        
+       remark                                =  yes                                                                                        
+fact   Coyote.2                              =  Has 3 to 12 pups each spring and both parents care for them                                
+       remark                                =  yes                                                                                        
+fact   Coyote.3                              =  Lives in forests, prairies, mountains and deserts in much of North America                 
+       remark                                =  yes                                                                                        
+       
+photo  Creosote.Bush                         =  Creosote Bush                                                                              
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/CreosoteBush.jpg                    
+fact   Creosote.Bush.0                       =  Prominent evergreen shrub in the deserts of western North America                          
+fact   Creosote.Bush.1                       =  So named because the whole plant smells of creosote                                        
+fact   Creosote.Bush.2                       =  Roots are so efficient at absorbing water that other plants cannot live nearby             
+fact   Creosote.Bush.3                       =  Used by Native Americans as a treatment for many maladies                                  
+       
+photo  Dante's.View                          =  Dante's View                                                                               
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/Dante'sView.jpg                     
+fact   Dante's.View.0                        =  Vantage point on the Black Mountains above Death Valley                                    
+fact   Dante's.View.1                        =  From here, one can see the central part of Death Valley and Badwater Basin                 
+fact   Dante's.View.2                        =  Height is 1,700 m (5,500 feet) above sea level                                             
+       remark                                =  yes                                                                                        
+fact   Dante's.View.3                        =  Excellent venue for star-gazing                                                            
+       remark                                =  yes                                                                                        
+       
+photo  Darwin.Falls                          =  Darwin Falls                                                                               
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/DarwinFalls.jpg                     
+fact   Darwin.Falls.0                        =  Upper and Lower falls together comprise the highest waterfall in the park at 24 m (80 ft)  
+fact   Darwin.Falls.1                        =  The only year-round water supply in the driest part of North America                       
+fact   Darwin.Falls.2                        =  Located on the western edge of the park, near the settlement of Panamint Springs           
+       
+photo  Death.Valley.National.Park            =  Death Valley National Park                                                                 
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/DeathValleyNationalPark.jpg         
+fact   Death.Valley.National.Park.0          =  Located in California and Nevada                                                           
+       remark                                =  yes                                                                                        
+fact   Death.Valley.National.Park.1          =  Lies east of the Sierra Nevada                                                             
+       remark                                =  yes                                                                                        
+fact   Death.Valley.National.Park.2          =  Park covers 3,373,063 acres                                                                
+       remark                                =  yes                                                                                        
+fact   Death.Valley.National.Park.3          =  95% of the park is a designated wilderness area                                            
+       remark                                =  yes                                                                                        
+fact   Death.Valley.National.Park.4          =  Protects the northwest corner of the Mojave Desert                                         
+       remark                                =  yes                                                                                        
+fact   Death.Valley.National.Park.5          =  Salt flats, sand dunes, badlands, valleys, canyons, and mountains                          
+       remark                                =  yes                                                                                        
+fact   Death.Valley.National.Park.6          =  Largest national park in the USA outside Alaska                                            
+fact   Death.Valley.National.Park.7          =  Hottest and driest of the national parks in the USA                                        
+fact   Death.Valley.National.Park.8          =  Holds the record for the highest recorded temperature on Earth (56.7 °C)                   
+fact   Death.Valley.National.Park.9          =  Home to many species adapted to deserts                                                    
+       remark                                =  yes                                                                                        
+fact   Death.Valley.National.Park.10         =  Became a national park in 1994                                                             
+       
+photo  Death.Valley.Pupfish                  =  Death Valley Pupfish                                                                       
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/DeathValleyPupfish.jpg              
+fact   Death.Valley.Pupfish.0                =  Last known survivor of ancient Lake Manly where Death Valley stands today                  
+       remark                                =  yes                                                                                        
+fact   Death.Valley.Pupfish.1                =  This species of fish lived in Lake Manly which dried up at the end of the last ice age     
+       remark                                =  yes                                                                                        
+fact   Death.Valley.Pupfish.2                =  Adapted to the shallow, hot, saline water of a particular part of Salt Creek               
+       
+photo  Death.Valley.in.bloom                 =  Death Valley in bloom                                                                      
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/DeathValleyinbloom.jpg              
+fact   Death.Valley.in.bloom.0               =  Occasionally, Death Valley receives above-average rainfall and many flowers bloom          
+       remark                                =  yes                                                                                        
+fact   Death.Valley.in.bloom.1               =  March 2005 was an unusually wet year with 150 mm (6 in) of rain                            
+       remark                                =  yes                                                                                        
+fact   Death.Valley.in.bloom.2               =  Normal rainfall is about 38 mm (1.5 in)                                                    
+       remark                                =  yes                                                                                        
+       
+photo  Desert.Bighorn.Sheep                  =  Desert Bighorn Sheep                                                                       
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/DesertBighornSheep.jpg              
+fact   Desert.Bighorn.Sheep.0                =  Found in the deserts of Southwest United States and northern Mexico                        
+       remark                                =  yes                                                                                        
+fact   Desert.Bighorn.Sheep.1                =  Can go for long periods without drinking water                                             
+       remark                                =  yes                                                                                        
+fact   Desert.Bighorn.Sheep.2                =  Unique elastic hooves enable it to climb steep, rocky terrain with speed and agility       
+fact   Desert.Bighorn.Sheep.3                =  Lives up to 20 years                                                                       
+       remark                                =  yes                                                                                        
+       
+photo  Desert.Chicory                        =  Desert Chicory                                                                             
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/DesertChicory.jpg                   
+fact   Desert.Chicory.0                      =  A member of the daisy family                                                               
+fact   Desert.Chicory.1                      =  Grows in gravel and sandy desert flats                                                     
+       remark                                =  yes                                                                                        
+fact   Desert.Chicory.2                      =  Flowers from March to May                                                                  
+       remark                                =  yes                                                                                        
+fact   Desert.Chicory.3                      =  Found in California, Nevada, Utah, Arizona, New Mexico and Texas                           
+       remark                                =  yes                                                                                        
+       
+photo  Devil's.Golf.Course                   =  Devil's Golf Course                                                                        
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/Devil'sGolfCourse.jpg               
+fact   Devil's.Golf.Course.0                 =  Large salt pan on the floor of Death Valley                                                
+       remark                                =  yes                                                                                        
+fact   Devil's.Golf.Course.1                 =  Named after a line in the 1934 park guide book                                             
+       remark                                =  yes                                                                                        
+fact   Devil's.Golf.Course.2                 =  "Only the devil could play golf" on its rough surface                                      
+fact   Devil's.Golf.Course.3                 =  Rough texture caused by the large rock salt crystal formations                             
+       
+photo  Furnace.Creek                         =  Furnace Creek                                                                              
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/FurnaceCreek.jpg                    
+fact   Furnace.Creek.0                       =  A spring, oasis, and village located 58 m (190 ft) below sea level                         
+fact   Furnace.Creek.1                       =  Location of the main park visitor centre and Furnace Creek Inn and resort complex          
+fact   Furnace.Creek.2                       =  Site of the lowest golf course in the world                                                
+fact   Furnace.Creek.3                       =  Site of world's highest recorded temperature, reaching 134°F (56.7 °C) on July 13, 1913    
+       
+photo  Golden.Canyon                         =  Golden Canyon                                                                              
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/GoldenCanyon.jpg                    
+fact   Golden.Canyon.0                       =  Canyon walls are made of red mudstone and colourful mosaic conglomerates                   
+       remark                                =  yes                                                                                        
+fact   Golden.Canyon.1                       =  There used to be a road through the canyon which was washed away in 1976                   
+       remark                                =  yes                                                                                        
+fact   Golden.Canyon.2                       =  Golden Canyon hiking trail goes to the foot of Manly Beacon and Red Cathedral              
+       remark                                =  yes                                                                                        
+       
+photo  Golden.Carpet                         =  Golden Carpet                                                                              
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/GoldenCarpet.jpg                    
+fact   Golden.Carpet.0                       =  Scientific name is Gilmania luteola                                                        
+       remark                                =  yes                                                                                        
+fact   Golden.Carpet.1                       =  Very rare spring wildflower                                                                
+fact   Golden.Carpet.2                       =  Found only in the alkaline salt flats of Death Valley                                      
+fact   Golden.Carpet.3                       =  Grows very low to the ground, and only in very wet years                                   
+       
+photo  Greater.Roadrunner                    =  Greater Roadrunner                                                                         
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/GreaterRoadrunner.jpg               
+fact   Greater.Roadrunner.0                  =  Long-legged bird of the cuckoo family                                                      
+fact   Greater.Roadrunner.1                  =  Largest North American cuckoo                                                              
+fact   Greater.Roadrunner.2                  =  Named after its habit of racing down roads in front of moving vehicles                     
+fact   Greater.Roadrunner.3                  =  Can run as fast as 20 mph (32 km/h)                                                        
+       remark                                =  yes                                                                                        
+       
+photo  Kit.Fox                               =  Kit Fox                                                                                    
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/KitFox.jpg                          
+fact   Kit.Fox.0                             =  Small species of fox that lives in the southwestern United States and Mexico               
+fact   Kit.Fox.1                             =  Has large ears which help to lower body temperature and give exceptional hearing           
+fact   Kit.Fox.2                             =  Mostly nocturnal and hunts shortly after sunset                                            
+       remark                                =  yes                                                                                        
+fact   Kit.Fox.3                             =  Prefers to live in arid climates such as deserts and grasslands                            
+       remark                                =  yes                                                                                        
+       
+photo  Leadfield                             =  Leadfield                                                                                  
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/Leadfield.jpg                       
+fact   Leadfield.0                           =  Site of the former mining town called "Leadfield", and now a ghost town                    
+fact   Leadfield.1                           =  Located in Titus Canyon in the Grapevine Mountains, east of Death Valley                   
+fact   Leadfield.2                           =  300 people lived here from 1925-1926, most in tents                                        
+fact   Leadfield.3                           =  Prospectors mined for ore after hearing fraudulent claims that lead would be easy to find  
+fact   Leadfield.4                           =  The site is an example of one of the get-rich-quick schemes of the wild 1920s              
+       remark                                =  yes                                                                                        
+       
+photo  Manly.Beacon                          =  Manly Beacon                                                                               
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/ManlyBeacon.jpg                     
+fact   Manly.Beacon.0                        =  Towering spire that rises above the Death Valley badlands                                  
+fact   Manly.Beacon.1                        =  Reached by a hiking trail from Golden Canyon                                               
+fact   Manly.Beacon.2                        =  A narrow ridge climbs to the small summit                                                  
+       
+photo  Mesquite.Sand.Dunes                   =  Mesquite Sand Dunes                                                                        
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/MesquiteSandDunes.jpg               
+fact   Mesquite.Sand.Dunes.0                 =  Have featured in several movies including films in the Star Wars series                    
+fact   Mesquite.Sand.Dunes.1                 =  Some dunes are as deep as 210 m (700 ft)                                                   
+fact   Mesquite.Sand.Dunes.2                 =  Creosote bushes and Mesquite trees grow between the dunes                                  
+       remark                                =  yes                                                                                        
+       
+photo  Mosaic.Canyon                         =  Mosaic Canyon                                                                              
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/MosaicCanyon.jpg                    
+fact   Mosaic.Canyon.0                       =  Deep and narrow canyon cut into the side of Tucki Mountain                                 
+fact   Mosaic.Canyon.1                       =  Named for the colourful, polished rock (Breccia) lining its walls                          
+fact   Mosaic.Canyon.2                       =  A hiking trail runs through the canyon                                                     
+       remark                                =  yes                                                                                        
+       
+photo  Mule.Deer                             =  Mule Deer                                                                                  
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/MuleDeer.jpg                        
+fact   Mule.Deer.0                           =  Indigenous to western North America                                                        
+       remark                                =  yes                                                                                        
+fact   Mule.Deer.1                           =  Has large "mule-like" ears which move constantly and independently                         
+fact   Mule.Deer.2                           =  Noted for its high-bounce trot which helps it to cross rocks and brush very fast           
+       
+photo  Natural.Bridge.Canyon                 =  Natural Bridge Canyon                                                                      
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/NaturalBridgeCanyon.jpg             
+fact   Natural.Bridge.Canyon.0               =  A 2-mile hiking trail runs through the canyon and back                                     
+       remark                                =  yes                                                                                        
+fact   Natural.Bridge.Canyon.1               =  The natural bridge is located 0.5 mile from the trailhead                                  
+       remark                                =  yes                                                                                        
+fact   Natural.Bridge.Canyon.2               =  This impressive rock bridge stands 50 ft high and spans the canyon                         
+       
+photo  Panamint.Range.from.Badwater.Basin    =  Panamint Range from Badwater Basin                                                         
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/PanamintRangefromBadwaterBasin.jpg  
+fact   Panamint.Range.from.Badwater.Basin.0  =  Mountain range which runs north-south for 100 miles                                        
+       remark                                =  yes                                                                                        
+fact   Panamint.Range.from.Badwater.Basin.1  =  Forms the western wall of Death Valley                                                     
+fact   Panamint.Range.from.Badwater.Basin.2  =  Separates Death Valley from Panamint Valley to the west                                    
+fact   Panamint.Range.from.Badwater.Basin.3  =  Highest peak is Telescope Peak at 3,368 m (11,049 feet)                                    
+       
+photo  Petroglyphs                           =  Petroglyphs                                                                                
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/Petroglyphs.jpg                     
+fact   Petroglyphs.0                         =  Rock engravings above Mesquite Springs, in the north of Death Valley                       
+fact   Petroglyphs.1                         =  Ancient drawings from the extinct Mesquite Spring culture                                  
+fact   Petroglyphs.2                         =  From the Greek words "petro-" meaning stone, and "glyphein" meaning "to carve"             
+       
+photo  Racetrack.Playa                       =  Racetrack Playa                                                                            
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/RacetrackPlaya.jpg                  
+fact   Racetrack.Playa.0                     =  Scenic dry lake or "playa" located above Death Valley                                      
+       remark                                =  yes                                                                                        
+fact   Racetrack.Playa.1                     =  Exceptionally flat with the northern end being only 4 cm higher than the southern          
+       remark                                =  yes                                                                                        
+fact   Racetrack.Playa.2                     =  Features so-called "sailing stones" that leave linear "racetrack" imprints                 
+fact   Racetrack.Playa.3                     =  Strange geological phenomenon involving tracks of up to hundreds of feet in length         
+       remark                                =  yes                                                                                        
+       
+photo  Red.Cathedral                         =  Red Cathedral                                                                              
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/RedCathedral.jpg                    
+fact   Red.Cathedral.0                       =  Steep cliffs composed of red coloured oxidised rocks                                       
+fact   Red.Cathedral.1                       =  Visible from Zabriskie Point and the Golden Canyon trail                                   
+fact   Red.Cathedral.2                       =  Summit reached by a 1 mile hiking trail with about 300 ft of elevation gain                
+       
+photo  Saratoga.Springs                      =  Saratoga Springs                                                                           
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/SaratogaSprings.jpg                 
+fact   Saratoga.Springs.0                    =  Desert oasis located in the south of the park                                              
+fact   Saratoga.Springs.1                    =  Several springs create a small marsh of about 6 acres                                      
+fact   Saratoga.Springs.2                    =  Habitat for several endemic species, including the Saratoga Springs pupfish                
+       
+photo  Telescope.Peak                        =  Telescope Peak                                                                             
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/TelescopePeak.jpg                   
+fact   Telescope.Peak.0                      =  Highest point in the park at 3,368 m (11,049 feet)                                         
+       remark                                =  yes                                                                                        
+fact   Telescope.Peak.1                      =  Highest point of the Panamint Range                                                        
+       remark                                =  yes                                                                                        
+fact   Telescope.Peak.2                      =  Named for the distance visible from the summit (approx. 100 miles)                         
+       remark                                =  yes                                                                                        
+       
+photo  Telescope.Peak.hiking.trail           =  Telescope Peak hiking trail                                                                
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/TelescopePeakhikingtrail.jpg        
+fact   Telescope.Peak.hiking.trail.0         =  Hiking trail starts at Mahogany Flat campground                                            
+       remark                                =  yes                                                                                        
+fact   Telescope.Peak.hiking.trail.1         =  Involves a 23 km (14 mile) round trip                                                      
+       remark                                =  yes                                                                                        
+fact   Telescope.Peak.hiking.trail.2         =  Trail climbs at a steady gradient of approx. 8%                                            
+       remark                                =  yes                                                                                        
+       
+photo  Titus.Canyon                          =  Titus Canyon                                                                               
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/TitusCanyon.jpg                     
+fact   Titus.Canyon.0                        =  Deep and narrow gorge cut into the steep face of the Grapevine Mountains                   
+fact   Titus.Canyon.1                        =  Located on the east side of Death Valley                                                   
+       remark                                =  yes                                                                                        
+fact   Titus.Canyon.2                        =  Features petroglyphs carved onto rock by Native Americans                                  
+       remark                                =  yes                                                                                        
+       
+photo  Twenty.Mule.Team.Canyon               =  Twenty Mule Team Canyon                                                                    
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/TwentyMuleTeamCanyon.jpg            
+fact   Twenty.Mule.Team.Canyon.0             =  Named after the teams of eighteen mules and two horses attached to large waggons           
+fact   Twenty.Mule.Team.Canyon.1             =  Twenty-mule teams ferried borax out of Death Valley from 1883 to 1889                      
+       remark                                =  yes                                                                                        
+fact   Twenty.Mule.Team.Canyon.2             =  Waggons carried 9 tons of borax ore at a time                                              
+       remark                                =  yes                                                                                        
+       
+photo  Ubehebe.Crater                        =  Ubehebe Crater                                                                             
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/UbehebeCrater.jpg                   
+fact   Ubehebe.Crater.0                      =  Large volcanic crater in the northern half of Death Valley in the Cottonwood Mountains     
+fact   Ubehebe.Crater.1                      =  The crater is 1 km (0.5 mile) wide and up to 237 m (777 ft) deep                           
+       remark                                =  yes                                                                                        
+fact   Ubehebe.Crater.2                      =  Named after a Timbisha Native American word meaning "Big basket in the rock"               
+fact   Ubehebe.Crater.3                      =  A hiking trail circumnavigates the crater rim                                              
+       remark                                =  yes                                                                                        
+       
+photo  Ventifact.at.Ventifact.Ridge          =  Ventifact at Ventifact Ridge                                                               
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/VentifactatVentifactRidge.jpg       
+fact   Ventifact.at.Ventifact.Ridge.0        =  Rock that has been shaped and engraved by wind-blown sand                                  
+fact   Ventifact.at.Ventifact.Ridge.1        =  Grooves show the direction of the wind                                                     
+fact   Ventifact.at.Ventifact.Ridge.2        =  Ventifract Ridge is famous for its wind-eroded rocks                                       
+       remark                                =  yes                                                                                        
+       
+photo  Wildrose.Charcoal.Kilns               =  Wildrose Charcoal Kilns                                                                    
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/WildroseCharcoalKilns.jpg           
+fact   Wildrose.Charcoal.Kilns.0             =  Date from 1877 and used intermittently until 1900                                          
+       remark                                =  yes                                                                                        
+fact   Wildrose.Charcoal.Kilns.1             =  Located in the Panamint Range of mountains above Death Valley                              
+       remark                                =  yes                                                                                        
+fact   Wildrose.Charcoal.Kilns.2             =  Used to reduce Pinyon and Juniper wood to charcoal                                         
+fact   Wildrose.Charcoal.Kilns.3             =  Charcoal was transported to Death Valley to feed smelting and ore extraction works         
+       
+photo  Zabriskie.Point                       =  Zabriskie Point                                                                            
+       url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/ZabriskiePoint.jpg                  
+fact   Zabriskie.Point.0                     =  Part of the Amargosa Mountain Range which runs along the eastern side of Death Valley      
+       remark                                =  yes                                                                                        
+fact   Zabriskie.Point.1                     =  Overlook which offers a stunning panorama of the "badlands" near Furnace Creek             
+       remark                                =  yes                                                                                        
+fact   Zabriskie.Point.2                     =  Noted for its colourful sedimentary rock "badlands"                                        
+fact   Zabriskie.Point.3                     =  The start and end point for the 2.5 mile Badlands Loop hiking trail                        
+fact   Zabriskie.Point.4                     =  Sedimentary rock came from Furnace Creek lake which dried up 5 million years ago           
+fact   Zabriskie.Point.5                     =  Named after the vice-president of the borax mining company which mined here from 1890      
