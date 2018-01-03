@@ -1,0 +1,734 @@
+app g.LakeDistrict   = The Lake District
+  description  = Learn about The Lake District in English
+  icon         = icon0.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Aira.Force                                =  Aira Force                                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/AiraForce.jpg                            
+fact   Aira.Force.0                              =  Aira Beck falls 20 m (66 ft) through a rocky ravine                                              
+fact   Aira.Force.1                              =  One kilometre from Ullswater                                                                     
+fact   Aira.Force.2                              =  Lies on 750 acre Gowbarrow Park, owned by the National Trust                                     
+fact   Aira.Force.3                              =  One of the most visited waterfalls in the Lake District                                          
+       remark                                    =  yes                                                                                              
+       
+photo  Ambleside.Town.Centre                     =  Ambleside Town Centre                                                                            
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/AmblesideTownCentre.jpg                  
+fact   Ambleside.Town.Centre.0                   =  Sits at the head of lake Windermere                                                              
+fact   Ambleside.Town.Centre.1                   =  Ancient market town; population 2,600 residents                                                  
+       remark                                    =  yes                                                                                              
+fact   Ambleside.Town.Centre.2                   =  The Romans built a fort here housing 500 soldiers                                                
+       remark                                    =  yes                                                                                              
+       
+photo  Ashness.Bridge                            =  Ashness Bridge                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/AshnessBridge.jpg                        
+fact   Ashness.Bridge.0                          =  Traditional bridge on the single-track road from Borrowdale to Watendlath                        
+fact   Ashness.Bridge.1                          =  Famous for its view across Borrowdale to Skiddaw                                                 
+fact   Ashness.Bridge.2                          =  Originally a packhorse bridge conveying traffic from Watendlath to Keswick                       
+fact   Ashness.Bridge.3                          =  The Bob Graham cairn, celebrating the famous fell runner, stands nearby                          
+       
+photo  Black.Sail.Youth.Hostel                   =  Black Sail Youth Hostel                                                                          
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/BlackSailYouthHostel.jpg                 
+fact   Black.Sail.Youth.Hostel.0                 =  One of England’s remotest youth hostels                                                          
+fact   Black.Sail.Youth.Hostel.1                 =  Former shepherd's bothy at the head of Ennerdale                                                 
+fact   Black.Sail.Youth.Hostel.2                 =  Can only be reached by visitors on foot or bicycle                                               
+       remark                                    =  yes                                                                                              
+fact   Black.Sail.Youth.Hostel.3                 =  Surrounded by Haystacks, Great Gable, Kirk Fell and Pillar                                       
+       
+photo  Blea.Water                                =  Blea Water                                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/BleaWater.jpg                            
+fact   Blea.Water.0                              =  Deepest tarn in the Lake District. It's 61 m (200 ft) deep                                       
+fact   Blea.Water.1                              =  Lies in a deep hollow below the crags of High Street                                             
+       
+photo  Bleaberry.Tarn.from.Red.Pike              =  Bleaberry Tarn from Red Pike                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/BleaberryTarnfromRedPike.jpg             
+fact   Bleaberry.Tarn.from.Red.Pike.0            =  Lies in a corrie below the fells of Red Pike and High Stile                                      
+fact   Bleaberry.Tarn.from.Red.Pike.1            =  Popular footpath ascending Red Pike from Buttermere skirts its north side                        
+fact   Bleaberry.Tarn.from.Red.Pike.2            =  Sour Milk Gill descends from the tarn to Buttermere                                              
+       
+photo  Blencathra                                =  Blencathra                                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Blencathra.jpg                           
+fact   Blencathra.0                              =  Also known as "Saddleback" because of its shape as seen from the east                            
+fact   Blencathra.1                              =  The bare hill top shaped like a chair                                                            
+fact   Blencathra.2                              =  One of the most northerly mountains in the Lake District                                         
+       remark                                    =  yes                                                                                              
+fact   Blencathra.3                              =  Has six separate fell tops on a 5 km (3 mile) long curving ridge                                 
+fact   Blencathra.4                              =  Highest fell is Hallsfell Top at an altitude of 868 m (2,848 ft)                                 
+       
+photo  Borrowdale                                =  Borrowdale                                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Borrowdale.jpg                           
+fact   Borrowdale.0                              =  The path of the River Derwent as it flows to Derwentwater                                        
+fact   Borrowdale.1                              =  High quality graphite was discovered here which started the pencil industry in Keswick           
+fact   Borrowdale.2                              =  The wettest inhabited place in England                                                           
+       
+photo  Bowder.Stone                              =  Bowder Stone                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/BowderStone.jpg                          
+fact   Bowder.Stone.0                            =  Large glacial erratic in Borrowdale                                                              
+fact   Bowder.Stone.1                            =  Estimated to weigh around 2000 tons                                                              
+fact   Bowder.Stone.2                            =  9 m high, 15 m across and 27 m in circumference                                                  
+fact   Bowder.Stone.3                            =  There has been a staircase to the top since at least 1890                                        
+       
+photo  Bowness-on-Windermere                     =  Bowness-on-Windermere                                                                            
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Bowness-on-Windermere.jpg                
+fact   Bowness-on-Windermere.0                   =  Situated on the banks of lake Windermere with a population of 3,800 residents                    
+fact   Bowness-on-Windermere.1                   =  A former fishing and boat-building village                                                       
+       remark                                    =  yes                                                                                              
+fact   Bowness-on-Windermere.2                   =  Officially distinct from the town of Windermere, the two have become one large settlement        
+       remark                                    =  yes                                                                                              
+fact   Bowness-on-Windermere.3                   =  The lakeside town of 'Rio' in "Swallows and Amazons" is modelled on this town                    
+       
+photo  Brantwood                                 =  Brantwood                                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Brantwood.jpg                            
+fact   Brantwood.0                               =  18th century country house overlooking Coniston Water                                            
+fact   Brantwood.1                               =  Home of the influential Victorian poet, artist, writer, and critic, John Ruskin                  
+fact   Brantwood.2                               =  John Ruskin lived here from 1872 until his death in 1900                                         
+fact   Brantwood.3                               =  Houses the John Ruskin Museum                                                                    
+fact   Brantwood.4                               =  250 acres of gardens, woods, meadows, and moorlands                                              
+       
+photo  Buttermere.and.Crummock.Water             =  Buttermere and Crummock Water                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/ButtermereandCrummockWater.jpg           
+fact   Buttermere.and.Crummock.Water.0           =  Twin lakes lying along the valley of the River Cocker                                            
+fact   Buttermere.and.Crummock.Water.1           =  Scale Force, the highest waterfall in the Lake District, feeds Crummock Water                    
+       
+photo  Buttermere.valley                         =  Buttermere Valley                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Buttermerevalley.jpg                     
+fact   Buttermere.valley.0                       =  Surrounding fells include Robinson, Fleetwith Pike, Haystacks, Red Pike and Grasmoor             
+fact   Buttermere.valley.1                       =  The road to Honister Pass and Borrowdale climbs southwards away from this valley                 
+fact   Buttermere.valley.2                       =  A popular 4.5 mile scenic path runs around the lake                                              
+       remark                                    =  yes                                                                                              
+       
+photo  Buttermere.village                        =  Buttermere village                                                                               
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Buttermerevillage.jpg                    
+fact   Buttermere.village.0                      =  The lake by the dairy pastures                                                                   
+fact   Buttermere.village.1                      =  Mary Robinson, "The Maid of Buttermere", lived here                                              
+fact   Buttermere.village.2                      =  Features The Bridge Hotel which dates back to the 11th century                                   
+       
+photo  Canoeing.on.Derwentwater                  =  Canoeing on Derwentwater                                                                         
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/CanoeingonDerwentwater.jpg               
+fact   Canoeing.on.Derwentwater.0                =  Canoes can be hired from Derwentwater Marina at Portinscale                                      
+       remark                                    =  yes                                                                                              
+       
+photo  Catbells                                  =  Catbells                                                                                         
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Catbells.jpg                             
+fact   Catbells.0                                =  Outstanding summit panorama of Derwentwater and surrounding fells                                
+fact   Catbells.1                                =  Beatrix Potter's "Mrs. Tiggy Winkle" lived on the fellside here                                  
+       
+photo  Coniston.Coppermines.Youth.Hostel         =  Coniston Coppermines Youth Hostel                                                                
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/ConistonCopperminesYouthHostel.jpg       
+fact   Coniston.Coppermines.Youth.Hostel.0       =  Hostel at the foot of the Old Man of Coniston                                                    
+fact   Coniston.Coppermines.Youth.Hostel.1       =  Surrounded by spoil heaps from the old copper mines                                              
+fact   Coniston.Coppermines.Youth.Hostel.2       =  Located in the former mine manager's house                                                       
+       
+photo  Coniston.Water                            =  Coniston Water                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/ConistonWater.jpg                        
+fact   Coniston.Water.0                          =  Third largest lake in the Lake District                                                          
+fact   Coniston.Water.1                          =  An example of a ribbon lake formed by glaciation                                                 
+fact   Coniston.Water.2                          =  Arthur Ransome's novel "Swallows and Amazons" was set here                                       
+fact   Coniston.Water.3                          =  Malcolm Campbell set the world water speed record here in 1939                                   
+fact   Coniston.Water.4                          =  Donald Campbell died here when he lost control of "Bluebird" in 1967                             
+       
+photo  Crinkle.Crags.and.Bow.Fell                =  Crinkle Crags and Bow Fell                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/CrinkleCragsandBowFell.jpg               
+fact   Crinkle.Crags.and.Bow.Fell.0              =  The high wall above the Langdale Valley                                                          
+fact   Crinkle.Crags.and.Bow.Fell.1              =  Named for the 5 "crinkles" along the summit ridge                                                
+fact   Crinkle.Crags.and.Bow.Fell.2              =  Separated by the col of Three Tarns                                                              
+fact   Crinkle.Crags.and.Bow.Fell.3              =  One of Wainwright "best half dozen" fells                                                        
+       
+photo  Derwentwater                              =  Derwentwater                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Derwentwater.jpg                         
+fact   Derwentwater.0                            =  Lies south of Keswick in Borrowdale                                                              
+       
+photo  Dove.Cottage                              =  Dove Cottage                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/DoveCottage.jpg                          
+fact   Dove.Cottage.0                            =  Grade I listed building, situated on the edge of Grasmere village                                
+fact   Dove.Cottage.1                            =  Home to poet William Wordsworth and his sister Dorothy from 1799 to 1808                         
+fact   Dove.Cottage.2                            =  "I Wandered Lonely as a Cloud" was written here                                                  
+fact   Dove.Cottage.3                            =  The annual rent in 1799 was £5                                                                   
+       
+photo  Dow.Crag                                  =  Dow Crag                                                                                         
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/DowCrag.jpg                              
+fact   Dow.Crag.0                                =  Rises above the tarn of Goat's Water                                                             
+fact   Dow.Crag.1                                =  Faces the Old Man of Coniston to the south-east                                                  
+fact   Dow.Crag.2                                =  Over 100 recognised climbing routes including the Giant's Crawl                                  
+       
+photo  Drunken.Duck.Inn                          =  Drunken Duck Inn                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/DrunkenDuckInn.jpg                       
+fact   Drunken.Duck.Inn.0                        =  Popular rural inn high above Ambleside and Lake Windermere                                       
+       remark                                    =  yes                                                                                              
+fact   Drunken.Duck.Inn.1                        =  Noted for its fine food and a range of award-winning real ales                                   
+       remark                                    =  yes                                                                                              
+fact   Drunken.Duck.Inn.2                        =  Located within 60 acres of private land                                                          
+       remark                                    =  yes                                                                                              
+       
+photo  Dry.stone.wall                            =  Dry stone wall                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Drystonewall.jpg                         
+fact   Dry.stone.wall.0                          =  Constructed from stones without any mortar to bind themS together                                
+fact   Dry.stone.wall.1                          =  Made from carefully selected interlocking stones                                                 
+fact   Dry.stone.wall.2                          =  Used as field boundaries, retaining walls and as stiles                                          
+       
+photo  Easedale.Tarn                             =  Easedale Tarn                                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/EasedaleTarn.jpg                         
+fact   Easedale.Tarn.0                           =  Lies in a hollow between Tarn Crag and Blea Rigg                                                 
+fact   Easedale.Tarn.1                           =  A footpath runs beside Sourmilk Gill which flows out from the tarn                               
+fact   Easedale.Tarn.2                           =  A Victorian cafe used to stand above the outlet of the tarn                                      
+       
+photo  Elter.Water                               =  Elter Water                                                                                      
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/ElterWater.jpg                           
+fact   Elter.Water.0                             =  Small lake near the village of Elterwater in the Langdale Valley                                 
+fact   Elter.Water.1                             =  The river Brathay flows south from Elter Water to Windermere                                     
+fact   Elter.Water.2                             =  The lake frequented by swans                                                                     
+fact   Elter.Water.3                             =  Whooper swans still winter on the lake                                                           
+       remark                                    =  yes                                                                                              
+       
+photo  Eskdale.Youth.Hostel                      =  Eskdale Youth Hostel                                                                             
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/EskdaleYouthHostel.jpg                   
+fact   Eskdale.Youth.Hostel.0                    =  Situated in the valley of the river Esk                                                          
+fact   Eskdale.Youth.Hostel.1                    =  Enjoy riverside walks, the steam railway and the coastline from here                             
+       remark                                    =  yes                                                                                              
+       
+photo  Fairfield.Horseshoe                       =  Fairfield Horseshoe                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/FairfieldHorseshoe.jpg                   
+fact   Fairfield.Horseshoe.0                     =  One of Lakeland's classic circular ridge walks                                                   
+       remark                                    =  yes                                                                                              
+fact   Fairfield.Horseshoe.1                     =  Includes all the fells that surround the valley of the Rydal Beck                                
+fact   Fairfield.Horseshoe.2                     =  Starts in either Rydal or Ambleside and is 16 km long with 1100 m of ascent                      
+fact   Fairfield.Horseshoe.3                     =  The Fairfield Horseshoe Fell Race takes place annually in May                                    
+       
+photo  Fell.Running                              =  Fell Running                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/FellRunning.jpg                          
+fact   Fell.Running.0                            =  The sport of running and racing, off road, over upland country                                   
+fact   Fell.Running.1                            =  The gradient climbed is a significant part of the sport                                          
+       remark                                    =  yes                                                                                              
+fact   Fell.Running.2                            =  Held at all times of year throughout the Lake District                                           
+       remark                                    =  yes                                                                                              
+fact   Fell.Running.3                            =  Participants often required to have good navigational skills                                     
+       
+photo  Fleetwith.Pike                            =  Fleetwith Pike                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/FleetwithPike.jpg                        
+fact   Fleetwith.Pike.0                          =  Imposing fell rising above Buttermere and the Honister Pass                                      
+fact   Fleetwith.Pike.1                          =  The striking north-west ridge above the lakeshore is named Fleetwith Edge                        
+       remark                                    =  yes                                                                                              
+fact   Fleetwith.Pike.2                          =  High quality green slate has been quarried here since the 1750s                                  
+fact   Fleetwith.Pike.3                          =  Fabulous summit panorama of Buttermere, Crummock Water and Loweswater                            
+       
+photo  Grasmere.Gingerbread                      =  Grasmere Gingerbread                                                                             
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/GrasmereGingerbread.jpg                  
+fact   Grasmere.Gingerbread.0                    =  Sarah Nelson was the original maker of this famous gingerbread                                   
+       remark                                    =  yes                                                                                              
+fact   Grasmere.Gingerbread.1                    =  Made to a secret recipe which is kept within the family to this day                              
+fact   Grasmere.Gingerbread.2                    =  A popular destination from Victorian tourists to today's international celebrities               
+       remark                                    =  yes                                                                                              
+fact   Grasmere.Gingerbread.3                    =  The shop is on the site of the former village school                                             
+       
+photo  Grasmere.from.Loughrigg                   =  Grasmere from Loughrigg                                                                          
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/GrasmerefromLoughrigg.jpg                
+fact   Grasmere.from.Loughrigg.0                 =  Described by William Wordsworth as "the loveliest spot that man hath ever found"                 
+fact   Grasmere.from.Loughrigg.1                 =  Loughrigg Fell and Terrace give superb views of the lake                                         
+       
+photo  Grasmere.from.Silver.How                  =  Grasmere from Silver How                                                                         
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/GrasmerefromSilverHow.jpg                
+fact   Grasmere.from.Silver.How.0                =  Silver How on the slopes of High Raise is a fine spot for viewing the lake                       
+fact   Grasmere.from.Silver.How.1                =  The "Lake Poets" of the 19th century all loved this area                                         
+       remark                                    =  yes                                                                                              
+       
+photo  Grasmoor                                  =  Grasmoor                                                                                         
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Grasmoor.jpg                             
+fact   Grasmoor.0                                =  Highest mountain in the north-western Lakes at 852 m (2795 ft)                                   
+fact   Grasmoor.1                                =  Its steep western flank drops dramatically to Crummock Water                                     
+       
+photo  Great.Gable.from.Great.End                =  Great Gable from Great End                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/GreatGablefromGreatEnd.jpg               
+fact   Great.Gable.from.Great.End.0              =  View from Great End across Styhead Tarn                                                          
+       
+photo  Great.Gable.from.Wasdale.Head             =  Great Gable from Wasdale Head                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/GreatGablefromWasdaleHead.jpg            
+fact   Great.Gable.from.Wasdale.Head.0           =  The south face features the famous crag of Napes Needle                                          
+fact   Great.Gable.from.Wasdale.Head.1           =  Napes Needle was climbed by Haskett Smith in 1886                                                
+       remark                                    =  yes                                                                                              
+fact   Great.Gable.from.Wasdale.Head.2           =  Linked to Kirk Fell via pass at Beckhead Tarn                                                    
+       remark                                    =  yes                                                                                              
+       
+photo  Great.Langdale                            =  Great Langdale                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/GreatLangdale.jpg                        
+fact   Great.Langdale.0                          =  U-shaped valley formed by glaciers                                                               
+       remark                                    =  yes                                                                                              
+fact   Great.Langdale.1                          =  Contains two villages, Chapel Stile and Elterwater                                               
+fact   Great.Langdale.2                          =  The Langdale Pikes rise above the valley on the northern side                                    
+fact   Great.Langdale.3                          =  Contains Dungeon Ghyll Force, Harrison Stickle and the Pike of Stickle                           
+fact   Great.Langdale.4                          =  Highest fell is Bow Fell at 902m (2,959 ft)                                                      
+       
+photo  Hardknott.Roman.Fort                      =  Hardknott Roman Fort                                                                             
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/HardknottRomanFort.jpg                   
+fact   Hardknott.Roman.Fort.0                    =  Remains of a Roman fort above Hardknott Pass                                                     
+fact   Hardknott.Roman.Fort.1                    =  Built between about 120 and 138 AD and used for over 100 years                                   
+fact   Hardknott.Roman.Fort.2                    =  Protected the Eskdale Valley and Hardknott Pass                                                  
+       remark                                    =  yes                                                                                              
+fact   Hardknott.Roman.Fort.3                    =  Situated mid-way between the Roman forts of Ambleside and Ravenglass                             
+       
+photo  Haystacks                                 =  Haystacks                                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Haystacks.jpg                            
+fact   Haystacks.0                               =  Situated at the south-eastern end of the Buttermere Valley                                       
+fact   Haystacks.1                               =  Attached to the High Stile range via the pass of Scarth Gap                                      
+fact   Haystacks.2                               =  Contains many small lakes including Innominate Tarn                                              
+       
+photo  Helvellyn.Horseshoe                       =  Helvellyn Horseshoe                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/HelvellynHorseshoe.jpg                   
+fact   Helvellyn.Horseshoe.0                     =  Includes all the fells that surround Red Tarn beneath Helvellyn                                  
+fact   Helvellyn.Horseshoe.1                     =  Traverses Striding Edge, Helvellyn, Swirral Edge and Catstycam                                   
+fact   Helvellyn.Horseshoe.2                     =  Circular ridge walk from Patterdale and Glenridding                                              
+       remark                                    =  yes                                                                                              
+       
+photo  Herdwick.Sheep                            =  Herdwick Sheep                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/HerdwickSheep.jpg                        
+fact   Herdwick.Sheep.0                          =  Unique breed of domestic sheep native to the Lake District                                       
+fact   Herdwick.Sheep.1                          =  One of the most hardy of all the British hill sheep breeds                                       
+       remark                                    =  yes                                                                                              
+fact   Herdwick.Sheep.2                          =  Coarse, grey wool is woven into very warm garments and carpets                                   
+       remark                                    =  yes                                                                                              
+fact   Herdwick.Sheep.3                          =  Kept by Beatrix Potter                                                                           
+fact   Herdwick.Sheep.4                          =  Herdwick lambs are black at birth                                                                
+       
+photo  High.Sweden.Bridge                        =  High Sweden Bridge                                                                               
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/HighSwedenBridge.jpg                     
+fact   High.Sweden.Bridge.0                      =  17th century packhorse bridge above Ambleside                                                    
+fact   High.Sweden.Bridge.1                      =  Built over Scandale Beck which flows into the River Rothay                                       
+       
+photo  Hill.Top                                  =  Hill Top                                                                                         
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/HillTop.jpg                              
+fact   Hill.Top.0                                =  17th-century house and farm in Near Sawrey near Hawkshead                                        
+fact   Hill.Top.1                                =  Home to Beatrix Potter, the children's author and illustrator                                    
+fact   Hill.Top.2                                =  Left to the National Trust in Beatrix Potter's will                                              
+fact   Hill.Top.3                                =  The house, farm, and nearby villages feature in Potter's books                                   
+       
+photo  Honister.Slate.Mine                       =  Honister Slate Mine                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/HonisterSlateMine.jpg                    
+fact   Honister.Slate.Mine.0                     =  Attraction situated at Honister Pass visited by 60,000 people a year                             
+fact   Honister.Slate.Mine.1                     =  Produces the famous Westmorland Green Slate                                                      
+fact   Honister.Slate.Mine.2                     =  Slate has been quarried here since the 1750s                                                     
+       
+photo  Innominate.Tarn                           =  Innominate Tarn                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/InnominateTarn.jpg                       
+fact   Innominate.Tarn.0                         =  Situated near the summit of Haystacks at 520m                                                    
+fact   Innominate.Tarn.1                         =  The tarn without a name                                                                          
+fact   Innominate.Tarn.2                         =  Alfred Wainwright's ashes were scattered here                                                    
+       
+photo  Keswick.Market                            =  Keswick Market                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/KeswickMarket.jpg                        
+fact   Keswick.Market.0                          =  Granted a charter for a market in 1276 by Edward I                                               
+       
+photo  Keswick.Pier                              =  Keswick Pier                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/KeswickPier.jpg                          
+fact   Keswick.Pier.0                            =  A regular passenger launch around Derwentwater operates from here                                
+       remark                                    =  yes                                                                                              
+fact   Keswick.Pier.1                            =  Popular fell "Catbells" rises above the lake on its western side                                 
+       
+photo  Kirkstone.Pass                            =  Kirkstone Pass                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/KirkstonePass.jpg                        
+fact   Kirkstone.Pass.0                          =  The highest pass in the Lake District's open to motor traffic                                    
+fact   Kirkstone.Pass.1                          =  Connects Ambleside in the Rothay Valley to Patterdale in the Ullswater Valley                    
+fact   Kirkstone.Pass.2                          =  In places the gradient is 1 in 4                                                                 
+       remark                                    =  yes                                                                                              
+fact   Kirkstone.Pass.3                          =  Contains the third highest public house in England                                               
+       
+photo  Langdale.Pikes                            =  Langdale Pikes                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/LangdalePikes.jpg                        
+fact   Langdale.Pikes.0                          =  A group of peaks on the northern side of Langdale                                                
+fact   Langdale.Pikes.1                          =  Pike of Stickle, Loft Crag, Harrison Stickle and Pavey Ark                                       
+       
+photo  Lingcove.Bridge                           =  Lingcove Bridge                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/LingcoveBridge.jpg                       
+fact   Lingcove.Bridge.0                         =  Ancient packhorse bridge spanning Lingcove Beck                                                  
+fact   Lingcove.Bridge.1                         =  The River Esk meets Lingcove Beck at this bridge                                                 
+fact   Lingcove.Bridge.2                         =  Lies beneath Esk Hause in Eskdale                                                                
+       
+photo  Little.Town                               =  Little Town                                                                                      
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/LittleTown.jpg                           
+fact   Little.Town.0                             =  A hamlet in the Newlands Valley                                                                  
+fact   Little.Town.1                             =  The setting for Beatrix Potter's "The Tale of Mrs. Tiggy-Winkle"                                 
+fact   Little.Town.2                             =  Beatrix Potter's character, Lucie, lived at Little Town Farm                                     
+fact   Little.Town.3                             =  The tiny Newlands Church is 500 m west of here                                                   
+       
+photo  Lodore.Falls                              =  Lodore Falls                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/LodoreFalls.jpg                          
+fact   Lodore.Falls.0                            =  Waterfall located on Watendlath Beck                                                             
+fact   Lodore.Falls.1                            =  Falls 30 m (100 ft) over huge boulders into the Borrowdale Valley                                
+       
+photo  Loughrigg.Tarn                            =  Loughrigg Tarn                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/LoughriggTarn.jpg                        
+fact   Loughrigg.Tarn.0                          =  Situated near the foot of Loughrigg Fell                                                         
+fact   Loughrigg.Tarn.1                          =  Small, natural lake just north of Skelwith Bridge                                                
+fact   Loughrigg.Tarn.2                          =  A favoured spot of the poet Wordsworth and his sister Dorothy                                    
+fact   Loughrigg.Tarn.3                          =  Wordsworth described it as a "looking-glass...round, clear and bright as heaven"                 
+fact   Loughrigg.Tarn.4                          =  The surface is carpeted with water lilies in the summer                                          
+       
+photo  Loweswater.Fells                          =  Loweswater Fells                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/LoweswaterFells.jpg                      
+fact   Loweswater.Fells.0                        =  The fells south of Loweswater                                                                    
+fact   Loweswater.Fells.1                        =  Includes Mellbreak, Blake Fell and Burnbank Fell                                                 
+       
+photo  Mickledore                                =  Mickledore                                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Mickledore.jpg                           
+fact   Mickledore.0                              =  A narrow ridge 840 m (2,755 ft) high above Wasdale                                               
+fact   Mickledore.1                              =  The ridge connects Scafell and Scafell Pike                                                      
+fact   Mickledore.2                              =  The ridge forms a high level pass between the valleys of Wasdale and Eskdale                     
+       
+photo  Mortal.Man.Inn                            =  Mortal Man Inn                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/MortalManInn.jpg                         
+fact   Mortal.Man.Inn.0                          =  Traditional Lakeland Inn situated in the Troutbeck Valley                                        
+fact   Mortal.Man.Inn.1                          =  There has been an ale house here since 1689                                                      
+fact   Mortal.Man.Inn.2                          =  Wordsworth, Southey and Coleridge liked to meet here                                             
+       
+photo  Muncaster.Castle                          =  Muncaster Castle                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/MuncasterCastle.jpg                      
+fact   Muncaster.Castle.0                        =  Privately owned by the Pennington family for 800 years                                           
+fact   Muncaster.Castle.1                        =  Overlooks the River Esk, one mile east of Ravenglass                                             
+fact   Muncaster.Castle.2                        =  Includes gardens, an owl sanctuary, a maze, and a resident ghost                                 
+fact   Muncaster.Castle.3                        =  The oldest parts include the Great Hall and a 14th century tower                                 
+       remark                                    =  yes                                                                                              
+       
+photo  Newlands.Church                           =  Newlands Church                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/NewlandsChurch.jpg                       
+fact   Newlands.Church.0                         =  Grade II listed building dating from the 16th century                                            
+       remark                                    =  yes                                                                                              
+fact   Newlands.Church.1                         =  Situated 500m west of the hamlet of Little Town                                                  
+fact   Newlands.Church.2                         =  Traditional white-washed walls and green slate roof                                              
+       remark                                    =  yes                                                                                              
+fact   Newlands.Church.3                         =  Depicted in Beatrix Potter's "The Tale of Mrs. Tiggy-Winkle"                                     
+       
+photo  Newlands.valley                           =  Newlands valley                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Newlandsvalley.jpg                       
+fact   Newlands.valley.0                         =  Includes Little Town, a hamlet made famous by Beatrix Potter                                     
+fact   Newlands.valley.1                         =  The Newlands Horseshoe is a 14 km walk, starting and finishing at Little Town                    
+       remark                                    =  yes                                                                                              
+       
+photo  Old.Dungeon.Ghyll.Hotel                   =  Old Dungeon Ghyll Hotel                                                                          
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/OldDungeonGhyllHotel.jpg                 
+fact   Old.Dungeon.Ghyll.Hotel.0                 =  In climbing circles it is known as the "ODG"                                                     
+fact   Old.Dungeon.Ghyll.Hotel.1                 =  Further down the valley is the New Dungeon Ghyll Hotel, built in 1862                            
+       remark                                    =  yes                                                                                              
+       
+photo  Old.Man.of.Coniston                       =  Old Man of Coniston                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/OldManofConiston.jpg                     
+fact   Old.Man.of.Coniston.0                     =  Lies to the west of the town of Coniston and Coniston Water                                      
+fact   Old.Man.of.Coniston.1                     =  The twelfth most prominent mountain in England                                                   
+fact   Old.Man.of.Coniston.2                     =  Slate and copper were mined here for 500 years                                                   
+fact   Old.Man.of.Coniston.3                     =  Abandoned slate mines and spoil tips litter the north eastern slopes                             
+fact   Old.Man.of.Coniston.4                     =  Sheep on the summit are quite tame and will happily steal hikers' sandwiches                     
+       remark                                    =  yes                                                                                              
+       
+photo  Pike.of.Stickle                           =  Pike of Stickle                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/PikeofStickle.jpg                        
+fact   Pike.of.Stickle.0                         =  Located in the valley of Great Langdale                                                          
+       remark                                    =  yes                                                                                              
+fact   Pike.of.Stickle.1                         =  One of the fells which make up the Langdale Pikes                                                
+fact   Pike.of.Stickle.2                         =  Also known as Pike O' Stickle                                                                    
+fact   Pike.of.Stickle.3                         =  The site of a neolithic stone axe factory, one of the most important in Europe                   
+       
+photo  Ravenglass.and.Eskdale.Railway            =  Ravenglass and Eskdale Railway                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/RavenglassandEskdaleRailway.jpg          
+fact   Ravenglass.and.Eskdale.Railway.0          =  15 inch narrow gauge railway                                                                     
+fact   Ravenglass.and.Eskdale.Railway.1          =  Runs for 7 miles from Ravenglass to Dalegarth Station near Boot in Eskdale                       
+fact   Ravenglass.and.Eskdale.Railway.2          =  Privately owned and supported by a preservation society                                          
+fact   Ravenglass.and.Eskdale.Railway.3          =  The oldest locomotive is "River Irt", parts of which date from 1894                              
+       
+photo  Red.Squirrel                              =  Red Squirrel                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/RedSquirrel.jpg                          
+fact   Red.Squirrel.0                            =  Britain's only native squirrel                                                                   
+fact   Red.Squirrel.1                            =  Familiar sight in the Lake District and the North East of England                                
+       remark                                    =  yes                                                                                              
+fact   Red.Squirrel.2                            =  Replaced by the North American grey squirrel in other parts of England                           
+       remark                                    =  yes                                                                                              
+       
+photo  Red.Tarn                                  =  Red Tarn                                                                                         
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/RedTarn.jpg                              
+fact   Red.Tarn.0                                =  Small lake on the eastern flank of Helvellyn                                                     
+fact   Red.Tarn.1                                =  Lies beneath Striding Edge and Catstycam                                                         
+fact   Red.Tarn.2                                =  Named for the colour of the surrounding screes                                                   
+fact   Red.Tarn.3                                =  Contains brown trout and schelly, a fresh-water herring                                          
+       
+photo  River.Esk                                 =  River Esk                                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/RiverEsk.jpg                             
+fact   River.Esk.0                               =  Rises in the Scafell range of mountains, just below Esk Hause                                    
+fact   River.Esk.1                               =  Flows through Eskdale, past the villages of Boot and Eskdale Green                               
+fact   River.Esk.2                               =  Joins the Irish Sea at Ravenglass                                                                
+fact   River.Esk.3                               =  Contains sea trout and salmon                                                                    
+       remark                                    =  yes                                                                                              
+       
+photo  Rock.Climbing                             =  Rock Climbing                                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/RockClimbing.jpg                         
+fact   Rock.Climbing.0                           =  The Lake District has many fine rock climbs at all grades                                        
+       remark                                    =  yes                                                                                              
+fact   Rock.Climbing.1                           =  Examples include Gimmer Crag in Langdale and Shepherd's Crag in Borrowdale                       
+       remark                                    =  yes                                                                                              
+fact   Rock.Climbing.2                           =  Napes Needle on Great Gable was the setting for the first British rock climb in 1886             
+       remark                                    =  yes                                                                                              
+       
+photo  Row.Bridge                                =  Row Bridge                                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/RowBridge.jpg                            
+fact   Row.Bridge.0                              =  Traditional packhorse bridge in Wasdale                                                          
+fact   Row.Bridge.1                              =  Spans the Mosedale Beck before it empties into Wastwater                                         
+       
+photo  Rydal.Mount                               =  Rydal Mount                                                                                      
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/RydalMount.jpg                           
+fact   Rydal.Mount.0                             =  Home of the poet William Wordsworth from 1813 to 1850                                            
+fact   Rydal.Mount.1                             =  Wordsworth moved here from Dove Cottage to accommodate his growing family                        
+fact   Rydal.Mount.2                             =  Glorious views of Lake Windermere, Rydal Water and the surrounding fells                         
+       remark                                    =  yes                                                                                              
+fact   Rydal.Mount.3                             =  4 acre landscaped garden designed by William Wordsworth                                          
+fact   Rydal.Mount.4                             =  Still owned by the Wordsworth family today                                                       
+       
+photo  Rydal.Water.and.Windermere                =  Rydal Water and Windermere                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/RydalWaterandWindermere.jpg              
+fact   Rydal.Water.and.Windermere.0              =  Near the hamlet of Rydal, between Grasmere and Ambleside                                         
+fact   Rydal.Water.and.Windermere.1              =  A lakeside walk takes in Wordsworth's former homes of Dove Cottage and Rydal Mount               
+fact   Rydal.Water.and.Windermere.2              =  The former quarry working of Rydal Cave is found on the southern shore                           
+       
+photo  Scafell.Pike                              =  Scafell Pike                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/ScafellPike.jpg                          
+fact   Scafell.Pike.0                            =  Highest mountain in England at 978 m (3,209 ft)                                                  
+fact   Scafell.Pike.1                            =  Connected to Scafell by the col of Mickledore                                                    
+fact   Scafell.Pike.2                            =  The summit was donated to the National Trust in 1919                                             
+fact   Scafell.Pike.3                            =  Part of the ridge which forms the watershed between Eskdale and Wasdale                          
+       remark                                    =  yes                                                                                              
+fact   Scafell.Pike.4                            =  The most popular ascent is from Wasdale Head                                                     
+       
+photo  Sharp.Edge                                =  Sharp Edge                                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SharpEdge.jpg                            
+fact   Sharp.Edge.0                              =  An arete on Blencathra which lies between Tarn Crag and Foule Crag                               
+fact   Sharp.Edge.1                              =  One of the most famous scrambles in the Lake District                                            
+fact   Sharp.Edge.2                              =  Requires a head for heights and great care in high winds and icy conditions                      
+       
+photo  Skelwith.Force                            =  Skelwith Force                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SkelwithForce.jpg                        
+fact   Skelwith.Force.0                          =  Located near Skelwith Bridge on the River Brathay                                                
+       
+photo  Skiddaw                                   =  Skiddaw                                                                                          
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Skiddaw.jpg                              
+fact   Skiddaw.0                                 =  Fourth highest mountain in England at 931 m (3,054 ft)                                           
+fact   Skiddaw.1                                 =  Lies just north of the town of Keswick                                                           
+fact   Skiddaw.2                                 =  Simplest of the four highest Lake District mountains to ascend                                   
+fact   Skiddaw.3                                 =  Slate used to build most of Keswick's traditional buildings                                      
+fact   Skiddaw.4                                 =  Slate has a grey tint as compared to the green slate from Honister.                              
+       
+photo  Slater.Bridge                             =  Slater Bridge                                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SlaterBridge.jpg                         
+fact   Slater.Bridge.0                           =  Both clapper and packhorse in design                                                             
+fact   Slater.Bridge.1                           =  On the route between Little Langdale and the slate quarries at Tilberthwaite                     
+fact   Slater.Bridge.2                           =  Spans the River Rothay in Little Langdale                                                        
+       
+photo  St..James.Church                          =  St. James' Church, Buttermere                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/St.JamesChurch.jpg                       
+fact   St..James.Church.0                        =  Situated above the village of Buttermere at the bottom of the Honister Pass                      
+fact   St..James.Church.1                        =  Contains a small memorial to the guidebook author, Alfred Wainwright                             
+       
+photo  St..Olaf.Church                           =  St. Olaf's Church, Wasdale Head                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/St.OlafChurch.jpg                        
+fact   St..Olaf.Church.0                         =  One of England's smallest churches                                                               
+       remark                                    =  yes                                                                                              
+fact   St..Olaf.Church.1                         =  Situated among farm fields at Wasdale Head                                                       
+fact   St..Olaf.Church.2                         =  Its beams are said to come from a Viking longship                                                
+fact   St..Olaf.Church.3                         =  Memorial to members of the Fell & Rock Climbing Club who died in WWI                             
+       
+photo  Steam.Yacht.Gondola                       =  Steam Yacht Gondola                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SteamYachtGondola.jpg                    
+fact   Steam.Yacht.Gondola.0                     =  Rebuilt Victorian steam-powered yacht, owned by the National Trust                               
+fact   Steam.Yacht.Gondola.1                     =  The inspiration for Captain Flint's houseboat in the book "Swallows and Amazons"                 
+fact   Steam.Yacht.Gondola.2                     =  Originally launched in 1859 on Coniston Water                                                    
+fact   Steam.Yacht.Gondola.3                     =  Carries 40,000 passengers a year                                                                 
+       
+photo  Stickle.Tarn                              =  Stickle Tarn                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/StickleTarn.jpg                          
+fact   Stickle.Tarn.0                            =  The huge crag of Pavey Ark looms high above the tarn                                             
+fact   Stickle.Tarn.1                            =  Enlarged by the building of a stone dam in 1838                                                  
+fact   Stickle.Tarn.2                            =  Used to supply water for the inhabitants of Langdale                                             
+       
+photo  Stock.Ghyll.Force                         =  Stock Ghyll Force                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/StockGhyllForce.jpg                      
+fact   Stock.Ghyll.Force.0                       =  Located a short walk from the centre of Ambleside                                                
+       remark                                    =  yes                                                                                              
+fact   Stock.Ghyll.Force.1                       =  Spectacular 70 ft waterfall on a tributary of the River Rothay                                   
+fact   Stock.Ghyll.Force.2                       =  12 watermills used to be driven by the power of Stock Ghyll and other local becks                
+       remark                                    =  yes                                                                                              
+fact   Stock.Ghyll.Force.3                       =  Flows into Ambleside under the famous Bridge House                                               
+       
+photo  Stockley.Bridge                           =  Stockley Bridge                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/StockleyBridge.jpg                       
+fact   Stockley.Bridge.0                         =  Ancient packhorse bridge near Seathwaite in Borrowdale                                           
+fact   Stockley.Bridge.1                         =  Situated on the old route between Borrowdale and the Cumbrian coast                              
+fact   Stockley.Bridge.2                         =  Widened in 1887 and repaired after the 1966 storm                                                
+       remark                                    =  yes                                                                                              
+fact   Stockley.Bridge.3                         =  Seathwaite is the wettest inhabited place in England                                             
+       
+photo  Striding.Edge                             =  Striding Edge                                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/StridingEdge.jpg                         
+fact   Striding.Edge.0                           =  Classic scrambling route on Helvellyn                                                            
+fact   Striding.Edge.1                           =  Sharp arete between Birkhouse Moor and Helvellyn's summit                                        
+fact   Striding.Edge.2                           =  Runs parallel to Swirral Edge on the other side of Red Tarn                                      
+fact   Striding.Edge.3                           =  A notorious accident spot among hikers and scramblers                                            
+       remark                                    =  yes                                                                                              
+       
+photo  Styhead.Tarn                              =  Styhead Tarn                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/StyheadTarn.jpg                          
+fact   Styhead.Tarn.0                            =  Situated near the top of the Sty Head pass, at the head of Borrowdale                            
+fact   Styhead.Tarn.1                            =  On the walking route from Wasdale to Borrowdale                                                  
+fact   Styhead.Tarn.2                            =  Walkers ascending Scafell Pike via the Corridor Route pass this tarn                             
+fact   Styhead.Tarn.3                            =  Contains wild brown trout                                                                        
+       remark                                    =  yes                                                                                              
+fact   Styhead.Tarn.4                            =  A mountain rescue stretcher box is a well known landmark near this tarn                          
+       
+photo  Summit.of.Dale.Head                       =  Summit of Dale Head                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SummitofDaleHead.jpg                     
+fact   Summit.of.Dale.Head.0                     =  Stands at the head of the Newlands Valley                                                        
+fact   Summit.of.Dale.Head.1                     =  Wonderful views of Skiddaw and Blencathra to the north and Catbells to the east                  
+       remark                                    =  yes                                                                                              
+fact   Summit.of.Dale.Head.2                     =  Can be climbed from the Honister Pass                                                            
+       remark                                    =  yes                                                                                              
+fact   Summit.of.Dale.Head.3                     =  Long mined for copper and slate                                                                  
+       remark                                    =  yes                                                                                              
+       
+photo  Summit.of.Helm.Crag                       =  Summit of Helm Crag                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SummitofHelmCrag.jpg                     
+fact   Summit.of.Helm.Crag.0                     =  Also known as "The Lion and the Lamb" and "The Howitzer"                                         
+fact   Summit.of.Helm.Crag.1                     =  Overlooks the village of Grasmere                                                                
+fact   Summit.of.Helm.Crag.2                     =  Normally ascended from Grasmere or along the ridge from Gibson Knott                             
+       
+photo  Summit.of.Helvellyn                       =  Summit of Helvellyn                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SummitofHelvellyn.jpg                    
+fact   Summit.of.Helvellyn.0                     =  Third highest peak in England at 950 m (3,117 ft) above sea level                                
+fact   Summit.of.Helvellyn.1                     =  Broad summit plateau about 500 m long                                                            
+fact   Summit.of.Helvellyn.2                     =  The first aeroplane to land on a British mountain top did so here in 1926                        
+fact   Summit.of.Helvellyn.3                     =  A summit memorial celebrates a dog 's devotion to his dead master                                
+       
+photo  Summit.of.Scafell.Pike                    =  Summit of Scafell Pike                                                                           
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SummitofScafellPike.jpg                  
+fact   Summit.of.Scafell.Pike.0                  =  The highest point bears an O. S. triangulation column and a massive cairn                        
+       remark                                    =  yes                                                                                              
+fact   Summit.of.Scafell.Pike.1                  =  Extensive views range from the Mourne Mountains in Ireland to Snowdonia in Wales                 
+       remark                                    =  yes                                                                                              
+fact   Summit.of.Scafell.Pike.2                  =  Climbed every day of the year                                                                    
+       remark                                    =  yes                                                                                              
+       
+photo  Summit.of.Skiddaw                         =  Summit of Skiddaw                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/SummitofSkiddaw.jpg                      
+fact   Summit.of.Skiddaw.0                       =  Has a subsidiary summit, Little Man, 1.5 km from the main peak                                   
+fact   Summit.of.Skiddaw.1                       =  Panoramic views over Derwent water to as far as the Mountains of Mourne 120 miles (190 km) away  
+       
+photo  Tarn.Hows                                 =  Tarn Hows                                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/TarnHows.jpg                             
+fact   Tarn.Hows.0                               =  Picturesque wooded tarn about 2 miles northeast of Coniston                                      
+fact   Tarn.Hows.1                               =  Bought in 1929 by Beatrix Potter and bequeathed to the National Trust                            
+       
+photo  Thirlmere                                 =  Thirlmere                                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Thirlmere.jpg                            
+fact   Thirlmere.0                               =  3.5 mile long reservoir between Keswick and Ambleside                                            
+fact   Thirlmere.1                               =  Constructed in the 19th century to provide Manchester with water                                 
+fact   Thirlmere.2                               =  Supplies 220 million litres of water every day                                                   
+fact   Thirlmere.3                               =  Connected to Manchester by the longest tunnel in the world                                       
+fact   Thirlmere.4                               =  A national Red Squirrel Reserve                                                                  
+       
+photo  Townend                                   =  Townend                                                                                          
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Townend.jpg                              
+fact   Townend.0                                 =  Traditional Lake District stone and slate farmhouse built in 1626                                
+       remark                                    =  yes                                                                                              
+fact   Townend.1                                 =  The home of the Browne family, for 400 years                                                     
+       remark                                    =  yes                                                                                              
+fact   Townend.2                                 =  Located in Troutbeck, near Windermere and Ambleside                                              
+fact   Townend.3                                 =  Donated to the National Trust in 1948                                                            
+       remark                                    =  yes                                                                                              
+       
+photo  Troutbeck.valley                          =  Troutbeck valley                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Troutbeckvalley.jpg                      
+fact   Troutbeck.valley.0                        =  Valley of Trout Beck which flows between Wansfell and Applethwaite Common                        
+fact   Troutbeck.valley.1                        =  A quiet valley road leads to the Kirkstone Pass                                                  
+       remark                                    =  yes                                                                                              
+       
+photo  Ullswater                                 =  Ullswater                                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Ullswater.jpg                            
+fact   Ullswater.0                               =  Second largest lake in the National Park                                                         
+fact   Ullswater.1                               =  The spectacular waterfall of Aira Force is midway along the western lakeside                     
+fact   Ullswater.2                               =  Donald Campbell set a world water speed record here in 1955                                      
+       
+photo  Ullswater.Steamer                         =  Ullswater Steamer                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/UllswaterSteamer.jpg                     
+fact   Ullswater.Steamer.0                       =  Five "Steamers" offer trips around the lake calling at Pooley Bridge, Glenridding and Howtown    
+       remark                                    =  yes                                                                                              
+fact   Ullswater.Steamer.1                       =  Originally working boats which moved workers to and from the lead mine at Glenridding            
+       remark                                    =  yes                                                                                              
+       
+photo  View.of.Ambleside                         =  View of Ambleside                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/ViewofAmbleside.jpg                      
+fact   View.of.Ambleside.0                       =  Loughrigg Fell rises to the west of the town                                                     
+fact   View.of.Ambleside.1                       =  Fairfield Horseshoe rises to the north of the town                                               
+fact   View.of.Ambleside.2                       =  Lake Windermere ends a mile short of Ambleside at Waterhead                                      
+       
+photo  View.of.Coniston                          =  View of Coniston                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/ViewofConiston.jpg                       
+fact   View.of.Coniston.0                        =  Located between Coniston Water and Coniston Old Man                                              
+fact   View.of.Coniston.1                        =  Popular centre for exploring the Coniston Fells                                                  
+fact   View.of.Coniston.2                        =  Coniston has been Lakeland's centre for slate and copper mining for 500 years                    
+       remark                                    =  yes                                                                                              
+       
+photo  View.of.Keswick                           =  View of Keswick                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/ViewofKeswick.jpg                        
+fact   View.of.Keswick.0                         =  Situated at the northern end of Derwentwater                                                     
+fact   View.of.Keswick.1                         =  Produced the world's first graphite pencils                                                      
+       
+photo  Wasdale.and.Wastwater.from.Great.Gable    =  Wasdale and Wastwater from Great Gable                                                           
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/WasdaleandWastwaterfromGreatGable.jpg    
+fact   Wasdale.and.Wastwater.from.Great.Gable.0  =  Summit is at a height of 899m (2,949 ft)                                                         
+       remark                                    =  yes                                                                                              
+fact   Wasdale.and.Wastwater.from.Great.Gable.1  =  A memorial service is held on the summit every Remembrance Sunday                                
+       
+photo  Wastwater                                 =  Wastwater                                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Wastwater.jpg                            
+fact   Wastwater.0                               =  England’s deepest lake at 258 ft                                                                 
+       remark                                    =  yes                                                                                              
+fact   Wastwater.1                               =  The surface is 200 ft above sea level, while its bottom is over 50 ft below                      
+       remark                                    =  yes                                                                                              
+fact   Wastwater.2                               =  One of the finest examples of a glacially 'over-deepened' valley                                 
+fact   Wastwater.3                               =  The source of the River Irt which flows into the Irish Sea near Ravenglass                       
+       
+photo  Wastwater.Screes                          =  Wastwater Screes                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/WastwaterScrees.jpg                      
+fact   Wastwater.Screes.0                        =  The screes fall from the summit of Whin Rigg to Wastwater                                        
+fact   Wastwater.Screes.1                        =  In places the screes fall over 450 m (1,500 ft)                                                  
+fact   Wastwater.Screes.2                        =  A footpath runs across the screes above the lake shore and is not for the faint-hearted!         
+       
+photo  Wastwater.Youth.Hostel                    =  Wastwater Youth Hostel                                                                           
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/WastwaterYouthHostel.jpg                 
+fact   Wastwater.Youth.Hostel.0                  =  Half-timbered National Trust property dating from 1829                                           
+       remark                                    =  yes                                                                                              
+fact   Wastwater.Youth.Hostel.1                  =  Its grounds stretch down to the shores of Wastwater                                              
+       remark                                    =  yes                                                                                              
+       
+photo  Watendlath.Bridge                         =  Watendlath Bridge                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/WatendlathBridge.jpg                     
+fact   Watendlath.Bridge.0                       =  Traditional packhorse bridge over Blea Tarn Gill                                                 
+fact   Watendlath.Bridge.1                       =  Stands in the hamlet of Watendlath at 847 ft above sea level                                     
+fact   Watendlath.Bridge.2                       =  Near to Watendlath Tarn, the waters of which feed Lodore Falls                                   
+       
+photo  Windermere                                =  Windermere                                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Windermere.jpg                           
+fact   Windermere.0                              =  Stretching for over 10 miles between Ambleside and Newby Bridge                                  
+fact   Windermere.1                              =  The largest lake in England                                                                      
+fact   Windermere.2                              =  Scenic boat trips cruise around the lake and its 18 islands                                      
+       
+photo  Wray.Castle                               =  Wray Castle                                                                                      
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/WrayCastle.jpg                           
+fact   Wray.Castle.0                             =  Victorian neo-gothic castle on the western shore of Windermere                                   
+fact   Wray.Castle.1                             =  Built in 1840 for a retired Liverpudlian surgeon; now owned by the National Trust                
+fact   Wray.Castle.2                             =  Renown for its trees: Wellingtonia, redwoods and weeping lime                                    
+       
+photo  Wrynose.Pass                              =  Wrynose Pass                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/WrynosePass.jpg                          
+fact   Wrynose.Pass.0                            =  Mountain pass between the Duddon Valley and Little Langdale                                      
+fact   Wrynose.Pass.1                            =  Leads to the Hardknott Pass and on to Eskdale                                                    
+       remark                                    =  yes                                                                                              
+       
+photo  Yewbarrow                                 =  Yewbarrow                                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Yewbarrow.jpg                            
+fact   Yewbarrow.0                               =  Lies at the northern end of Wastwater                                                            
+       remark                                    =  yes                                                                                              
+fact   Yewbarrow.1                               =  Named for its former prevalence of yew trees and its upturned barrow shape                       
