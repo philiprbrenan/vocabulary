@@ -1,0 +1,8 @@
+app g.Greek   = The Greek Alphabet
+  description  = Learn about The Greek Alphabet in English
+  icon         = icon.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+
