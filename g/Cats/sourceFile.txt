@@ -6,450 +6,450 @@ app g.Cats   = Top 20 Cats and Kittens
   speakers     = Amy
 
        
-photo  Abyssinian - Cat               =  Abyssinian - Cat                                                                           
-       url                            =  github://philiprbrenan/Cats/Abyssinian - Cat.jpg                                           
-fact   Abyssinian - Cat.0             =  Its name refers to Ethiopia but this breed was in fact developed in Egypt                 
-fact   Abyssinian - Cat.1             =  One of the most popular breeds of short hair cat in the USA                               
-       remark                         =  yes                                                                                        
-fact   Abyssinian - Cat.2             =  Medium sized cats with strong, lithe bodies and long legs                                 
-       remark                         =  yes                                                                                        
-fact   Abyssinian - Cat.3             =  Medium-length, dense, and silky coat                                                      
-       remark                         =  yes                                                                                        
-fact   Abyssinian - Cat.4             =  Active, playful, intelligent and loves being with people                                  
-       remark                         =  yes                                                                                        
+photo  Abyssinian.-.Cat               =  Abyssinian - Cat                                                                          
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Abyssinian-Cat.jpg                        
+fact   Abyssinian.-.Cat.0             =  Its name refers to Ethiopia but this breed was in fact developed in Egypt                 
+fact   Abyssinian.-.Cat.1             =  One of the most popular breeds of short hair cat in the USA                               
+       remark                         =  yes                                                                                       
+fact   Abyssinian.-.Cat.2             =  Medium sized cats with strong, lithe bodies and long legs                                 
+       remark                         =  yes                                                                                       
+fact   Abyssinian.-.Cat.3             =  Medium-length, dense, and silky coat                                                      
+       remark                         =  yes                                                                                       
+fact   Abyssinian.-.Cat.4             =  Active, playful, intelligent and loves being with people                                  
+       remark                         =  yes                                                                                       
        
-photo  Abyssinian - Kitten            =  Abyssinian - Kitten                                                                        
-       url                            =  github://philiprbrenan/Cats/Abyssinian - Kitten.jpg                                        
-fact   Abyssinian - Kitten.0          =  Its name refers to Ethiopia but this breed was in fact developed in Egypt                 
-fact   Abyssinian - Kitten.1          =  One of the most popular breeds of short hair cat in the USA                               
-       remark                         =  yes                                                                                        
-fact   Abyssinian - Kitten.2          =  Medium sized cats with strong, lithe bodies and long legs                                 
-       remark                         =  yes                                                                                        
-fact   Abyssinian - Kitten.3          =  Medium-length, dense, and silky coat                                                      
-       remark                         =  yes                                                                                        
-fact   Abyssinian - Kitten.4          =  Active, playful, intelligent and loves being with people                                  
-       remark                         =  yes                                                                                        
+photo  Abyssinian.-.Kitten            =  Abyssinian - Kitten                                                                       
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Abyssinian-Kitten.jpg                     
+fact   Abyssinian.-.Kitten.0          =  Its name refers to Ethiopia but this breed was in fact developed in Egypt                 
+fact   Abyssinian.-.Kitten.1          =  One of the most popular breeds of short hair cat in the USA                               
+       remark                         =  yes                                                                                       
+fact   Abyssinian.-.Kitten.2          =  Medium sized cats with strong, lithe bodies and long legs                                 
+       remark                         =  yes                                                                                       
+fact   Abyssinian.-.Kitten.3          =  Medium-length, dense, and silky coat                                                      
+       remark                         =  yes                                                                                       
+fact   Abyssinian.-.Kitten.4          =  Active, playful, intelligent and loves being with people                                  
+       remark                         =  yes                                                                                       
        
-photo  American Shorthair - Cat       =  American Shorthair - Cat                                                                   
-       url                            =  github://philiprbrenan/Cats/American Shorthair - Cat.jpg                                   
-fact   American Shorthair - Cat.0     =  Descended from European cats brought to North America by early settlers                   
-fact   American Shorthair - Cat.1     =  Larger, leaner, and more powerful than its relation, the "British Shorthair"              
-fact   American Shorthair - Cat.2     =  Easy-going, affectionate with owners and social with strangers                            
-       remark                         =  yes                                                                                        
-fact   American Shorthair - Cat.3     =  Males are significantly larger than females                                               
-       remark                         =  yes                                                                                        
-fact   American Shorthair - Cat.4     =  More than eighty different colours and patterns                                           
-       remark                         =  yes                                                                                        
+photo  American.Shorthair.-.Cat       =  American Shorthair - Cat                                                                  
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/AmericanShorthair-Cat.jpg                 
+fact   American.Shorthair.-.Cat.0     =  Descended from European cats brought to North America by early settlers                   
+fact   American.Shorthair.-.Cat.1     =  Larger, leaner, and more powerful than its relation, the "British Shorthair"              
+fact   American.Shorthair.-.Cat.2     =  Easy-going, affectionate with owners and social with strangers                            
+       remark                         =  yes                                                                                       
+fact   American.Shorthair.-.Cat.3     =  Males are significantly larger than females                                               
+       remark                         =  yes                                                                                       
+fact   American.Shorthair.-.Cat.4     =  More than eighty different colours and patterns                                           
+       remark                         =  yes                                                                                       
        
-photo  American Shorthair - Kitten    =  American Shorthair - Kitten                                                                
-       url                            =  github://philiprbrenan/Cats/American Shorthair - Kitten.jpg                                
-fact   American Shorthair - Kitten.0  =  Descended from European cats brought to North America by early settlers                   
-fact   American Shorthair - Kitten.1  =  Larger, leaner, and more powerful than its relation, the "British Shorthair"              
-fact   American Shorthair - Kitten.2  =  Easy-going, affectionate with owners and social with strangers                            
-       remark                         =  yes                                                                                        
-fact   American Shorthair - Kitten.3  =  Males are significantly larger than females                                               
-       remark                         =  yes                                                                                        
-fact   American Shorthair - Kitten.4  =  More than eighty different colours and patterns                                           
-       remark                         =  yes                                                                                        
+photo  American.Shorthair.-.Kitten    =  American Shorthair - Kitten                                                               
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/AmericanShorthair-Kitten.jpg              
+fact   American.Shorthair.-.Kitten.0  =  Descended from European cats brought to North America by early settlers                   
+fact   American.Shorthair.-.Kitten.1  =  Larger, leaner, and more powerful than its relation, the "British Shorthair"              
+fact   American.Shorthair.-.Kitten.2  =  Easy-going, affectionate with owners and social with strangers                            
+       remark                         =  yes                                                                                       
+fact   American.Shorthair.-.Kitten.3  =  Males are significantly larger than females                                               
+       remark                         =  yes                                                                                       
+fact   American.Shorthair.-.Kitten.4  =  More than eighty different colours and patterns                                           
+       remark                         =  yes                                                                                       
        
-photo  Bengal - Cat                   =  Bengal - Cat                                                                               
-       url                            =  github://philiprbrenan/Cats/Bengal - Cat.jpg                                               
-fact   Bengal - Cat.0                 =  Hybrid breed of domestic cat                                                              
-       remark                         =  yes                                                                                        
-fact   Bengal - Cat.1                 =  A cross between a domestic cat and an Asian leopard cat                                   
-fact   Bengal - Cat.2                 =  Gentle temperament after 3 generations from the original crossing                         
-       remark                         =  yes                                                                                        
-fact   Bengal - Cat.3                 =  Smooth coat has large spots and rosettes                                                  
-       remark                         =  yes                                                                                        
-fact   Bengal - Cat.4                 =  Characteristic pale or white belly                                                        
-       remark                         =  yes                                                                                        
+photo  Bengal.-.Cat                   =  Bengal - Cat                                                                              
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Bengal-Cat.jpg                            
+fact   Bengal.-.Cat.0                 =  Hybrid breed of domestic cat                                                              
+       remark                         =  yes                                                                                       
+fact   Bengal.-.Cat.1                 =  A cross between a domestic cat and an Asian leopard cat                                   
+fact   Bengal.-.Cat.2                 =  Gentle temperament after 3 generations from the original crossing                         
+       remark                         =  yes                                                                                       
+fact   Bengal.-.Cat.3                 =  Smooth coat has large spots and rosettes                                                  
+       remark                         =  yes                                                                                       
+fact   Bengal.-.Cat.4                 =  Characteristic pale or white belly                                                        
+       remark                         =  yes                                                                                       
        
-photo  Bengal - Kitten                =  Bengal - Kitten                                                                            
-       url                            =  github://philiprbrenan/Cats/Bengal - Kitten.jpg                                            
-fact   Bengal - Kitten.0              =  Hybrid breed of domestic cat                                                              
-       remark                         =  yes                                                                                        
-fact   Bengal - Kitten.1              =  A cross between a domestic cat and an Asian leopard cat                                   
-fact   Bengal - Kitten.2              =  Gentle temperament after 3 generations from the original crossing                         
-       remark                         =  yes                                                                                        
-fact   Bengal - Kitten.3              =  Smooth coat has large spots and rosettes                                                  
-       remark                         =  yes                                                                                        
-fact   Bengal - Kitten.4              =  Characteristic pale or white belly                                                        
-       remark                         =  yes                                                                                        
+photo  Bengal.-.Kitten                =  Bengal - Kitten                                                                           
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Bengal-Kitten.jpg                         
+fact   Bengal.-.Kitten.0              =  Hybrid breed of domestic cat                                                              
+       remark                         =  yes                                                                                       
+fact   Bengal.-.Kitten.1              =  A cross between a domestic cat and an Asian leopard cat                                   
+fact   Bengal.-.Kitten.2              =  Gentle temperament after 3 generations from the original crossing                         
+       remark                         =  yes                                                                                       
+fact   Bengal.-.Kitten.3              =  Smooth coat has large spots and rosettes                                                  
+       remark                         =  yes                                                                                       
+fact   Bengal.-.Kitten.4              =  Characteristic pale or white belly                                                        
+       remark                         =  yes                                                                                       
        
-photo  Birman - Cat                   =  Birman - Cat                                                                               
-       url                            =  github://philiprbrenan/Cats/Birman - Cat.jpg                                               
-fact   Birman - Cat.0                 =  Also called the "Sacred Cat of Burma"                                                     
-fact   Birman - Cat.1                 =  Medium-long, silky hair                                                                   
-       remark                         =  yes                                                                                        
-fact   Birman - Cat.2                 =  Coat is a pale colour (body) with darker extremities (face, ears and tail)                
-       remark                         =  yes                                                                                        
-fact   Birman - Cat.3                 =  White gloves on each paw and deep blue eyes                                               
-fact   Birman - Cat.4                 =  Friendly and loving cat                                                                   
-       remark                         =  yes                                                                                        
+photo  Birman.-.Cat                   =  Birman - Cat                                                                              
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Birman-Cat.jpg                            
+fact   Birman.-.Cat.0                 =  Also called the "Sacred Cat of Burma"                                                     
+fact   Birman.-.Cat.1                 =  Medium-long, silky hair                                                                   
+       remark                         =  yes                                                                                       
+fact   Birman.-.Cat.2                 =  Coat is a pale colour (body) with darker extremities (face, ears and tail)                
+       remark                         =  yes                                                                                       
+fact   Birman.-.Cat.3                 =  White gloves on each paw and deep blue eyes                                               
+fact   Birman.-.Cat.4                 =  Friendly and loving cat                                                                   
+       remark                         =  yes                                                                                       
        
-photo  Birman - Kitten                =  Birman - Kitten                                                                            
-       url                            =  github://philiprbrenan/Cats/Birman - Kitten.jpg                                            
-fact   Birman - Kitten.0              =  Also called the "Sacred Cat of Burma"                                                     
-fact   Birman - Kitten.1              =  Medium-long, silky hair                                                                   
-       remark                         =  yes                                                                                        
-fact   Birman - Kitten.2              =  Coat is a pale colour (body) with darker extremities (face, ears and tail)                
-       remark                         =  yes                                                                                        
-fact   Birman - Kitten.3              =  White gloves on each paw and deep blue eyes                                               
-fact   Birman - Kitten.4              =  Friendly and loving cat                                                                   
-       remark                         =  yes                                                                                        
+photo  Birman.-.Kitten                =  Birman - Kitten                                                                           
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Birman-Kitten.jpg                         
+fact   Birman.-.Kitten.0              =  Also called the "Sacred Cat of Burma"                                                     
+fact   Birman.-.Kitten.1              =  Medium-long, silky hair                                                                   
+       remark                         =  yes                                                                                       
+fact   Birman.-.Kitten.2              =  Coat is a pale colour (body) with darker extremities (face, ears and tail)                
+       remark                         =  yes                                                                                       
+fact   Birman.-.Kitten.3              =  White gloves on each paw and deep blue eyes                                               
+fact   Birman.-.Kitten.4              =  Friendly and loving cat                                                                   
+       remark                         =  yes                                                                                       
        
-photo  British Shorthair - Cat        =  British Shorthair - Cat                                                                    
-       url                            =  github://philiprbrenan/Cats/British Shorthair - Cat.jpg                                    
-fact   British Shorthair - Cat.0      =  Dense, plush coats and a non-fluffy tail                                                  
-       remark                         =  yes                                                                                        
-fact   British Shorthair - Cat.1      =  Large, round heads with full, chubby cheeks                                               
-       remark                         =  yes                                                                                        
-fact   British Shorthair - Cat.2      =  Bodies are large, sturdy, and muscular                                                    
-       remark                         =  yes                                                                                        
-fact   British Shorthair - Cat.3      =  Many colours and patterns including the popular "British Blue"                            
-       remark                         =  yes                                                                                        
-fact   British Shorthair - Cat.4      =  Relaxed and stable, and ideal for apartment living                                        
-       remark                         =  yes                                                                                        
+photo  British.Shorthair.-.Cat        =  British Shorthair - Cat                                                                   
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/BritishShorthair-Cat.jpg                  
+fact   British.Shorthair.-.Cat.0      =  Dense, plush coats and a non-fluffy tail                                                  
+       remark                         =  yes                                                                                       
+fact   British.Shorthair.-.Cat.1      =  Large, round heads with full, chubby cheeks                                               
+       remark                         =  yes                                                                                       
+fact   British.Shorthair.-.Cat.2      =  Bodies are large, sturdy, and muscular                                                    
+       remark                         =  yes                                                                                       
+fact   British.Shorthair.-.Cat.3      =  Many colours and patterns including the popular "British Blue"                            
+       remark                         =  yes                                                                                       
+fact   British.Shorthair.-.Cat.4      =  Relaxed and stable, and ideal for apartment living                                        
+       remark                         =  yes                                                                                       
        
-photo  British Shorthair - Kitten     =  British Shorthair - Kitten                                                                 
-       url                            =  github://philiprbrenan/Cats/British Shorthair - Kitten.jpg                                 
-fact   British Shorthair - Kitten.0   =  Dense, plush coats and a non-fluffy tail                                                  
-       remark                         =  yes                                                                                        
-fact   British Shorthair - Kitten.1   =  Large, round heads with full, chubby cheeks                                               
-       remark                         =  yes                                                                                        
-fact   British Shorthair - Kitten.2   =  Bodies are large, sturdy, and muscular                                                    
-       remark                         =  yes                                                                                        
-fact   British Shorthair - Kitten.3   =  Many colours and patterns including the popular "British Blue"                            
-       remark                         =  yes                                                                                        
-fact   British Shorthair - Kitten.4   =  Relaxed and stable, and ideal for apartment living                                        
-       remark                         =  yes                                                                                        
+photo  British.Shorthair.-.Kitten     =  British Shorthair - Kitten                                                                
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/BritishShorthair-Kitten.jpg               
+fact   British.Shorthair.-.Kitten.0   =  Dense, plush coats and a non-fluffy tail                                                  
+       remark                         =  yes                                                                                       
+fact   British.Shorthair.-.Kitten.1   =  Large, round heads with full, chubby cheeks                                               
+       remark                         =  yes                                                                                       
+fact   British.Shorthair.-.Kitten.2   =  Bodies are large, sturdy, and muscular                                                    
+       remark                         =  yes                                                                                       
+fact   British.Shorthair.-.Kitten.3   =  Many colours and patterns including the popular "British Blue"                            
+       remark                         =  yes                                                                                       
+fact   British.Shorthair.-.Kitten.4   =  Relaxed and stable, and ideal for apartment living                                        
+       remark                         =  yes                                                                                       
        
-photo  Burmese - Cat                  =  Burmese - Cat                                                                              
-       url                            =  github://philiprbrenan/Cats/Burmese - Cat.jpg                                              
-fact   Burmese - Cat.0                =  Originated from Burma and Thailand                                                        
-fact   Burmese - Cat.1                =  Wide variety of colours; yellow or gold eyes                                              
-       remark                         =  yes                                                                                        
-fact   Burmese - Cat.2                =  Glossy coat with a satin-like finish                                                      
-       remark                         =  yes                                                                                        
-fact   Burmese - Cat.3                =  Highly intelligent, sociable and friendly with humans                                     
-       remark                         =  yes                                                                                        
-fact   Burmese - Cat.4                =  Very vocal, and often call to their owners                                                
-       remark                         =  yes                                                                                        
+photo  Burmese.-.Cat                  =  Burmese - Cat                                                                             
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Burmese-Cat.jpg                           
+fact   Burmese.-.Cat.0                =  Originated from Burma and Thailand                                                        
+fact   Burmese.-.Cat.1                =  Wide variety of colours; yellow or gold eyes                                              
+       remark                         =  yes                                                                                       
+fact   Burmese.-.Cat.2                =  Glossy coat with a satin-like finish                                                      
+       remark                         =  yes                                                                                       
+fact   Burmese.-.Cat.3                =  Highly intelligent, sociable and friendly with humans                                     
+       remark                         =  yes                                                                                       
+fact   Burmese.-.Cat.4                =  Very vocal, and often call to their owners                                                
+       remark                         =  yes                                                                                       
        
-photo  Burmese - Kitten               =  Burmese - Kitten                                                                           
-       url                            =  github://philiprbrenan/Cats/Burmese - Kitten.jpg                                           
-fact   Burmese - Kitten.0             =  Originated from Burma and Thailand                                                        
-fact   Burmese - Kitten.1             =  Wide variety of colours; yellow or gold eyes                                              
-       remark                         =  yes                                                                                        
-fact   Burmese - Kitten.2             =  Glossy coat with a satin-like finish                                                      
-       remark                         =  yes                                                                                        
-fact   Burmese - Kitten.3             =  Highly intelligent, sociable and friendly with humans                                     
-       remark                         =  yes                                                                                        
-fact   Burmese - Kitten.4             =  Very vocal, and often call to their owners                                                
-       remark                         =  yes                                                                                        
+photo  Burmese.-.Kitten               =  Burmese - Kitten                                                                          
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Burmese-Kitten.jpg                        
+fact   Burmese.-.Kitten.0             =  Originated from Burma and Thailand                                                        
+fact   Burmese.-.Kitten.1             =  Wide variety of colours; yellow or gold eyes                                              
+       remark                         =  yes                                                                                       
+fact   Burmese.-.Kitten.2             =  Glossy coat with a satin-like finish                                                      
+       remark                         =  yes                                                                                       
+fact   Burmese.-.Kitten.3             =  Highly intelligent, sociable and friendly with humans                                     
+       remark                         =  yes                                                                                       
+fact   Burmese.-.Kitten.4             =  Very vocal, and often call to their owners                                                
+       remark                         =  yes                                                                                       
        
-photo  Cornish Rex - Cat              =  Cornish Rex - Cat                                                                          
-       url                            =  github://philiprbrenan/Cats/Cornish Rex - Cat.jpg                                          
-fact   Cornish Rex - Cat.0            =  Most cats have an outer, middle and undercoat of hairs; this breed only has an undercoat  
-fact   Cornish Rex - Cat.1            =  Coat is very fine and soft, sometimes curly, and about 1 cm long                          
-       remark                         =  yes                                                                                        
-fact   Cornish Rex - Cat.2            =  Originates from Cornwall, England                                                         
-fact   Cornish Rex - Cat.3            =  Best suited for indoor living in warm and dry conditions                                  
-       remark                         =  yes                                                                                        
-fact   Cornish Rex - Cat.4            =  Playful, adventurous, highly intelligent, friendly                                        
-       remark                         =  yes                                                                                        
+photo  Cornish.Rex.-.Cat              =  Cornish Rex - Cat                                                                         
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/CornishRex-Cat.jpg                        
+fact   Cornish.Rex.-.Cat.0            =  Most cats have an outer, middle and undercoat of hairs; this breed only has an undercoat  
+fact   Cornish.Rex.-.Cat.1            =  Coat is very fine and soft, sometimes curly, and about 1 cm long                          
+       remark                         =  yes                                                                                       
+fact   Cornish.Rex.-.Cat.2            =  Originates from Cornwall, England                                                         
+fact   Cornish.Rex.-.Cat.3            =  Best suited for indoor living in warm and dry conditions                                  
+       remark                         =  yes                                                                                       
+fact   Cornish.Rex.-.Cat.4            =  Playful, adventurous, highly intelligent, friendly                                        
+       remark                         =  yes                                                                                       
        
-photo  Cornish Rex - Kitten           =  Cornish Rex - Kitten                                                                       
-       url                            =  github://philiprbrenan/Cats/Cornish Rex - Kitten.jpg                                       
-fact   Cornish Rex - Kitten.0         =  Most cats have an outer, middle and undercoat of hairs; this breed only has an undercoat  
-fact   Cornish Rex - Kitten.1         =  Coat is very fine and soft, sometimes curly, and about 1 cm long                          
-       remark                         =  yes                                                                                        
-fact   Cornish Rex - Kitten.2         =  Originates from Cornwall, England                                                         
-fact   Cornish Rex - Kitten.3         =  Best suited for indoor living in warm and dry conditions                                  
-       remark                         =  yes                                                                                        
-fact   Cornish Rex - Kitten.4         =  Playful, adventurous, highly intelligent, friendly                                        
-       remark                         =  yes                                                                                        
+photo  Cornish.Rex.-.Kitten           =  Cornish Rex - Kitten                                                                      
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/CornishRex-Kitten.jpg                     
+fact   Cornish.Rex.-.Kitten.0         =  Most cats have an outer, middle and undercoat of hairs; this breed only has an undercoat  
+fact   Cornish.Rex.-.Kitten.1         =  Coat is very fine and soft, sometimes curly, and about 1 cm long                          
+       remark                         =  yes                                                                                       
+fact   Cornish.Rex.-.Kitten.2         =  Originates from Cornwall, England                                                         
+fact   Cornish.Rex.-.Kitten.3         =  Best suited for indoor living in warm and dry conditions                                  
+       remark                         =  yes                                                                                       
+fact   Cornish.Rex.-.Kitten.4         =  Playful, adventurous, highly intelligent, friendly                                        
+       remark                         =  yes                                                                                       
        
-photo  Exotic Shorthair - Cat         =  Exotic Shorthair - Cat                                                                     
-       url                            =  github://philiprbrenan/Cats/Exotic Shorthair - Cat.jpg                                     
-fact   Exotic Shorthair - Cat.0       =  The personality of a Persian without the long hair                                        
-fact   Exotic Shorthair - Cat.1       =  Large, round head and short, snub nose                                                    
-       remark                         =  yes                                                                                        
-fact   Exotic Shorthair - Cat.2       =  Calm, gentle, affectionate, loyal, playful                                                
-       remark                         =  yes                                                                                        
-fact   Exotic Shorthair - Cat.3       =  Ideal apartment cats for city dwellers                                                    
-       remark                         =  yes                                                                                        
+photo  Exotic.Shorthair.-.Cat         =  Exotic Shorthair - Cat                                                                    
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/ExoticShorthair-Cat.jpg                   
+fact   Exotic.Shorthair.-.Cat.0       =  The personality of a Persian without the long hair                                        
+fact   Exotic.Shorthair.-.Cat.1       =  Large, round head and short, snub nose                                                    
+       remark                         =  yes                                                                                       
+fact   Exotic.Shorthair.-.Cat.2       =  Calm, gentle, affectionate, loyal, playful                                                
+       remark                         =  yes                                                                                       
+fact   Exotic.Shorthair.-.Cat.3       =  Ideal apartment cats for city dwellers                                                    
+       remark                         =  yes                                                                                       
        
-photo  Exotic Shorthair - Kitten      =  Exotic Shorthair - Kitten                                                                  
-       url                            =  github://philiprbrenan/Cats/Exotic Shorthair - Kitten.jpg                                  
-fact   Exotic Shorthair - Kitten.0    =  The personality of a Persian without the long hair                                        
-fact   Exotic Shorthair - Kitten.1    =  Large, round head and short, snub nose                                                    
-       remark                         =  yes                                                                                        
-fact   Exotic Shorthair - Kitten.2    =  Calm, gentle, affectionate, loyal, playful                                                
-       remark                         =  yes                                                                                        
-fact   Exotic Shorthair - Kitten.3    =  Ideal apartment cats for city dwellers                                                    
-       remark                         =  yes                                                                                        
+photo  Exotic.Shorthair.-.Kitten      =  Exotic Shorthair - Kitten                                                                 
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/ExoticShorthair-Kitten.jpg                
+fact   Exotic.Shorthair.-.Kitten.0    =  The personality of a Persian without the long hair                                        
+fact   Exotic.Shorthair.-.Kitten.1    =  Large, round head and short, snub nose                                                    
+       remark                         =  yes                                                                                       
+fact   Exotic.Shorthair.-.Kitten.2    =  Calm, gentle, affectionate, loyal, playful                                                
+       remark                         =  yes                                                                                       
+fact   Exotic.Shorthair.-.Kitten.3    =  Ideal apartment cats for city dwellers                                                    
+       remark                         =  yes                                                                                       
        
-photo  Maine Coon - Cat               =  Maine Coon - Cat                                                                           
-       url                            =  github://philiprbrenan/Cats/Maine Coon - Cat.jpg                                           
-fact   Maine Coon - Cat.0             =  Also called "American Longhair"                                                           
-fact   Maine Coon - Cat.1             =  Characterised by its long, flowing coat                                                   
-       remark                         =  yes                                                                                        
-fact   Maine Coon - Cat.2             =  Native to the state of Maine where it is the official State Cat                           
-fact   Maine Coon - Cat.3             =  One of the largest and most popular cat breeds in the world                               
-       remark                         =  yes                                                                                        
-fact   Maine Coon - Cat.4             =  Above-average intelligence and gentle, loving personality                                 
-       remark                         =  yes                                                                                        
+photo  Maine.Coon.-.Cat               =  Maine Coon - Cat                                                                          
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/MaineCoon-Cat.jpg                         
+fact   Maine.Coon.-.Cat.0             =  Also called "American Longhair"                                                           
+fact   Maine.Coon.-.Cat.1             =  Characterised by its long, flowing coat                                                   
+       remark                         =  yes                                                                                       
+fact   Maine.Coon.-.Cat.2             =  Native to the state of Maine where it is the official State Cat                           
+fact   Maine.Coon.-.Cat.3             =  One of the largest and most popular cat breeds in the world                               
+       remark                         =  yes                                                                                       
+fact   Maine.Coon.-.Cat.4             =  Above-average intelligence and gentle, loving personality                                 
+       remark                         =  yes                                                                                       
        
-photo  Maine Coon - Kitten            =  Maine Coon - Kitten                                                                        
-       url                            =  github://philiprbrenan/Cats/Maine Coon - Kitten.jpg                                        
-fact   Maine Coon - Kitten.0          =  Also called "American Longhair"                                                           
-fact   Maine Coon - Kitten.1          =  Characterised by its long, flowing coat                                                   
-       remark                         =  yes                                                                                        
-fact   Maine Coon - Kitten.2          =  Native to the state of Maine where it is the official State Cat                           
-fact   Maine Coon - Kitten.3          =  One of the largest and most popular cat breeds in the world                               
-       remark                         =  yes                                                                                        
-fact   Maine Coon - Kitten.4          =  Above-average intelligence and gentle, loving personality                                 
-       remark                         =  yes                                                                                        
+photo  Maine.Coon.-.Kitten            =  Maine Coon - Kitten                                                                       
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/MaineCoon-Kitten.jpg                      
+fact   Maine.Coon.-.Kitten.0          =  Also called "American Longhair"                                                           
+fact   Maine.Coon.-.Kitten.1          =  Characterised by its long, flowing coat                                                   
+       remark                         =  yes                                                                                       
+fact   Maine.Coon.-.Kitten.2          =  Native to the state of Maine where it is the official State Cat                           
+fact   Maine.Coon.-.Kitten.3          =  One of the largest and most popular cat breeds in the world                               
+       remark                         =  yes                                                                                       
+fact   Maine.Coon.-.Kitten.4          =  Above-average intelligence and gentle, loving personality                                 
+       remark                         =  yes                                                                                       
        
-photo  Manx - Cat                     =  Manx - Cat                                                                                 
-       url                            =  github://philiprbrenan/Cats/Manx - Cat.jpg                                                 
-fact   Manx - Cat.0                   =  Originated on the Isle of Man in the UK                                                   
-fact   Manx - Cat.1                   =  Medium-sized cats with either no tails or short stubs                                     
-fact   Manx - Cat.2                   =  Thick, double-layered coat comes in many colours and patterns                             
-       remark                         =  yes                                                                                        
-fact   Manx - Cat.3                   =  Hind legs are longer than the fore legs                                                   
-       remark                         =  yes                                                                                        
-fact   Manx - Cat.4                   =  Skilled hunters much used by farmers to control rodents                                   
-       remark                         =  yes                                                                                        
+photo  Manx.-.Cat                     =  Manx - Cat                                                                                
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Manx-Cat.jpg                              
+fact   Manx.-.Cat.0                   =  Originated on the Isle of Man in the UK                                                   
+fact   Manx.-.Cat.1                   =  Medium-sized cats with either no tails or short stubs                                     
+fact   Manx.-.Cat.2                   =  Thick, double-layered coat comes in many colours and patterns                             
+       remark                         =  yes                                                                                       
+fact   Manx.-.Cat.3                   =  Hind legs are longer than the fore legs                                                   
+       remark                         =  yes                                                                                       
+fact   Manx.-.Cat.4                   =  Skilled hunters much used by farmers to control rodents                                   
+       remark                         =  yes                                                                                       
        
-photo  Manx - Kitten                  =  Manx - Kitten                                                                              
-       url                            =  github://philiprbrenan/Cats/Manx - Kitten.jpg                                              
-fact   Manx - Kitten.0                =  Originated on the Isle of Man in the UK                                                   
-fact   Manx - Kitten.1                =  Medium-sized cats with either no tails or short stubs                                     
-fact   Manx - Kitten.2                =  Thick, double-layered coat comes in many colours and patterns                             
-       remark                         =  yes                                                                                        
-fact   Manx - Kitten.3                =  Hind legs are longer than the fore legs                                                   
-       remark                         =  yes                                                                                        
-fact   Manx - Kitten.4                =  Skilled hunters much used by farmers to control rodents                                   
-       remark                         =  yes                                                                                        
+photo  Manx.-.Kitten                  =  Manx - Kitten                                                                             
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Manx-Kitten.jpg                           
+fact   Manx.-.Kitten.0                =  Originated on the Isle of Man in the UK                                                   
+fact   Manx.-.Kitten.1                =  Medium-sized cats with either no tails or short stubs                                     
+fact   Manx.-.Kitten.2                =  Thick, double-layered coat comes in many colours and patterns                             
+       remark                         =  yes                                                                                       
+fact   Manx.-.Kitten.3                =  Hind legs are longer than the fore legs                                                   
+       remark                         =  yes                                                                                       
+fact   Manx.-.Kitten.4                =  Skilled hunters much used by farmers to control rodents                                   
+       remark                         =  yes                                                                                       
        
-photo  Norwegian Forest - Cat         =  Norwegian Forest - Cat                                                                     
-       url                            =  github://philiprbrenan/Cats/Norwegian Forest - Cat.jpg                                     
-fact   Norwegian Forest - Cat.0       =  Native to Northern Europe                                                                 
-fact   Norwegian Forest - Cat.1       =  Adapted to a very cold climate                                                            
-fact   Norwegian Forest - Cat.2       =  Top coat of glossy, long, water-shedding hairs                                            
-       remark                         =  yes                                                                                        
-fact   Norwegian Forest - Cat.3       =  Woolly undercoat for insulation                                                           
-       remark                         =  yes                                                                                        
-fact   Norwegian Forest - Cat.4       =  Long legs, a bushy tail and a strong, sturdy body                                         
-       remark                         =  yes                                                                                        
-fact   Norwegian Forest - Cat.5       =  Friendly, intelligent and good with people                                                
-       remark                         =  yes                                                                                        
+photo  Norwegian.Forest.-.Cat         =  Norwegian Forest - Cat                                                                    
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/NorwegianForest-Cat.jpg                   
+fact   Norwegian.Forest.-.Cat.0       =  Native to Northern Europe                                                                 
+fact   Norwegian.Forest.-.Cat.1       =  Adapted to a very cold climate                                                            
+fact   Norwegian.Forest.-.Cat.2       =  Top coat of glossy, long, water-shedding hairs                                            
+       remark                         =  yes                                                                                       
+fact   Norwegian.Forest.-.Cat.3       =  Woolly undercoat for insulation                                                           
+       remark                         =  yes                                                                                       
+fact   Norwegian.Forest.-.Cat.4       =  Long legs, a bushy tail and a strong, sturdy body                                         
+       remark                         =  yes                                                                                       
+fact   Norwegian.Forest.-.Cat.5       =  Friendly, intelligent and good with people                                                
+       remark                         =  yes                                                                                       
        
-photo  Norwegian Forest - Kitten      =  Norwegian Forest - Kitten                                                                  
-       url                            =  github://philiprbrenan/Cats/Norwegian Forest - Kitten.jpg                                  
-fact   Norwegian Forest - Kitten.0    =  Native to Northern Europe                                                                 
-fact   Norwegian Forest - Kitten.1    =  Adapted to a very cold climate                                                            
-fact   Norwegian Forest - Kitten.2    =  Top coat of glossy, long, water-shedding hairs                                            
-       remark                         =  yes                                                                                        
-fact   Norwegian Forest - Kitten.3    =  Woolly undercoat for insulation                                                           
-       remark                         =  yes                                                                                        
-fact   Norwegian Forest - Kitten.4    =  Long legs, a bushy tail and a strong, sturdy body                                         
-       remark                         =  yes                                                                                        
-fact   Norwegian Forest - Kitten.5    =  Friendly, intelligent and good with people                                                
-       remark                         =  yes                                                                                        
+photo  Norwegian.Forest.-.Kitten      =  Norwegian Forest - Kitten                                                                 
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/NorwegianForest-Kitten.jpg                
+fact   Norwegian.Forest.-.Kitten.0    =  Native to Northern Europe                                                                 
+fact   Norwegian.Forest.-.Kitten.1    =  Adapted to a very cold climate                                                            
+fact   Norwegian.Forest.-.Kitten.2    =  Top coat of glossy, long, water-shedding hairs                                            
+       remark                         =  yes                                                                                       
+fact   Norwegian.Forest.-.Kitten.3    =  Woolly undercoat for insulation                                                           
+       remark                         =  yes                                                                                       
+fact   Norwegian.Forest.-.Kitten.4    =  Long legs, a bushy tail and a strong, sturdy body                                         
+       remark                         =  yes                                                                                       
+fact   Norwegian.Forest.-.Kitten.5    =  Friendly, intelligent and good with people                                                
+       remark                         =  yes                                                                                       
        
-photo  Oriental Shorthair - Cat       =  Oriental Shorthair - Cat                                                                   
-       url                            =  github://philiprbrenan/Cats/Oriental Shorthair - Cat.jpg                                   
-fact   Oriental Shorthair - Cat.0     =  Combines the Siamese body with a wide diversity of colourings and patterns                
-fact   Oriental Shorthair - Cat.1     =  Wedge-shaped head with large ears                                                         
-       remark                         =  yes                                                                                        
-fact   Oriental Shorthair - Cat.2     =  Active, highly intelligent and bond very closely to their owners                          
-       remark                         =  yes                                                                                        
-fact   Oriental Shorthair - Cat.3     =  Inquisitive, friendly, emotional, demanding and often quite vocal                         
-       remark                         =  yes                                                                                        
-fact   Oriental Shorthair - Cat.4     =  Its purr can be extremely loud when happy                                                 
+photo  Oriental.Shorthair.-.Cat       =  Oriental Shorthair - Cat                                                                  
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/OrientalShorthair-Cat.jpg                 
+fact   Oriental.Shorthair.-.Cat.0     =  Combines the Siamese body with a wide diversity of colourings and patterns                
+fact   Oriental.Shorthair.-.Cat.1     =  Wedge-shaped head with large ears                                                         
+       remark                         =  yes                                                                                       
+fact   Oriental.Shorthair.-.Cat.2     =  Active, highly intelligent and bond very closely to their owners                          
+       remark                         =  yes                                                                                       
+fact   Oriental.Shorthair.-.Cat.3     =  Inquisitive, friendly, emotional, demanding and often quite vocal                         
+       remark                         =  yes                                                                                       
+fact   Oriental.Shorthair.-.Cat.4     =  Its purr can be extremely loud when happy                                                 
        
-photo  Oriental Shorthair - Kitten    =  Oriental Shorthair - Kitten                                                                
-       url                            =  github://philiprbrenan/Cats/Oriental Shorthair - Kitten.jpg                                
-fact   Oriental Shorthair - Kitten.0  =  Combines the Siamese body with a wide diversity of colourings and patterns                
-fact   Oriental Shorthair - Kitten.1  =  Wedge-shaped head with large ears                                                         
-       remark                         =  yes                                                                                        
-fact   Oriental Shorthair - Kitten.2  =  Active, highly intelligent and bond very closely to their owners                          
-       remark                         =  yes                                                                                        
-fact   Oriental Shorthair - Kitten.3  =  Inquisitive, friendly, emotional, demanding and often quite vocal                         
-       remark                         =  yes                                                                                        
-fact   Oriental Shorthair - Kitten.4  =  Its purr can be extremely loud when happy                                                 
+photo  Oriental.Shorthair.-.Kitten    =  Oriental Shorthair - Kitten                                                               
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/OrientalShorthair-Kitten.jpg              
+fact   Oriental.Shorthair.-.Kitten.0  =  Combines the Siamese body with a wide diversity of colourings and patterns                
+fact   Oriental.Shorthair.-.Kitten.1  =  Wedge-shaped head with large ears                                                         
+       remark                         =  yes                                                                                       
+fact   Oriental.Shorthair.-.Kitten.2  =  Active, highly intelligent and bond very closely to their owners                          
+       remark                         =  yes                                                                                       
+fact   Oriental.Shorthair.-.Kitten.3  =  Inquisitive, friendly, emotional, demanding and often quite vocal                         
+       remark                         =  yes                                                                                       
+fact   Oriental.Shorthair.-.Kitten.4  =  Its purr can be extremely loud when happy                                                 
        
-photo  Persian - Cat                  =  Persian - Cat                                                                              
-       url                            =  github://philiprbrenan/Cats/Persian - Cat.jpg                                              
-fact   Persian - Cat.0                =  Long-haired breed that requires regular grooming                                          
-       remark                         =  yes                                                                                        
-fact   Persian - Cat.1                =  Characterised by a round face and shortened muzzle                                        
-       remark                         =  yes                                                                                        
-fact   Persian - Cat.2                =  Name refers to Persia (formerly Iran) where similar cats are found                        
-fact   Persian - Cat.3                =  Placid by nature and good for apartment living                                            
-       remark                         =  yes                                                                                        
-fact   Persian - Cat.4                =  Most popular breed in the United States for many years                                    
+photo  Persian.-.Cat                  =  Persian - Cat                                                                             
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Persian-Cat.jpg                           
+fact   Persian.-.Cat.0                =  Long-haired breed that requires regular grooming                                          
+       remark                         =  yes                                                                                       
+fact   Persian.-.Cat.1                =  Characterised by a round face and shortened muzzle                                        
+       remark                         =  yes                                                                                       
+fact   Persian.-.Cat.2                =  Name refers to Persia (formerly Iran) where similar cats are found                        
+fact   Persian.-.Cat.3                =  Placid by nature and good for apartment living                                            
+       remark                         =  yes                                                                                       
+fact   Persian.-.Cat.4                =  Most popular breed in the United States for many years                                    
        
-photo  Persian - Kitten               =  Persian - Kitten                                                                           
-       url                            =  github://philiprbrenan/Cats/Persian - Kitten.jpg                                           
-fact   Persian - Kitten.0             =  Long-haired breed that requires regular grooming                                          
-       remark                         =  yes                                                                                        
-fact   Persian - Kitten.1             =  Characterised by a round face and shortened muzzle                                        
-       remark                         =  yes                                                                                        
-fact   Persian - Kitten.2             =  Name refers to Persia (formerly Iran) where similar cats are found                        
-fact   Persian - Kitten.3             =  Placid by nature and good for apartment living                                            
-       remark                         =  yes                                                                                        
-fact   Persian - Kitten.4             =  Most popular breed in the United States for many years                                    
+photo  Persian.-.Kitten               =  Persian - Kitten                                                                          
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Persian-Kitten.jpg                        
+fact   Persian.-.Kitten.0             =  Long-haired breed that requires regular grooming                                          
+       remark                         =  yes                                                                                       
+fact   Persian.-.Kitten.1             =  Characterised by a round face and shortened muzzle                                        
+       remark                         =  yes                                                                                       
+fact   Persian.-.Kitten.2             =  Name refers to Persia (formerly Iran) where similar cats are found                        
+fact   Persian.-.Kitten.3             =  Placid by nature and good for apartment living                                            
+       remark                         =  yes                                                                                       
+fact   Persian.-.Kitten.4             =  Most popular breed in the United States for many years                                    
        
-photo  Ragdoll - Cat                  =  Ragdoll - Cat                                                                              
-       url                            =  github://philiprbrenan/Cats/Ragdoll - Cat.jpg                                              
-fact   Ragdoll - Cat.0                =  Large, muscular semi- long haired cat with a soft and silky coat                          
-       remark                         =  yes                                                                                        
-fact   Ragdoll - Cat.1                =  Blue eyes and a distinct colourpoint coat                                                 
-fact   Ragdoll - Cat.2                =  Coat is a pale colour (body) with darker extremities (face, ears, feet and tail)          
-       remark                         =  yes                                                                                        
-fact   Ragdoll - Cat.3                =  Docile, placid, intelligent, gentle and very affectionate                                 
-       remark                         =  yes                                                                                        
-fact   Ragdoll - Cat.4                =  Name derived from the tendency of individuals to go limp when picked up                   
+photo  Ragdoll.-.Cat                  =  Ragdoll - Cat                                                                             
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Ragdoll-Cat.jpg                           
+fact   Ragdoll.-.Cat.0                =  Large, muscular semi- long haired cat with a soft and silky coat                          
+       remark                         =  yes                                                                                       
+fact   Ragdoll.-.Cat.1                =  Blue eyes and a distinct colourpoint coat                                                 
+fact   Ragdoll.-.Cat.2                =  Coat is a pale colour (body) with darker extremities (face, ears, feet and tail)          
+       remark                         =  yes                                                                                       
+fact   Ragdoll.-.Cat.3                =  Docile, placid, intelligent, gentle and very affectionate                                 
+       remark                         =  yes                                                                                       
+fact   Ragdoll.-.Cat.4                =  Name derived from the tendency of individuals to go limp when picked up                   
        
-photo  Ragdoll - Kitten               =  Ragdoll - Kitten                                                                           
-       url                            =  github://philiprbrenan/Cats/Ragdoll - Kitten.jpg                                           
-fact   Ragdoll - Kitten.0             =  Large, muscular semi- long haired cat with a soft and silky coat                          
-       remark                         =  yes                                                                                        
-fact   Ragdoll - Kitten.1             =  Blue eyes and a distinct colourpoint coat                                                 
-fact   Ragdoll - Kitten.2             =  Coat is a pale colour (body) with darker extremities (face, ears, feet and tail)          
-       remark                         =  yes                                                                                        
-fact   Ragdoll - Kitten.3             =  Docile, placid, intelligent, gentle and very affectionate                                 
-       remark                         =  yes                                                                                        
-fact   Ragdoll - Kitten.4             =  Name derived from the tendency of individuals to go limp when picked up                   
+photo  Ragdoll.-.Kitten               =  Ragdoll - Kitten                                                                          
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Ragdoll-Kitten.jpg                        
+fact   Ragdoll.-.Kitten.0             =  Large, muscular semi- long haired cat with a soft and silky coat                          
+       remark                         =  yes                                                                                       
+fact   Ragdoll.-.Kitten.1             =  Blue eyes and a distinct colourpoint coat                                                 
+fact   Ragdoll.-.Kitten.2             =  Coat is a pale colour (body) with darker extremities (face, ears, feet and tail)          
+       remark                         =  yes                                                                                       
+fact   Ragdoll.-.Kitten.3             =  Docile, placid, intelligent, gentle and very affectionate                                 
+       remark                         =  yes                                                                                       
+fact   Ragdoll.-.Kitten.4             =  Name derived from the tendency of individuals to go limp when picked up                   
        
-photo  Russian Blue - Cat             =  Russian Blue - Cat                                                                         
-       url                            =  github://philiprbrenan/Cats/Russian Blue - Cat.jpg                                         
-fact   Russian Blue - Cat.0           =  Also called "Archangel Blue"                                                              
-fact   Russian Blue - Cat.1           =  Breed was developed in Russia and Scandinavia                                             
-fact   Russian Blue - Cat.2           =  Highly intelligent, playful and tranquil; reserved with strangers                         
-       remark                         =  yes                                                                                        
-fact   Russian Blue - Cat.3           =  Develop close bonds with their human companions                                           
-       remark                         =  yes                                                                                        
-fact   Russian Blue - Cat.4           =  Silver-blue coat, thick fur and bright green eyes                                         
+photo  Russian.Blue.-.Cat             =  Russian Blue - Cat                                                                        
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/RussianBlue-Cat.jpg                       
+fact   Russian.Blue.-.Cat.0           =  Also called "Archangel Blue"                                                              
+fact   Russian.Blue.-.Cat.1           =  Breed was developed in Russia and Scandinavia                                             
+fact   Russian.Blue.-.Cat.2           =  Highly intelligent, playful and tranquil; reserved with strangers                         
+       remark                         =  yes                                                                                       
+fact   Russian.Blue.-.Cat.3           =  Develop close bonds with their human companions                                           
+       remark                         =  yes                                                                                       
+fact   Russian.Blue.-.Cat.4           =  Silver-blue coat, thick fur and bright green eyes                                         
        
-photo  Russian Blue - Kitten          =  Russian Blue - Kitten                                                                      
-       url                            =  github://philiprbrenan/Cats/Russian Blue - Kitten.jpg                                      
-fact   Russian Blue - Kitten.0        =  Also called "Archangel Blue"                                                              
-fact   Russian Blue - Kitten.1        =  Breed was developed in Russia and Scandinavia                                             
-fact   Russian Blue - Kitten.2        =  Highly intelligent, playful and tranquil; reserved with strangers                         
-       remark                         =  yes                                                                                        
-fact   Russian Blue - Kitten.3        =  Develop close bonds with their human companions                                           
-       remark                         =  yes                                                                                        
-fact   Russian Blue - Kitten.4        =  Silver-blue coat, thick fur and bright green eyes                                         
+photo  Russian.Blue.-.Kitten          =  Russian Blue - Kitten                                                                     
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/RussianBlue-Kitten.jpg                    
+fact   Russian.Blue.-.Kitten.0        =  Also called "Archangel Blue"                                                              
+fact   Russian.Blue.-.Kitten.1        =  Breed was developed in Russia and Scandinavia                                             
+fact   Russian.Blue.-.Kitten.2        =  Highly intelligent, playful and tranquil; reserved with strangers                         
+       remark                         =  yes                                                                                       
+fact   Russian.Blue.-.Kitten.3        =  Develop close bonds with their human companions                                           
+       remark                         =  yes                                                                                       
+fact   Russian.Blue.-.Kitten.4        =  Silver-blue coat, thick fur and bright green eyes                                         
        
-photo  Savannah - Cat                 =  Savannah - Cat                                                                             
-       url                            =  github://philiprbrenan/Cats/Savannah - Cat.jpg                                             
-fact   Savannah - Cat.0               =  Hybrid breed of domestic cat                                                              
-       remark                         =  yes                                                                                        
-fact   Savannah - Cat.1               =  A cross between a domestic cat and a Serval (wild African cat)                            
-fact   Savannah - Cat.2               =  Much more social than typical domestic cats                                               
-       remark                         =  yes                                                                                        
-fact   Savannah - Cat.3               =  Often compared to dogs in their loyalty                                                   
-fact   Savannah - Cat.4               =  Can be trained to walk on a leash                                                         
+photo  Savannah.-.Cat                 =  Savannah - Cat                                                                            
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Savannah-Cat.jpg                          
+fact   Savannah.-.Cat.0               =  Hybrid breed of domestic cat                                                              
+       remark                         =  yes                                                                                       
+fact   Savannah.-.Cat.1               =  A cross between a domestic cat and a Serval (wild African cat)                            
+fact   Savannah.-.Cat.2               =  Much more social than typical domestic cats                                               
+       remark                         =  yes                                                                                       
+fact   Savannah.-.Cat.3               =  Often compared to dogs in their loyalty                                                   
+fact   Savannah.-.Cat.4               =  Can be trained to walk on a leash                                                         
        
-photo  Savannah - Kitten              =  Savannah - Kitten                                                                          
-       url                            =  github://philiprbrenan/Cats/Savannah - Kitten.jpg                                          
-fact   Savannah - Kitten.0            =  Hybrid breed of domestic cat                                                              
-       remark                         =  yes                                                                                        
-fact   Savannah - Kitten.1            =  A cross between a domestic cat and a Serval (wild African cat)                            
-fact   Savannah - Kitten.2            =  Much more social than typical domestic cats                                               
-       remark                         =  yes                                                                                        
-fact   Savannah - Kitten.3            =  Often compared to dogs in their loyalty                                                   
-fact   Savannah - Kitten.4            =  Can be trained to walk on a leash                                                         
+photo  Savannah.-.Kitten              =  Savannah - Kitten                                                                         
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Savannah-Kitten.jpg                       
+fact   Savannah.-.Kitten.0            =  Hybrid breed of domestic cat                                                              
+       remark                         =  yes                                                                                       
+fact   Savannah.-.Kitten.1            =  A cross between a domestic cat and a Serval (wild African cat)                            
+fact   Savannah.-.Kitten.2            =  Much more social than typical domestic cats                                               
+       remark                         =  yes                                                                                       
+fact   Savannah.-.Kitten.3            =  Often compared to dogs in their loyalty                                                   
+fact   Savannah.-.Kitten.4            =  Can be trained to walk on a leash                                                         
        
-photo  Siamese - Cat                  =  Siamese - Cat                                                                              
-       url                            =  github://philiprbrenan/Cats/Siamese - Cat.jpg                                              
-fact   Siamese - Cat.0                =  Slim and athletic breed of Oriental cat                                                   
-fact   Siamese - Cat.1                =  Originated in Thailand (formerly Siam)                                                    
-fact   Siamese - Cat.2                =  Often yowl in a loud voice, having a conversation with their owners                       
-       remark                         =  yes                                                                                        
-fact   Siamese - Cat.3                =  One of the most popular breeds in Europe and North America                                
-       remark                         =  yes                                                                                        
-fact   Siamese - Cat.4                =  Intelligent, affectionate, playful and sociable                                           
-       remark                         =  yes                                                                                        
+photo  Siamese.-.Cat                  =  Siamese - Cat                                                                             
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Siamese-Cat.jpg                           
+fact   Siamese.-.Cat.0                =  Slim and athletic breed of Oriental cat                                                   
+fact   Siamese.-.Cat.1                =  Originated in Thailand (formerly Siam)                                                    
+fact   Siamese.-.Cat.2                =  Often yowl in a loud voice, having a conversation with their owners                       
+       remark                         =  yes                                                                                       
+fact   Siamese.-.Cat.3                =  One of the most popular breeds in Europe and North America                                
+       remark                         =  yes                                                                                       
+fact   Siamese.-.Cat.4                =  Intelligent, affectionate, playful and sociable                                           
+       remark                         =  yes                                                                                       
        
-photo  Siamese - Kitten               =  Siamese - Kitten                                                                           
-       url                            =  github://philiprbrenan/Cats/Siamese - Kitten.jpg                                           
-fact   Siamese - Kitten.0             =  Slim and athletic breed of Oriental cat                                                   
-fact   Siamese - Kitten.1             =  Originated in Thailand (formerly Siam)                                                    
-fact   Siamese - Kitten.2             =  Often yowl in a loud voice, having a conversation with their owners                       
-       remark                         =  yes                                                                                        
-fact   Siamese - Kitten.3             =  One of the most popular breeds in Europe and North America                                
-       remark                         =  yes                                                                                        
-fact   Siamese - Kitten.4             =  Intelligent, affectionate, playful and sociable                                           
-       remark                         =  yes                                                                                        
+photo  Siamese.-.Kitten               =  Siamese - Kitten                                                                          
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Siamese-Kitten.jpg                        
+fact   Siamese.-.Kitten.0             =  Slim and athletic breed of Oriental cat                                                   
+fact   Siamese.-.Kitten.1             =  Originated in Thailand (formerly Siam)                                                    
+fact   Siamese.-.Kitten.2             =  Often yowl in a loud voice, having a conversation with their owners                       
+       remark                         =  yes                                                                                       
+fact   Siamese.-.Kitten.3             =  One of the most popular breeds in Europe and North America                                
+       remark                         =  yes                                                                                       
+fact   Siamese.-.Kitten.4             =  Intelligent, affectionate, playful and sociable                                           
+       remark                         =  yes                                                                                       
        
-photo  Siberian - Cat                 =  Siberian - Cat                                                                             
-       url                            =  github://philiprbrenan/Cats/Siberian - Cat.jpg                                             
-fact   Siberian - Cat.0               =  Also called the "Siberian Forest Cat"                                                     
-fact   Siberian - Cat.1               =  The national cat of Russia                                                                
-fact   Siberian - Cat.2               =  Adapted to a very cold climate                                                            
-fact   Siberian - Cat.3               =  Believed to be ancestral to all modern long-haired cats                                   
-fact   Siberian - Cat.4               =  Closely related to the Norwegian Forest Cat                                               
-fact   Siberian - Cat.5               =  Strong, powerfully built and an agile jumper                                              
-       remark                         =  yes                                                                                        
-fact   Siberian - Cat.6               =  Thick, glossy coat in a variety of colours                                                
-       remark                         =  yes                                                                                        
+photo  Siberian.-.Cat                 =  Siberian - Cat                                                                            
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Siberian-Cat.jpg                          
+fact   Siberian.-.Cat.0               =  Also called the "Siberian Forest Cat"                                                     
+fact   Siberian.-.Cat.1               =  The national cat of Russia                                                                
+fact   Siberian.-.Cat.2               =  Adapted to a very cold climate                                                            
+fact   Siberian.-.Cat.3               =  Believed to be ancestral to all modern long-haired cats                                   
+fact   Siberian.-.Cat.4               =  Closely related to the Norwegian Forest Cat                                               
+fact   Siberian.-.Cat.5               =  Strong, powerfully built and an agile jumper                                              
+       remark                         =  yes                                                                                       
+fact   Siberian.-.Cat.6               =  Thick, glossy coat in a variety of colours                                                
+       remark                         =  yes                                                                                       
        
-photo  Siberian - Kitten              =  Siberian - Kitten                                                                          
-       url                            =  github://philiprbrenan/Cats/Siberian - Kitten.jpg                                          
-fact   Siberian - Kitten.0            =  Also called the "Siberian Forest Cat"                                                     
-fact   Siberian - Kitten.1            =  The national cat of Russia                                                                
-fact   Siberian - Kitten.2            =  Adapted to a very cold climate                                                            
-fact   Siberian - Kitten.3            =  Believed to be ancestral to all modern long-haired cats                                   
-fact   Siberian - Kitten.4            =  Closely related to the Norwegian Forest Cat                                               
-fact   Siberian - Kitten.5            =  Strong, powerfully built and an agile jumper                                              
-       remark                         =  yes                                                                                        
-fact   Siberian - Kitten.6            =  Thick, glossy coat in a variety of colours                                                
-       remark                         =  yes                                                                                        
+photo  Siberian.-.Kitten              =  Siberian - Kitten                                                                         
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Siberian-Kitten.jpg                       
+fact   Siberian.-.Kitten.0            =  Also called the "Siberian Forest Cat"                                                     
+fact   Siberian.-.Kitten.1            =  The national cat of Russia                                                                
+fact   Siberian.-.Kitten.2            =  Adapted to a very cold climate                                                            
+fact   Siberian.-.Kitten.3            =  Believed to be ancestral to all modern long-haired cats                                   
+fact   Siberian.-.Kitten.4            =  Closely related to the Norwegian Forest Cat                                               
+fact   Siberian.-.Kitten.5            =  Strong, powerfully built and an agile jumper                                              
+       remark                         =  yes                                                                                       
+fact   Siberian.-.Kitten.6            =  Thick, glossy coat in a variety of colours                                                
+       remark                         =  yes                                                                                       
        
-photo  Somali - Cat                   =  Somali - Cat                                                                               
-       url                            =  github://philiprbrenan/Cats/Somali - Cat.jpg                                               
-fact   Somali - Cat.0                 =  A breed created from long-haired Abyssinian cats                                          
-fact   Somali - Cat.1                 =  Abyssinians and Somalis share similar personalities                                       
-       remark                         =  yes                                                                                        
-fact   Somali - Cat.2                 =  Intelligent, playful, curious and more relaxed than Abyssinians                           
-       remark                         =  yes                                                                                        
-fact   Somali - Cat.3                 =  Also called the "fox cat" because of its bushy tail and large ears                        
-fact   Somali - Cat.4                 =  Coat comes in 28 different colours                                                        
-       remark                         =  yes                                                                                        
+photo  Somali.-.Cat                   =  Somali - Cat                                                                              
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Somali-Cat.jpg                            
+fact   Somali.-.Cat.0                 =  A breed created from long-haired Abyssinian cats                                          
+fact   Somali.-.Cat.1                 =  Abyssinians and Somalis share similar personalities                                       
+       remark                         =  yes                                                                                       
+fact   Somali.-.Cat.2                 =  Intelligent, playful, curious and more relaxed than Abyssinians                           
+       remark                         =  yes                                                                                       
+fact   Somali.-.Cat.3                 =  Also called the "fox cat" because of its bushy tail and large ears                        
+fact   Somali.-.Cat.4                 =  Coat comes in 28 different colours                                                        
+       remark                         =  yes                                                                                       
        
-photo  Somali - Kitten                =  Somali - Kitten                                                                            
-       url                            =  github://philiprbrenan/Cats/Somali - Kitten.jpg                                            
-fact   Somali - Kitten.0              =  A breed created from long-haired Abyssinian cats                                          
-fact   Somali - Kitten.1              =  Abyssinians and Somalis share similar personalities                                       
-       remark                         =  yes                                                                                        
-fact   Somali - Kitten.2              =  Intelligent, playful, curious and more relaxed than Abyssinians                           
-       remark                         =  yes                                                                                        
-fact   Somali - Kitten.3              =  Also called the "fox cat" because of its bushy tail and large ears                        
-fact   Somali - Kitten.4              =  Coat comes in 28 different colours                                                        
-       remark                         =  yes                                                                                        
+photo  Somali.-.Kitten                =  Somali - Kitten                                                                           
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Somali-Kitten.jpg                         
+fact   Somali.-.Kitten.0              =  A breed created from long-haired Abyssinian cats                                          
+fact   Somali.-.Kitten.1              =  Abyssinians and Somalis share similar personalities                                       
+       remark                         =  yes                                                                                       
+fact   Somali.-.Kitten.2              =  Intelligent, playful, curious and more relaxed than Abyssinians                           
+       remark                         =  yes                                                                                       
+fact   Somali.-.Kitten.3              =  Also called the "fox cat" because of its bushy tail and large ears                        
+fact   Somali.-.Kitten.4              =  Coat comes in 28 different colours                                                        
+       remark                         =  yes                                                                                       
        
-photo  Sphynx - Cat                   =  Sphynx - Cat                                                                               
-       url                            =  github://philiprbrenan/Cats/Sphynx - Cat.jpg                                               
-fact   Sphynx - Cat.0                 =  Rare breed of cat known for its lack of a coat                                            
-fact   Sphynx - Cat.1                 =  Has very fine hair that lies very close to its body                                       
-fact   Sphynx - Cat.2                 =  Skin texture resembles that of chamois leather                                            
-fact   Sphynx - Cat.3                 =  Wedge-shaped heads and sturdy, heavy bodies                                               
-       remark                         =  yes                                                                                        
-fact   Sphynx - Cat.4                 =  Loyal and loving pets                                                                     
-       remark                         =  yes                                                                                        
+photo  Sphynx.-.Cat                   =  Sphynx - Cat                                                                              
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Sphynx-Cat.jpg                            
+fact   Sphynx.-.Cat.0                 =  Rare breed of cat known for its lack of a coat                                            
+fact   Sphynx.-.Cat.1                 =  Has very fine hair that lies very close to its body                                       
+fact   Sphynx.-.Cat.2                 =  Skin texture resembles that of chamois leather                                            
+fact   Sphynx.-.Cat.3                 =  Wedge-shaped heads and sturdy, heavy bodies                                               
+       remark                         =  yes                                                                                       
+fact   Sphynx.-.Cat.4                 =  Loyal and loving pets                                                                     
+       remark                         =  yes                                                                                       
        
-photo  Sphynx - Kitten                =  Sphynx - Kitten                                                                            
-       url                            =  github://philiprbrenan/Cats/Sphynx - Kitten.jpg                                            
-fact   Sphynx - Kitten.0              =  Rare breed of cat known for its lack of a coat                                            
-fact   Sphynx - Kitten.1              =  Has very fine hair that lies very close to its body                                       
-fact   Sphynx - Kitten.2              =  Skin texture resembles that of chamois leather                                            
-fact   Sphynx - Kitten.3              =  Wedge-shaped heads and sturdy, heavy bodies                                               
-       remark                         =  yes                                                                                        
-fact   Sphynx - Kitten.4              =  Loyal and loving pets                                                                     
-       remark                         =  yes                                                                                        
+photo  Sphynx.-.Kitten                =  Sphynx - Kitten                                                                           
+       url                            =  github://philiprbrenan/vocabulary-2/images/Cats/Sphynx-Kitten.jpg                         
+fact   Sphynx.-.Kitten.0              =  Rare breed of cat known for its lack of a coat                                            
+fact   Sphynx.-.Kitten.1              =  Has very fine hair that lies very close to its body                                       
+fact   Sphynx.-.Kitten.2              =  Skin texture resembles that of chamois leather                                            
+fact   Sphynx.-.Kitten.3              =  Wedge-shaped heads and sturdy, heavy bodies                                               
+       remark                         =  yes                                                                                       
+fact   Sphynx.-.Kitten.4              =  Loyal and loving pets                                                                     
+       remark                         =  yes                                                                                       
