@@ -1,0 +1,8 @@
+app g.MonthsOfTheYearInGerman   = Months of the Year in German
+  description  = Learn about Months of the Year in German in English
+  icon         = October.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+
