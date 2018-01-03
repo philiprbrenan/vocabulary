@@ -6,152 +6,152 @@ app g.Buildings   = Town and Country Buildings
   speakers     = Amy
 
        
-photo  Alpine chalet          =                                                              
-       url                    =  github://philiprbrenan/Buildings/Alpine chalet.jpg          
+photo  Alpine.chalet          =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Alpinechalet.jpg         
        
-photo  Bandstand              =                                                              
-       url                    =  github://philiprbrenan/Buildings/Bandstand.jpg              
+photo  Bandstand              =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Bandstand.jpg            
        
-photo  Bank                   =                                                              
-       url                    =  github://philiprbrenan/Buildings/Bank.jpg                   
+photo  Bank                   =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Bank.jpg                 
        
-photo  Beach huts             =                                                              
-       url                    =  github://philiprbrenan/Buildings/Beach huts.jpg             
+photo  Beach.huts             =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Beachhuts.jpg            
        
-photo  Block of flats         =                                                              
-       url                    =  github://philiprbrenan/Buildings/Block of flats.jpg         
+photo  Block.of.flats         =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Blockofflats.jpg         
        
-photo  Butanese farmhouse     =                                                              
-       url                    =  github://philiprbrenan/Buildings/Butanese farmhouse.jpg     
+photo  Butanese.farmhouse     =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Butanesefarmhouse.jpg    
        
-photo  Cablecar station       =                                                              
-       url                    =  github://philiprbrenan/Buildings/Cablecar station.jpg       
+photo  Cablecar.station       =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Cablecarstation.jpg      
        
-photo  Castle                 =                                                              
-       url                    =  github://philiprbrenan/Buildings/Castle.jpg                 
+photo  Castle                 =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Castle.jpg               
        
-photo  Cathedral              =                                                              
-       url                    =  github://philiprbrenan/Buildings/Cathedral.jpg              
+photo  Cathedral              =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Cathedral.jpg            
        
-photo  Chapel                 =                                                              
-       url                    =  github://philiprbrenan/Buildings/Chapel.jpg                 
+photo  Chapel                 =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Chapel.jpg               
        
-photo  Church                 =                                                              
-       url                    =  github://philiprbrenan/Buildings/Church.jpg                 
+photo  Church                 =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Church.jpg               
        
-photo  Cinema                 =                                                              
-       url                    =  github://philiprbrenan/Buildings/Cinema.jpg                 
+photo  Cinema                 =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Cinema.jpg               
        
-photo  Country house          =                                                              
-       url                    =  github://philiprbrenan/Buildings/Country house.jpg          
+photo  Country.house          =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Countryhouse.jpg         
        
-photo  Detached house         =                                                              
-       url                    =  github://philiprbrenan/Buildings/Detached house.jpg         
+photo  Detached.house         =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Detachedhouse.jpg        
        
-photo  English pub            =                                                              
-       url                    =  github://philiprbrenan/Buildings/English pub.jpg            
+photo  English.pub            =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Englishpub.jpg           
        
-photo  Factory                =                                                              
-       url                    =  github://philiprbrenan/Buildings/Factory.jpg                
+photo  Factory                =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Factory.jpg              
        
-photo  Farm                   =                                                              
-       url                    =  github://philiprbrenan/Buildings/Farm.jpg                   
+photo  Farm                   =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Farm.jpg                 
        
-photo  Fire Station           =                                                              
-       url                    =  github://philiprbrenan/Buildings/Fire Station.jpg           
+photo  Fire.Station           =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/FireStation.jpg          
        
-photo  Football stadium       =                                                              
-       url                    =  github://philiprbrenan/Buildings/Football stadium.jpg       
+photo  Football.stadium       =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Footballstadium.jpg      
        
-photo  Half-timbered house    =                                                              
-       url                    =  github://philiprbrenan/Buildings/Half-timbered house.jpg    
+photo  Half-timbered.house    =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Half-timberedhouse.jpg   
        
-photo  Hospital               =                                                              
-       url                    =  github://philiprbrenan/Buildings/Hospital.jpg               
+photo  Hospital               =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Hospital.jpg             
        
-photo  Hotel                  =                                                              
-       url                    =  github://philiprbrenan/Buildings/Hotel.jpg                  
+photo  Hotel                  =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Hotel.jpg                
        
-photo  Indoor Market          =                                                              
-       url                    =  github://philiprbrenan/Buildings/Indoor Market.jpg          
+photo  Indoor.Market          =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/IndoorMarket.jpg         
        
-photo  Library                =                                                              
-       url                    =  github://philiprbrenan/Buildings/Library.jpg                
+photo  Library                =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Library.jpg              
        
-photo  Lighthouse             =                                                              
-       url                    =  github://philiprbrenan/Buildings/Lighthouse.jpg             
+photo  Lighthouse             =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Lighthouse.jpg           
        
-photo  Monastery              =                                                              
-       url                    =  github://philiprbrenan/Buildings/Monastery.jpg              
+photo  Monastery              =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Monastery.jpg            
        
-photo  Mosque                 =                                                              
-       url                    =  github://philiprbrenan/Buildings/Mosque.jpg                 
+photo  Mosque                 =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Mosque.jpg               
        
-photo  Mountain hut           =                                                              
-       url                    =  github://philiprbrenan/Buildings/Mountain hut.jpg           
+photo  Mountain.hut           =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Mountainhut.jpg          
        
-photo  Museum                 =                                                              
-       url                    =  github://philiprbrenan/Buildings/Museum.jpg                 
+photo  Museum                 =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Museum.jpg               
        
-photo  Nuclear Power Station  =                                                              
-       url                    =  github://philiprbrenan/Buildings/Nuclear Power Station.jpg  
+photo  Nuclear.Power.Station  =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/NuclearPowerStation.jpg  
        
-photo  Petrol station         =                                                              
-       url                    =  github://philiprbrenan/Buildings/Petrol station.jpg         
+photo  Petrol.station         =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Petrolstation.jpg        
        
-photo  Pier                   =                                                              
-       url                    =  github://philiprbrenan/Buildings/Pier.jpg                   
+photo  Pier                   =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Pier.jpg                 
        
-photo  Police Station         =                                                              
-       url                    =  github://philiprbrenan/Buildings/Police Station.jpg         
+photo  Police.Station         =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/PoliceStation.jpg        
        
-photo  Railway station        =                                                              
-       url                    =  github://philiprbrenan/Buildings/Railway station.jpg        
+photo  Railway.station        =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Railwaystation.jpg       
        
-photo  Ruined church          =                                                              
-       url                    =  github://philiprbrenan/Buildings/Ruined church.jpg          
+photo  Ruined.church          =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Ruinedchurch.jpg         
        
-photo  School                 =                                                              
-       url                    =  github://philiprbrenan/Buildings/School.jpg                 
+photo  School                 =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/School.jpg               
        
-photo  Semi-detached house    =                                                              
-       url                    =  github://philiprbrenan/Buildings/Semi-detached house.jpg    
+photo  Semi-detached.house    =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Semi-detachedhouse.jpg   
        
-photo  Shepherd's hut         =                                                              
-       url                    =  github://philiprbrenan/Buildings/Shepherd's hut.jpg         
+photo  Shepherd's.hut         =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Shepherd'shut.jpg        
        
-photo  Shopping Mall          =                                                              
-       url                    =  github://philiprbrenan/Buildings/Shopping Mall.jpg          
+photo  Shopping.Mall          =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/ShoppingMall.jpg         
        
-photo  Skyscraper             =                                                              
-       url                    =  github://philiprbrenan/Buildings/Skyscraper.jpg             
+photo  Skyscraper             =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Skyscraper.jpg           
        
-photo  Stately Home           =                                                              
-       url                    =  github://philiprbrenan/Buildings/Stately Home.jpg           
+photo  Stately.Home           =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/StatelyHome.jpg          
        
-photo  Static caravan         =                                                              
-       url                    =  github://philiprbrenan/Buildings/Static caravan.jpg         
+photo  Static.caravan         =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Staticcaravan.jpg        
        
-photo  Storage Warehouse      =                                                              
-       url                    =  github://philiprbrenan/Buildings/Storage Warehouse.jpg      
+photo  Storage.Warehouse      =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/StorageWarehouse.jpg     
        
-photo  Terrace                =                                                              
-       url                    =  github://philiprbrenan/Buildings/Terrace.jpg                
+photo  Terrace                =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Terrace.jpg              
        
-photo  Thatched cottage       =                                                              
-       url                    =  github://philiprbrenan/Buildings/Thatched cottage.jpg       
+photo  Thatched.cottage       =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Thatchedcottage.jpg      
        
-photo  Theatre                =                                                              
-       url                    =  github://philiprbrenan/Buildings/Theatre.jpg                
+photo  Theatre                =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Theatre.jpg              
        
-photo  Triumphal arch         =                                                              
-       url                    =  github://philiprbrenan/Buildings/Triumphal arch.jpg         
+photo  Triumphal.arch         =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Triumphalarch.jpg        
        
-photo  Victorian parade       =                                                              
-       url                    =  github://philiprbrenan/Buildings/Victorian parade.jpg       
+photo  Victorian.parade       =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Victorianparade.jpg      
        
-photo  Windmill               =                                                              
-       url                    =  github://philiprbrenan/Buildings/Windmill.jpg               
+photo  Windmill               =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Windmill.jpg             
        
-photo  Wooden house           =                                                              
-       url                    =  github://philiprbrenan/Buildings/Wooden house.jpg           
+photo  Wooden.house           =                                                                                
+       url                    =  github://philiprbrenan/vocabulary-2/images/Buildings/Woodenhouse.jpg          
