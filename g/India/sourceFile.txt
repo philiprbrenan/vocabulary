@@ -1,0 +1,315 @@
+app g.India   = India
+  description  = Learn about India in English
+  icon         = Taj_Mahal_4.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Akshardham_2                                        =  Akshardham                                                                                                
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Akshardham_2.jpg                                         
+fact   Akshardham_2.0                                      =  Ornately hand-carved stone temple                                                                         
+       remark                                              =  yes                                                                                                       
+fact   Akshardham_2.1                                      =  Constructed without structural steel                                                                      
+       remark                                              =  yes                                                                                                       
+fact   Akshardham_2.2                                      =  Constructed in five years by 7 thousand artisans and 3 thousand volunteers                                
+       remark                                              =  yes                                                                                                       
+       
+photo  Amritsar_Golden_Temple_1                            =  Golden Temple                                                                                             
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Amritsar_Golden_Temple_1.jpg                             
+fact   Amritsar_Golden_Temple_1.0                          =  Supreme centre of Sikhism, completed in 1604                                                              
+fact   Amritsar_Golden_Temple_1.1                          =  Upper floors covered with gold                                                                            
+fact   Amritsar_Golden_Temple_1.2                          =  Surrounded by a large lake known as the Sarovar, containing Amrit or Nectar of Immortality                
+fact   Amritsar_Golden_Temple_1.3                          =  Intended as a place of worship for people of all religions                                                
+       remark                                              =  yes                                                                                                       
+       
+photo  Bibi_ka_Maqbara_1                                   =  Bibi Ka Maqbara                                                                                           
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Bibi_ka_Maqbara_1.jpg                                    
+fact   Bibi_ka_Maqbara_1.0                                 =  Took 10 years to build, from 1651 and 1661                                                                
+fact   Bibi_ka_Maqbara_1.1                                 =  Designed by the son of the designer of the Taj Mahal                                                      
+fact   Bibi_ka_Maqbara_1.2                                 =  Mausoleum built by the Mughal Emperor Aurangzeb for his wife, Dilras Banu Begum                           
+fact   Bibi_ka_Maqbara_1.3                                 =  Intended to rival the Taj Mahal                                                                           
+       remark                                              =  yes                                                                                                       
+       
+photo  Buland_Darwaza_gate_1                               =  Buland Darwaza                                                                                            
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Buland_Darwaza_gate_1.jpg                                
+fact   Buland_Darwaza_gate_1.0                             =  Built by the Mughal emperor Akbar in 1601 AD                                                              
+       
+photo  Charminar-Pride_of_Hyderabad                        =  Charminar                                                                                                 
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Charminar-Pride_of_Hyderabad.jpg                         
+fact   Charminar-Pride_of_Hyderabad.0                      =  Mosque located at the center of the city of Hyderabad                                                     
+fact   Charminar-Pride_of_Hyderabad.1                      =  Name means four towers in Urdu                                                                            
+fact   Charminar-Pride_of_Hyderabad.2                      =  First structure to be constructed in Hyderabad.                                                           
+fact   Charminar-Pride_of_Hyderabad.3                      =  Built in 1591 to celebrate the start of the second Islamic millennium                                     
+       remark                                              =  yes                                                                                                       
+       
+photo  Chhatrapati_Shivaji_Terminus_(Victoria_Terminus)    =  Chhatrapati Shivaji Terminus                                                                              
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).jpg     
+fact   Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).0  =  Railway station located in Mumbai                                                                         
+fact   Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).1  =  First passenger train in India departed from here in 1853                                                 
+fact   Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).2  =  Busiest railway station in India                                                                          
+fact   Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).3  =  Scene of Slumdog Millionaire                                                                              
+       remark                                              =  yes                                                                                                       
+fact   Chhatrapati_Shivaji_Terminus_(Victoria_Terminus).4  =  Resembles St Pancras Station in London                                                                    
+       remark                                              =  yes                                                                                                       
+       
+photo  City_Palace_1                                       =  City Palace                                                                                               
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/City_Palace_1.jpg                                        
+fact   City_Palace_1.0                                     =  Lies at the centre of the city of Jaipur                                                                  
+fact   City_Palace_1.1                                     =  The seat of the Maharaja of Jaipur                                                                        
+       
+photo  Coochbihar_Palace_1                                 =  Cooch Behar Palace                                                                                        
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Coochbihar_Palace_1.jpg                                  
+fact   Coochbihar_Palace_1.0                               =  Modelled on Buckingham Palace in London                                                                   
+       remark                                              =  yes                                                                                                       
+       
+photo  Dakshineswar_Kali_Temple_1                          =  Dakshineswar Kali Temple                                                                                  
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Dakshineswar_Kali_Temple_1.jpg                           
+fact   Dakshineswar_Kali_Temple_1.0                        =  She who liberates her devotees from the ocean of existence                                                
+fact   Dakshineswar_Kali_Temple_1.1                        =  Temple to Kali built on the the Hooghly River in West Bengal                                              
+       
+photo  Dudhsagar_Falls_Triplet                             =  Dudhsagar Falls                                                                                           
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Dudhsagar_Falls_Triplet.jpg                              
+fact   Dudhsagar_Falls_Triplet.0                           =  Named from the Hindi word for milk.                                                                       
+fact   Dudhsagar_Falls_Triplet.1                           =  India's fifth highest waterfall                                                                           
+fact   Dudhsagar_Falls_Triplet.2                           =  310 metres high                                                                                           
+       remark                                              =  yes                                                                                                       
+       
+photo  Gateway_of_India_1                                  =  Gateway of India                                                                                          
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Gateway_of_India_1.jpg                                   
+fact   Gateway_of_India_1.0                                =  The Taj Mahal of Mumbai                                                                                   
+       remark                                              =  yes                                                                                                       
+fact   Gateway_of_India_1.1                                =  Mumbai's top tourist attraction                                                                           
+fact   Gateway_of_India_1.2                                =  Erected by British to commemorate the arrival of King George the Fifth in 1911                            
+fact   Gateway_of_India_1.3                                =  The place where viceroys and governors used to land upon their arrival in India                           
+       
+photo  GolGumbaz                                           =  Gol Gumbaz,                                                                                               
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/GolGumbaz.jpg                                            
+fact   GolGumbaz.0                                         =  Mausoleum of Mohammed Adil Shah, Sultan of Bijapur.                                                       
+fact   GolGumbaz.1                                         =  The structural triumph of Deccan architecture                                                             
+fact   GolGumbaz.2                                         =  A single loud clap is distinctly echoed over ten times inside the dome                                    
+       
+photo  Howrah_Bridge,_1                                    =  Howrah Bridge                                                                                             
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Howrah_Bridge,_1.jpg                                     
+fact   Howrah_Bridge,_1.0                                  =  Balanced cantilever suspension bridge over the Hooghly River in West Bengal                               
+fact   Howrah_Bridge,_1.1                                  =  Links the city Howrah to Kolkata                                                                          
+fact   Howrah_Bridge,_1.2                                  =  Iconic symbol of Kolkata seen in numerous Indian films                                                    
+fact   Howrah_Bridge,_1.3                                  =  Crossed by more than a quarter of a million people every day                                              
+       
+photo  Humayun_tomb_2                                      =  Humayun's tomb                                                                                            
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Humayun_tomb_2.jpg                                       
+fact   Humayun_tomb_2.0                                    =  Tomb of the Mughal Emperor Humayun                                                                        
+fact   Humayun_tomb_2.1                                    =  Commissioned by Humayun's first wife Bega Begum                                                           
+fact   Humayun_tomb_2.2                                    =  First garden-tomb on the Indian subcontinent                                                              
+fact   Humayun_tomb_2.3                                    =  Completed in 1572                                                                                         
+       remark                                              =  yes                                                                                                       
+       
+photo  India_Gate_3                                        =  India Gate                                                                                                
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/India_Gate_3.jpg                                         
+fact   India_Gate_3.0                                      =  National monument of India                                                                                
+fact   India_Gate_3.1                                      =  Situated in the heart of New Delhi                                                                        
+fact   India_Gate_3.2                                      =  Site of the Indian Army's Tomb of the Unknown Soldier                                                     
+fact   India_Gate_3.3                                      =  Inspired by the Arc de Triomphe in Paris                                                                  
+       
+photo  Jai_Vilas_Palace_3                                  =  The Jai Vilas Mahal                                                                                       
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Jai_Vilas_Palace_3.jpg                                   
+fact   Jai_Vilas_Palace_3.0                                =  Built by Scindia, the Maharaja of Gwalior                                                                 
+fact   Jai_Vilas_Palace_3.1                                =  Museum contains swords worn by the Mughal monarchs: Aurangzeb and Shah Jahan                              
+fact   Jai_Vilas_Palace_3.2                                =  Remains the residence of the Scindias, the former royal Maratha family                                    
+       
+photo  Jaipur,_Hawa_Mahal                                  =  Hawa Mahal                                                                                                
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Jaipur,_Hawa_Mahal.jpg                                   
+fact   Jaipur,_Hawa_Mahal.0                                =  Palace of the Breeze                                                                                      
+fact   Jaipur,_Hawa_Mahal.1                                =  953 small windows decorated with intricate latticework.                                                   
+fact   Jaipur,_Hawa_Mahal.2                                =  Allowed royal ladies to observe everyday life without being seen                                          
+       remark                                              =  yes                                                                                                       
+fact   Jaipur,_Hawa_Mahal.3                                =  Best viewed early in the morning, lit by the golden light of sunrise                                      
+       remark                                              =  yes                                                                                                       
+       
+photo  Khajjiar                                            =  Khajjiar                                                                                                  
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Khajjiar.jpg                                             
+fact   Khajjiar.0                                          =  Mini Switzerland of India                                                                                 
+fact   Khajjiar.1                                          =  Swiss capital Bern is 6194 kilometres away                                                                
+       remark                                              =  yes                                                                                                       
+       
+photo  Khajuraho4                                          =  Khajuraho Group of Monuments                                                                              
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Khajuraho4.jpg                                           
+fact   Khajuraho4.0                                        =  Largest group of medieval Hindu and Jain temples                                                          
+fact   Khajuraho4.1                                        =  Famous for their erotic sculptures.                                                                       
+fact   Khajuraho4.2                                        =  Made of sandstone with mortise and tenon joints held in place by gravity                                  
+       remark                                              =  yes                                                                                                       
+       
+photo  Konark_Sun_Temple_3                                 =  Konark Sun Temple                                                                                         
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Konark_Sun_Temple_3.jpg                                  
+fact   Konark_Sun_Temple_3.0                               =  Here the language of stone surpasses the language of man                                                  
+fact   Konark_Sun_Temple_3.1                               =  Entrance is guarded by two giant stone lions, each shown crushing a war elephant                          
+fact   Konark_Sun_Temple_3.2                               =  Between every two stone pieces there lies an iron plate                                                   
+fact   Konark_Sun_Temple_3.3                               =  Constructed from weathered sandstone in the 13th century                                                  
+fact   Konark_Sun_Temple_3.4                               =  Designed in the form of a huge chariot drawn by seven horses on twelve pairs of wheels                    
+fact   Konark_Sun_Temple_3.5                               =  From the Sanskrit words Kona meaning angle and Arka meaning sun                                           
+fact   Konark_Sun_Temple_3.6                               =  Two thousand stone elephants march around the base of the main temple                                     
+       
+photo  Lake_Palace_1                                       =  Lake Palace(Jag Niwas)                                                                                    
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Lake_Palace_1.jpg                                        
+fact   Lake_Palace_1.0                                     =  Luxury hotel with 83 rooms and suites each with white marble walls                                        
+       remark                                              =  yes                                                                                                       
+fact   Lake_Palace_1.1                                     =  Built on 1.6 hectare rock island on Lake Pichola                                                          
+fact   Lake_Palace_1.2                                     =  Originally constructed in 1746 as a royal summer palace                                                   
+       remark                                              =  yes                                                                                                       
+fact   Lake_Palace_1.3                                     =  Voted the most romantic hotel in India                                                                    
+fact   Lake_Palace_1.4                                     =  The Royal Butlers at the hotel are descendants of the original palace retainers                           
+       
+photo  Lotus_Temple1                                       =  Lotus Temple                                                                                              
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Lotus_Temple1.jpg                                        
+fact   Lotus_Temple1.0                                     =  Prominent attraction located in New Delhi                                                                 
+       remark                                              =  yes                                                                                                       
+fact   Lotus_Temple1.1                                     =  House of Worship completed in 1986                                                                        
+       remark                                              =  yes                                                                                                       
+fact   Lotus_Temple1.2                                     =  Notable for its flower like shape                                                                         
+fact   Lotus_Temple1.3                                     =  Mother Temple of the Indian subcontinent                                                                  
+fact   Lotus_Temple1.4                                     =  Winner of numerous architectural awards                                                                   
+       remark                                              =  yes                                                                                                       
+fact   Lotus_Temple1.5                                     =  One of the most visited buildings in the world                                                            
+       
+photo  Mahabodhi_Temple_1                                  =  Mahabodhi Temple                                                                                          
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Mahabodhi_Temple_1.jpg                                   
+fact   Mahabodhi_Temple_1.0                                =  Great Awakening Temple                                                                                    
+fact   Mahabodhi_Temple_1.1                                =  Buddhist temple in Bodh Gaya                                                                              
+fact   Mahabodhi_Temple_1.2                                =  Buddha attained enlightenment here                                                                        
+fact   Mahabodhi_Temple_1.3                                =  One of the oldest brick structures in eastern India.                                                      
+       
+photo  Matrimandir                                         =  Matrimandir                                                                                               
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Matrimandir.jpg                                          
+fact   Matrimandir.0                                       =  Geodesic dome covered by golden discs                                                                     
+       
+photo  Mysore_Palace_1                                     =  Mysore Palace                                                                                             
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Mysore_Palace_1.jpg                                      
+fact   Mysore_Palace_1.0                                   =  Official residence of the royal family of Mysore                                                          
+fact   Mysore_Palace_1.1                                   =  Three storied stone building of gray granite and deep pink marble domes                                   
+fact   Mysore_Palace_1.2                                   =  Palace complex includes twelve Hindu temples                                                              
+       remark                                              =  yes                                                                                                       
+       
+photo  Nalanda_University_India_ruins                      =  Nalanda                                                                                                   
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Nalanda_University_India_ruins.jpg                       
+fact   Nalanda_University_India_ruins.0                    =  Religious center of learning from the fifth to twelfth centuries                                          
+fact   Nalanda_University_India_ruins.1                    =  Students from as far away as Tibet, China, Greece, and Persia                                             
+       remark                                              =  yes                                                                                                       
+fact   Nalanda_University_India_ruins.2                    =  The university library was so vast that burned for three months after invaders set fire to it             
+       
+photo  Nariman_Point_2                                     =  Nariman Point                                                                                             
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Nariman_Point_2.jpg                                      
+fact   Nariman_Point_2.0                                   =  India's first central business district                                                                   
+fact   Nariman_Point_2.1                                   =  15th most expensive central business district in the world.                                               
+       remark                                              =  yes                                                                                                       
+fact   Nariman_Point_2.2                                   =  Manhattan of Mumbai                                                                                       
+       remark                                              =  yes                                                                                                       
+fact   Nariman_Point_2.3                                   =  Built on land reclaimed from the Arabian Sea                                                              
+       remark                                              =  yes                                                                                                       
+       
+photo  Pagoda_2                                            =  Global Vipassana Pagoda                                                                                   
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Pagoda_2.jpg                                             
+fact   Pagoda_2.0                                          =  Contains the world's largest stone dome built without supporting pillars                                  
+fact   Pagoda_2.1                                          =  Interior is hollow and can seat over 8000 people                                                          
+fact   Pagoda_2.2                                          =  World's largest structure containing relics of the Buddha                                                 
+fact   Pagoda_2.3                                          =  Dome is made from blocks of sandstone weighing up to 700 kilogram                                         
+       remark                                              =  yes                                                                                                       
+fact   Pagoda_2.4                                          =  The spire is covered in real gold, while the rest is covered in gold paint                                
+       remark                                              =  yes                                                                                                       
+       
+photo  Palitana_temples_1                                  =  Palitana temples                                                                                          
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Palitana_temples_1.jpg                                   
+fact   Palitana_temples_1.0                                =  863 marble temples built on Mt Shatrunjay                                                                 
+fact   Palitana_temples_1.1                                =  No one is allowed to stay overnight, not even priests                                                     
+       remark                                              =  yes                                                                                                       
+fact   Palitana_temples_1.2                                =  Built over a period of 900 years starting in the 11th century                                             
+       remark                                              =  yes                                                                                                       
+fact   Palitana_temples_1.3                                =  Summit reached by climbing 3,750 stone steps                                                              
+       
+photo  Phiroze_Jeejeebhoy_Towers                           =  Phiroze Jeejeebhoy Towers                                                                                 
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Phiroze_Jeejeebhoy_Towers.jpg                            
+fact   Phiroze_Jeejeebhoy_Towers.0                         =  Owned and occupied by the Bombay Stock Exchange                                                           
+       
+photo  Q_Minar                                             =  Qutub Minar                                                                                               
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Q_Minar.jpg                                              
+fact   Q_Minar.0                                           =  Tallest minaret in India                                                                                  
+fact   Q_Minar.1                                           =  379 steps                                                                                                 
+fact   Q_Minar.2                                           =  Construction was started in 1192                                                                          
+       remark                                              =  yes                                                                                                       
+fact   Q_Minar.3                                           =  Tallest brick minaret in the world                                                                        
+fact   Q_Minar.4                                           =  Slightly tilted due to many additions and renovations made over the years                                 
+       remark                                              =  yes                                                                                                       
+       
+photo  Rajabai_Clock_Tower                                 =  Rajabai Clock Tower                                                                                       
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Rajabai_Clock_Tower.jpg                                  
+fact   Rajabai_Clock_Tower.0                               =  Modeled on Big Ben                                                                                        
+fact   Rajabai_Clock_Tower.1                               =  Paid for by the founder the Bombay Stock Exchange, who named it after his mother                          
+fact   Rajabai_Clock_Tower.2                               =  Located on the Fort campus of the University of Mumbai                                                    
+       
+photo  Rashtrapati_Bhavan_1                                =  Rashtrapati Bhavan                                                                                        
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Rashtrapati_Bhavan_1.jpg                                 
+fact   Rashtrapati_Bhavan_1.0                              =  Official home of the President of India                                                                   
+       
+photo  Red_fort_1                                          =  Red Fort                                                                                                  
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Red_fort_1.jpg                                           
+fact   Red_fort_1.0                                        =  17th-century fort complex constructed by the Mughal emperor, Shah Jahan                                   
+fact   Red_fort_1.1                                        =  Located in the walled city of Delhi                                                                       
+       remark                                              =  yes                                                                                                       
+fact   Red_fort_1.2                                        =  Every year on the 15th of August the Prime Minister hoists the national flag here                         
+fact   Red_fort_1.3                                        =  The original site of the Peacock throne                                                                   
+       
+photo  Sanchi_Stupa_1                                      =  Sanchi                                                                                                    
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Sanchi_Stupa_1.jpg                                       
+fact   Sanchi_Stupa_1.0                                    =  The oldest stone structure in India                                                                       
+fact   Sanchi_Stupa_1.1                                    =  Built by Emperor Ashoka the Great in the 3rd century BC                                                   
+       
+photo  Taj_Mahal_4                                         =  Taj Mahal                                                                                                 
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Taj_Mahal_4.jpg                                          
+fact   Taj_Mahal_4.0                                       =  White marble mausoleum located in Agra, Uttar Pradesh                                                     
+fact   Taj_Mahal_4.1                                       =  Mausoleum built by Mughal emperor Shah Jahan in memory of his wife, Mumtaz Mahal                          
+fact   Taj_Mahal_4.2                                       =  Took 21 years to build, from 1632 and 1653                                                                
+       remark                                              =  yes                                                                                                       
+fact   Taj_Mahal_4.3                                       =  Its builder, Shah Jahan, was deposed by his son Aurangzeb and put under house arrest at nearby Agra Fort  
+       remark                                              =  yes                                                                                                       
+fact   Taj_Mahal_4.4                                       =  Its builder, Shah Jahan, is buried here next to his wife, Mumtaz Mahal.                                   
+       
+photo  Taj_Mahal_Palace_Hotel_1                            =  The Taj Mahal Palace Hotel                                                                                
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Taj_Mahal_Palace_Hotel_1.jpg                             
+fact   Taj_Mahal_Palace_Hotel_1.0                          =  Five star hotel located in Mumbai, next to the Gateway of India                                           
+       remark                                              =  yes                                                                                                       
+fact   Taj_Mahal_Palace_Hotel_1.1                          =  Built in 1903 by Jamsedji Tata after he was refused entry to Watson's Hotel                               
+       remark                                              =  yes                                                                                                       
+fact   Taj_Mahal_Palace_Hotel_1.2                          =  Notable guests include The Beatles and Oprah Winfrey                                                      
+       
+photo  The_Imperial_Towers_2                               =  Imperial Towers                                                                                           
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/The_Imperial_Towers_2.jpg                                
+fact   The_Imperial_Towers_2.0                             =  Twin-tower residential skyscraper complex in Mumbai                                                       
+       remark                                              =  yes                                                                                                       
+fact   The_Imperial_Towers_2.1                             =  Tallest completed buildings in India as of 2010                                                           
+       remark                                              =  yes                                                                                                       
+fact   The_Imperial_Towers_2.2                             =  Model program to rehabilitate slums, now used across India                                                
+       remark                                              =  yes                                                                                                       
+       
+photo  Tso_Moriri_Lake_2                                   =  Tso Moriri Lake                                                                                           
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Tso_Moriri_Lake_2.jpg                                    
+fact   Tso_Moriri_Lake_2.0                                 =  Source of salt for local people until 1959                                                                
+fact   Tso_Moriri_Lake_2.1                                 =  Tsokar means salty lake in local language                                                                 
+       remark                                              =  yes                                                                                                       
+fact   Tso_Moriri_Lake_2.2                                 =  At an altitude of 4,595 metres                                                                            
+fact   Tso_Moriri_Lake_2.3                                 =  Largest high altitude lake in India                                                                       
+       
+photo  UB_city_2                                           =  UB City                                                                                                   
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/UB_city_2.jpg                                            
+fact   UB_city_2.0                                         =  Biggest commercial property project in Bangalore                                                          
+       
+photo  Umaid_Bhawan_Palace_1                               =  Umaid Bhawan Palace                                                                                       
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Umaid_Bhawan_Palace_1.jpg                                
+fact   Umaid_Bhawan_Palace_1.0                             =  One of the world's largest private residences.                                                            
+fact   Umaid_Bhawan_Palace_1.1                             =  Located on Chittar Hill, the highest point in Jodhpur                                                     
+       
+photo  Victoria_Memorial_3                                 =  Victoria Memorial                                                                                         
+       url                                                 =  github://philiprbrenan/vocabulary-8/images/India/Victoria_Memorial_3.jpg                                  
+fact   Victoria_Memorial_3.0                               =  Dedicated to Queen Victoria, Empress of India                                                             
+fact   Victoria_Memorial_3.1                               =  Museum containing memorabilia relating to Queen Victoria and the British presence in India                
+fact   Victoria_Memorial_3.2                               =  Paid for by donations from the people of India                                                            
+       remark                                              =  yes                                                                                                       
+fact   Victoria_Memorial_3.3                               =  26 hectares of gardens maintained by 21 gardeners                                                         
