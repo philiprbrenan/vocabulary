@@ -6,62 +6,62 @@ app g.CountTeddyBearsInEnglish   = Count Teddy Bears 1-20
   speakers     = Amy
 
        
-photo    1  =  One                                                     
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/1.jpg   
+photo    1  =  One                                                                         
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/1.jpg   
        
-photo   10  =  Ten                                                     
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/10.jpg  
+photo   10  =  Ten                                                                         
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/10.jpg  
        
-photo   11  =  Eleven                                                  
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/11.jpg  
+photo   11  =  Eleven                                                                      
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/11.jpg  
        
-photo   12  =  Twelve                                                  
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/12.jpg  
+photo   12  =  Twelve                                                                      
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/12.jpg  
        
-photo   13  =  Thirteen                                                
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/13.jpg  
+photo   13  =  Thirteen                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/13.jpg  
        
-photo   14  =  Fourteen                                                
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/14.jpg  
+photo   14  =  Fourteen                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/14.jpg  
        
-photo   15  =  Fifteen                                                 
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/15.jpg  
+photo   15  =  Fifteen                                                                     
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/15.jpg  
        
-photo   16  =  Sixteen                                                 
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/16.jpg  
+photo   16  =  Sixteen                                                                     
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/16.jpg  
        
-photo   17  =  Seventeen                                               
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/17.jpg  
+photo   17  =  Seventeen                                                                   
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/17.jpg  
        
-photo   18  =  Eighteen                                                
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/18.jpg  
+photo   18  =  Eighteen                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/18.jpg  
        
-photo   19  =  Nineteen                                                
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/19.jpg  
+photo   19  =  Nineteen                                                                    
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/19.jpg  
        
-photo    2  =  Two                                                     
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/2.jpg   
+photo    2  =  Two                                                                         
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/2.jpg   
        
-photo   20  =  Twenty                                                  
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/20.jpg  
+photo   20  =  Twenty                                                                      
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/20.jpg  
        
-photo    3  =  Three                                                   
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/3.jpg   
+photo    3  =  Three                                                                       
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/3.jpg   
        
-photo    4  =  Four                                                    
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/4.jpg   
+photo    4  =  Four                                                                        
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/4.jpg   
        
-photo    5  =  Five                                                    
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/5.jpg   
+photo    5  =  Five                                                                        
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/5.jpg   
        
-photo    6  =  Six                                                     
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/6.jpg   
+photo    6  =  Six                                                                         
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/6.jpg   
        
-photo    7  =  Seven                                                   
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/7.jpg   
+photo    7  =  Seven                                                                       
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/7.jpg   
        
-photo    8  =  Eight                                                   
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/8.jpg   
+photo    8  =  Eight                                                                       
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/8.jpg   
        
-photo    9  =  Nine                                                    
-       url  =  github://philiprbrenan/CountTeddyBearsInEnglish/9.jpg   
+photo    9  =  Nine                                                                        
+       url  =  github://philiprbrenan/vocabulary-4/images/CountTeddyBearsInEnglish/9.jpg   
