@@ -6,334 +6,334 @@ app g.China   = China
   speakers     = Amy
 
        
-photo  Beijing_Ancient_Observatory_1             =  Beijing Ancient Observatory                                                                
-       url                                       =  github://philiprbrenan/China/Beijing_Ancient_Observatory_1.jpg                             
-fact   Beijing_Ancient_Observatory_1.0           =  Bronze astronomical instrument used to measure solar time                                 
-fact   Beijing_Ancient_Observatory_1.1           =  Located on a brick tower on the city wall of Beijing                                      
-fact   Beijing_Ancient_Observatory_1.2           =  One of the oldest observatories in the world                                              
-fact   Beijing_Ancient_Observatory_1.3           =  Stolen instruments were returned by France and Germany after the first World War          
+photo  Beijing_Ancient_Observatory_1             =  Beijing Ancient Observatory                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Beijing_Ancient_Observatory_1.jpg           
+fact   Beijing_Ancient_Observatory_1.0           =  Bronze astronomical instrument used to measure solar time                                    
+fact   Beijing_Ancient_Observatory_1.1           =  Located on a brick tower on the city wall of Beijing                                         
+fact   Beijing_Ancient_Observatory_1.2           =  One of the oldest observatories in the world                                                 
+fact   Beijing_Ancient_Observatory_1.3           =  Stolen instruments were returned by France and Germany after the first World War             
        
-photo  Beijing_National_Stadium_1                =  Beijing National Stadium                                                                   
-       url                                       =  github://philiprbrenan/China/Beijing_National_Stadium_1.jpg                                
-fact   Beijing_National_Stadium_1.0              =  Known as the Bird's Nest                                                                  
-fact   Beijing_National_Stadium_1.1              =  Designed for the 2008 Summer Olympics                                                     
-fact   Beijing_National_Stadium_1.2              =  Located at the Olympic Green                                                              
-fact   Beijing_National_Stadium_1.3              =  Manchester City beat Arsenal 2-0 here.                                                    
+photo  Beijing_National_Stadium_1                =  Beijing National Stadium                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Beijing_National_Stadium_1.jpg              
+fact   Beijing_National_Stadium_1.0              =  Known as the Bird's Nest                                                                     
+fact   Beijing_National_Stadium_1.1              =  Designed for the 2008 Summer Olympics                                                        
+fact   Beijing_National_Stadium_1.2              =  Located at the Olympic Green                                                                 
+fact   Beijing_National_Stadium_1.3              =  Manchester City beat Arsenal 2-0 here.                                                       
        
-photo  Beipanjiang_Railway_Bridge                =  Beipanjiang River Railway Bridge                                                           
-       url                                       =  github://philiprbrenan/China/Beipanjiang_Railway_Bridge.jpg                                
-fact   Beipanjiang_Railway_Bridge.0              =  World's highest railway bridge                                                            
-fact   Beipanjiang_Railway_Bridge.1              =  275 metres high                                                                           
-       remark                                    =  yes                                                                                        
-fact   Beipanjiang_Railway_Bridge.2              =  236 metres wide                                                                           
-       remark                                    =  yes                                                                                        
+photo  Beipanjiang_Railway_Bridge                =  Beipanjiang River Railway Bridge                                                             
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Beipanjiang_Railway_Bridge.jpg              
+fact   Beipanjiang_Railway_Bridge.0              =  World's highest railway bridge                                                               
+fact   Beipanjiang_Railway_Bridge.1              =  275 metres high                                                                              
+       remark                                    =  yes                                                                                          
+fact   Beipanjiang_Railway_Bridge.2              =  236 metres wide                                                                              
+       remark                                    =  yes                                                                                          
        
-photo  Canton_tower_1                            =  Canton Tower                                                                               
-       url                                       =  github://philiprbrenan/China/Canton_tower_1.jpg                                            
-fact   Canton_tower_1.0                          =  Also known as Guangzhou TV Astronomical and Sightseeing Tower                             
-fact   Canton_tower_1.1                          =  600 meter high observation tower                                                          
-fact   Canton_tower_1.2                          =  Briefly held the title of tallest tower in the world                                      
-fact   Canton_tower_1.3                          =  Surpassed by the Tokyo Skytree in 2011                                                    
-fact   Canton_tower_1.4                          =  The tallest structure in China                                                            
+photo  Canton_tower_1                            =  Canton Tower                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Canton_tower_1.jpg                          
+fact   Canton_tower_1.0                          =  Also known as Guangzhou TV Astronomical and Sightseeing Tower                                
+fact   Canton_tower_1.1                          =  600 meter high observation tower                                                             
+fact   Canton_tower_1.2                          =  Briefly held the title of tallest tower in the world                                         
+fact   Canton_tower_1.3                          =  Surpassed by the Tokyo Skytree in 2011                                                       
+fact   Canton_tower_1.4                          =  The tallest structure in China                                                               
        
-photo  Cenotaph_Hong_Kong_1                      =  The Cenotaph                                                                               
-       url                                       =  github://philiprbrenan/China/Cenotaph_Hong_Kong_1.jpg                                      
-fact   Cenotaph_Hong_Kong_1.0                    =  Commemorates the dead of the First and Second World Wars                                  
-fact   Cenotaph_Hong_Kong_1.1                    =  Almost an exact replica of the Cenotaph on Whitehall in London                            
-fact   Cenotaph_Hong_Kong_1.2                    =  Unveiled on Empire Day, 1923                                                              
+photo  Cenotaph_Hong_Kong_1                      =  The Cenotaph                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Cenotaph_Hong_Kong_1.jpg                    
+fact   Cenotaph_Hong_Kong_1.0                    =  Commemorates the dead of the First and Second World Wars                                     
+fact   Cenotaph_Hong_Kong_1.1                    =  Almost an exact replica of the Cenotaph on Whitehall in London                               
+fact   Cenotaph_Hong_Kong_1.2                    =  Unveiled on Empire Day, 1923                                                                 
        
-photo  Chiang_Kai-shek_Memorial_Hall_2           =  National Chiang Kai-shek Memorial Hall                                                     
-       url                                       =  github://philiprbrenan/China/Chiang_Kai-shek_Memorial_Hall_2.jpg                           
-fact   Chiang_Kai-shek_Memorial_Hall_2.0         =  Built in memory of General Chiang Kai-shek, former President of the China.                
-fact   Chiang_Kai-shek_Memorial_Hall_2.1         =  Octagonal roof                                                                            
-fact   Chiang_Kai-shek_Memorial_Hall_2.2         =  Each 6 meter high door weighs 75 tons                                                     
-fact   Chiang_Kai-shek_Memorial_Hall_2.3         =  89 steps representing the age of Chiang Kai-shek.                                         
+photo  Chiang_Kai-shek_Memorial_Hall_2           =  National Chiang Kai-shek Memorial Hall                                                       
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Chiang_Kai-shek_Memorial_Hall_2.jpg         
+fact   Chiang_Kai-shek_Memorial_Hall_2.0         =  Built in memory of General Chiang Kai-shek, former President of the China.                   
+fact   Chiang_Kai-shek_Memorial_Hall_2.1         =  Octagonal roof                                                                               
+fact   Chiang_Kai-shek_Memorial_Hall_2.2         =  Each 6 meter high door weighs 75 tons                                                        
+fact   Chiang_Kai-shek_Memorial_Hall_2.3         =  89 steps representing the age of Chiang Kai-shek.                                            
        
-photo  China_Pavilion_2                          =  China pavilion                                                                             
-       url                                       =  github://philiprbrenan/China/China_Pavilion_2.jpg                                          
-fact   China_Pavilion_2.0                        =  Known as the Oriental Crown" because of its resemblance to an ancient Chinese crown       
-fact   China_Pavilion_2.1                        =  Has a 0.36 mega-watt solar energy system on the roof                                      
-fact   China_Pavilion_2.2                        =  Most expensive pavilion at the Shanghai World Exposition costing $220 million             
+photo  China_Pavilion_2                          =  China pavilion                                                                               
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/China_Pavilion_2.jpg                        
+fact   China_Pavilion_2.0                        =  Known as the Oriental Crown" because of its resemblance to an ancient Chinese crown          
+fact   China_Pavilion_2.1                        =  Has a 0.36 mega-watt solar energy system on the roof                                         
+fact   China_Pavilion_2.2                        =  Most expensive pavilion at the Shanghai World Exposition costing $220 million                
        
-photo  Forbidden_City_1                          =  Forbidden City                                                                             
-       url                                       =  github://philiprbrenan/China/Forbidden_City_1.jpg                                          
-fact   Forbidden_City_1.0                        =  The Chinese imperial palace from the Ming Dynasty onwards                                 
-fact   Forbidden_City_1.1                        =  The ceremonial and political center of Chinese government for almost 500 years            
-fact   Forbidden_City_1.2                        =  Located in the centre of Beijing, it now houses the Palace Museum                         
-fact   Forbidden_City_1.3                        =  Constructed over 14 years by more than a million workers                                  
-fact   Forbidden_City_1.4                        =  The movie, The Last Emperor, was filmed here                                              
+photo  Forbidden_City_1                          =  Forbidden City                                                                               
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Forbidden_City_1.jpg                        
+fact   Forbidden_City_1.0                        =  The Chinese imperial palace from the Ming Dynasty onwards                                    
+fact   Forbidden_City_1.1                        =  The ceremonial and political center of Chinese government for almost 500 years               
+fact   Forbidden_City_1.2                        =  Located in the centre of Beijing, it now houses the Palace Museum                            
+fact   Forbidden_City_1.3                        =  Constructed over 14 years by more than a million workers                                     
+fact   Forbidden_City_1.4                        =  The movie, The Last Emperor, was filmed here                                                 
        
-photo  Great_Hall_Of_The_People_1                =  Great Hall of the People                                                                   
-       url                                       =  github://philiprbrenan/China/Great_Hall_Of_The_People_1.jpg                                
-fact   Great_Hall_Of_The_People_1.0              =  The meeting place of the National People's Congress                                       
-fact   Great_Hall_Of_The_People_1.1              =  Built in 10 months by volunteers.                                                         
-fact   Great_Hall_Of_The_People_1.2              =  Lucy Angel was the first Western group to be invited to perform here                      
+photo  Great_Hall_Of_The_People_1                =  Great Hall of the People                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Great_Hall_Of_The_People_1.jpg              
+fact   Great_Hall_Of_The_People_1.0              =  The meeting place of the National People's Congress                                          
+fact   Great_Hall_Of_The_People_1.1              =  Built in 10 months by volunteers.                                                            
+fact   Great_Hall_Of_The_People_1.2              =  Lucy Angel was the first Western group to be invited to perform here                         
        
-photo  Great_Wall_1                              =  Great Wall of China                                                                        
-       url                                       =  github://philiprbrenan/China/Great_Wall_1.jpg                                              
-fact   Great_Wall_1.0                            =  Built along an east-to-west line along the northern borders of China                      
-fact   Great_Wall_1.1                            =  Built to protect the Chinese Empire from Mongolia                                         
-fact   Great_Wall_1.2                            =  Over six thousand kilometers in length                                                    
+photo  Great_Wall_1                              =  Great Wall of China                                                                          
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Great_Wall_1.jpg                            
+fact   Great_Wall_1.0                            =  Built along an east-to-west line along the northern borders of China                         
+fact   Great_Wall_1.1                            =  Built to protect the Chinese Empire from Mongolia                                            
+fact   Great_Wall_1.2                            =  Over six thousand kilometers in length                                                       
        
-photo  Guangzhou_International_Finance_Centre    =  Guangzhou International Finance Centre                                                     
-       url                                       =  github://philiprbrenan/China/Guangzhou_International_Finance_Centre.jpg                    
-fact   Guangzhou_International_Finance_Centre.0  =  103 storeys high                                                                          
-       remark                                    =  yes                                                                                        
-fact   Guangzhou_International_Finance_Centre.1  =  The lobby of the Four Seasons Hotel is on floor 70                                        
-fact   Guangzhou_International_Finance_Centre.2  =  The observation deck is on floors 99 and 100                                              
+photo  Guangzhou_International_Finance_Centre    =  Guangzhou International Finance Centre                                                       
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Guangzhou_International_Finance_Centre.jpg  
+fact   Guangzhou_International_Finance_Centre.0  =  103 storeys high                                                                             
+       remark                                    =  yes                                                                                          
+fact   Guangzhou_International_Finance_Centre.1  =  The lobby of the Four Seasons Hotel is on floor 70                                           
+fact   Guangzhou_International_Finance_Centre.2  =  The observation deck is on floors 99 and 100                                                 
        
-photo  Guanyin_Statue_2                          =  Guanyin Statue                                                                             
-       url                                       =  github://philiprbrenan/China/Guanyin_Statue_2.jpg                                          
-fact   Guanyin_Statue_2.0                        =  108 metre high Buddhist statue                                                            
-       remark                                    =  yes                                                                                        
-fact   Guanyin_Statue_2.1                        =  Currently the fourth tallest statue in the world                                          
+photo  Guanyin_Statue_2                          =  Guanyin Statue                                                                               
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Guanyin_Statue_2.jpg                        
+fact   Guanyin_Statue_2.0                        =  108 metre high Buddhist statue                                                               
+       remark                                    =  yes                                                                                          
+fact   Guanyin_Statue_2.1                        =  Currently the fourth tallest statue in the world                                             
        
-photo  Heaven_Lake                               =  Heaven Lake                                                                                
-       url                                       =  github://philiprbrenan/China/Heaven_Lake.jpg                                               
-fact   Heaven_Lake.0                             =  A crater lake on the border between China and North Korea.                                
-fact   Heaven_Lake.1                             =  Surface elevation is almost 2,200 metres                                                  
-fact   Heaven_Lake.2                             =  Usually covered with ice from October to June                                             
-fact   Heaven_Lake.3                             =  Formed by a major volcanic eruption in 969 AD                                             
+photo  Heaven_Lake                               =  Heaven Lake                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Heaven_Lake.jpg                             
+fact   Heaven_Lake.0                             =  A crater lake on the border between China and North Korea.                                   
+fact   Heaven_Lake.1                             =  Surface elevation is almost 2,200 metres                                                     
+fact   Heaven_Lake.2                             =  Usually covered with ice from October to June                                                
+fact   Heaven_Lake.3                             =  Formed by a major volcanic eruption in 969 AD                                                
        
-photo  HuangguoshuFall_1                         =  Huangguoshu Waterfall                                                                      
-       url                                       =  github://philiprbrenan/China/HuangguoshuFall_1.jpg                                         
-fact   HuangguoshuFall_1.0                       =  Largest waterfall in China                                                                
-fact   HuangguoshuFall_1.1                       =  67 metres high and 83 meters wide                                                         
-       remark                                    =  yes                                                                                        
+photo  HuangguoshuFall_1                         =  Huangguoshu Waterfall                                                                        
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/HuangguoshuFall_1.jpg                       
+fact   HuangguoshuFall_1.0                       =  Largest waterfall in China                                                                   
+fact   HuangguoshuFall_1.1                       =  67 metres high and 83 meters wide                                                            
+       remark                                    =  yes                                                                                          
        
-photo  Hukou_Waterfall_1                         =  Hukou Waterfall                                                                            
-       url                                       =  github://philiprbrenan/China/Hukou_Waterfall_1.jpg                                         
-fact   Hukou_Waterfall_1.0                       =  The largest waterfall on the Yellow River                                                 
-fact   Hukou_Waterfall_1.1                       =  The second largest waterfall in China                                                     
+photo  Hukou_Waterfall_1                         =  Hukou Waterfall                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Hukou_Waterfall_1.jpg                       
+fact   Hukou_Waterfall_1.0                       =  The largest waterfall on the Yellow River                                                    
+fact   Hukou_Waterfall_1.1                       =  The second largest waterfall in China                                                        
        
-photo  International_Commerce_Centre_2           =  International Commerce Centre                                                              
-       url                                       =  github://philiprbrenan/China/International_Commerce_Centre_2.jpg                           
-fact   International_Commerce_Centre_2.0         =  118 storeys high                                                                          
-       remark                                    =  yes                                                                                        
-fact   International_Commerce_Centre_2.1         =  The tallest building in Hong Kong.                                                        
-fact   International_Commerce_Centre_2.2         =  The world's highest swimming pool and bar are on the top floor                            
+photo  International_Commerce_Centre_2           =  International Commerce Centre                                                                
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/International_Commerce_Centre_2.jpg         
+fact   International_Commerce_Centre_2.0         =  118 storeys high                                                                             
+       remark                                    =  yes                                                                                          
+fact   International_Commerce_Centre_2.1         =  The tallest building in Hong Kong.                                                           
+fact   International_Commerce_Centre_2.2         =  The world's highest swimming pool and bar are on the top floor                               
        
-photo  JinMao_Tower_1                            =  Jin Mao Tower                                                                              
-       url                                       =  github://philiprbrenan/China/JinMao_Tower_1.jpg                                            
-fact   JinMao_Tower_1.0                          =  The number 8 is associated with prosperity in China                                       
-       remark                                    =  yes                                                                                        
-fact   JinMao_Tower_1.1                          =  The five-star, 555-room Shanghai Grand Hyatt hotel occupies floors 53 to 87               
-fact   JinMao_Tower_1.2                          =  Dedicated on August 28, 1998                                                              
-fact   JinMao_Tower_1.3                          =  Small post office located on the 88th floor                                               
-fact   JinMao_Tower_1.4                          =  Elevators take 45 seconds to reach the 88th floor                                         
-fact   JinMao_Tower_1.5                          =  Contains the world's longest laundry chute                                                
+photo  JinMao_Tower_1                            =  Jin Mao Tower                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/JinMao_Tower_1.jpg                          
+fact   JinMao_Tower_1.0                          =  The number 8 is associated with prosperity in China                                          
+       remark                                    =  yes                                                                                          
+fact   JinMao_Tower_1.1                          =  The five-star, 555-room Shanghai Grand Hyatt hotel occupies floors 53 to 87                  
+fact   JinMao_Tower_1.2                          =  Dedicated on August 28, 1998                                                                 
+fact   JinMao_Tower_1.3                          =  Small post office located on the 88th floor                                                  
+fact   JinMao_Tower_1.4                          =  Elevators take 45 seconds to reach the 88th floor                                            
+fact   JinMao_Tower_1.5                          =  Contains the world's longest laundry chute                                                   
        
-photo  Karakul_Lake_1                            =  Karakul Lake                                                                               
-       url                                       =  github://philiprbrenan/China/Karakul_Lake_1.jpg                                            
-fact   Karakul_Lake_1.0                          =  Located on the border between China and Pakistan                                          
-fact   Karakul_Lake_1.1                          =  Beside the Karakoram Highway                                                              
+photo  Karakul_Lake_1                            =  Karakul Lake                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Karakul_Lake_1.jpg                          
+fact   Karakul_Lake_1.0                          =  Located on the border between China and Pakistan                                             
+fact   Karakul_Lake_1.1                          =  Beside the Karakoram Highway                                                                 
        
-photo  Kingkey_100_1                             =  Kingkey 100                                                                                
-       url                                       =  github://philiprbrenan/China/Kingkey_100_1.jpg                                             
-fact   Kingkey_100_1.0                           =  100 storeys high                                                                          
-       remark                                    =  yes                                                                                        
-fact   Kingkey_100_1.1                           =  The St. Regis Hotel occupies floors 75 to 98                                              
-fact   Kingkey_100_1.2                           =  Top four floors hold a garden and restaurants                                             
+photo  Kingkey_100_1                             =  Kingkey 100                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Kingkey_100_1.jpg                           
+fact   Kingkey_100_1.0                           =  100 storeys high                                                                             
+       remark                                    =  yes                                                                                          
+fact   Kingkey_100_1.1                           =  The St. Regis Hotel occupies floors 75 to 98                                                 
+fact   Kingkey_100_1.2                           =  Top four floors hold a garden and restaurants                                                
        
-photo  Leshan_Buddha_Statue_View                 =  Leshan Giant Buddha                                                                        
-       url                                       =  github://philiprbrenan/China/Leshan_Buddha_Statue_View.jpg                                 
-fact   Leshan_Buddha_Statue_View.0               =  The largest stone Buddha in the world                                                     
-fact   Leshan_Buddha_Statue_View.1               =  71 metres tall                                                                            
-       remark                                    =  yes                                                                                        
+photo  Leshan_Buddha_Statue_View                 =  Leshan Giant Buddha                                                                          
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Leshan_Buddha_Statue_View.jpg               
+fact   Leshan_Buddha_Statue_View.0               =  The largest stone Buddha in the world                                                        
+fact   Leshan_Buddha_Statue_View.1               =  71 metres tall                                                                               
+       remark                                    =  yes                                                                                          
        
-photo  Lijiang_River_2                           =  Li River                                                                                   
-       url                                       =  github://philiprbrenan/China/Lijiang_River_2.jpg                                           
-fact   Lijiang_River_2.0                         =  Connected to the Xiang River by the Lingqu Canal, the oldest existing canal in the world  
-fact   Lijiang_River_2.1                         =  Its unusual karst hillsides are like those at Halong Bay in Vietnam.                      
+photo  Lijiang_River_2                           =  Li River                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Lijiang_River_2.jpg                         
+fact   Lijiang_River_2.0                         =  Connected to the Xiang River by the Lingqu Canal, the oldest existing canal in the world     
+fact   Lijiang_River_2.1                         =  Its unusual karst hillsides are like those at Halong Bay in Vietnam.                         
        
-photo  LongshengRiceTerrace                      =  Longsheng Rice Terrace                                                                     
-       url                                       =  github://philiprbrenan/China/LongshengRiceTerrace.jpg                                      
-fact   LongshengRiceTerrace.0                    =  Said to resemble a dragon                                                                 
+photo  LongshengRiceTerrace                      =  Longsheng Rice Terrace                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/LongshengRiceTerrace.jpg                    
+fact   LongshengRiceTerrace.0                    =  Said to resemble a dragon                                                                    
        
-photo  Macau_Tower_4                             =  Macau Tower                                                                                
-       url                                       =  github://philiprbrenan/China/Macau_Tower_4.jpg                                             
-fact   Macau_Tower_4.0                           =  Macau was a Portuguese colony until 1999.                                                 
-       remark                                    =  yes                                                                                        
-fact   Macau_Tower_4.1                           =  338 metres high                                                                           
-       remark                                    =  yes                                                                                        
-fact   Macau_Tower_4.2                           =  Contains Skywalk X, a walking tour around the outer rim.                                  
-fact   Macau_Tower_4.3                           =  Gives the best view of the island of Macau                                                
-fact   Macau_Tower_4.4                           =  AJ Hackett bungee jumped 233 meters from the rim                                          
+photo  Macau_Tower_4                             =  Macau Tower                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Macau_Tower_4.jpg                           
+fact   Macau_Tower_4.0                           =  Macau was a Portuguese colony until 1999.                                                    
+       remark                                    =  yes                                                                                          
+fact   Macau_Tower_4.1                           =  338 metres high                                                                              
+       remark                                    =  yes                                                                                          
+fact   Macau_Tower_4.2                           =  Contains Skywalk X, a walking tour around the outer rim.                                     
+fact   Macau_Tower_4.3                           =  Gives the best view of the island of Macau                                                   
+fact   Macau_Tower_4.4                           =  AJ Hackett bungee jumped 233 meters from the rim                                             
        
-photo  Mount_Everest_North_Face                  =  Mount Everest                                                                              
-       url                                       =  github://philiprbrenan/China/Mount_Everest_North_Face.jpg                                  
-fact   Mount_Everest_North_Face.0                =  The highest point in China                                                                
-fact   Mount_Everest_North_Face.1                =  Located on the border between China and Nepal                                             
-fact   Mount_Everest_North_Face.2                =  Seen from the north                                                                       
-       remark                                    =  yes                                                                                        
+photo  Mount_Everest_North_Face                  =  Mount Everest                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Mount_Everest_North_Face.jpg                
+fact   Mount_Everest_North_Face.0                =  The highest point in China                                                                   
+fact   Mount_Everest_North_Face.1                =  Located on the border between China and Nepal                                                
+fact   Mount_Everest_North_Face.2                =  Seen from the north                                                                          
+       remark                                    =  yes                                                                                          
        
-photo  Mount_tai_1                               =  Mount Tai                                                                                  
-       url                                       =  github://philiprbrenan/China/Mount_tai_1.jpg                                               
-fact   Mount_tai_1.0                             =  Visited by 72 emperors                                                                    
-fact   Mount_tai_1.1                             =  Rises abruptly from the vast plain of central Shandong                                    
-fact   Mount_tai_1.2                             =  Has eyes but can't recognize Mount Tai                                                    
-fact   Mount_tai_1.3                             =  The South Gate to Heaven                                                                  
+photo  Mount_tai_1                               =  Mount Tai                                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Mount_tai_1.jpg                             
+fact   Mount_tai_1.0                             =  Visited by 72 emperors                                                                       
+fact   Mount_tai_1.1                             =  Rises abruptly from the vast plain of central Shandong                                       
+fact   Mount_tai_1.2                             =  Has eyes but can't recognize Mount Tai                                                       
+fact   Mount_tai_1.3                             =  The South Gate to Heaven                                                                     
        
-photo  NamTso_1                                  =  Lake Nam                                                                                   
-       url                                       =  github://philiprbrenan/China/NamTso_1.jpg                                                  
-fact   NamTso_1.0                                =  Salt lake located in Tibet                                                                
-fact   NamTso_1.1                                =  Highest lake in the world with a surface area of more than 500 square kilometers          
+photo  NamTso_1                                  =  Lake Nam                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/NamTso_1.jpg                                
+fact   NamTso_1.0                                =  Salt lake located in Tibet                                                                   
+fact   NamTso_1.1                                =  Highest lake in the world with a surface area of more than 500 square kilometers             
        
-photo  Nanjing_Road_1                            =  Nanjing Road                                                                               
-       url                                       =  github://philiprbrenan/China/Nanjing_Road_1.jpg                                            
-fact   Nanjing_Road_1.0                          =  Originally called called Park Lane in 1845                                                
-fact   Nanjing_Road_1.1                          =  The world's longest shopping district: 6 kilometers long                                  
-fact   Nanjing_Road_1.2                          =  Shanghai's oldest and largest department stores are located here                          
+photo  Nanjing_Road_1                            =  Nanjing Road                                                                                 
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Nanjing_Road_1.jpg                          
+fact   Nanjing_Road_1.0                          =  Originally called called Park Lane in 1845                                                   
+fact   Nanjing_Road_1.1                          =  The world's longest shopping district: 6 kilometers long                                     
+fact   Nanjing_Road_1.2                          =  Shanghai's oldest and largest department stores are located here                             
        
-photo  Oriental_Pearl_Tower_1                    =  Oriental Pearl Tower                                                                       
-       url                                       =  github://philiprbrenan/China/Oriental_Pearl_Tower_1.jpg                                    
-fact   Oriental_Pearl_Tower_1.0                  =  Features 11 spheres, big and small                                                        
-fact   Oriental_Pearl_Tower_1.1                  =  Contains a 20-room hotel called the Space Hotel                                           
-fact   Oriental_Pearl_Tower_1.2                  =  opposite The Bund                                                                         
-fact   Oriental_Pearl_Tower_1.3                  =  Brightly lit by LEDs at night                                                             
-       remark                                    =  yes                                                                                        
-fact   Oriental_Pearl_Tower_1.4                  =  468 metres high                                                                           
-       remark                                    =  yes                                                                                        
+photo  Oriental_Pearl_Tower_1                    =  Oriental Pearl Tower                                                                         
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Oriental_Pearl_Tower_1.jpg                  
+fact   Oriental_Pearl_Tower_1.0                  =  Features 11 spheres, big and small                                                           
+fact   Oriental_Pearl_Tower_1.1                  =  Contains a 20-room hotel called the Space Hotel                                              
+fact   Oriental_Pearl_Tower_1.2                  =  opposite The Bund                                                                            
+fact   Oriental_Pearl_Tower_1.3                  =  Brightly lit by LEDs at night                                                                
+       remark                                    =  yes                                                                                          
+fact   Oriental_Pearl_Tower_1.4                  =  468 metres high                                                                              
+       remark                                    =  yes                                                                                          
        
-photo  Pearl_river_1                             =  Pearl River                                                                                
-       url                                       =  github://philiprbrenan/China/Pearl_river_1.jpg                                             
-fact   Pearl_river_1.0                           =  China's third longest river after the Yangtze and Yellow Rivers                           
-fact   Pearl_river_1.1                           =  2,400 kilometers long                                                                     
-fact   Pearl_river_1.2                           =  China's second largest river by volume after the Yangtze                                  
-fact   Pearl_river_1.3                           =  Named after the pearl colored shells that lie at the bottom of the river                  
-fact   Pearl_river_1.4                           =  Crossed by a power line, suspended from three of the tallest pylons in the world          
-fact   Pearl_river_1.5                           =  Enters the South China Sea between Hong Kong and Macau                                    
+photo  Pearl_river_1                             =  Pearl River                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Pearl_river_1.jpg                           
+fact   Pearl_river_1.0                           =  China's third longest river after the Yangtze and Yellow Rivers                              
+fact   Pearl_river_1.1                           =  2,400 kilometers long                                                                        
+fact   Pearl_river_1.2                           =  China's second largest river by volume after the Yangtze                                     
+fact   Pearl_river_1.3                           =  Named after the pearl colored shells that lie at the bottom of the river                     
+fact   Pearl_river_1.4                           =  Crossed by a power line, suspended from three of the tallest pylons in the world             
+fact   Pearl_river_1.5                           =  Enters the South China Sea between Hong Kong and Macau                                       
        
-photo  Potala_Palace_1                           =  Potala Palace                                                                              
-       url                                       =  github://philiprbrenan/China/Potala_Palace_1.jpg                                           
-fact   Potala_Palace_1.0                         =  Was the chief residence of the Dalai Lama, today it is a museum                           
-fact   Potala_Palace_1.1                         =  Molten copper was poured into the foundations to help resist earthquakes                  
-fact   Potala_Palace_1.2                         =  Contains priceless jewels and several tons of gold                                        
+photo  Potala_Palace_1                           =  Potala Palace                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Potala_Palace_1.jpg                         
+fact   Potala_Palace_1.0                         =  Was the chief residence of the Dalai Lama, today it is a museum                              
+fact   Potala_Palace_1.1                         =  Molten copper was poured into the foundations to help resist earthquakes                     
+fact   Potala_Palace_1.2                         =  Contains priceless jewels and several tons of gold                                           
        
-photo  Putuo_Zongcheng_Temple_1                  =  Putuo Zongcheng Temple                                                                     
-       url                                       =  github://philiprbrenan/China/Putuo_Zongcheng_Temple_1.jpg                                  
-fact   Putuo_Zongcheng_Temple_1.0                =  Modelled on the Potala Palace of Tibet                                                    
-fact   Putuo_Zongcheng_Temple_1.1                =  A Qing Dynasty Buddhist temple complex                                                    
+photo  Putuo_Zongcheng_Temple_1                  =  Putuo Zongcheng Temple                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Putuo_Zongcheng_Temple_1.jpg                
+fact   Putuo_Zongcheng_Temple_1.0                =  Modelled on the Potala Palace of Tibet                                                       
+fact   Putuo_Zongcheng_Temple_1.1                =  A Qing Dynasty Buddhist temple complex                                                       
        
-photo  Sacred_Heart_Cathedral_5                  =  Sacred Heart Cathedral                                                                     
-       url                                       =  github://philiprbrenan/China/Sacred_Heart_Cathedral_5.jpg                                  
-fact   Sacred_Heart_Cathedral_5.0                =  Modelled on the Basilica of St. Clotilde in Paris                                         
-fact   Sacred_Heart_Cathedral_5.1                =  One of the few churches in the world to be built entirely of granite                      
+photo  Sacred_Heart_Cathedral_5                  =  Sacred Heart Cathedral                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Sacred_Heart_Cathedral_5.jpg                
+fact   Sacred_Heart_Cathedral_5.0                =  Modelled on the Basilica of St. Clotilde in Paris                                            
+fact   Sacred_Heart_Cathedral_5.1                =  One of the few churches in the world to be built entirely of granite                         
        
-photo  Saint_Sophia_Cathedral_2                  =  Saint Sophia Cathedral                                                                     
-       url                                       =  github://philiprbrenan/China/Saint_Sophia_Cathedral_2.jpg                                  
-fact   Saint_Sophia_Cathedral_2.0                =  Built after the Trans-Siberian Railway connected China to Russia                          
-fact   Saint_Sophia_Cathedral_2.1                =  A former Russian Orthodox church, now a museum                                            
-fact   Saint_Sophia_Cathedral_2.2                =  Built by Russia's Fourth Army Division                                                    
-fact   Saint_Sophia_Cathedral_2.3                =  A perfect example of Neo-Byzantine architecture                                           
-fact   Saint_Sophia_Cathedral_2.4                =  The hidden cathedral that was restored by public subscription                             
+photo  Saint_Sophia_Cathedral_2                  =  Saint Sophia Cathedral                                                                       
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Saint_Sophia_Cathedral_2.jpg                
+fact   Saint_Sophia_Cathedral_2.0                =  Built after the Trans-Siberian Railway connected China to Russia                             
+fact   Saint_Sophia_Cathedral_2.1                =  A former Russian Orthodox church, now a museum                                               
+fact   Saint_Sophia_Cathedral_2.2                =  Built by Russia's Fourth Army Division                                                       
+fact   Saint_Sophia_Cathedral_2.3                =  A perfect example of Neo-Byzantine architecture                                              
+fact   Saint_Sophia_Cathedral_2.4                =  The hidden cathedral that was restored by public subscription                                
        
-photo  Sidu_River_Bridge_2                       =  Sidu River Bridge                                                                          
-       url                                       =  github://philiprbrenan/China/Sidu_River_Bridge_2.jpg                                       
-fact   Sidu_River_Bridge_2.0                     =  Pilot cable installed by rocket                                                           
-fact   Sidu_River_Bridge_2.1                     =  May be the highest suspension bridge in the world                                         
+photo  Sidu_River_Bridge_2                       =  Sidu River Bridge                                                                            
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Sidu_River_Bridge_2.jpg                     
+fact   Sidu_River_Bridge_2.0                     =  Pilot cable installed by rocket                                                              
+fact   Sidu_River_Bridge_2.1                     =  May be the highest suspension bridge in the world                                            
        
-photo  Temple_of_Heaven_outside                  =  Temple of Heaven                                                                           
-       url                                       =  github://philiprbrenan/China/Temple_of_Heaven_outside.jpg                                  
-fact   Temple_of_Heaven_outside.0                =  Built by the Yongle Emperor, who was also built the Forbidden City in Beijing             
-fact   Temple_of_Heaven_outside.1                =  Visited each year by the Emperor to pray for a good harvest                               
-fact   Temple_of_Heaven_outside.2                =  Roofed with special dark blue tiles to represent Heaven                                   
+photo  Temple_of_Heaven_outside                  =  Temple of Heaven                                                                             
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Temple_of_Heaven_outside.jpg                
+fact   Temple_of_Heaven_outside.0                =  Built by the Yongle Emperor, who was also built the Forbidden City in Beijing                
+fact   Temple_of_Heaven_outside.1                =  Visited each year by the Emperor to pray for a good harvest                                  
+fact   Temple_of_Heaven_outside.2                =  Roofed with special dark blue tiles to represent Heaven                                      
        
-photo  Terracotta_3                              =  Terracotta Army                                                                            
-       url                                       =  github://philiprbrenan/China/Terracotta_3.jpg                                              
-fact   Terracotta_3.0                            =  Discovered in 1974 by local farmers                                                       
-fact   Terracotta_3.1                            =  Terracotta sculptures depicting the armies of the first Emperor of China                  
-fact   Terracotta_3.2                            =  Made the British Museum the United Kingdom's top cultural attraction in 2007              
-fact   Terracotta_3.3                            =  Thought to protect the emperor in his afterlife                                           
-       remark                                    =  yes                                                                                        
-fact   Terracotta_3.4                            =  The figures vary in height according to their roles, with the tallest being the generals  
-       remark                                    =  yes                                                                                        
+photo  Terracotta_3                              =  Terracotta Army                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Terracotta_3.jpg                            
+fact   Terracotta_3.0                            =  Discovered in 1974 by local farmers                                                          
+fact   Terracotta_3.1                            =  Terracotta sculptures depicting the armies of the first Emperor of China                     
+fact   Terracotta_3.2                            =  Made the British Museum the United Kingdom's top cultural attraction in 2007                 
+fact   Terracotta_3.3                            =  Thought to protect the emperor in his afterlife                                              
+       remark                                    =  yes                                                                                          
+fact   Terracotta_3.4                            =  The figures vary in height according to their roles, with the tallest being the generals     
+       remark                                    =  yes                                                                                          
        
-photo  The_Bund_1                                =  The Bund                                                                                   
-       url                                       =  github://philiprbrenan/China/The_Bund_1.jpg                                                
-fact   The_Bund_1.0                              =  Waterfront area in central Shanghai                                                       
-fact   The_Bund_1.1                              =  Named after the levees in Baghdad along the Tigris                                        
-fact   The_Bund_1.2                              =  Once housed numerous foreign banks and trading houses                                     
+photo  The_Bund_1                                =  The Bund                                                                                     
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/The_Bund_1.jpg                              
+fact   The_Bund_1.0                              =  Waterfront area in central Shanghai                                                          
+fact   The_Bund_1.1                              =  Named after the levees in Baghdad along the Tigris                                           
+fact   The_Bund_1.2                              =  Once housed numerous foreign banks and trading houses                                        
        
-photo  ThreeGorgesDam                            =  Three Gorges Dam                                                                           
-       url                                       =  github://philiprbrenan/China/ThreeGorgesDam.jpg                                            
-fact   ThreeGorgesDam.0                          =  Hydroelectric dam that spans the Yangtze River                                            
-fact   ThreeGorgesDam.1                          =  Capable of generating 22.5 gigawatts of electrical power                                  
-fact   ThreeGorgesDam.2                          =  Expected to increase shipping capacity on the Yangzte River                               
-fact   ThreeGorgesDam.3                          =  Expected to reduce flooding in eastern China                                              
+photo  ThreeGorgesDam                            =  Three Gorges Dam                                                                             
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/ThreeGorgesDam.jpg                          
+fact   ThreeGorgesDam.0                          =  Hydroelectric dam that spans the Yangtze River                                               
+fact   ThreeGorgesDam.1                          =  Capable of generating 22.5 gigawatts of electrical power                                     
+fact   ThreeGorgesDam.2                          =  Expected to increase shipping capacity on the Yangzte River                                  
+fact   ThreeGorgesDam.3                          =  Expected to reduce flooding in eastern China                                                 
        
-photo  Three_Pagodas_1                           =  Three Pagodas                                                                              
-       url                                       =  github://philiprbrenan/China/Three_Pagodas_1.jpg                                           
-fact   Three_Pagodas_1.0                         =  Arranged on the corners of an equilateral triangle                                        
-fact   Three_Pagodas_1.1                         =  Survived an earthquake in 1925 that destroyed most of the surrounding buildings           
-fact   Three_Pagodas_1.2                         =  Made of brick covered with white mud                                                      
+photo  Three_Pagodas_1                           =  Three Pagodas                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Three_Pagodas_1.jpg                         
+fact   Three_Pagodas_1.0                         =  Arranged on the corners of an equilateral triangle                                           
+fact   Three_Pagodas_1.1                         =  Survived an earthquake in 1925 that destroyed most of the surrounding buildings              
+fact   Three_Pagodas_1.2                         =  Made of brick covered with white mud                                                         
        
-photo  Tiananmen_1                               =  Tiananmen                                                                                  
-       url                                       =  github://philiprbrenan/China/Tiananmen_1.jpg                                               
-fact   Tiananmen_1.0                             =  The Gate of Heavenly Peace                                                                
-fact   Tiananmen_1.1                             =  Widely used as a national symbol of China                                                 
-fact   Tiananmen_1.2                             =  Entrance to the Imperial City                                                             
-fact   Tiananmen_1.3                             =  Located to the north of Tiananmen Square                                                  
+photo  Tiananmen_1                               =  Tiananmen                                                                                    
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Tiananmen_1.jpg                             
+fact   Tiananmen_1.0                             =  The Gate of Heavenly Peace                                                                   
+fact   Tiananmen_1.1                             =  Widely used as a national symbol of China                                                    
+fact   Tiananmen_1.2                             =  Entrance to the Imperial City                                                                
+fact   Tiananmen_1.3                             =  Located to the north of Tiananmen Square                                                     
        
-photo  Tianjin_Eye_2                             =  Tianjin Eye                                                                                
-       url                                       =  github://philiprbrenan/China/Tianjin_Eye_2.jpg                                             
-fact   Tianjin_Eye_2.0                           =  Built above the Yongle Bridge                                                             
-fact   Tianjin_Eye_2.1                           =  Takes 30 minutes to complete a rotation                                                   
+photo  Tianjin_Eye_2                             =  Tianjin Eye                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Tianjin_Eye_2.jpg                           
+fact   Tianjin_Eye_2.0                           =  Built above the Yongle Bridge                                                                
+fact   Tianjin_Eye_2.1                           =  Takes 30 minutes to complete a rotation                                                      
        
-photo  TigerLeapingGorge                         =  Tiger Leaping Gorge                                                                        
-       url                                       =  github://philiprbrenan/China/TigerLeapingGorge.jpg                                         
-fact   TigerLeapingGorge.0                       =  Possibly the world's deepest river canyon                                                 
-fact   TigerLeapingGorge.1                       =  The 22 kilometer road along Tiger Leaping Gorge                                           
+photo  TigerLeapingGorge                         =  Tiger Leaping Gorge                                                                          
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/TigerLeapingGorge.jpg                       
+fact   TigerLeapingGorge.0                       =  Possibly the world's deepest river canyon                                                    
+fact   TigerLeapingGorge.1                       =  The 22 kilometer road along Tiger Leaping Gorge                                              
        
-photo  Victoria_Harbour_1                        =  Victoria Harbour                                                                           
-       url                                       =  github://philiprbrenan/China/Victoria_Harbour_1.jpg                                        
-fact   Victoria_Harbour_1.0                      =  Harbour situated between Hong Kong Island and the Kowloon Peninsula                       
-fact   Victoria_Harbour_1.1                      =  Although it has no bridges, it does have three tunnels                                    
-fact   Victoria_Harbour_1.2                      =  Visited by 220,000 ships each year                                                        
+photo  Victoria_Harbour_1                        =  Victoria Harbour                                                                             
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Victoria_Harbour_1.jpg                      
+fact   Victoria_Harbour_1.0                      =  Harbour situated between Hong Kong Island and the Kowloon Peninsula                          
+fact   Victoria_Harbour_1.1                      =  Although it has no bridges, it does have three tunnels                                       
+fact   Victoria_Harbour_1.2                      =  Visited by 220,000 ships each year                                                           
        
-photo  White_Horse_Temple_1                      =  White Horse Temple                                                                         
-       url                                       =  github://philiprbrenan/China/White_Horse_Temple_1.jpg                                      
-fact   White_Horse_Temple_1.0                    =  The first Buddhist temple in China                                                        
-fact   White_Horse_Temple_1.1                    =  Established in 68 AD                                                                      
-       remark                                    =  yes                                                                                        
-fact   White_Horse_Temple_1.2                    =  The cradle of Chinese Buddhism                                                            
+photo  White_Horse_Temple_1                      =  White Horse Temple                                                                           
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/White_Horse_Temple_1.jpg                    
+fact   White_Horse_Temple_1.0                    =  The first Buddhist temple in China                                                           
+fact   White_Horse_Temple_1.1                    =  Established in 68 AD                                                                         
+       remark                                    =  yes                                                                                          
+fact   White_Horse_Temple_1.2                    =  The cradle of Chinese Buddhism                                                               
        
-photo  Wuyi_Mountains_1                          =  Mount Wuyi                                                                                 
-       url                                       =  github://philiprbrenan/China/Wuyi_Mountains_1.jpg                                          
-fact   Wuyi_Mountains_1.0                        =  Lapsang Souchong tea originates from here                                                 
-fact   Wuyi_Mountains_1.1                        =  The Nine-bend River                                                                       
+photo  Wuyi_Mountains_1                          =  Mount Wuyi                                                                                   
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Wuyi_Mountains_1.jpg                        
+fact   Wuyi_Mountains_1.0                        =  Lapsang Souchong tea originates from here                                                    
+fact   Wuyi_Mountains_1.1                        =  The Nine-bend River                                                                          
        
-photo  Wuzhen_3                                  =  Wuzhen Water Town                                                                          
-       url                                       =  github://philiprbrenan/China/Wuzhen_3.jpg                                                  
-fact   Wuzhen_3.0                                =  Small town close to the Grand Canal                                                       
+photo  Wuzhen_3                                  =  Wuzhen Water Town                                                                            
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Wuzhen_3.jpg                                
+fact   Wuzhen_3.0                                =  Small town close to the Grand Canal                                                          
        
-photo  Xihoumen_Bridge_in_Zhoushan               =  Xihoumen Bridge                                                                            
-       url                                       =  github://philiprbrenan/China/Xihoumen_Bridge_in_Zhoushan.jpg                               
-fact   Xihoumen_Bridge_in_Zhoushan.0             =  Second-longest suspension bridge in the world                                             
-fact   Xihoumen_Bridge_in_Zhoushan.1             =  Central span is 1,650 metres long                                                         
+photo  Xihoumen_Bridge_in_Zhoushan               =  Xihoumen Bridge                                                                              
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Xihoumen_Bridge_in_Zhoushan.jpg             
+fact   Xihoumen_Bridge_in_Zhoushan.0             =  Second-longest suspension bridge in the world                                                
+fact   Xihoumen_Bridge_in_Zhoushan.1             =  Central span is 1,650 metres long                                                            
        
-photo  Yangtze_River_2                           =  Yangtze River                                                                              
-       url                                       =  github://philiprbrenan/China/Yangtze_River_2.jpg                                           
-fact   Yangtze_River_2.0                         =  The longest river in Asia and the third-longest in the world                              
-fact   Yangtze_River_2.1                         =  Drains one-fifth of the land area of China                                                
-fact   Yangtze_River_2.2                         =  Its basin is home to one-third of China's population                                      
-fact   Yangtze_River_2.3                         =  Its delta generates 20% of China's gross domestic product                                 
-fact   Yangtze_River_2.4                         =  Contains the Three Gorges Dam                                                             
-       remark                                    =  yes                                                                                        
-fact   Yangtze_River_2.5                         =  Flows 6,418 kilometers from Tibet to Shanghai                                             
+photo  Yangtze_River_2                           =  Yangtze River                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Yangtze_River_2.jpg                         
+fact   Yangtze_River_2.0                         =  The longest river in Asia and the third-longest in the world                                 
+fact   Yangtze_River_2.1                         =  Drains one-fifth of the land area of China                                                   
+fact   Yangtze_River_2.2                         =  Its basin is home to one-third of China's population                                         
+fact   Yangtze_River_2.3                         =  Its delta generates 20% of China's gross domestic product                                    
+fact   Yangtze_River_2.4                         =  Contains the Three Gorges Dam                                                                
+       remark                                    =  yes                                                                                          
+fact   Yangtze_River_2.5                         =  Flows 6,418 kilometers from Tibet to Shanghai                                                
        
-photo  Yu_Garden_3                               =  Yuyuan Garden                                                                              
-       url                                       =  github://philiprbrenan/China/Yu_Garden_3.jpg                                               
-fact   Yu_Garden_3.0                             =  An extensive Chinese garden located in Old City of Shanghai                               
-fact   Yu_Garden_3.1                             =  Garden of Peace                                                                           
+photo  Yu_Garden_3                               =  Yuyuan Garden                                                                                
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/Yu_Garden_3.jpg                             
+fact   Yu_Garden_3.0                             =  An extensive Chinese garden located in Old City of Shanghai                                  
+fact   Yu_Garden_3.1                             =  Garden of Peace                                                                              
        
-photo  grandCanal                                =  Grand Canal                                                                                
-       url                                       =  github://philiprbrenan/China/grandCanal.jpg                                                
-fact   grandCanal.0                              =  The longest canal in the world                                                            
-fact   grandCanal.1                              =  Links the Yellow and Yangtze rivers                                                       
-fact   grandCanal.2                              =  Dates to the 5th century BC                                                               
-       remark                                    =  yes                                                                                        
-fact   grandCanal.3                              =  Runs 1,776 kilometers from North to South                                                 
-fact   grandCanal.4                              =  Elevation ranges from one meter below sea level to 38.5 metres above                      
-fact   grandCanal.5                              =  Historically, used to transport grain to Beijing                                          
-fact   grandCanal.6                              =  Now used to transport bricks, gravel, sand, diesel and coal                               
+photo  grandCanal                                =  Grand Canal                                                                                  
+       url                                       =  github://philiprbrenan/vocabulary-2/images/China/grandCanal.jpg                              
+fact   grandCanal.0                              =  The longest canal in the world                                                               
+fact   grandCanal.1                              =  Links the Yellow and Yangtze rivers                                                          
+fact   grandCanal.2                              =  Dates to the 5th century BC                                                                  
+       remark                                    =  yes                                                                                          
+fact   grandCanal.3                              =  Runs 1,776 kilometers from North to South                                                    
+fact   grandCanal.4                              =  Elevation ranges from one meter below sea level to 38.5 metres above                         
+fact   grandCanal.5                              =  Historically, used to transport grain to Beijing                                             
+fact   grandCanal.6                              =  Now used to transport bricks, gravel, sand, diesel and coal                                  
