@@ -1,0 +1,94 @@
+app g.Days   = Days of the Week in English
+  description  = Learn about Days of the Week in English in English
+  icon         = Thursday.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Friday       =                                                                 
+       url          =  github://philiprbrenan/vocabulary-4/images/Days/Friday.jpg     
+fact   Friday.0     =  The Day of Freya                                               
+       remark       =  yes                                                            
+fact   Friday.1     =  The Day of Venus                                               
+       remark       =  yes                                                            
+fact   Friday.2     =  Venerdi in Italian                                             
+       remark       =  yes                                                            
+fact   Friday.3     =  Freitag in German                                              
+       remark       =  yes                                                            
+fact   Friday.4     =                                                                 
+       remark       =  yes                                                            
+       
+photo  Monday       =                                                                 
+       url          =  github://philiprbrenan/vocabulary-4/images/Days/Monday.jpg     
+fact   Monday.0     =  The day of the Moon                                            
+       remark       =  yes                                                            
+fact   Monday.1     =  Lunedi in Italian                                              
+       remark       =  yes                                                            
+fact   Monday.2     =  Montag in German                                               
+       remark       =  yes                                                            
+       
+photo  Saturday     =                                                                 
+       url          =  github://philiprbrenan/vocabulary-4/images/Days/Saturday.jpg   
+fact   Saturday.0   =  The Day of Saturn                                              
+       remark       =  yes                                                            
+fact   Saturday.1   =  Sabato in Italian                                              
+       remark       =  yes                                                            
+fact   Saturday.2   =  Samstag in German                                              
+       remark       =  yes                                                            
+fact   Saturday.3   =  Election day in Australia                                      
+       remark       =  yes                                                            
+fact   Saturday.4   =                                                                 
+       remark       =  yes                                                            
+       
+photo  Sunday       =                                                                 
+       url          =  github://philiprbrenan/vocabulary-4/images/Days/Sunday.jpg     
+fact   Sunday.0     =  The Day of the Sun                                             
+       remark       =  yes                                                            
+fact   Sunday.1     =  Sonnstag in German                                             
+       remark       =  yes                                                            
+fact   Sunday.2     =  Domenica in Italian                                            
+       remark       =  yes                                                            
+fact   Sunday.3     =                                                                 
+       remark       =  yes                                                            
+       
+photo  Thursday     =                                                                 
+       url          =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+fact   Thursday.0   =  Thor's Day                                                     
+       remark       =  yes                                                            
+fact   Thursday.1   =  The day of Jupiter                                             
+       remark       =  yes                                                            
+fact   Thursday.2   =  Giovedi in Italian                                             
+       remark       =  yes                                                            
+fact   Thursday.3   =  Donnerstag in German                                           
+       remark       =  yes                                                            
+fact   Thursday.4   =  Pay day in Australia                                           
+       remark       =  yes                                                            
+fact   Thursday.5   =  Election day in the UK                                         
+       remark       =  yes                                                            
+fact   Thursday.6   =                                                                 
+       remark       =  yes                                                            
+       
+photo  Tuesday      =                                                                 
+       url          =  github://philiprbrenan/vocabulary-4/images/Days/Tuesday.jpg    
+fact   Tuesday.0    =  The Day of Mars                                                
+       remark       =  yes                                                            
+fact   Tuesday.1    =  Martedi in Italian                                             
+       remark       =  yes                                                            
+fact   Tuesday.2    =  Dienstag or Duty Day in German                                 
+       remark       =  yes                                                            
+fact   Tuesday.3    =  Election day in the USA                                        
+       remark       =  yes                                                            
+fact   Tuesday.4    =                                                                 
+       remark       =  yes                                                            
+       
+photo  Wednesday    =                                                                 
+       url          =  github://philiprbrenan/vocabulary-4/images/Days/Wednesday.jpg  
+fact   Wednesday.0  =  The day of Mercury                                             
+       remark       =  yes                                                            
+fact   Wednesday.1  =  Mercoledi in Italian                                           
+       remark       =  yes                                                            
+fact   Wednesday.2  =  Mittwoch - the middle of the week in German                    
+       remark       =  yes                                                            
+fact   Wednesday.3  =  Woden's day                                                    
+       remark       =  yes                                                            
