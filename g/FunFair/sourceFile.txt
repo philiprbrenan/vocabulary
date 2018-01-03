@@ -1,0 +1,8 @@
+app g.FunFair   = A Day at the Fun Fair
+  description  = Learn about A Day at the Fun Fair in English
+  icon         = Giant Helter Skelter 2.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+
