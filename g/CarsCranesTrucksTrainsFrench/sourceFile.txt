@@ -1,6 +1,6 @@
-app g.CarsCranesTrucksTrainsFrench   = Cars Cranes Trucks Trains in French
+app vocabulary.g.CarsCranesTrucksTrainsFrench = Cars Cranes Trucks Trains in French
   description  = Learn about Cars Cranes Trucks Trains in French in English
-  icon         = Sports car.png
+  icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
