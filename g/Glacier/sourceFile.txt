@@ -3,6 +3,7 @@ app vocabulary.g.Glacier = Glacier National Park, USA
   icon         = Bearhat Mountain and Hidden Lake.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Alpine Glacier Poppy Avalanche Lake Beargrass Bearhat Mountain and Hidden Lake Big Drift Bighorn Sheep Bird Woman Falls Clark's Nutcracker Clements Mountain Garden Wall Glacier Lily Glacier National Park Going-to-the-Sun Mountain Going-to-the-Sun Road Golden-mantled Ground Squirrel Granite Park Chalet Grinnell Glacier Grinnell Lake Grizzly Bear Highline Trail Iceberg Cirque Jackson Glacier Lake McDonald Lake McDonald Lodge Logan Pass Many Glacier Hotel and Mount Grinnell McDonald Falls Mountain Goat Red Jammers Sperry Glacier St. Mary Falls St. Mary Lake Sunrift Gorge Swiftcurrent Falls Swiftcurrent Lake and Mount Gould Swiftcurrent Pass and Bullhead Lake Trail of the Cedars Two Medicine Lake Weeping Wall Western Meadowlark
   speakers     = Amy
   emphasis     = 12
 
