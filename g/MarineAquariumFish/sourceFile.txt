@@ -3,6 +3,7 @@ app vocabulary.g.MarineAquariumFish = Marine Aquarium Fish
   icon         = Lookdown Fish.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Achilles Tang Banded Sole Banggai Cardinalfish Checkerboard Wrasse Cherubfish Citron Clown Goby Convict Blenny Convict Tang Copperband Butterflyfish Crown Toby Elegant Firefish Emperor Angelfish Falco's Hawkfish Goldsaddle Goatfish Guineafowl Puffer Harlequin Tusk Humpback Grouper Long-spine Porcupinefish Longnose Hawkfish Lookdown Fish Mandarinfish Maroon Clownfish Mimic Tang Orange Clownfish Orange Striped Triggerfish Orbicular Batfish Oriental Sweetlips Queen Angelfish Raccoon Butterflyfish Ringed Pipefish Rockmover Wrasse Round Stingray Royal Gramma Semicircle Angelfish Sergeant Major Spotfin Hogfish Spotted Surgeonfish Stonefish Striated Frogfish Tassle Filefish Tomato Clownfish Two-spined Angelfish Twospot Turkeyfish Warty Frogfish Weedy Scorpionfish White-spotted Puffer Yellow Tang Yellow-edged Lyretail Yellowtail Clownfish Yellowtail Damselfish Yellowtail Wrasse Zebra Lionfish
   speakers     = Amy
   emphasis     = 12
 
