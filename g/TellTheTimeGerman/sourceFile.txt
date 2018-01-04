@@ -4,5 +4,6 @@ app vocabulary.g.TellTheTimeGerman = Tell the Time in German
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
+  emphasis     = 12
 
 
