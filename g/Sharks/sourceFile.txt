@@ -3,6 +3,7 @@ app vocabulary.g.Sharks = Sharks
   icon         = Great White Shark.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Australian Angelshark Basking Shark Blacktip Reef Shark Blind Shark Blotchy Swell Shark Blue Shark Bonnethead Shark Broadnose Sevengill Shark Bull Shark Caribbean Reef Shark Copper Shark Crested Bullhead Shark Dark Shyshark Draughtsboard Shark Elephant Shark Galapagos Shark Great Hammerhead Shark Great White Shark Grey Bamboo Shark Grey Reef Shark Horn Shark Japanese Angelshark Japanese Bullhead Shark Japanese Sawshark Japanese Topeshark Leopard Shark Longnose Velvet Dogfish Nurse Shark Port Jackson Shark Puffadder Shyshark Pyjama Shark Sand Tiger Shark Sandbar Shark Saw Shark Scalloped Hammerhead Shark Shortfin Mako Shark Sicklefin Lemon Shark Silky Shark Silvertip Shark Small-spotted Catshark Speartooth Shark Spined Pygmy Shark Spiny Dogfish Spotted Wobbegong Shark Swellshark Tasselled Wobbegong Shark Tiger Shark Whale Shark Whitetip Reef Shark Zebra Shark
   speakers     = Amy
   emphasis     = 12
 
