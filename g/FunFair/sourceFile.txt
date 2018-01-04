@@ -5,4 +5,126 @@ app g.FunFair   = A Day at the Fun Fair
   email        = philiprbrenan@gmail.com
   speakers     = Amy
 
-
+       
+photo  Arcade.Games          =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/ArcadeGames.jpg         
+       
+photo  Archery               =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Archery.jpg             
+       
+photo  Balloons              =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Balloons.jpg            
+       
+photo  Big.Wheel             =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/BigWheel.jpg            
+       
+photo  Bungee                =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Bungee.jpg              
+       
+photo  Burgers               =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Burgers.jpg             
+       
+photo  Candy.Floss           =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/CandyFloss.jpg          
+       
+photo  Catch.A.Duck          =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/CatchADuck.jpg          
+       
+photo  Circus.Slide          =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/CircusSlide.jpg         
+       
+photo  Claw.machine          =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Clawmachine.jpg         
+       
+photo  Crazy.Circus          =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/CrazyCircus.jpg         
+       
+photo  Crazy.Frog.Game       =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/CrazyFrogGame.jpg       
+       
+photo  Darts                 =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Darts.jpg               
+       
+photo  Dodgems               =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Dodgems.jpg             
+       
+photo  Flying.Chairs         =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/FlyingChairs.jpg        
+       
+photo  Freddy's.Revenge      =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Freddy'sRevenge.jpg     
+       
+photo  Froggit               =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Froggit.jpg             
+       
+photo  Fun.House             =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/FunHouse.jpg            
+       
+photo  Galloping.Horses      =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/GallopingHorses.jpg     
+       
+photo  Ghost.Train           =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/GhostTrain.jpg          
+       
+photo  Giant.Helter.Skelter  =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/GiantHelterSkelter.jpg  
+       
+photo  Helter.Skelter        =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/HelterSkelter.jpg       
+       
+photo  High.Roller           =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/HighRoller.jpg          
+       
+photo  Ladybirds             =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Ladybirds.jpg           
+       
+photo  Little.Wheel          =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/LittleWheel.jpg         
+       
+photo  Merry-Go-Round        =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Merry-Go-Round.jpg      
+       
+photo  Octopus               =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Octopus.jpg             
+       
+photo  Orbit                 =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Orbit.jpg               
+       
+photo  Pirate's.Treasure     =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Pirate'sTreasure.jpg    
+       
+photo  Rifle.Range           =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/RifleRange.jpg          
+       
+photo  Sky.Flyer             =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/SkyFlyer.jpg            
+       
+photo  Slot.Machine          =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/SlotMachine.jpg         
+       
+photo  Spinning.Teacups      =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/SpinningTeacups.jpg     
+       
+photo  Storm                 =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Storm.jpg               
+       
+photo  Superbowl             =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Superbowl.jpg           
+       
+photo  Sweets                =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Sweets.jpg              
+       
+photo  Teacups               =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Teacups.jpg             
+       
+photo  Tin.Can.Alley         =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/TinCanAlley.jpg         
+       
+photo  Twister               =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/Twister.jpg             
+       
+photo  Win.a.Goldfish        =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/WinaGoldfish.jpg        
+       
+photo  Win.a.Teddy           =                                                                             
+       url                   =  github://philiprbrenan/vocabulary-6/images/FunFair/WinaTeddy.jpg           
