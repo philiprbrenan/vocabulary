@@ -3,6 +3,7 @@ app vocabulary.g.Alphabet = Easy English Alphabet
   icon         = Palm.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Airplane Apple Arm Baby Boat Bridge Bus Cannon Car Church Clouds Daisy Dish Door Ear Egg Eight Flag Flower Fork Gate Glass Glasses Grape Hand Hat House Ice Iris Island Jar Jeep Jug Kayak Kettle Key Lamp Leaf Lily Map Moon Mosque Mountain Mushroom Nail Needle Nest Note Oar Orange Palm Pansy Plate Quarter Quilt Road Rope Rose Sail Sea Snowman Sun Teddy Tent Train Tree Umbrella Van Vase Violet Wall Wheel Windmill X-ray Yacht Yarn Yolk Zero Zigzag Zip
   speakers     = Amy
   emphasis     = 12
 
