@@ -1,6 +1,6 @@
-app g.AnimalAlphabet   = Easy Animal Alphabet
+app vocabulary.g.AnimalAlphabet = Easy Animal Alphabet
   description  = Learn about Easy Animal Alphabet in English
-  icon         = Lion.png
+  icon         = Lion.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
