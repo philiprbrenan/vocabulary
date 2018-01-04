@@ -5,4 +5,210 @@ app g.Bathroom   = Bathroom
   email        = philiprbrenan@gmail.com
   speakers     = Amy
 
-
+       
+photo  Air.Freshner         =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/AirFreshner.jpg         
+       
+photo  Bar.of.Soap          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/BarofSoap.jpg           
+       
+photo  Basin                =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Basin.jpg               
+       
+photo  Bath                 =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Bath.jpg                
+       
+photo  Bath.Mat             =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/BathMat.jpg             
+       
+photo  Bath.Towel           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/BathTowel.jpg           
+       
+photo  Bathroom.Scale       =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/BathroomScale.jpg       
+       
+photo  Bidet                =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Bidet.jpg               
+       
+photo  Ceramic.Wall.Tiles   =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/CeramicWallTiles.jpg    
+       
+photo  Cistern              =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Cistern.jpg             
+       
+photo  Clothes.Airer        =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ClothesAirer.jpg        
+       
+photo  Cold.Tap             =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ColdTap.jpg             
+       
+photo  Comb                 =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Comb.jpg                
+       
+photo  Cotton.Buds          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/CottonBuds.jpg          
+       
+photo  Dental.Floss         =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/DentalFloss.jpg         
+       
+photo  Electric.Razor       =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ElectricRazor.jpg       
+       
+photo  Electric.Shower      =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ElectricShower.jpg      
+       
+photo  Fan.Heater           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/FanHeater.jpg           
+       
+photo  Flannel              =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Flannel.jpg             
+       
+photo  Hair.Dryer           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/HairDryer.jpg           
+       
+photo  Hairbrush            =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Hairbrush.jpg           
+       
+photo  Hand.Cream           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/HandCream.jpg           
+       
+photo  Hand.Towel           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/HandTowel.jpg           
+       
+photo  Heated.Towel.Rail    =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/HeatedTowelRail.jpg     
+       
+photo  Hot.Tap              =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/HotTap.jpg              
+       
+photo  Laundry.Basket       =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/LaundryBasket.jpg       
+       
+photo  Lever                =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Lever.jpg               
+       
+photo  Light                =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Light.jpg               
+       
+photo  Liquid.Soap          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/LiquidSoap.jpg          
+       
+photo  Mirror               =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Mirror.jpg              
+       
+photo  Mixer.Tap            =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/MixerTap.jpg            
+       
+photo  Mouthwash            =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Mouthwash.jpg           
+       
+photo  Nail.Brush           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/NailBrush.jpg           
+       
+photo  Nail.Clippers        =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/NailClippers.jpg        
+       
+photo  Nail.Files           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/NailFiles.jpg           
+       
+photo  Plug                 =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Plug.jpg                
+       
+photo  Plug.Hole            =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/PlugHole.jpg            
+       
+photo  Radiator             =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Radiator.jpg            
+       
+photo  Razors               =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Razors.jpg              
+       
+photo  Roller.Blind         =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/RollerBlind.jpg         
+       
+photo  Scissors             =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Scissors.jpg            
+       
+photo  Shampoo              =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Shampoo.jpg             
+       
+photo  Shaver.Socket        =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ShaverSocket.jpg        
+       
+photo  Shower.Cubicle       =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ShowerCubicle.jpg       
+       
+photo  Shower.Curtain       =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ShowerCurtain.jpg       
+       
+photo  Shower.Head          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ShowerHead.jpg          
+       
+photo  Shower.Hose          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ShowerHose.jpg          
+       
+photo  Shower.Rail          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ShowerRail.jpg          
+       
+photo  Shower.Seat          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ShowerSeat.jpg          
+       
+photo  Shower.Tray          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ShowerTray.jpg          
+       
+photo  Sponge               =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Sponge.jpg              
+       
+photo  Sponge.Bag           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/SpongeBag.jpg           
+       
+photo  Stool                =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Stool.jpg               
+       
+photo  Tap                  =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Tap.jpg                 
+       
+photo  Temperature.Control  =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/TemperatureControl.jpg  
+       
+photo  Tissues              =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Tissues.jpg             
+       
+photo  Toenail.Clippers     =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ToenailClippers.jpg     
+       
+photo  Toilet               =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Toilet.jpg              
+       
+photo  Toilet.Brush         =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ToiletBrush.jpg         
+       
+photo  Toilet.Lid           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ToiletLid.jpg           
+       
+photo  Toilet.Roll          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ToiletRoll.jpg          
+       
+photo  Toilet.Roll.Holder   =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ToiletRollHolder.jpg    
+       
+photo  Toilet.Seat          =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/ToiletSeat.jpg          
+       
+photo  Toothbrush           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Toothbrush.jpg          
+       
+photo  Toothpaste           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Toothpaste.jpg          
+       
+photo  Towel.Rail           =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/TowelRail.jpg           
+       
+photo  Towels               =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/Towels.jpg              
+       
+photo  Vanity.Mirror        =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/VanityMirror.jpg        
+       
+photo  Water.Flow.Control   =                                                                              
+       url                  =  github://philiprbrenan/vocabulary-1/images/Bathroom/WaterFlowControl.jpg    
