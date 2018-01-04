@@ -1,6 +1,6 @@
-app g.Arctic   = Wild Animals of the Arctic
+app vocabulary.g.Arctic = Wild Animals of the Arctic
   description  = Learn about Wild Animals of the Arctic in English
-  icon         = Polar Bear 1.png
+  icon         = Polar Bear 1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
