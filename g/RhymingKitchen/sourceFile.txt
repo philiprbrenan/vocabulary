@@ -1,0 +1,247 @@
+app g.RhymingKitchen   = Rhyming Kitchen in English
+  description  = Learn about Rhyming Kitchen in English in English
+  icon         = Chopping Board.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Baking.Trays       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/BakingTrays.jpg      
+       
+photo  Biscuit.Jars       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/BiscuitJars.jpg      
+       
+photo  Bowl               =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Bowl.jpg             
+       
+photo  Bread.Knife        =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/BreadKnife.jpg       
+       
+photo  Cafetiere          =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Cafetiere.jpg        
+       
+photo  Can.Opener         =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/CanOpener.jpg        
+       
+photo  Cheese.Grater      =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/CheeseGrater.jpg     
+       
+photo  Chopping.Board     =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/ChoppingBoard.jpg    
+       
+photo  Colander           =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Colander.jpg         
+       
+photo  Cold.Tap           =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/ColdTap.jpg          
+       
+photo  Cooker             =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Cooker.jpg           
+       
+photo  Cooker.Socket      =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/CookerSocket.jpg     
+       
+photo  Crockery           =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Crockery.jpg         
+       
+photo  Cup.and.Saucer     =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/CupandSaucer.jpg     
+       
+photo  Cupboard           =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Cupboard.jpg         
+       
+photo  Cutlery            =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Cutlery.jpg          
+       
+photo  Dish.Cloth         =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/DishCloth.jpg        
+       
+photo  Dish.Washer        =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/DishWasher.jpg       
+       
+photo  Drainer.Basket     =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/DrainerBasket.jpg    
+       
+photo  Electric.Blender   =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/ElectricBlender.jpg  
+       
+photo  Electric.Kettle    =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/ElectricKettle.jpg   
+       
+photo  Forks              =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Forks.jpg            
+       
+photo  Freezer            =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Freezer.jpg          
+       
+photo  Fridge             =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Fridge.jpg           
+       
+photo  Fruit.Bowl         =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/FruitBowl.jpg        
+       
+photo  Frying.Pan         =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/FryingPan.jpg        
+       
+photo  Garlic.Press       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/GarlicPress.jpg      
+       
+photo  Gas.Burner         =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/GasBurner.jpg        
+       
+photo  Glass              =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Glass.jpg            
+       
+photo  Glasses            =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Glasses.jpg          
+       
+photo  Hand.Blender       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/HandBlender.jpg      
+       
+photo  Hob.Controls       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/HobControls.jpg      
+       
+photo  Hob.Top            =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/HobTop.jpg           
+       
+photo  Hot.Tap            =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/HotTap.jpg           
+       
+photo  Iron               =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Iron.jpg             
+       
+photo  Ironing.Board      =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/IroningBoard.jpg     
+       
+photo  Kitchen.Dresser    =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/KitchenDresser.jpg   
+       
+photo  Kitchen.Knives     =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/KitchenKnives.jpg    
+       
+photo  Kitchen.Scales     =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/KitchenScales.jpg    
+       
+photo  Kitchen.Sink       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/KitchenSink.jpg      
+       
+photo  Kitchen.Utensils   =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/KitchenUtensils.jpg  
+       
+photo  Knives             =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Knives.jpg           
+       
+photo  Ladle              =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Ladle.jpg            
+       
+photo  Lemon.Squeezer     =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/LemonSqueezer.jpg    
+       
+photo  Microwave          =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Microwave.jpg        
+       
+photo  Milk.Jug           =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/MilkJug.jpg          
+       
+photo  Mixer.Tap          =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/MixerTap.jpg         
+       
+photo  Mixing.Bowl        =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/MixingBowl.jpg       
+       
+photo  Mug                =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Mug.jpg              
+       
+photo  Oven               =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Oven.jpg             
+       
+photo  Oven.Controls      =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/OvenControls.jpg     
+       
+photo  Oven.Mitt          =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/OvenMitt.jpg         
+       
+photo  Paper.Towels       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/PaperTowels.jpg      
+       
+photo  Plate              =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Plate.jpg            
+       
+photo  Plug               =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Plug.jpg             
+       
+photo  Plug.Hole          =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/PlugHole.jpg         
+       
+photo  Pyrex.Dishes       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/PyrexDishes.jpg      
+       
+photo  Rolling.Pin        =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/RollingPin.jpg       
+       
+photo  Salt.and.Pepper    =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/SaltandPepper.jpg    
+       
+photo  Sandwich.Toaster   =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/SandwichToaster.jpg  
+       
+photo  Saucepan           =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Saucepan.jpg         
+       
+photo  Scissors           =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Scissors.jpg         
+       
+photo  Scourers           =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Scourers.jpg         
+       
+photo  Sink               =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Sink.jpg             
+       
+photo  Spatula            =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Spatula.jpg          
+       
+photo  Spoons             =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Spoons.jpg           
+       
+photo  Strainer.Plug      =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/StrainerPlug.jpg     
+       
+photo  Sugar.Bowl         =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/SugarBowl.jpg        
+       
+photo  Table.and.Chairs   =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/TableandChairs.jpg   
+       
+photo  Tea.Service        =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/TeaService.jpg       
+       
+photo  Tea.Towels         =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/TeaTowels.jpg        
+       
+photo  Teapot             =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Teapot.jpg           
+       
+photo  Toaster            =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Toaster.jpg          
+       
+photo  Tray               =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Tray.jpg             
+       
+photo  Washing.Machine    =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/WashingMachine.jpg   
+       
+photo  Washing.Powder     =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/WashingPowder.jpg    
+       
+photo  Washing.Up.Liquid  =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/WashingUpLiquid.jpg  
+       
+photo  Water.Filter       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/WaterFilter.jpg      
+       
+photo  Wok                =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/Wok.jpg              
+       
+photo  Wooden.Spoon       =                                                                                  
+       url                =  github://philiprbrenan/vocabulary-10/images/RhymingKitchen/WoodenSpoon.jpg      
