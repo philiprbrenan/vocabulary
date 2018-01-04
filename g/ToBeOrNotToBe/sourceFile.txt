@@ -1,0 +1,98 @@
+app g.ToBeOrNotToBe   = To Be Or Not To Be
+  description  = Learn about To Be Or Not To Be in English
+  icon         = icon2.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  AgainstASeaOfTroubles                =  Against a Sea of troubles                                                                        
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/AgainstASeaOfTroubles.jpg              
+fact   AgainstASeaOfTroubles.0              =  Against a Sea of troubles                                                                        
+       remark                               =  yes                                                                                              
+fact   AgainstASeaOfTroubles.1              =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  AndByOpposingEndThem                 =  And by opposing end them?                                                                        
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/AndByOpposingEndThem.jpg               
+fact   AndByOpposingEndThem.0               =  And by opposing end them?                                                                        
+       remark                               =  yes                                                                                              
+fact   AndByOpposingEndThem.1               =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  AndTheThousandNaturaShocks           =  and the thousand Natural shocks                                                                  
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/AndTheThousandNaturaShocks.jpg         
+fact   AndTheThousandNaturaShocks.0         =  and the thousand Natural shocks                                                                  
+       remark                               =  yes                                                                                              
+fact   AndTheThousandNaturaShocks.1         =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  OrToTakeArms                         =  Or to take Arms                                                                                  
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/OrToTakeArms.jpg                       
+fact   OrToTakeArms.0                       =  Or to take Arms                                                                                  
+       remark                               =  yes                                                                                              
+fact   OrToTakeArms.1                       =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  OutrageousFortune                    =  Of outrageous Fortune                                                                            
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/OutrageousFortune.jpg                  
+fact   OutrageousFortune.0                  =  Of outrageous Fortune                                                                            
+       remark                               =  yes                                                                                              
+fact   OutrageousFortune.1                  =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  ThatFleshIsHeirTo                    =  That Flesh is heir to?                                                                           
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/ThatFleshIsHeirTo.jpg                  
+fact   ThatFleshIsHeirTo.0                  =  That Flesh is heir to?                                                                           
+       remark                               =  yes                                                                                              
+fact   ThatFleshIsHeirTo.1                  =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  ThatIsTheQuestion                    =  That is the Question                                                                             
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/ThatIsTheQuestion.jpg                  
+fact   ThatIsTheQuestion.0                  =  That is the Question                                                                             
+       remark                               =  yes                                                                                              
+fact   ThatIsTheQuestion.1                  =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  TheHeartAche                         =  The Heart-ache                                                                                   
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/TheHeartAche.jpg                       
+fact   TheHeartAche.0                       =  The Heart-ache                                                                                   
+       remark                               =  yes                                                                                              
+fact   TheHeartAche.1                       =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  TheSlingsAndArrows                   =  The Slings and Arrows                                                                            
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/TheSlingsAndArrows.jpg                 
+fact   TheSlingsAndArrows.0                 =  The Slings and Arrows                                                                            
+       remark                               =  yes                                                                                              
+fact   TheSlingsAndArrows.1                 =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  TisAConsumationdevoutlyToBeWished    =  'Tis a consummation Devoutly to be wished.                                                       
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/TisAConsumationdevoutlyToBeWished.jpg  
+fact   TisAConsumationdevoutlyToBeWished.0  =  'Tis a consummation Devoutly to be wished.                                                       
+       remark                               =  yes                                                                                              
+fact   TisAConsumationdevoutlyToBeWished.1  =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  ToBeOrNotToBe                        =  To Be Or Not To Be                                                                               
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/ToBeOrNotToBe.jpg                      
+fact   ToBeOrNotToBe.0                      =  To Be Or Not To Be                                                                               
+       remark                               =  yes                                                                                              
+fact   ToBeOrNotToBe.1                      =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  ToDieToSleepNoMore                   =  To die, to sleep no more, and by a sleep to say, we end                                          
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/ToDieToSleepNoMore.jpg                 
+fact   ToDieToSleepNoMore.0                 =  To die, to sleep no more, and by a sleep to say, we end                                          
+       remark                               =  yes                                                                                              
+fact   ToDieToSleepNoMore.1                 =                                                                                                   
+       remark                               =  yes                                                                                              
+       
+photo  WhetherTisNoblerInTheMindToSuffer    =  Whether 'tis Nobler in the mind to suffer                                                        
+       url                                  =  github://philiprbrenan/vocabulary-12/images/ToBeOrNotToBe/WhetherTisNoblerInTheMindToSuffer.jpg  
+fact   WhetherTisNoblerInTheMindToSuffer.0  =  Whether 'tis Nobler in the mind to suffer                                                        
+       remark                               =  yes                                                                                              
+fact   WhetherTisNoblerInTheMindToSuffer.1  =                                                                                                   
+       remark                               =  yes                                                                                              
