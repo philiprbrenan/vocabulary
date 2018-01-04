@@ -1,6 +1,6 @@
-app g.PlusOrMinus   = Plus or Minus, More or Less
+app vocabulary.g.PlusOrMinus = Plus or Minus, More or Less
   description  = Learn about Plus or Minus, More or Less in English
-  icon         = icon0.png
+  icon         = icon0.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
