@@ -1,6 +1,6 @@
-app g.CountTeddyBearsInEnglish   = Count Teddy Bears 1-20
+app vocabulary.g.CountTeddyBearsInEnglish = Count Teddy Bears 1-20
   description  = Learn about Count Teddy Bears 1-20 in English
-  icon         = 13.png
+  icon         = 13.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
