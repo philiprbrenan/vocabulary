@@ -1,6 +1,6 @@
-app g.MonthsOfTheYearInGerman   = Months of the Year in German
+app vocabulary.g.MonthsOfTheYearInGerman = Months of the Year in German
   description  = Learn about Months of the Year in German in English
-  icon         = October.png
+  icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
