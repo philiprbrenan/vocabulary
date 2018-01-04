@@ -1,4 +1,4 @@
-app g.Addition   = Addition
+app vocabulary.g.Addition = Addition
   description  = Learn about Addition in English
   icon         = icon.png
   author       = philiprbrenan
