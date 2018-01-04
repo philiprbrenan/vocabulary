@@ -107,7 +107,7 @@ fact   Death.Valley.National.Park.5          =  Salt flats, sand dunes, badlands
        remark                                =  yes                                                                                        
 fact   Death.Valley.National.Park.6          =  Largest national park in the USA outside Alaska                                            
 fact   Death.Valley.National.Park.7          =  Hottest and driest of the national parks in the USA                                        
-fact   Death.Valley.National.Park.8          =  Holds the record for the highest recorded temperature on Earth (56.7 °C)                   
+fact   Death.Valley.National.Park.8          =  Holds the record for the highest recorded temperature on Earth (56.7 Â°C)                   
 fact   Death.Valley.National.Park.9          =  Home to many species adapted to deserts                                                    
        remark                                =  yes                                                                                        
 fact   Death.Valley.National.Park.10         =  Became a national park in 1994                                                             
@@ -163,7 +163,7 @@ photo  Furnace.Creek                         =  Furnace Creek
 fact   Furnace.Creek.0                       =  A spring, oasis, and village located 58 m (190 ft) below sea level                         
 fact   Furnace.Creek.1                       =  Location of the main park visitor centre and Furnace Creek Inn and resort complex          
 fact   Furnace.Creek.2                       =  Site of the lowest golf course in the world                                                
-fact   Furnace.Creek.3                       =  Site of world's highest recorded temperature, reaching 134°F (56.7 °C) on July 13, 1913    
+fact   Furnace.Creek.3                       =  Site of world's highest recorded temperature, reaching 134Â°F (56.7 Â°C) on July 13, 1913    
        
 photo  Golden.Canyon                         =  Golden Canyon                                                                              
        url                                   =  github://philiprbrenan/vocabulary-5/images/DeathValley/GoldenCanyon.jpg                    
