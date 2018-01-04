@@ -1,6 +1,6 @@
-app g.CountSoftToysInEnglish   = Count Soft Toys 1-10
+app vocabulary.g.CountSoftToysInEnglish = Count Soft Toys 1-10
   description  = Learn about Count Soft Toys 1-10 in English
-  icon         = Eight Pigs.png
+  icon         = Eight Pigs.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
