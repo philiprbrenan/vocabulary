@@ -1,0 +1,97 @@
+app g.Seasons   = The Four Seasons in English
+  description  = Learn about The Four Seasons in English in English
+  icon         = Summer P.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Autumn.L    =  Autumn                                                           
+       url         =  github://philiprbrenan/vocabulary-10/images/Seasons/AutumnL.jpg  
+fact   Autumn.L.0  =  Season of mists and mellow fruitfulness                          
+fact   Autumn.L.1  =  A time to harvest                                                
+fact   Autumn.L.2  =  Comes after Summer                                               
+fact   Autumn.L.3  =  Comes before Winter                                              
+fact   Autumn.L.4  =  September                                                        
+fact   Autumn.L.5  =  October                                                          
+fact   Autumn.L.6  =  November                                                         
+       
+photo  Autumn.P    =  Autumn                                                           
+       url         =  github://philiprbrenan/vocabulary-10/images/Seasons/AutumnP.jpg  
+fact   Autumn.P.0  =  Season of mists and mellow fruitfulness                          
+fact   Autumn.P.1  =  A time to harvest                                                
+fact   Autumn.P.2  =  Comes after Summer                                               
+fact   Autumn.P.3  =  Comes before Winter                                              
+fact   Autumn.P.4  =  September                                                        
+fact   Autumn.P.5  =  October                                                          
+fact   Autumn.P.6  =  November                                                         
+       
+photo  Spring.L    =  Spring                                                           
+       url         =  github://philiprbrenan/vocabulary-10/images/Seasons/SpringL.jpg  
+fact   Spring.L.0  =  All the flowers are in bloom                                     
+fact   Spring.L.1  =  The time of plans and projects                                   
+fact   Spring.L.2  =  A time to plant and sow                                          
+fact   Spring.L.3  =  Comes after Winter                                               
+fact   Spring.L.4  =  Comes before Summer                                              
+fact   Spring.L.5  =  March                                                            
+fact   Spring.L.6  =  April                                                            
+fact   Spring.L.7  =  May                                                              
+       
+photo  Spring.P    =  Spring                                                           
+       url         =  github://philiprbrenan/vocabulary-10/images/Seasons/SpringP.jpg  
+fact   Spring.P.0  =  All the flowers are in bloom                                     
+fact   Spring.P.1  =  The time of plans and projects                                   
+fact   Spring.P.2  =  A time to plant and sow                                          
+fact   Spring.P.3  =  Comes after Winter                                               
+fact   Spring.P.4  =  Comes before Summer                                              
+fact   Spring.P.5  =  March                                                            
+fact   Spring.P.6  =  April                                                            
+fact   Spring.P.7  =  May                                                              
+       
+photo  Summer.L    =  Summer                                                           
+       url         =  github://philiprbrenan/vocabulary-10/images/Seasons/SummerL.jpg  
+fact   Summer.L.0  =  It's hot a lot                                                   
+fact   Summer.L.1  =  Long days, short nights                                          
+fact   Summer.L.2  =  Comes before Autumn                                              
+fact   Summer.L.3  =  Comes after Spring                                               
+fact   Summer.L.4  =  When the weather is fine                                         
+fact   Summer.L.5  =  When the sun is high in the sky                                  
+fact   Summer.L.6  =  June                                                             
+fact   Summer.L.7  =  July                                                             
+fact   Summer.L.8  =  August                                                           
+       
+photo  Summer.P    =  Summer                                                           
+       url         =  github://philiprbrenan/vocabulary-10/images/Seasons/SummerP.jpg  
+fact   Summer.P.0  =  It's hot a lot                                                   
+fact   Summer.P.1  =  Long days, short nights                                          
+fact   Summer.P.2  =  Comes before Autumn                                              
+fact   Summer.P.3  =  Comes after Spring                                               
+fact   Summer.P.4  =  When the weather is fine                                         
+fact   Summer.P.5  =  When the sun is high in the sky                                  
+fact   Summer.P.6  =  June                                                             
+fact   Summer.P.7  =  July                                                             
+fact   Summer.P.8  =  August                                                           
+       
+photo  Winter.L    =  Winter                                                           
+       url         =  github://philiprbrenan/vocabulary-10/images/Seasons/WinterL.jpg  
+fact   Winter.L.0  =  It's cold a lot                                                  
+fact   Winter.L.1  =  Lots of snow                                                     
+fact   Winter.L.2  =  Short days, long nights                                          
+fact   Winter.L.3  =  Comes after Autumn                                               
+fact   Winter.L.4  =  Comes before Spring                                              
+fact   Winter.L.5  =  When the sun is low in the sky                                   
+fact   Winter.L.6  =  December                                                         
+fact   Winter.L.7  =  January                                                          
+fact   Winter.L.8  =  February                                                         
+       
+photo  Winter.P    =  Winter                                                           
+       url         =  github://philiprbrenan/vocabulary-10/images/Seasons/WinterP.jpg  
+fact   Winter.P.0  =  It's cold a lot                                                  
+fact   Winter.P.1  =  Lots of snow                                                     
+fact   Winter.P.2  =  Short days, long nights                                          
+fact   Winter.P.3  =  Comes after Autumn                                               
+fact   Winter.P.4  =  Comes before Spring                                              
+fact   Winter.P.5  =  When the sun is low in the sky                                   
+fact   Winter.P.6  =  December                                                         
+fact   Winter.P.7  =  January                                                          
+fact   Winter.P.8  =  February                                                         
