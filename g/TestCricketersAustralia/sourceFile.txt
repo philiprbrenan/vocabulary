@@ -3,6 +3,7 @@ app vocabulary.g.TestCricketersAustralia = Test Cricketers of Australia
   icon         = Michael Clarke 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Adam Gilchrist Andrew McDonald Andrew Symonds Ben Hilfenhaus Brad Haddin Brad Hodge Brad Hogg Brett Lee Cameron White Damien Martyn David Warner Doug Bollinger Ed Cowan Glenn McGrath Jason Gillespie Justin Langer Marcus North Matthew Hayden Matthew Wade Michael Clarke Michael Hussey Michael Kasprowicz Mitchell Johnson Mitchell Starc Nathan Bracken Nathan Hauritz Peter Siddle Phil Jaques Phillip Hughes Ricky Ponting Shane Warne Shane Watson Shaun Marsh Shaun Tait Simon Katich Steve Smith Steve Waugh Stuart Clark Stuart MacGill Tim Paine Trent Copeland
   speakers     = Amy
   emphasis     = 12
 
