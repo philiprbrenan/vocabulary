@@ -1,6 +1,6 @@
-app g.Fruits   = Fruits and Berries
+app vocabulary.g.Fruits = Fruits and Berries
   description  = Learn about Fruits and Berries in English
-  icon         = Strawberry 2.png
+  icon         = Strawberry 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
