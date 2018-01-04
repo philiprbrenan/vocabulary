@@ -1,4 +1,4 @@
-app g.Subtraction   = Subtraction
+app vocabulary.g.Subtraction = Subtraction
   description  = Learn about Subtraction in English
   icon         = icon.png
   author       = philiprbrenan
