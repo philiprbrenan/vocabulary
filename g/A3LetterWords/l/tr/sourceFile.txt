@@ -1,0 +1,193 @@
+app    vocabulary.g.A3LetterWords.l.tr  =  Three-Letter Words in Turkish                                     
+       author                           =  philiprbrenan                                                     
+       description                      =  İngilizce Üç Harfli Kelimeler hakkında bilgi edinin               
+       email                            =  philiprbrenan@gmail.com                                           
+       emphasis                         =                                                                12  
+       icon                             =  Eye.jpg                                                           
+       screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
+       language                         =  tr                                                                
+       
+photo  Ant                              =  Karınca                                                           
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
+       
+photo  Ape                              =  Maymun                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  
+       
+photo  Arm                              =  Kol                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  
+       
+photo  Bag                              =  Sırt çantası                                                      
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  
+       
+photo  Bat                              =  yarasa                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
+       
+photo  Bay                              =  Defne                                                             
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
+       
+photo  Bed                              =  Yatak                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
+       
+photo  Bee                              =  bal arısı                                                         
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
+       
+photo  Bin                              =  Çöp Kutusu                                                        
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  
+       
+photo  Bog                              =  Bataklık                                                          
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
+       
+photo  Bow                              =  yay                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
+       
+photo  Box                              =  Kutu                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
+       
+photo  Boy                              =  Oğlan                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
+       
+photo  Bug                              =  böcek                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
+       
+photo  Bun                              =  Topuz                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
+       
+photo  Bus                              =  Otobüs                                                            
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
+       
+photo  Can                              =  kutu                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  
+       
+photo  Cap                              =  kapak                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  
+       
+photo  Car                              =  araba                                                             
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
+       
+photo  Cat                              =  Kedi                                                              
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
+       
+photo  Cow                              =  İnek                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
+       
+photo  Cup                              =  Fincan                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  
+       
+photo  Dam                              =  Baraj                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  
+       
+photo  Dog                              =  Köpek                                                             
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
+       
+photo  Ear                              =  Kulak                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
+       
+photo  Egg                              =  Yumurta                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
+       
+photo  Emu                              =  koşucu devekuşu                                                   
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
+       
+photo  Eye                              =  Göz                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
+       
+photo  Fan                              =  fan                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
+       
+photo  Fin                              =  yüzgeç                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
+       
+photo  Fox                              =  Tilki                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
+       
+photo  Hat                              =  Şapka                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  
+       
+photo  Hoe                              =  Çapa                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  
+       
+photo  Ice                              =  buz                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
+       
+photo  Jar                              =  kavanoz                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  
+       
+photo  Jug                              =  sürahi                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  
+       
+photo  Key                              =  anahtar                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  
+       
+photo  Leg                              =  Bacak                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  
+       
+photo  Lid                              =  kapak                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  
+       
+photo  Map                              =  Harita                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  
+       
+photo  Men                              =  Erkekler                                                          
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  
+       
+photo  Mug                              =  Kupa                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  
+       
+photo  Oar                              =  kürek                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
+       
+photo  Owl                              =  Baykuş                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
+       
+photo  Pan                              =  Tava                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
+       
+photo  Peg                              =  kazık                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
+       
+photo  Pen                              =  Dolma kalem                                                       
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
+       
+photo  Pig                              =  Domuz                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
+       
+photo  Pin                              =  Toplu iğne                                                        
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
+       
+photo  Rug                              =  kilim                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
+       
+photo  Sea                              =  Deniz                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
+       
+photo  Sow                              =  Ekmek                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
+       
+photo  Sun                              =  Güneş                                                             
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
+       
+photo  Tap                              =  Musluk                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
+       
+photo  Toe                              =  Ayak parmağı                                                      
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
+       
+photo  Van                              =  kamyonet                                                          
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
+       
+photo  Wok                              =  Wok                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
+       
+photo  Yak                              =  Yak                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
+       
+photo  Zip                              =  Fermuar                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
