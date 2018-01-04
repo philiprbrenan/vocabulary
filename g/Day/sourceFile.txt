@@ -3,6 +3,7 @@ app vocabulary.g.Day = Day of the Week
   icon         = Sunday.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = 
   speakers     = Amy
   emphasis     = 12
 
