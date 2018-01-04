@@ -1,4 +1,4 @@
-app g.A3LetterWords   = Three-Letter Words
+app vocabulary.g.A3LetterWords   = Three-Letter Words
   description  = Learn about Three-Letter Words in English
   icon         = Eye.png
   author       = philiprbrenan
