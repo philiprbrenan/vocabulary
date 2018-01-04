@@ -3,6 +3,7 @@ app vocabulary.g.China = China
   icon         = Forbidden_City_1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Beijing_Ancient_Observatory_1 Beijing_National_Stadium_1 Beipanjiang_Railway_Bridge Canton_tower_1 Cenotaph_Hong_Kong_1 Chiang_Kai-shek_Memorial_Hall_2 China_Pavilion_2 Forbidden_City_1 Great_Hall_Of_The_People_1 Great_Wall_1 Guangzhou_International_Finance_Centre Guanyin_Statue_2 Heaven_Lake HuangguoshuFall_1 Hukou_Waterfall_1 International_Commerce_Centre_2 JinMao_Tower_1 Karakul_Lake_1 Kingkey_100_1 Leshan_Buddha_Statue_View Lijiang_River_2 LongshengRiceTerrace Macau_Tower_4 Mount_Everest_North_Face Mount_tai_1 NamTso_1 Nanjing_Road_1 Oriental_Pearl_Tower_1 Pearl_river_1 Potala_Palace_1 Putuo_Zongcheng_Temple_1 Sacred_Heart_Cathedral_5 Saint_Sophia_Cathedral_2 Sidu_River_Bridge_2 Temple_of_Heaven_outside Terracotta_3 The_Bund_1 ThreeGorgesDam Three_Pagodas_1 Tiananmen_1 Tianjin_Eye_2 TigerLeapingGorge Victoria_Harbour_1 White_Horse_Temple_1 Wuyi_Mountains_1 Wuzhen_3 Xihoumen_Bridge_in_Zhoushan Yangtze_River_2 Yu_Garden_3 grandCanal
   speakers     = Amy
   emphasis     = 12
 
