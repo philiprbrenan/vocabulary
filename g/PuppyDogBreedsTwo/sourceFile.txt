@@ -1,6 +1,6 @@
-app g.PuppyDogBreedsTwo   = Model Puppy Dog Breeds 2
+app vocabulary.g.PuppyDogBreedsTwo = Model Puppy Dog Breeds 2
   description  = Learn about Model Puppy Dog Breeds 2 in English
-  icon         = Standard Poodle 1.png
+  icon         = Standard Poodle 1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
