@@ -3,6 +3,7 @@ app vocabulary.g.Bridges = Bridges
   icon         = icon.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Bhumibol_Bridge Bloukrans_Bridge Brooklyn_Bridge_1 Brusio_spiral_viaduct_1 Chesapeake_Bay_Bridge Coronadobaybridgethorton Eads_Bridge Erasmusbrug_Bridge Forth_bridge_1 Gateshead_Millennium_Bridge Golden_Gate_Bridge_1 Howrah_bridge Kiev_Metro_Bridge NavahoBridges New_River_Gorge_Bridge Oresund_Bridge_1 Royal_Gorge_Bridge Seven_Mile_Bridge Sydney_Harbour_Bridge_from_Circular_Quay Tara_Bridge
   speakers     = Amy
   emphasis     = 12
 
