@@ -3,6 +3,7 @@ app vocabulary.g.Functions = Mathematical Functions
   icon         = cos-thumbnail.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = cos cubed exp exp squared exp squared cos exp squared sin linear log minus cos minus cubed minus exp minus exp squared minus exp squared cos minus exp squared sin minus linear minus log minus one over cos minus one over cubed minus one over exp minus one over exp squared minus one over exp squared cos minus one over exp squared sin minus one over linear minus one over log minus one over sin minus one over sinc minus one over squared minus one over squared cos minus one over squared log minus one over squared sin minus one over tan minus sin minus sinc minus squared minus squared cos minus squared log minus squared sin minus tan one over cos one over cubed one over exp one over exp squared one over exp squared cos one over exp squared sin one over linear one over log one over sin one over sinc one over squared one over squared cos one over squared log one over squared sin one over tan sin sinc squared squared cos squared log squared sin tan
   speakers     = Amy
   emphasis     = 12
 
