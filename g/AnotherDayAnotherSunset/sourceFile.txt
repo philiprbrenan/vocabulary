@@ -5,33 +5,4 @@ app g.AnotherDayAnotherSunset   = Another Day, Another Sunset
   email        = philiprbrenan@gmail.com
   speakers     = Amy
 
-       
-photo  A.Winter's.Day               =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/AWinter'sDay.jpg              
-       
-photo  Adios.Amigos                 =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/AdiosAmigos.jpg               
-       
-photo  Another.Day,.Another.Sunset  =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/AnotherDay,AnotherSunset.jpg  
-       
-photo  Beach.Siesta                 =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/BeachSiesta.jpg               
-       
-photo  Carrauntoohil                =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/Carrauntoohil.jpg             
-       
-photo  Going.Somewhere              =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/GoingSomewhere.jpg            
-       
-photo  Happy.Days                   =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/HappyDays.jpg                 
-       
-photo  Love.is.Everything           =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/LoveisEverything.jpg          
-       
-photo  Memories                     =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/Memories.jpg                  
-       
-photo  Nostalgia                    =                                                                                                   
-       url                          =  github://philiprbrenan/vocabulary-0/images/AnotherDayAnotherSunset/Nostalgia.jpg                 
+
