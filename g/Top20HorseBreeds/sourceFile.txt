@@ -1,6 +1,6 @@
-app g.Top20HorseBreeds   = Top 20 Horse Breeds
+app vocabulary.g.Top20HorseBreeds = Top 20 Horse Breeds
   description  = Learn about Top 20 Horse Breeds in English
-  icon         = Andalusian 2.png
+  icon         = Andalusian 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
