@@ -1,0 +1,13 @@
+app g.TheNumbersFrom1To100InEnglish   = The Numbers from 1 to 100 in English
+  description  = Learn about The Numbers from 1 to 100 in English in English
+  icon         = icon2.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo    1  =  One                                                                               
+       url  =  github://philiprbrenan/vocabulary-11/images/TheNumbersFrom1To100InEnglish/1.png   
+       
+photo   12  =  Twelve                                                                            
+       url  =  github://philiprbrenan/vocabulary-11/images/TheNumbersFrom1To100InEnglish/12.png  
