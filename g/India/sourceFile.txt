@@ -3,6 +3,7 @@ app vocabulary.g.India = India
   icon         = Taj_Mahal_4.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Akshardham_2 Amritsar_Golden_Temple_1 Bibi_ka_Maqbara_1 Buland_Darwaza_gate_1 Charminar-Pride_of_Hyderabad Chhatrapati_Shivaji_Terminus_(Victoria_Terminus) City_Palace_1 Coochbihar_Palace_1 Dakshineswar_Kali_Temple_1 Dudhsagar_Falls_Triplet Gateway_of_India_1 GolGumbaz Howrah_Bridge,_1 Humayun_tomb_2 India_Gate_3 Jai_Vilas_Palace_3 Jaipur,_Hawa_Mahal Khajjiar Khajuraho4 Konark_Sun_Temple_3 Lake_Palace_1 Lotus_Temple1 Mahabodhi_Temple_1 Matrimandir Mysore_Palace_1 Nalanda_University_India_ruins Nariman_Point_2 Pagoda_2 Palitana_temples_1 Phiroze_Jeejeebhoy_Towers Q_Minar Rajabai_Clock_Tower Rashtrapati_Bhavan_1 Red_fort_1 Sanchi_Stupa_1 Taj_Mahal_4 Taj_Mahal_Palace_Hotel_1 The_Imperial_Towers_2 Tso_Moriri_Lake_2 UB_city_2 Umaid_Bhawan_Palace_1 Victoria_Memorial_3
   speakers     = Amy
   emphasis     = 12
 
