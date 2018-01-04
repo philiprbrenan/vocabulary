@@ -5,4 +5,45 @@ app g.Colours   = World of Colour
   email        = philiprbrenan@gmail.com
   speakers     = Amy
 
-
+       
+photo  Black   =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Black.jpg   
+       
+photo  Blue    =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Blue.jpg    
+       
+photo  Brown   =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Brown.jpg   
+       
+photo  Cream   =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Cream.jpg   
+       
+photo  Gold    =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Gold.jpg    
+       
+photo  Green   =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Green.jpg   
+       
+photo  Grey    =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Grey.jpg    
+       
+photo  Orange  =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Orange.jpg  
+       
+photo  Pink    =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Pink.jpg    
+       
+photo  Purple  =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Purple.jpg  
+       
+photo  Red     =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Red.jpg     
+       
+photo  Silver  =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Silver.jpg  
+       
+photo  White   =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/White.jpg   
+       
+photo  Yellow  =                                                                 
+       url     =  github://philiprbrenan/vocabulary-3/images/Colours/Yellow.jpg  
