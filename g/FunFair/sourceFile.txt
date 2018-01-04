@@ -3,6 +3,7 @@ app vocabulary.g.FunFair = A Day at the Fun Fair
   icon         = Giant Helter Skelter 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Arcade Games Archery Balloons Big Wheel Bungee Burgers Candy Floss Catch A Duck Circus Slide Claw machine Crazy Circus Crazy Frog Game Darts Dodgems Flying Chairs Freddy's Revenge Froggit Fun House Galloping Horses Ghost Train Giant Helter Skelter Helter Skelter High Roller Ladybirds Little Wheel Merry-Go-Round Octopus Orbit Pirate's Treasure Rifle Range Sky Flyer Slot Machine Spinning Teacups Storm Superbowl Sweets Teacups Tin Can Alley Twister Win a Goldfish Win a Teddy
   speakers     = Amy
   emphasis     = 12
 
