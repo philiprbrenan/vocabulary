@@ -3,6 +3,7 @@ app vocabulary.g.Cats = Top 20 Cats and Kittens
   icon         = Russian Blue - Cat.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Abyssinian - Cat Abyssinian - Kitten American Shorthair - Cat American Shorthair - Kitten Bengal - Cat Bengal - Kitten Birman - Cat Birman - Kitten British Shorthair - Cat British Shorthair - Kitten Burmese - Cat Burmese - Kitten Cornish Rex - Cat Cornish Rex - Kitten Exotic Shorthair - Cat Exotic Shorthair - Kitten Maine Coon - Cat Maine Coon - Kitten Manx - Cat Manx - Kitten Norwegian Forest - Cat Norwegian Forest - Kitten Oriental Shorthair - Cat Oriental Shorthair - Kitten Persian - Cat Persian - Kitten Ragdoll - Cat Ragdoll - Kitten Russian Blue - Cat Russian Blue - Kitten Savannah - Cat Savannah - Kitten Siamese - Cat Siamese - Kitten Siberian - Cat Siberian - Kitten Somali - Cat Somali - Kitten Sphynx - Cat Sphynx - Kitten
   speakers     = Amy
   emphasis     = 12
 
