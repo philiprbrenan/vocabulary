@@ -1,0 +1,8 @@
+app g.TheNumbersFrom1To100InItalian   = The Numbers 1 to 100 in Italian
+  description  = Learn about The Numbers 1 to 100 in Italian in English
+  icon         = icon2.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+
