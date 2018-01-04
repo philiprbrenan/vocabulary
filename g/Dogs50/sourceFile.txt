@@ -3,6 +3,7 @@ app vocabulary.g.Dogs50 = Top 50 Dog Breeds
   icon         = German Shepherd.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Akita Inu American Cocker Spaniel Australian Shepherd Bassett Hound Beagle Bernese Mountain Dog Bichon Frise Bloodhound Boston Terrier Boxer Brittany Spaniel Bulldog Bullmastiff Cairn Terrier Cavalier King Charles Spaniel Chesapeake Bay Retriever Chihuahua Chinese Shar-Pei Dachshund Doberman Pinscher English Mastiff English Springer Spaniel French Bulldog German Shepherd German Shorthaired Pointer Golden Retriever Great Dane Havanese Labrador Retriever Maltese Miniature Pinscher Miniature Schnauzer Newfoundland Papillon Pembroke Welsh Corgi Pomeranian Pug Rhodesian Ridgeback Rottweiler Rough Collie Saint Bernard Scottish Terrier Shetland Sheepdog Shih Tzu Siberian Husky Toy Poodle Vizsla Weimaraner West Highland White Terrier Yorkshire Terrier
   speakers     = Amy
   emphasis     = 12
 
