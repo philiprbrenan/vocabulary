@@ -5,4 +5,36 @@ app g.Dunloe   = Ride through the Gap of Dunloe in South-West Ireland
   email        = philiprbrenan@gmail.com
   speakers     = Amy
 
-
+       
+photo  Bend.of.Road      =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/BendofRoad.jpg       
+       
+photo  Gorse.Rock        =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/GorseRock.jpg        
+       
+photo  Journey's.End     =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/Journey'sEnd.jpg     
+       
+photo  Lakeside          =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/Lakeside.jpg         
+       
+photo  Rapids            =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/Rapids.jpg           
+       
+photo  Rock.Face         =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/RockFace.jpg         
+       
+photo  Ruined.Farmhouse  =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/RuinedFarmhouse.jpg  
+       
+photo  Small.Bridge      =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/SmallBridge.jpg      
+       
+photo  Split.Rock        =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/SplitRock.jpg        
+       
+photo  Stone.Bridge      =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/StoneBridge.jpg      
+       
+photo  The.Start         =                                                                         
+       url               =  github://philiprbrenan/vocabulary-5/images/Dunloe/TheStart.jpg         
