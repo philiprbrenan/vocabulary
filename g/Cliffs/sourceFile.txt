@@ -3,6 +3,7 @@ app vocabulary.g.Cliffs = Cliffs, Stacks and Monoliths
   icon         = Matterhorn (North face).jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = AiguilleDuDru Auyantepui Ball's Pyramid Beachy Head Beinisvoro BenNevis2 Cabo Girao Cap Canaille Cape Enniberg Cerro Torre Cliffs of Moher DevilsTower2 Drakensberg Amphitheatre Eiger2 El Capitan Grand Teton GrandCanyon Grandes Jorasses Great Australian Bight HalfDome2 Lhotse Matterhorn (North face) Mitre Peak Mons Klint MonteFitzRoy2 Mount Thor Nanga Parbat Notch Peak Old Harry Rocks OldManOfHoy3 PaintedWall Piz Badile Preikestolen2 SgurrAlasdair2 ShipRock2 Stawamus Chief Sugarloaf Mountain Table Mountain The Latok Group TorreDelPaine2 Trango Towers TreCime Troll Wall TwelveApostles WhiteCliffsOfDover2
   speakers     = Amy
   emphasis     = 12
 
