@@ -1,6 +1,6 @@
-app g.Chocolate   = Chocolate
+app vocabulary.g.Chocolate = Chocolate
   description  = Learn about Chocolate in English
-  icon         = Chocolate Truffles.png
+  icon         = Chocolate Truffles.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
