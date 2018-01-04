@@ -3,6 +3,7 @@ app vocabulary.g.Yawning = Animals Yawning
   icon         = Hippopotamus.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Alligator Alpaca Baboon Baby Cat Cheetah Chimpanzee Clouded Leopard Cockatiel Crabeater Seal Dog Elephant Seal Ferret Fox Fur Seal Giraffe Gorilla Herring Gull Hippopotamus Horse Jaguar Kangaroo Koala Leopard Lion Lioness Lizard Llama Lynx Man Meerkat Monkey Orangutan Otter Owl Polar Bear Puma Rabbit Raccoon Rat Rattlesnake Red Panda Shoebill Snow Leopard Tiger Tortoise White Tiger Wild Dog Wolf
   speakers     = Amy
   emphasis     = 12
 
