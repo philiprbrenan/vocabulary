@@ -5,4 +5,6 @@ app g.Adjectives   = Adjectives
   email        = philiprbrenan@gmail.com
   speakers     = Amy
 
-
+       
+photo  Dry.Sand  =  Dry Sand                                                           
+       url       =  github://philiprbrenan/vocabulary-0/images/Adjectives/DrySand.jpg  
