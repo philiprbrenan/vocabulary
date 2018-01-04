@@ -1,0 +1,157 @@
+app g.WildAnimals   = Wild Animals
+  description  = Learn about Wild Animals in English
+  icon         = Kangaroo.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Antelope      =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Antelope.jpg      
+       
+photo  Baboon        =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Baboon.jpg        
+       
+photo  Bat           =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Bat.jpg           
+       
+photo  Buffalo       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Buffalo.jpg       
+       
+photo  Camel         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Camel.jpg         
+       
+photo  Cheetah       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Cheetah.jpg       
+       
+photo  Civet         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Civet.jpg         
+       
+photo  Crocodile     =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Crocodile.jpg     
+       
+photo  Dingo         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Dingo.jpg         
+       
+photo  Dolphin       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Dolphin.jpg       
+       
+photo  Dove          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Dove.jpg          
+       
+photo  Elephant      =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Elephant.jpg      
+       
+photo  Emu           =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Emu.jpg           
+       
+photo  Fish          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Fish.jpg          
+       
+photo  Frog          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Frog.jpg          
+       
+photo  Gecko         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Gecko.jpg         
+       
+photo  Giraffe       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Giraffe.jpg       
+       
+photo  Goat          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Goat.jpg          
+       
+photo  Grasshopper   =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Grasshopper.jpg   
+       
+photo  Hippopotamus  =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Hippopotamus.jpg  
+       
+photo  Hornet        =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Hornet.jpg        
+       
+photo  Hyena         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Hyena.jpg         
+       
+photo  Jellyfish     =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Jellyfish.jpg     
+       
+photo  Kangaroo      =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Kangaroo.jpg      
+       
+photo  Koala         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Koala.jpg         
+       
+photo  Leopard       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Leopard.jpg       
+       
+photo  Lion          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Lion.jpg          
+       
+photo  Lizard        =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Lizard.jpg        
+       
+photo  Marmot        =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Marmot.jpg        
+       
+photo  Mongoose      =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Mongoose.jpg      
+       
+photo  Monkey        =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Monkey.jpg        
+       
+photo  Moth          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Moth.jpg          
+       
+photo  Mouse         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Mouse.jpg         
+       
+photo  Ostrich       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Ostrich.jpg       
+       
+photo  Pelican       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Pelican.jpg       
+       
+photo  Pigeon        =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Pigeon.jpg        
+       
+photo  Raven         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Raven.jpg         
+       
+photo  Rhinoceros    =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Rhinoceros.jpg    
+       
+photo  Seagull       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Seagull.jpg       
+       
+photo  Seal          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Seal.jpg          
+       
+photo  Snake         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Snake.jpg         
+       
+photo  Stork         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Stork.jpg         
+       
+photo  Swan          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Swan.jpg          
+       
+photo  Tiger         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Tiger.jpg         
+       
+photo  Toad          =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Toad.jpg          
+       
+photo  Wallaby       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Wallaby.jpg       
+       
+photo  Warthog       =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Warthog.jpg       
+       
+photo  Wildebeest    =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Wildebeest.jpg    
+       
+photo  Yak           =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Yak.jpg           
+       
+photo  Zebra         =                                                                            
+       url           =  github://philiprbrenan/vocabulary-14/images/WildAnimals/Zebra.jpg         
