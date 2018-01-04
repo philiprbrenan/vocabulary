@@ -4,5 +4,6 @@ app vocabulary.g.TraceNumbers09InMandarin = Trace Numbers 0 to 9 in Mandarin
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
+  emphasis     = 12
 
 
