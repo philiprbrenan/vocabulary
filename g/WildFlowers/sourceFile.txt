@@ -3,6 +3,7 @@ app vocabulary.g.WildFlowers = Wild Flowers
   icon         = Globeflower.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Acacia Aster Avens Bellflower Bluebell Buddlea Bugle Buttercup Campion Clover Columbine Cowslip Cranesbill Crocus Daffodil Dandelion Edelweiss Eyebright Forget-Me-Not Gentian Globeflower Gorse Hawthorn Heather Honeysuckle Iris Knapweed Lily Lousewort Mallow Mayweed Orchid Pasqueflower Pink Primrose Rhododendron Saxifrage Scabious Snowbell Soapwort Speedwell Stonecrop Teasel Thistle Thrift Thyme Toadflax Vetch Viola Violet
   speakers     = Amy
   emphasis     = 12
 
