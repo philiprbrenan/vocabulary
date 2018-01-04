@@ -3,6 +3,7 @@ app vocabulary.g.Apes = Amazing Apes
   icon         = Bonobo (juvenile).jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Agile Gibbon Black Crested Gibbon Bonobo (female) Bonobo (juvenile) Bonobo (male) Bornean Orangutan (female) Bornean Orangutan (juvenile) Bornean Orangutan (male) Boy and Girl Chimpanzee (female) Chimpanzee (juvenile) Chimpanzee (male) Eastern Gorilla (female) Eastern Gorilla (juvenile) Eastern Gorilla (male) Lar Gibbon Man and Woman Muller's Bornean Gibbon Northern white-cheeked gibbon Pileated Gibbon Siamang Silvery Gibbon Sumatran Orangutan (female) Sumatran Orangutan (juvenile) Sumatran Orangutan (male) Western Gorilla (female) Western Gorilla (juvenile) Western Gorilla (male) Western Hoolock Gibbon Yellow-cheeked Gibbon
   speakers     = Amy
   emphasis     = 12
 
