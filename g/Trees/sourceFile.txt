@@ -1,0 +1,319 @@
+app g.Trees   = Trees
+  description  = Learn about Trees in English
+  icon         = icon0.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Angel_Oak_Tree_in_SC       =  Southern Live Oak                                                                           
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Angel_Oak_Tree_in_SC.jpg                  
+fact   Angel_Oak_Tree_in_SC.0     =  Located in Angel Oak Park, South Carolina                                                   
+       
+photo  Arbutus_menziesii          =  Madrone                                                                                     
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Arbutus_menziesii.jpg                     
+fact   Arbutus_menziesii.0        =  Regrows quickly after fire                                                                  
+       remark                     =  yes                                                                                         
+fact   Arbutus_menziesii.1        =  Rich orange-red bark peels away in paper thin sheets                                        
+fact   Arbutus_menziesii.2        =  Very hard, dense wood that burns longer and hotter even than oak                            
+       remark                     =  yes                                                                                         
+       
+photo  Banyan_Tree                =  Banyan Tree                                                                                 
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Banyan_Tree.jpg                           
+fact   Banyan_Tree.0              =  National tree of India                                                                      
+fact   Banyan_Tree.1              =  Pollinated by fig wasps                                                                     
+fact   Banyan_Tree.2              =  Shade used by banias: Indian traders                                                        
+fact   Banyan_Tree.3              =  Leaf is said to be the resting place of the god Krishna                                     
+fact   Banyan_Tree.4              =  Thomas Edison planted one in Florida                                                        
+       
+photo  Baobab                     =  Baobab                                                                                      
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Baobab.jpg                                
+fact   Baobab.0                   =  Grows in Madagascar                                                                         
+fact   Baobab.1                   =  Spongy wood used to thatch roofs                                                            
+       remark                     =  yes                                                                                         
+       
+photo  Black_gum                  =  Black Gum                                                                                   
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Black_gum.jpg                             
+fact   Black_gum.0                =  Not particularly gummy.                                                                     
+fact   Black_gum.1                =  Heavy, hard, cross-grained wood used to make bowls                                          
+       
+photo  Black_locust               =  Black Locust                                                                                
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Black_locust.jpg                          
+fact   Black_locust.0             =  Split by the young Abraham Lincoln into posts and rails                                     
+fact   Black_locust.1             =  Posts will last over 100 years in soil                                                      
+fact   Black_locust.2             =  Heat content comparable to anthracite coal                                                  
+fact   Black_locust.3             =  Nitrogen-fixing bacteria on its root system                                                 
+       remark                     =  yes                                                                                         
+fact   Black_locust.4             =  Rot resistant: makes durable boats                                                          
+       
+photo  Bottle_tree                =  Bottle Tree                                                                                 
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Bottle_tree.jpg                           
+fact   Bottle_tree.0              =  Grows in semi desert areas of Namibia and southern Angola                                   
+fact   Bottle_tree.1              =  One of most deadly trees on Earth                                                           
+fact   Bottle_tree.2              =  Toxic alkaloids for poisonous arrows                                                        
+       
+photo  Cedrus_deodara_Manali_2    =  Deodar Cedar                                                                                
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Cedrus_deodara_Manali_2.jpg               
+fact   Cedrus_deodara_Manali_2.0  =  National tree of Pakistan                                                                   
+fact   Cedrus_deodara_Manali_2.1  =  Incense made from aromatic inner wood                                                       
+fact   Cedrus_deodara_Manali_2.2  =  The houseboats of Srinagar                                                                  
+       
+photo  Common_walnut              =  Common Walnut                                                                               
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Common_walnut.jpg                         
+fact   Common_walnut.0            =  Large, brown, richly flavored, corrugated nut                                               
+fact   Common_walnut.1            =  Brought to Europe from Persia by Alexander the Great                                        
+       
+photo  Dracaena_draco             =  Dragon Tree                                                                                 
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Dracaena_draco.jpg                        
+fact   Dracaena_draco.0           =  Symbol of the island of Tenerife                                                            
+fact   Dracaena_draco.1           =  Dragon's blood resin used to stain Stradivarius violins                                     
+       
+photo  European_larch_2           =  Larch                                                                                       
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/European_larch_2.jpg                      
+fact   European_larch_2.0         =  Survives winter cold of -50 C                                                               
+fact   European_larch_2.1         =  Popular for bonsai                                                                          
+       remark                     =  yes                                                                                         
+       
+photo  Honey_Locust               =  Honey Locust                                                                                
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Honey_Locust.jpg                          
+fact   Honey_Locust.0             =  Legumes valuable as high protein cattle fodder                                              
+fact   Honey_Locust.1             =  Not a significant producer of honey                                                         
+fact   Honey_Locust.2             =  Long branched thorns                                                                        
+       
+photo  Jacaranda                  =  Jacaranda                                                                                   
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Jacaranda.jpg                             
+fact   Jacaranda.0                =  Lots in Pretoria, South Africa.                                                             
+fact   Jacaranda.1                =  Purple dye comes from its leaves                                                            
+       
+photo  Judas_tree                 =  Judas Tree                                                                                  
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Judas_tree.jpg                            
+fact   Judas_tree.0               =  Tree of Judea                                                                               
+fact   Judas_tree.1               =  Flowers sometimes dangle directly from the trunk                                            
+       remark                     =  yes                                                                                         
+       
+photo  Katsura_Tree_1             =  Katsura                                                                                     
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Katsura_Tree_1.jpg                        
+fact   Katsura_Tree_1.0           =  Japanese for: tree.                                                                         
+fact   Katsura_Tree_1.1           =  Used to make gobans: boards for the game Go.                                                
+       
+photo  Northern_red_oak           =  Northern Red Oak                                                                            
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Northern_red_oak.jpg                      
+fact   Northern_red_oak.0         =  State tree of New Jersey                                                                    
+       
+photo  Palm_tree_1                =  Palm Tree                                                                                   
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Palm_tree_1.jpg                           
+fact   Palm_tree_1.0              =  Coconuts                                                                                    
+fact   Palm_tree_1.1              =  Dates                                                                                       
+fact   Palm_tree_1.2              =  Rattan cane and raffia                                                                      
+       
+photo  Pando_tree_1               =  Pando Tree                                                                                  
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Pando_tree_1.jpg                          
+fact   Pando_tree_1.0             =  Root system thought to be at least 80,000 years old                                         
+fact   Pando_tree_1.1             =  Thought to be the heaviest organism in the world                                            
+fact   Pando_tree_1.2             =  A single organism weighing about 6 million kilograms                                        
+fact   Pando_tree_1.3             =  The Trembling Giant                                                                         
+       
+photo  PohutukawaCornwallis       =  Pohutukawa Tree                                                                             
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/PohutukawaCornwallis.jpg                  
+fact   PohutukawaCornwallis.0     =  Symbol of La Coruna, Spain                                                                  
+fact   PohutukawaCornwallis.1     =  New Zealand Christmas tree                                                                  
+       
+photo  Rowan_tree                 =  Rowan Tree                                                                                  
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Rowan_tree.jpg                            
+fact   Rowan_tree.0               =  Mountain-ash                                                                                
+fact   Rowan_tree.1               =  Near front doors in Scotland to keep witches away                                           
+fact   Rowan_tree.2               =  Bird-berry or Dog-berry tree                                                                
+       
+photo  Saucer_magnolia            =  Magnolia                                                                                    
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Saucer_magnolia.jpg                       
+fact   Saucer_magnolia.0          =  Evolved to encourage pollination by beetles                                                 
+fact   Saucer_magnolia.1          =  Large, showy flowers open before the leaves                                                 
+fact   Saucer_magnolia.2          =  Flowers up to 35 centimeters wide                                                           
+       
+photo  Scots_pine                 =  Scots Pine                                                                                  
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Scots_pine.jpg                            
+fact   Scots_pine.0               =  Blue-green needles and orange-red bark                                                      
+fact   Scots_pine.1               =  Badge of Clan Gregor                                                                        
+fact   Scots_pine.2               =  Maybe the national tree of Scotland                                                         
+fact   Scots_pine.3               =  A source of rosin and turpentine                                                            
+       
+photo  Sequoia_Tree_2             =  Sequoia                                                                                     
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Sequoia_Tree_2.jpg                        
+fact   Sequoia_Tree_2.0           =  Named after the inventor of the Cherokee alphabet                                           
+fact   Sequoia_Tree_2.1           =  World's largest single stem tree species                                                    
+fact   Sequoia_Tree_2.2           =  Grows only in the western Sierra Nevada, California                                         
+fact   Sequoia_Tree_2.3           =  Largest individual: General Sherman                                                         
+       
+photo  Thuja_plicata_Vancouver    =  Giant Cedar                                                                                 
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Thuja_plicata_Vancouver.jpg               
+fact   Thuja_plicata_Vancouver.0  =  Pungent aromatic oils discourage moths in closets and chests                                
+fact   Thuja_plicata_Vancouver.1  =  Light weight, strength and dark warm sound is ideal for acoustic guitars                    
+       remark                     =  yes                                                                                         
+fact   Thuja_plicata_Vancouver.2  =  Despite its common name, it is not a true cedar                                             
+       
+photo  Tilia_platyphyllos         =  Linden                                                                                      
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Tilia_platyphyllos.jpg                    
+fact   Tilia_platyphyllos.0       =  Lime tree                                                                                   
+fact   Tilia_platyphyllos.1       =  Small, fragrant, yellowish-white flowers                                                    
+       remark                     =  yes                                                                                         
+fact   Tilia_platyphyllos.2       =  Dried flowers are mildly sweet and sticky                                                   
+       remark                     =  yes                                                                                         
+fact   Tilia_platyphyllos.3       =  Sticky nectar ruins car paint                                                               
+fact   Tilia_platyphyllos.4       =  Viking shields made from its bark                                                           
+       
+photo  Weeping_willow             =  Weeping willow                                                                              
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Weeping_willow.jpg                        
+fact   Weeping_willow.0           =  Introduced into England from Aleppo, Syria in 1730                                          
+fact   Weeping_willow.1           =  Weeps for Napoleon and Christ Church by the River Avon                                      
+       
+photo  Wild_cherry_1              =  Wild Cherry                                                                                 
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/Wild_cherry_1.jpg                         
+fact   Wild_cherry_1.0            =  Flavours kriek lambic, a beer brewed in Belgium.                                            
+       remark                     =  yes                                                                                         
+       
+photo  ash                        =  Ash                                                                                         
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/ash.jpg                                   
+fact   ash.0                      =  Wotan's Spear from the World Tree Yggdrasil                                                 
+fact   ash.1                      =  Helicopter seeds                                                                            
+fact   ash.2                      =  Strong and flexible enough for car and aircraft frames                                      
+       
+photo  beechTree                  =  Beech Forest                                                                                
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/beechTree.jpg                             
+fact   beechTree.0                =  Rust coloured leaves remain on saplings until spring                                        
+fact   beechTree.1                =  Small triangular nuts eaten by Stone Age Man                                                
+fact   beechTree.2                =  Very dark forest in which few other plants grow                                             
+       remark                     =  yes                                                                                         
+fact   beechTree.3                =  10% of French forest land                                                                   
+fact   beechTree.4                =  Fine, short grain wood makes excellent furniture                                            
+       remark                     =  yes                                                                                         
+       
+photo  black_poplar               =  Black Poplar                                                                                
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/black_poplar.jpg                          
+fact   black_poplar.0             =  Only 600 female trees of this type in Great Britain and Ireland                             
+fact   black_poplar.1             =  Widely chosen by golf course architects in the 1960s                                        
+       
+photo  blueSpruce                 =  Blue Spruce                                                                                 
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/blueSpruce.jpg                            
+fact   blueSpruce.0               =  State Tree of Utah.                                                                         
+       
+photo  cedar                      =  Cedar of Lebanon                                                                            
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/cedar.jpg                                 
+fact   cedar.0                    =  Planted in the Circle of Lebanon at Highgate Cemetery                                       
+fact   cedar.1                    =  Egyptians used its resin in mummification                                                   
+fact   cedar.2                    =  Conserved by the Roman Emperor Hadrian and by Queen Victoria                                
+fact   cedar.3                    =  Emblem of Lebanon                                                                           
+       
+photo  copperBeech2               =  Copper Beech                                                                                
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/copperBeech2.jpg                          
+fact   copperBeech2.0             =  Purple leaved cultivar of the European Beech                                                
+fact   copperBeech2.1             =  Rust coloured leaves remain on saplings until spring                                        
+       remark                     =  yes                                                                                         
+       
+photo  corkOak                    =  Cork Oak                                                                                    
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/corkOak.jpg                               
+fact   corkOak.0                  =  Thick, spongy, insulating bark protects it from fire                                        
+fact   corkOak.1                  =  Bark harvested each decade to make corks                                                    
+fact   corkOak.2                  =  Cannot legally be cut down in Portugal                                                      
+       
+photo  crabapple_tree             =  Crab Apple                                                                                  
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/crabapple_tree.jpg                        
+fact   crabapple_tree.0           =  Used to flavour cider                                                                       
+fact   crabapple_tree.1           =  Small, sour apples                                                                          
+       
+photo  crepeMyrtle                =  Crepe Myrtle                                                                                
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/crepeMyrtle.jpg                           
+fact   crepeMyrtle.0              =  Colorful, long-lasting flowers through the summer                                           
+       remark                     =  yes                                                                                         
+fact   crepeMyrtle.1              =  Striking white bark                                                                         
+       remark                     =  yes                                                                                         
+       
+photo  eucalyptus                 =  Eucalyptus                                                                                  
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/eucalyptus.jpg                            
+fact   eucalyptus.0               =  Oil for perfume, flavoring, and a natural insecticide                                       
+fact   eucalyptus.1               =  Bark flakes off in long thin strips                                                         
+fact   eucalyptus.2               =  Prominent in Australia and parks in San Francisco                                           
+       
+photo  ginkgo_biloba01            =  Ginkgo                                                                                      
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/ginkgo_biloba01.jpg                       
+fact   ginkgo_biloba01.0          =  A unique species of tree with no living relatives.                                          
+       
+photo  hawthorn                   =  Hawthorn                                                                                    
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/hawthorn.jpg                              
+fact   hawthorn.0                 =  Stakes used to slay vampires                                                                
+       
+photo  kauri                      =  Kauri                                                                                       
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/kauri.jpg                                 
+fact   kauri.0                    =  Flaking bark is a defense against parasitic plants                                          
+fact   kauri.1                    =  Acidic leaves dissolve minerals in soil for its roots to absorb                             
+       
+photo  mapleTrees                 =  Maple                                                                                       
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/mapleTrees.jpg                            
+fact   mapleTrees.0               =  Syrup                                                                                       
+fact   mapleTrees.1               =  Leaves are extremely toxic to horses                                                        
+       remark                     =  yes                                                                                         
+fact   mapleTrees.2               =  Charcoal used to make Tennessee Whiskey                                                     
+fact   mapleTrees.3               =  Bowling pins and butcher's block                                                            
+       
+photo  monkeyPuzzle               =  Monkey Puzzle Tree                                                                          
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/monkeyPuzzle.jpg                          
+fact   monkeyPuzzle.0             =  The national tree of Chile.                                                                 
+fact   monkeyPuzzle.1             =  Thick, tough, triangular scales with sharp edges and tips makes climbing it very difficult  
+       
+photo  olive                      =  Olive                                                                                       
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/olive.jpg                                 
+fact   olive.0                    =  The northernmost grove is on the Island of Anglesey, in Wales                               
+fact   olive.1                    =  Grows in the Garden of Gethsemane                                                           
+fact   olive.2                    =  Silvery green leaves, small white, feathery flowers                                         
+       remark                     =  yes                                                                                         
+       
+photo  planeTrees                 =  Oriental Plane                                                                              
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/planeTrees.jpg                            
+fact   planeTrees.0               =  Planted by Napoleon to keep marching soldiers cool                                          
+fact   planeTrees.1               =  Bark flakes off                                                                             
+fact   planeTrees.2               =  Planted along the avenues of Hyde Park, London                                              
+       
+photo  redHorseChestnut           =  Horse Chestnut                                                                              
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/redHorseChestnut.jpg                      
+fact   redHorseChestnut.0         =  Leaves are extremely toxic to horses                                                        
+       remark                     =  yes                                                                                         
+fact   redHorseChestnut.1         =  Conkers                                                                                     
+       
+photo  silverBirch                =  Silver Birch                                                                                
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/silverBirch.jpg                           
+fact   silverBirch.0              =  White, papery, peeling bark is easy to ignite even when wet                                 
+fact   silverBirch.1              =  Racecourse jumps and besom brooms                                                           
+fact   silverBirch.2              =  Finland's national tree                                                                     
+       
+photo  sweetChestnut              =  Sweet Chestnut                                                                              
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/sweetChestnut.jpg                         
+fact   sweetChestnut.0            =  Porridge made from its seeds was given to Roman soldiers before battle                      
+fact   sweetChestnut.1            =  Only distantly related to the horse chestnut                                                
+       
+photo  sycamore                   =  Sycamore                                                                                    
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/sycamore.jpg                              
+fact   sycamore.0                 =  The false or pseudo plane tree                                                              
+fact   sycamore.1                 =  The RAF's first helicopter                                                                  
+fact   sycamore.2                 =  Helicopter seeds                                                                            
+       
+photo  white_oak                  =  White Oak                                                                                   
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/white_oak.jpg                             
+fact   white_oak.0                =  State tree of Illinois as selected by a vote of its school children                         
+fact   white_oak.1                =  Barrels for wine and whiskey                                                                
+fact   white_oak.2                =  Old Ironsides defeated five British warships                                                
+       
+photo  yellow_poplar              =  American Tulip                                                                              
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/yellow_poplar.jpg                         
+fact   yellow_poplar.0            =  Tallest hardwood in eastern USA                                                             
+fact   yellow_poplar.1            =  State tree of Indiana, Kentucky, and Tennessee.                                             
+fact   yellow_poplar.2            =  Dark red, strong honey                                                                      
+       remark                     =  yes                                                                                         
+       
+photo  yew                        =  Yew                                                                                         
+       url                        =  github://philiprbrenan/vocabulary-14/images/Trees/yew.jpg                                   
+fact   yew.0                      =  Seeds highly poisonous to humans despite sweet fruit                                        
+fact   yew.1                      =  Deer can eat its foliage which kills cows and horses                                        
+fact   yew.2                      =  The English longbows at the Battle of Agincourt                                             
+fact   yew.3                      =  Legend says that Pontius Pilate slept under one while in Scotland                           
+fact   yew.4                      =  Usually grown in churchyards where deer cannot reach them                                   
+fact   yew.5                      =  The oldest tree in Europe                                                                   
+       remark                     =  yes                                                                                         
