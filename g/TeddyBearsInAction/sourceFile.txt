@@ -1,0 +1,177 @@
+app g.TeddyBearsInAction   = Teddy Bears In Action
+  description  = Learn about Teddy Bears In Action in English
+  icon         = Drinking a cup of tea.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Baking.a.cake                  =  Baking a cake                                                                               
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Bakingacake.jpg              
+fact   Baking.a.cake.0                =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Blowing.out.a.candle           =  Blowing out a candle                                                                        
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Blowingoutacandle.jpg        
+fact   Blowing.out.a.candle.0         =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Climbing.a.tree                =  Climbing a tree                                                                             
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Climbingatree.jpg            
+fact   Climbing.a.tree.0              =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Cuddling.a.friend              =  Cuddling a friend                                                                           
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Cuddlingafriend.jpg          
+fact   Cuddling.a.friend.0            =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Doing.exercises                =  Doing exercises                                                                             
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Doingexercises.jpg           
+fact   Doing.exercises.0              =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Drinking.a.cup.of.tea          =  Drinking a cup of tea                                                                       
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Drinkingacupoftea.jpg        
+fact   Drinking.a.cup.of.tea.0        =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Driving.a.motorbike            =  Driving a motorbike                                                                         
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Drivingamotorbike.jpg        
+fact   Driving.a.motorbike.0          =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Eating.strawberries            =  Eating strawberries                                                                         
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Eatingstrawberries.jpg       
+fact   Eating.strawberries.0          =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Flying.in.space                =  Flying in space                                                                             
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Flyinginspace.jpg            
+fact   Flying.in.space.0              =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Getting.married                =  Getting married                                                                             
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Gettingmarried.jpg           
+fact   Getting.married.0              =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Going.to.school                =  Going to school                                                                             
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Goingtoschool.jpg            
+fact   Going.to.school.0              =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Hanging.on.a.line              =  Hanging on a line                                                                           
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Hangingonaline.jpg           
+fact   Hanging.on.a.line.0            =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Having.a.picnic                =  Having a picnic                                                                             
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Havingapicnic.jpg            
+fact   Having.a.picnic.0              =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Holding.a.flower               =  Holding a flower                                                                            
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Holdingaflower.jpg           
+fact   Holding.a.flower.0             =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Listening.to.music             =  Listening to music                                                                          
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Listeningtomusic.jpg         
+fact   Listening.to.music.0           =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Looking.out.of.the.window      =  Looking out of the window                                                                   
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Lookingoutofthewindow.jpg    
+fact   Looking.out.of.the.window.0    =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Lying.on.a.windowsill          =  Lying on a windowsill                                                                       
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Lyingonawindowsill.jpg       
+fact   Lying.on.a.windowsill.0        =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Playing.a.guitar               =  Playing a guitar                                                                            
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Playingaguitar.jpg           
+fact   Playing.a.guitar.0             =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Reading.a.book                 =  Reading a book                                                                              
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Readingabook.jpg             
+fact   Reading.a.book.0               =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Riding.a.bicycle               =  Riding a bicycle                                                                            
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Ridingabicycle.jpg           
+fact   Riding.a.bicycle.0             =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Sharing.the.same.push.chair    =  Sharing the same push chair                                                                 
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Sharingthesamepushchair.jpg  
+fact   Sharing.the.same.push.chair.0  =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Sitting.on.the.toilet          =  Sitting on the toilet                                                                       
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Sittingonthetoilet.jpg       
+fact   Sitting.on.the.toilet.0        =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Sleeping.on.the.couch          =  Sleeping on the couch                                                                       
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Sleepingonthecouch.jpg       
+fact   Sleeping.on.the.couch.0        =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Smelling.the.flowers           =  Smelling the flowers                                                                        
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Smellingtheflowers.jpg       
+fact   Smelling.the.flowers.0         =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Smiling.at.me                  =  Smiling at me                                                                               
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Smilingatme.jpg              
+fact   Smiling.at.me.0                =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Standing.on.a.stool            =  Standing on a stool                                                                         
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Standingonastool.jpg         
+fact   Standing.on.a.stool.0          =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Swimming.in.a.pool             =  Swimming in a pool                                                                          
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Swimminginapool.jpg          
+fact   Swimming.in.a.pool.0           =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Talking.on.the.phone           =  Talking on the phone                                                                        
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Talkingonthephone.jpg        
+fact   Talking.on.the.phone.0         =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Typing.on.a.keyboard           =  Typing on a keyboard                                                                        
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Typingonakeyboard.jpg        
+fact   Typing.on.a.keyboard.0         =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Watching.a.candle.burn         =  Watching a candle burn                                                                      
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Watchingacandleburn.jpg      
+fact   Watching.a.candle.burn.0       =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Waving.at.me                   =  Waving at me                                                                                
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Wavingatme.jpg               
+fact   Waving.at.me.0                 =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Wearing.sunglasses             =  Wearing sunglasses                                                                          
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Wearingsunglasses.jpg        
+fact   Wearing.sunglasses.0           =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Working.at.the.computer        =  Working at the computer                                                                     
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Workingatthecomputer.jpg     
+fact   Working.at.the.computer.0      =                                                                                              
+       remark                         =  yes                                                                                         
+       
+photo  Writing.a.letter               =  Writing a letter                                                                            
+       url                            =  github://philiprbrenan/vocabulary-11/images/TeddyBearsInAction/Writingaletter.jpg           
+fact   Writing.a.letter.0             =                                                                                              
+       remark                         =  yes                                                                                         
