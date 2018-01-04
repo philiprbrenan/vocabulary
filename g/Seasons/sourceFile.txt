@@ -3,6 +3,7 @@ app vocabulary.g.Seasons = The Four Seasons in English
   icon         = Summer P.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Autumn L Autumn P Spring L Spring P Summer L Summer P Winter L Winter P
   speakers     = Amy
   emphasis     = 12
 
