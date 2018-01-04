@@ -1,6 +1,6 @@
-app g.Dunloe   = Ride through the Gap of Dunloe in South-West Ireland
+app vocabulary.g.Dunloe = Ride through the Gap of Dunloe in South-West Ireland
   description  = Learn about Ride through the Gap of Dunloe in South-West Ireland in English
-  icon         = Journey's End 6.png
+  icon         = Journey's End 6.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
