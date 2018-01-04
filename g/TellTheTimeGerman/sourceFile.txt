@@ -1,0 +1,8 @@
+app g.TellTheTimeGerman   = Tell the Time in German
+  description  = Learn about Tell the Time in German in English
+  icon         = Three O'Clock.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+
