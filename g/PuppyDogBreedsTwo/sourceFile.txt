@@ -4,6 +4,7 @@ app vocabulary.g.PuppyDogBreedsTwo = Model Puppy Dog Breeds 2
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
+  emphasis     = 12
 
        
 photo  Afghan                          =                                                                                               
