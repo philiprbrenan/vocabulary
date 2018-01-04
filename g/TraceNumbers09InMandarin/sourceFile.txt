@@ -1,4 +1,4 @@
-app g.TraceNumbers09InMandarin   = Trace Numbers 0 to 9 in Mandarin
+app vocabulary.g.TraceNumbers09InMandarin = Trace Numbers 0 to 9 in Mandarin
   description  = Learn about Trace Numbers 0 to 9 in Mandarin in English
   icon         = icon.png
   author       = philiprbrenan
