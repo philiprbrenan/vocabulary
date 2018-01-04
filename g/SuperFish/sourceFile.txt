@@ -3,6 +3,7 @@ app vocabulary.g.SuperFish = Super Fish
   icon         = Most inflateable fish (Pufferfish).jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Best shot (Archerfish) Deepest living fish (Cusk-eel) Fastest muscle contraction in vertebrates (Oyster Toadfish) Fastest swimming fish (Sailfish) Finest sense of smell and taste (Channel Catfish) Heaviest bony fish (Ocean Sunfish) Largest fish (Whale Shark) Largest genome of any vertebrate (Marbled Lungfish) Largest teeth relative to head size (Viperfish) Longest lived fish (Rougheye Rockfish) Longest tail (Common Thresher Shark) Most colourful fish (Mandarinfish) Most electric fish (Electric Eel) Most inflateable fish (Pufferfish) Most ingenious angler (Anglerfish) Most venomous fish (Stonefish) Slimiest fish (Hagfish) Slowest swimming fish (Dwarf Seahorse) Strangest-looking fish (Frogfish) Strongest bite (Great White Shark)
   speakers     = Amy
   emphasis     = 12
 
