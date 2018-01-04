@@ -3,6 +3,7 @@ app vocabulary.g.A4LetterWords = Four-Letter Words
   icon         = Baby.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Baby Ball Bath Bear Bike Bird Boat Book Bowl Bulb Bull Cake Calf Card Cart Cave City Clog Coin Comb Dish Doll Door Dove Duck Fish Flag Foal Foot Fork Frog Gate Girl Goal Goat Gull Half Hand Head Hook Hose Iris Iron Jeep Lake Lamb Lamp Leaf Lily Lion Mini Moon Moth Nail Nest Note Oven Oxen Palm Path Plug Pool Port Pump Ramp Road Rock Rope Rose Sail Sand Seal Shed Ship Shoe Skis Snow Swan Tent Toad Town Tram Tray Tree Vase Vent Wall Wave Yarn Yolk
   speakers     = Amy
   emphasis     = 12
 
