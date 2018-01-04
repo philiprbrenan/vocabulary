@@ -1,20 +1,20 @@
 SUCCESS!
 
-2018-01-04 at 16:32:35 Generate AppaAppsPhotoApp version 20180104-163235 philiprbrenan/vocabulary/g/A3LetterWords
+2018-01-04 at 16:39:46 Generate AppaAppsPhotoApp version 20180104-163946 philiprbrenan/vocabulary/g/A3LetterWords
 
-2018-01-04 at 16:32:39 Step: parseSource
-2018-01-04 at 16:32:39 <b>Good source file!</b>
-2018-01-04 at 16:32:39 Step: loadAssets
-2018-01-04 at 16:33:35 59 new, 59 reused audio files
-2018-01-04 at 16:33:35 Step: multiplyPhotosByFacts
-2018-01-04 at 16:33:35 Step: genJavaManifest
-2018-01-04 at 16:33:35 Step: genJsonManifest
-2018-01-04 at 16:33:35 Step: genGameHtml
-2018-01-04 at 16:33:35 Step: genHtmlAssets
-2018-01-04 at 16:33:35 Step: zipAssets
-2018-01-04 at 16:33:35 Step: compileApp
-2018-01-04 at 16:33:38 Step: copyLinksToGitHub
-2018-01-04 at 16:33:43 Step: copyFilesIntoPositionOnWebServer
+2018-01-04 at 16:39:50 Step: parseSource
+2018-01-04 at 16:39:50 <b>Good source file!</b>
+2018-01-04 at 16:39:50 Step: loadAssets
+2018-01-04 at 16:40:10 0 new, 118 reused audio files
+2018-01-04 at 16:40:10 Step: multiplyPhotosByFacts
+2018-01-04 at 16:40:10 Step: genJavaManifest
+2018-01-04 at 16:40:10 Step: genJsonManifest
+2018-01-04 at 16:40:10 Step: genGameHtml
+2018-01-04 at 16:40:10 Step: genHtmlAssets
+2018-01-04 at 16:40:10 Step: zipAssets
+2018-01-04 at 16:40:10 Step: compileApp
+2018-01-04 at 16:40:14 Step: copyLinksToGitHub
+2018-01-04 at 16:40:18 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -37,7 +37,7 @@ do {
       parameters    => {
                          appName  => "vocabulary",
                          appPath  => "g/A3LetterWords",
-                         cTime    => 1515083615,
+                         cTime    => 1515084010,
                          devMode  => 1,
                          download => "http://www.appaapps.com",
                          title    => "Three-Letter Words",
@@ -103,24 +103,24 @@ do {
       title => "Three-Letter Words",
       titleFile => undef,
     }, "ParsedCmd"),
-    dateTimeStamp => "2018-01-04 at 16:32:35",
+    dateTimeStamp => "2018-01-04 at 16:39:46",
     error => 0,
     iconFile => "/home/phil/audioImageCache/images/Eye.jpg",
     log => [
-      "\n2018-01-04 at 16:32:35 Generate AppaAppsPhotoApp version 20180104-163235 philiprbrenan/vocabulary/g/A3LetterWords\n",
-      "2018-01-04 at 16:32:39 Step: parseSource",
-      "2018-01-04 at 16:32:39 <b>Good source file!</b>",
-      "2018-01-04 at 16:32:39 Step: loadAssets",
-      "2018-01-04 at 16:33:35 59 new, 59 reused audio files",
-      "2018-01-04 at 16:33:35 Step: multiplyPhotosByFacts",
-      "2018-01-04 at 16:33:35 Step: genJavaManifest",
-      "2018-01-04 at 16:33:35 Step: genJsonManifest",
-      "2018-01-04 at 16:33:35 Step: genGameHtml",
-      "2018-01-04 at 16:33:35 Step: genHtmlAssets",
-      "2018-01-04 at 16:33:35 Step: zipAssets",
-      "2018-01-04 at 16:33:35 Step: compileApp",
-      "2018-01-04 at 16:33:38 Step: copyLinksToGitHub",
-      "2018-01-04 at 16:33:43 Step: copyFilesIntoPositionOnWebServer",
+      "\n2018-01-04 at 16:39:46 Generate AppaAppsPhotoApp version 20180104-163946 philiprbrenan/vocabulary/g/A3LetterWords\n",
+      "2018-01-04 at 16:39:50 Step: parseSource",
+      "2018-01-04 at 16:39:50 <b>Good source file!</b>",
+      "2018-01-04 at 16:39:50 Step: loadAssets",
+      "2018-01-04 at 16:40:10 0 new, 118 reused audio files",
+      "2018-01-04 at 16:40:10 Step: multiplyPhotosByFacts",
+      "2018-01-04 at 16:40:10 Step: genJavaManifest",
+      "2018-01-04 at 16:40:10 Step: genJsonManifest",
+      "2018-01-04 at 16:40:10 Step: genGameHtml",
+      "2018-01-04 at 16:40:10 Step: genHtmlAssets",
+      "2018-01-04 at 16:40:10 Step: zipAssets",
+      "2018-01-04 at 16:40:10 Step: compileApp",
+      "2018-01-04 at 16:40:14 Step: copyLinksToGitHub",
+      "2018-01-04 at 16:40:18 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
@@ -1486,7 +1486,7 @@ do {
     source => "app vocabulary.g.A3LetterWords = Three-Letter Words\n  description  = Learn about Three-Letter Words in English\n  icon         = Eye.jpg\n  author       = philiprbrenan\n  email        = philiprbrenan\@gmail.com\n  speakers     = Amy\n  emphasis     = 12\n\n       \nphoto  Ant  =  Ant                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  \n       \nphoto  Ape  =  Ape                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  \n       \nphoto  Arm  =  Arm                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  \n       \nphoto  Bag  =  Bag                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  \n       \nphoto  Bat  =  Bat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  \n       \nphoto  Bay  =  Bay                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  \n       \nphoto  Bed  =  Bed                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  \n       \nphoto  Bee  =  Bee                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  \n       \nphoto  Bin  =  Bin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  \n       \nphoto  Bog  =  Bog                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  \n       \nphoto  Bow  =  Bow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  \n       \nphoto  Box  =  Box                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  \n       \nphoto  Boy  =  Boy                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  \n       \nphoto  Bug  =  Bug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  \n       \nphoto  Bun  =  Bun                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  \n       \nphoto  Bus  =  Bus                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  \n       \nphoto  Can  =  Can                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  \n       \nphoto  Cap  =  Cap                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  \n       \nphoto  Car  =  Car                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  \n       \nphoto  Cat  =  Cat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  \n       \nphoto  Cow  =  Cow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  \n       \nphoto  Cup  =  Cup                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  \n       \nphoto  Dam  =  Dam                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  \n       \nphoto  Dog  =  Dog                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  \n       \nphoto  Ear  =  Ear                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  \n       \nphoto  Egg  =  Egg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  \n       \nphoto  Emu  =  Emu                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  \n       \nphoto  Eye  =  Eye                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  \n       \nphoto  Fan  =  Fan                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  \n       \nphoto  Fin  =  Fin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  \n       \nphoto  Fox  =  Fox                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  \n       \nphoto  Hat  =  Hat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  \n       \nphoto  Hoe  =  Hoe                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  \n       \nphoto  Ice  =  Ice                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  \n       \nphoto  Jar  =  Jar                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  \n       \nphoto  Jug  =  Jug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  \n       \nphoto  Key  =  Key                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  \n       \nphoto  Leg  =  Leg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  \n       \nphoto  Lid  =  Lid                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  \n       \nphoto  Map  =  Map                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  \n       \nphoto  Men  =  Men                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  \n       \nphoto  Mug  =  Mug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  \n       \nphoto  Oar  =  Oar                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  \n       \nphoto  Owl  =  Owl                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  \n       \nphoto  Pan  =  Pan                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  \n       \nphoto  Peg  =  Peg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  \n       \nphoto  Pen  =  Pen                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  \n       \nphoto  Pig  =  Pig                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  \n       \nphoto  Pin  =  Pin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  \n       \nphoto  Rug  =  Rug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  \n       \nphoto  Sea  =  Sea                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  \n       \nphoto  Sow  =  Sow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  \n       \nphoto  Sun  =  Sun                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  \n       \nphoto  Tap  =  Tap                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  \n       \nphoto  Toe  =  Toe                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  \n       \nphoto  Van  =  Van                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  \n       \nphoto  Wok  =  Wok                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  \n       \nphoto  Yak  =  Yak                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  \n       \nphoto  Zip  =  Zip                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  \n",
     sourceFileSha => "a9a0791d2c989b95696f38ad6651775a7f9aee0f",
     step => "completed",
-    time => 1515083555,
+    time => 1515083986,
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
   $a;
