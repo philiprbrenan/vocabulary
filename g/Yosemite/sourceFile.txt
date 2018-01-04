@@ -1,0 +1,394 @@
+app g.Yosemite   = Yosemite National Park, USA
+  description  = Learn about Yosemite National Park, USA in English
+  icon         = Yosemite Valley.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  American.Black.Bear              =  American Black Bear                                                                           
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/AmericanBlackBear.jpg                    
+fact   American.Black.Bear.0            =  Smallest and most widely distributed of the North American bears                              
+fact   American.Black.Bear.1            =  Varies in colour from white and light brown to dark brown and black                           
+       remark                           =  yes                                                                                           
+fact   American.Black.Bear.2            =  An estimated 300 to 500 black bears live in the park                                          
+       remark                           =  yes                                                                                           
+fact   American.Black.Bear.3            =  Eats mostly grasses and berries, with acorns as a favoured food in autumn                     
+fact   American.Black.Bear.4            =  Female gives birth to a litter of one to three cubs during winter hibernation                 
+       
+photo  Bridalveil.Fall                  =  Bridalveil Fall                                                                               
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/BridalveilFall.jpg                       
+fact   Bridalveil.Fall.0                =  One of the most prominent waterfalls in the Yosemite Valley                                   
+       remark                           =  yes                                                                                           
+fact   Bridalveil.Fall.1                =  Plunges 188 m (617 ft) and flows year round                                                   
+fact   Bridalveil.Fall.2                =  Appears to fall sideways when the wind blows briskly                                          
+       remark                           =  yes                                                                                           
+fact   Bridalveil.Fall.3                =  Native Americans believed that inhaling the mist would improve one's chances of marriage      
+       
+photo  California.Tunnel.Tree           =  California Tunnel Tree                                                                        
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/CaliforniaTunnelTree.jpg                 
+fact   California.Tunnel.Tree.0         =  Located in the Mariposa Grove of Giant Sequoias                                               
+fact   California.Tunnel.Tree.1         =  Cut in 1895 to allow coaches to pass through it and to attract visitors to the grove          
+fact   California.Tunnel.Tree.2         =  The only living tree with a tunnel in it                                                      
+       
+photo  Cathedral.Peak                   =  Cathedral Peak                                                                                
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/CathedralPeak.jpg                        
+fact   Cathedral.Peak.0                 =  Part of the Cathedral Range of mountains, an offshoot of the Sierra Nevada                    
+       remark                           =  yes                                                                                           
+fact   Cathedral.Peak.1                 =  Named for its shape which resembles a cathedral                                               
+fact   Cathedral.Peak.2                 =  Granite arete at a height of 3,327 m (10,916 ft)                                              
+       remark                           =  yes                                                                                           
+fact   Cathedral.Peak.3                 =  Located to the south of Tuolumne Meadows                                                      
+       remark                           =  yes                                                                                           
+       
+photo  Crimson.Columbine                =  Crimson Columbine                                                                             
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/CrimsonColumbine.jpg                     
+fact   Crimson.Columbine.0              =  Scientific name is Aquilegia formosa                                                          
+       remark                           =  yes                                                                                           
+fact   Crimson.Columbine.1              =  Common and attractive wildflower native to western North America                              
+       remark                           =  yes                                                                                           
+fact   Crimson.Columbine.2              =  Produces large quantities of nectar to attract hummingbirds                                   
+fact   Crimson.Columbine.3              =  Grows in moist locations such as stream banks below 3,300 m                                   
+       remark                           =  yes                                                                                           
+       
+photo  El.Capitan                       =  El Capitan                                                                                    
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/ElCapitan.jpg                            
+fact   El.Capitan.0                     =  Located on the north side of Yosemite Valley                                                  
+       remark                           =  yes                                                                                           
+fact   El.Capitan.1                     =  Granite monolith about 900 m (3,000 ft) high from base to summit                              
+       remark                           =  yes                                                                                           
+fact   El.Capitan.2                     =  One of the world's favourite challenges for rock climbers with over 100 routes                
+       remark                           =  yes                                                                                           
+       
+photo  Emerald.Pool.and.Silver.Apron    =  Emerald Pool and Silver Apron                                                                 
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/EmeraldPoolandSilverApron.jpg            
+fact   Emerald.Pool.and.Silver.Apron.0  =  Small, shallow lake immediately above Vernal Fall                                             
+fact   Emerald.Pool.and.Silver.Apron.1  =  Reached by a short hike from the bottom of Nevada Fall                                        
+fact   Emerald.Pool.and.Silver.Apron.2  =  Named for its deep green colour, caused by algae living on the underwater rocks               
+fact   Emerald.Pool.and.Silver.Apron.3  =  Silver Apron is a smooth granite slope over which the Merced River flows into the pool        
+       remark                           =  yes                                                                                           
+fact   Emerald.Pool.and.Silver.Apron.4  =  Silver Apron is sometimes used as a water slide, but against park rules and highly dangerous  
+       remark                           =  yes                                                                                           
+       
+photo  Fairview.Dome                    =  Fairview Dome                                                                                 
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/FairviewDome.jpg                         
+fact   Fairview.Dome.0                  =  Prominent granite dome located 2.9 km (1.8 miles) north of Cathedral Peak                     
+fact   Fairview.Dome.1                  =  The North Face route is popular with rock climbers                                            
+       remark                           =  yes                                                                                           
+fact   Fairview.Dome.2                  =  John Muir thought the summit provided one of the best general views of the park               
+       remark                           =  yes                                                                                           
+       
+photo  Glacier.Point                    =  Glacier Point                                                                                 
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/GlacierPoint.jpg                         
+fact   Glacier.Point.0                  =  Viewpoint above Yosemite Valley at 2,199 m (7,214 feet)                                       
+       remark                           =  yes                                                                                           
+fact   Glacier.Point.1                  =  Gives a panoramic view of many of the park's most famous features                             
+       remark                           =  yes                                                                                           
+fact   Glacier.Point.2                  =  Can be reached via the Four Mile Trail during the summer                                      
+       remark                           =  yes                                                                                           
+       
+photo  Grizzly.Giant                    =  Grizzly Giant                                                                                 
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/GrizzlyGiant.jpg                         
+fact   Grizzly.Giant.0                  =  Oldest tree in the Mariposa Grove of Giant Sequoias                                           
+fact   Grizzly.Giant.1                  =  Estimated to be more than 1,800 years old                                                     
+       remark                           =  yes                                                                                           
+fact   Grizzly.Giant.2                  =  The 25th largest giant sequoia living today                                                   
+fact   Grizzly.Giant.3                  =  The first branch on the south side is 2 meters (6 feet) in diameter                           
+       
+photo  Half.Dome                        =  Half Dome                                                                                     
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/HalfDome.jpg                             
+fact   Half.Dome.0                      =  Yosemite's most familiar rock formation                                                       
+fact   Half.Dome.1                      =  Granite dome rising 1,444 m (4,737 ft) above the valley floor                                 
+       remark                           =  yes                                                                                           
+fact   Half.Dome.2                      =  Hikers can reach the top by following a trail with steel cables near the summit               
+fact   Half.Dome.3                      =  Rock climbing routes ascend the vertical northwest face                                       
+       remark                           =  yes                                                                                           
+       
+photo  Liberty.Cap                      =  Liberty Cap                                                                                   
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/LibertyCap.jpg                           
+fact   Liberty.Cap.0                    =  Spectacular granite dome located at the northern end of Little Yosemite Valley                
+       remark                           =  yes                                                                                           
+fact   Liberty.Cap.1                    =  Adjacent to Nevada Fall and rises 520 m (1,700 ft) above its base                             
+fact   Liberty.Cap.2                    =  Total height is 2,158 m (7,080 ft)                                                            
+       remark                           =  yes                                                                                           
+       
+photo  Mariposa.Grove                   =  Mariposa Grove                                                                                
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/MariposaGrove.jpg                        
+fact   Mariposa.Grove.0                 =  Largest of three groves of Giant Sequoias in the park                                         
+fact   Mariposa.Grove.1                 =  Contains about 500 mature giant sequoias                                                      
+fact   Mariposa.Grove.2                 =  Two of its trees are among the 30 largest Giant Sequoias in the world                         
+fact   Mariposa.Grove.3                 =  Named after Mariposa County, California, where the grove is located                           
+       remark                           =  yes                                                                                           
+fact   Mariposa.Grove.4                 =  Giant sequoias can live more than 3,000 years                                                 
+       remark                           =  yes                                                                                           
+       
+photo  Merced.River                     =  Merced River                                                                                  
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/MercedRiver.jpg                          
+fact   Merced.River.0                   =  Flows for 145 miles from the Sierra Nevada mountains to California's Central Valley           
+       remark                           =  yes                                                                                           
+fact   Merced.River.1                   =  Most famous for its course through Yosemite National Park                                     
+       remark                           =  yes                                                                                           
+fact   Merced.River.2                   =  Nevada Fall and Vernal Fall are two of the most famous waterfalls on the river                
+       remark                           =  yes                                                                                           
+       
+photo  Middle.Cathedral.Rock            =  Middle Cathedral Rock                                                                         
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/MiddleCathedralRock.jpg                  
+fact   Middle.Cathedral.Rock.0          =  300 meter high granite rock face                                                              
+       remark                           =  yes                                                                                           
+fact   Middle.Cathedral.Rock.1          =  Summit is at 1,987 metres (6,520 ft)                                                          
+       remark                           =  yes                                                                                           
+fact   Middle.Cathedral.Rock.2          =  Prominent landmark on the south side of Yosemite Valley                                       
+       remark                           =  yes                                                                                           
+fact   Middle.Cathedral.Rock.3          =  East Buttress Route is a technical climbing route and a world classic                         
+       remark                           =  yes                                                                                           
+       
+photo  Mirror.Lake                      =  Mirror Lake                                                                                   
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/MirrorLake.jpg                           
+fact   Mirror.Lake.0                    =  Small, seasonal lake located on Tenaya Creek in Tenaya Canyon                                 
+fact   Mirror.Lake.1                    =  Remnant of a large glacial lake that once filled most of Yosemite Valley                      
+       remark                           =  yes                                                                                           
+fact   Mirror.Lake.2                    =  Close to disappearing due to sediment accumulation                                            
+       remark                           =  yes                                                                                           
+       
+photo  Mist.Trail                       =  Mist Trail                                                                                    
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/MistTrail.jpg                            
+fact   Mist.Trail.0                     =  One of the most popular short hiking trails in the park                                       
+       remark                           =  yes                                                                                           
+fact   Mist.Trail.1                     =  Follows the Merced River, past Vernal Fall and Emerald Pool, to Nevada Fall                   
+fact   Mist.Trail.2                     =  Named for the mist from Vernal Fall which drenches visitors in spring                         
+fact   Mist.Trail.3                     =  The John Muir Trail starts at the same trailhead as the Mist Trail                            
+       remark                           =  yes                                                                                           
+       
+photo  Monkeyflower                     =  Monkeyflower                                                                                  
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/Monkeyflower.jpg                         
+fact   Monkeyflower.0                   =  A large number of species of Monkeyflower are represented in Yosemite                         
+       remark                           =  yes                                                                                           
+fact   Monkeyflower.1                   =  63 species are known in California and half of these are found in Yosemite                    
+       remark                           =  yes                                                                                           
+fact   Monkeyflower.2                   =  Entire plant is edible, but very salty and bitter unless well cooked                          
+       remark                           =  yes                                                                                           
+       
+photo  Mountain.Lion                    =  Mountain Lion                                                                                 
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/MountainLion.jpg                         
+fact   Mountain.Lion.0                  =  Also called "Cougar" and "Puma"                                                               
+fact   Mountain.Lion.1                  =  Large cat widely distributed from Canada to South America in all habitats                     
+       remark                           =  yes                                                                                           
+fact   Mountain.Lion.2                  =  Nocturnal predator eats any animal from an insect to a mule deer                              
+       remark                           =  yes                                                                                           
+fact   Mountain.Lion.3                  =  Not classified as a "big cat" like a lion, as it cannot roar, and is mostly silent            
+       remark                           =  yes                                                                                           
+fact   Mountain.Lion.4                  =  Can leap as high as 18 ft in one bound, and as far as 45 ft horizontally                      
+       remark                           =  yes                                                                                           
+       
+photo  Mountain.Pride                   =  Mountain Pride                                                                                
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/MountainPride.jpg                        
+fact   Mountain.Pride.0                 =  Grows in rocky habitats in the mountains of northern California, Oregon, and Nevada           
+       remark                           =  yes                                                                                           
+fact   Mountain.Pride.1                 =  Has no scent and is pollinated by hummingbirds, which lack a sense of smell                   
+fact   Mountain.Pride.2                 =  The long tubular flowers allow hummingbirds access but exclude many insects                   
+       
+photo  Mule.Deer                        =  Mule Deer                                                                                     
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/MuleDeer.jpg                             
+fact   Mule.Deer.0                      =  Indigenous to western North America                                                           
+       remark                           =  yes                                                                                           
+fact   Mule.Deer.1                      =  Has large "mule-like" ears which move constantly and independently                            
+fact   Mule.Deer.2                      =  Noted for its high-bounce trot which helps it to cross rocks and brush very quickly           
+fact   Mule.Deer.3                      =  Common in Yosemite Valley browsing on leaves and tender twigs                                 
+       remark                           =  yes                                                                                           
+       
+photo  Nevada.Fall                      =  Nevada Fall                                                                                   
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/NevadaFall.jpg                           
+fact   Nevada.Fall.0                    =  Located below Liberty Cap, at the west end of Little Yosemite Valley                          
+       remark                           =  yes                                                                                           
+fact   Nevada.Fall.1                    =  Twice the height of Vernal Fall at 181 m (594 ft)                                             
+fact   Nevada.Fall.2                    =  Upstream of Vernal Fall and Emerald Pool on the Merced River                                  
+fact   Nevada.Fall.3                    =  T+he Mist Trail goes to the top of the fall, 4.8 km from the trailhead in Yosemite Valley     
+       remark                           =  yes                                                                                           
+fact   Nevada.Fall.4                    =  Together with Vernal Fall forms the "Giant Staircase"                                         
+       
+photo  Ribbon.Fall                      =  Ribbon Fall                                                                                   
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/RibbonFall.jpg                           
+fact   Ribbon.Fall.0                    =  Flows off a cliff on the west side of El Capitan                                              
+       remark                           =  yes                                                                                           
+fact   Ribbon.Fall.1                    =  Longest single-drop waterfall in North America at 491 m (1,634 ft) in height                  
+fact   Ribbon.Fall.2                    =  Fed by melting winter snow and spectacular in the spring; often dry at other times            
+       remark                           =  yes                                                                                           
+       
+photo  Sentinel.Dome                    =  Sentinel Dome                                                                                 
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/SentinelDome.jpg                         
+fact   Sentinel.Dome.0                  =  Granite dome on the south wall of Yosemite Valley                                             
+       remark                           =  yes                                                                                           
+fact   Sentinel.Dome.1                  =  Famous for a lone Jeffrey Pine which once grew from its peak                                  
+       remark                           =  yes                                                                                           
+fact   Sentinel.Dome.2                  =  Hiking trail goes to the summit at 2,477 m (8,127 ft)                                         
+       remark                           =  yes                                                                                           
+fact   Sentinel.Dome.3                  =  Summit view offers a 360 degree vista of Yosemite Valley and surroundings                     
+       remark                           =  yes                                                                                           
+       
+photo  Sentinel.Rock                    =  Sentinel Rock                                                                                 
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/SentinelRock.jpg                         
+fact   Sentinel.Rock.0                  =  Imposing granite peak at 2,145 m (7,038 ft) in height                                         
+       remark                           =  yes                                                                                           
+fact   Sentinel.Rock.1                  =  Located on the south wall of Yosemite Valley, opposite Yosemite Falls                         
+       remark                           =  yes                                                                                           
+fact   Sentinel.Rock.2                  =  High-profile climber Derek Hersey died free climbing this rock in 1993                        
+       
+photo  Spotted.Owl                      =  Spotted Owl                                                                                   
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/SpottedOwl.jpg                           
+fact   Spotted.Owl.0                    =  One of 262 bird species found in the park                                                     
+       remark                           =  yes                                                                                           
+fact   Spotted.Owl.1                    =  Lives in mature forest in western North America                                               
+       remark                           =  yes                                                                                           
+fact   Spotted.Owl.2                    =  Nests in tree holes, old bird of prey nests, or rock crevices                                 
+       remark                           =  yes                                                                                           
+fact   Spotted.Owl.3                    =  Huge number of bird species is due to the diverse habitats from 2,000 to 13,000 ft            
+       remark                           =  yes                                                                                           
+       
+photo  Steller's.Jay                    =  Steller's Jay                                                                                 
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/Steller'sJay.jpg                         
+fact   Steller's.Jay.0                  =  Closely related to the Blue Jay                                                               
+fact   Steller's.Jay.1                  =  Also called "Long-crested Jay", "Mountain Jay", and "Pine Jay"                                
+fact   Steller's.Jay.2                  =  Only crested jay west of the Rocky Mountains                                                  
+fact   Steller's.Jay.3                  =  Lives in flocks, in coniferous woodland, and commonly seen in the park                        
+       
+photo  Taft.Point                       =  Taft Point                                                                                    
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/TaftPoint.jpg                            
+fact   Taft.Point.0                     =  A one-mile high viewpoint west of Glacier Point                                               
+       remark                           =  yes                                                                                           
+fact   Taft.Point.1                     =  Offers wide views of Yosemite Valley, Yosemite Falls, and El Capitan                          
+       remark                           =  yes                                                                                           
+fact   Taft.Point.2                     =  Famous for its giant fissures which drop directly down to the valley floor                    
+fact   Taft.Point.3                     =  A one mile hiking trail leads here from the trailhead                                         
+       remark                           =  yes                                                                                           
+       
+photo  Tenaya.Lake                      =  Tenaya Lake                                                                                   
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/TenayaLake.jpg                           
+fact   Tenaya.Lake.0                    =  Located between Yosemite Valley and Tuolumne Meadows                                          
+       remark                           =  yes                                                                                           
+fact   Tenaya.Lake.1                    =  Located near Tioga Pass (2,700 meters, 9,000 ft), the highest road in the Sierra Nevada       
+fact   Tenaya.Lake.2                    =  Also known as the "Lake of Shining Rocks"                                                     
+fact   Tenaya.Lake.3                    =  Created by the Tenaya Glacier which also created Half Dome                                    
+       remark                           =  yes                                                                                           
+fact   Tenaya.Lake.4                    =  Named after Chief Tenaya, the Native American chief of the Yosemite Valley people             
+       
+photo  The.Three.Brothers               =  The Three Brothers                                                                            
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/TheThreeBrothers.jpg                     
+fact   The.Three.Brothers.0             =  Located just east of El Capitan in Yosemite valley                                            
+       remark                           =  yes                                                                                           
+fact   The.Three.Brothers.1             =  Consists of Eagle Peak (the uppermost "brother"), and Middle and Lower Brothers               
+       remark                           =  yes                                                                                           
+fact   The.Three.Brothers.2             =  John Muir considered the view from Eagle Peak to be the best view of Yosemite Valley          
+       remark                           =  yes                                                                                           
+       
+photo  Three.Chute.Falls                =  Three Chute Falls                                                                             
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/ThreeChuteFalls.jpg                      
+fact   Three.Chute.Falls.0              =  Located in lower Tenaya Canyon on the Tenaya Creek                                            
+       remark                           =  yes                                                                                           
+fact   Three.Chute.Falls.1              =  Accessed via a short walk upstream along the Mirror Lake Trail                                
+       remark                           =  yes                                                                                           
+fact   Three.Chute.Falls.2              =  Named after the three distinct water "chutes" above the falls                                 
+       remark                           =  yes                                                                                           
+fact   Three.Chute.Falls.3              =  Falls plunge about 24 m (80 ft) into a mass of boulders                                       
+       remark                           =  yes                                                                                           
+       
+photo  Tuolumne.Meadows                 =  Tuolumne Meadows                                                                              
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/TuolumneMeadows.jpg                      
+fact   Tuolumne.Meadows.0               =  Peaceful sub-alpine meadow section of the Tuolumne River                                      
+       remark                           =  yes                                                                                           
+fact   Tuolumne.Meadows.1               =  Many back country hiking trails start here                                                    
+       remark                           =  yes                                                                                           
+fact   Tuolumne.Meadows.2               =  The John Muir Trail and the Pacific Crest Trail both run through these meadows                
+       remark                           =  yes                                                                                           
+fact   Tuolumne.Meadows.3               =  Views of Cathedral Peak and the Cathedral Range of mountains                                  
+       remark                           =  yes                                                                                           
+       
+photo  Vernal.Fall                      =  Vernal Fall                                                                                   
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/VernalFall.jpg                           
+fact   Vernal.Fall.0                    =  Magnificent 97 m (317 ft) waterfall on the Merced River                                       
+       remark                           =  yes                                                                                           
+fact   Vernal.Fall.1                    =  Downstream of Nevada Fall and the Emerald Pool                                                
+fact   Vernal.Fall.2                    =  Reached by hiking the Mist Trail, one of Yosemite's most popular short hikes                  
+       remark                           =  yes                                                                                           
+fact   Vernal.Fall.3                    =  Together with Nevada Fall forms the "Giant Staircase"                                         
+       
+photo  Wapama.Falls                     =  Wapama Falls                                                                                  
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/WapamaFalls.jpg                          
+fact   Wapama.Falls.0                   =  Located above the Hetch Hetchy Valley in the northwest corner of the park                     
+       remark                           =  yes                                                                                           
+fact   Wapama.Falls.1                   =  One of the most powerful waterfalls in Yosemite                                               
+       remark                           =  yes                                                                                           
+fact   Wapama.Falls.2                   =  During peak flow, it can inundate the trail bridge across it, making the falls impassable     
+       remark                           =  yes                                                                                           
+fact   Wapama.Falls.3                   =  Plunges 330 m (1,080 ft) in three impressive drops                                            
+       remark                           =  yes                                                                                           
+       
+photo  Waterwheel.Falls                 =  Waterwheel Falls                                                                              
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/WaterwheelFalls.jpg                      
+fact   Waterwheel.Falls.0               =  Largest of the many waterfalls of the Tuolumne River                                          
+fact   Waterwheel.Falls.1               =  Named after the phenomenon of spray blowing back to re-enter falls higher up                  
+       remark                           =  yes                                                                                           
+       
+photo  Western.Tanager                  =  Western Tanager                                                                               
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/WesternTanager.jpg                       
+fact   Western.Tanager.0                =  Migratory songbird which winters from central Mexico to Costa Rica                            
+fact   Western.Tanager.1                =  Can be seen in Yosemite's coniferous forests in summer                                        
+       remark                           =  yes                                                                                           
+fact   Western.Tanager.2                =  Builds a flimsy cup nest on a horizontal tree branch                                          
+fact   Western.Tanager.3                =  Known to live up to 8 years of age                                                            
+       remark                           =  yes                                                                                           
+       
+photo  Yellow-bellied.Marmot            =  Yellow-bellied Marmot                                                                         
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/Yellow-belliedMarmot.jpg                 
+fact   Yellow-bellied.Marmot.0          =  Largest native rodent of the Sierra Nevada                                                    
+fact   Yellow-bellied.Marmot.1          =  Found at higher elevations in the park, like Olmsted Point on the Tioga Road                  
+       remark                           =  yes                                                                                           
+fact   Yellow-bellied.Marmot.2          =  Lives in burrows and enjoys sunning itself on rocks                                           
+fact   Yellow-bellied.Marmot.3          =  Looks similar (and is related) to a woodchuck                                                 
+       remark                           =  yes                                                                                           
+       
+photo  Yosemite.Falls                   =  Yosemite Falls                                                                                
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/YosemiteFalls.jpg                        
+fact   Yosemite.Falls.0                 =  Highest waterfall in North America at 739 m (2,425ft)                                         
+fact   Yosemite.Falls.1                 =  Comprise the Upper Falls, Middle Cascades and Lower Falls                                     
+fact   Yosemite.Falls.2                 =  Only the Upper and Lower Falls are visible from Yosemite Valley                               
+       remark                           =  yes                                                                                           
+fact   Yosemite.Falls.3                 =  Yosemite Creek feeds the falls which then flow into the Merced River                          
+       remark                           =  yes                                                                                           
+fact   Yosemite.Falls.4                 =  Hiking trails lead to both Upper and Lower Falls                                              
+       remark                           =  yes                                                                                           
+       
+photo  Yosemite.National.Park           =  Yosemite National Park                                                                        
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/YosemiteNationalPark.jpg                 
+fact   Yosemite.National.Park.0         =  Located in California                                                                         
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.1         =  Lies east of San Francisco in the Sierra Nevada mountains                                     
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.2         =  Park covers 761,268 acres (3,080 km2, 1,189 sq miles)                                         
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.3         =  Deep valleys, vast meadows, granite cliffs and groves of Giant Sequoia trees                  
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.4         =  95% of the park is designated as wilderness                                                   
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.5         =  Has many spectacular waterfalls which are at their finest in spring                           
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.6         =  About 1,450 species of wildflowers live in the park                                           
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.7         =  800 miles of hiking trails                                                                    
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.8         =  UNESCO World Heritage Site                                                                    
+       remark                           =  yes                                                                                           
+fact   Yosemite.National.Park.9         =  Yosemite Valley                                                                               
+       remark                           =  yes                                                                                           
+       
+photo  Yosemite.Valley                  =  Yosemite Valley                                                                               
+       url                              =  github://philiprbrenan/vocabulary-14/images/Yosemite/YosemiteValley.jpg                       
+fact   Yosemite.Valley.0                =  Most visitors to the park visit this seven-square mile valley                                 
+       remark                           =  yes                                                                                           
+fact   Yosemite.Valley.1                =  Carved out by the Merced River and its many tributary streams                                 
+       remark                           =  yes                                                                                           
+fact   Yosemite.Valley.2                =  Large meadows are surrounded by high granite summits such as Half Dome                        
+       remark                           =  yes                                                                                           
+fact   Yosemite.Valley.3                =  Densely forested with pine trees                                                              
+       remark                           =  yes                                                                                           
+fact   Yosemite.Valley.4                =  Yosemite National Park                                                                        
+       remark                           =  yes                                                                                           
