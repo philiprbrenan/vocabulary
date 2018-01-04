@@ -1,20 +1,20 @@
 SUCCESS!
 
-2018-01-04 at 16:18:11 Generate AppaAppsPhotoApp version 20180104-161811 philiprbrenan/vocabulary/g/A3LetterWords
+2018-01-04 at 16:32:35 Generate AppaAppsPhotoApp version 20180104-163235 philiprbrenan/vocabulary/g/A3LetterWords
 
-2018-01-04 at 16:18:15 Step: parseSource
-2018-01-04 at 16:18:15 <b>Good source file!</b>
-2018-01-04 at 16:18:15 Step: loadAssets
-2018-01-04 at 16:19:10 59 new, 0 reused audio files
-2018-01-04 at 16:19:10 Step: multiplyPhotosByFacts
-2018-01-04 at 16:19:10 Step: genJavaManifest
-2018-01-04 at 16:19:10 Step: genJsonManifest
-2018-01-04 at 16:19:10 Step: genGameHtml
-2018-01-04 at 16:19:10 Step: genHtmlAssets
-2018-01-04 at 16:19:10 Step: zipAssets
-2018-01-04 at 16:19:10 Step: compileApp
-2018-01-04 at 16:19:16 Step: copyLinksToGitHub
-2018-01-04 at 16:19:20 Step: copyFilesIntoPositionOnWebServer
+2018-01-04 at 16:32:39 Step: parseSource
+2018-01-04 at 16:32:39 <b>Good source file!</b>
+2018-01-04 at 16:32:39 Step: loadAssets
+2018-01-04 at 16:33:35 59 new, 59 reused audio files
+2018-01-04 at 16:33:35 Step: multiplyPhotosByFacts
+2018-01-04 at 16:33:35 Step: genJavaManifest
+2018-01-04 at 16:33:35 Step: genJsonManifest
+2018-01-04 at 16:33:35 Step: genGameHtml
+2018-01-04 at 16:33:35 Step: genHtmlAssets
+2018-01-04 at 16:33:35 Step: zipAssets
+2018-01-04 at 16:33:35 Step: compileApp
+2018-01-04 at 16:33:38 Step: copyLinksToGitHub
+2018-01-04 at 16:33:43 Step: copyFilesIntoPositionOnWebServer
 --------------------------------------------------------------------------------
 do {
   my $a = bless({
@@ -37,7 +37,7 @@ do {
       parameters    => {
                          appName  => "vocabulary",
                          appPath  => "g/A3LetterWords",
-                         cTime    => 1515082750,
+                         cTime    => 1515083615,
                          devMode  => 1,
                          download => "http://www.appaapps.com",
                          title    => "Three-Letter Words",
@@ -79,7 +79,7 @@ do {
     app => bless({
       cmd => "app",
       defaulted => { language => 1, maxImages => 1, ordered => 1, rightInARow => 1 },
-      end => 6,
+      end => 7,
       index => 0,
       name => "vocabulary.g.A3LetterWords",
       parsedKeys => bless({
@@ -87,7 +87,7 @@ do {
         cmd                  => "app",
         description          => "Learn about Three-Letter Words in English",
         email                => "philiprbrenan\@gmail.com",
-        emphasis             => undef,
+        emphasis             => 12,
         fullNameOnGooglePlay => undef,
         icon                 => "Eye.jpg",
         language             => "en",
@@ -103,31 +103,31 @@ do {
       title => "Three-Letter Words",
       titleFile => undef,
     }, "ParsedCmd"),
-    dateTimeStamp => "2018-01-04 at 16:18:11",
+    dateTimeStamp => "2018-01-04 at 16:32:35",
     error => 0,
     iconFile => "/home/phil/audioImageCache/images/Eye.jpg",
     log => [
-      "\n2018-01-04 at 16:18:11 Generate AppaAppsPhotoApp version 20180104-161811 philiprbrenan/vocabulary/g/A3LetterWords\n",
-      "2018-01-04 at 16:18:15 Step: parseSource",
-      "2018-01-04 at 16:18:15 <b>Good source file!</b>",
-      "2018-01-04 at 16:18:15 Step: loadAssets",
-      "2018-01-04 at 16:19:10 59 new, 0 reused audio files",
-      "2018-01-04 at 16:19:10 Step: multiplyPhotosByFacts",
-      "2018-01-04 at 16:19:10 Step: genJavaManifest",
-      "2018-01-04 at 16:19:10 Step: genJsonManifest",
-      "2018-01-04 at 16:19:10 Step: genGameHtml",
-      "2018-01-04 at 16:19:10 Step: genHtmlAssets",
-      "2018-01-04 at 16:19:10 Step: zipAssets",
-      "2018-01-04 at 16:19:10 Step: compileApp",
-      "2018-01-04 at 16:19:16 Step: copyLinksToGitHub",
-      "2018-01-04 at 16:19:20 Step: copyFilesIntoPositionOnWebServer",
+      "\n2018-01-04 at 16:32:35 Generate AppaAppsPhotoApp version 20180104-163235 philiprbrenan/vocabulary/g/A3LetterWords\n",
+      "2018-01-04 at 16:32:39 Step: parseSource",
+      "2018-01-04 at 16:32:39 <b>Good source file!</b>",
+      "2018-01-04 at 16:32:39 Step: loadAssets",
+      "2018-01-04 at 16:33:35 59 new, 59 reused audio files",
+      "2018-01-04 at 16:33:35 Step: multiplyPhotosByFacts",
+      "2018-01-04 at 16:33:35 Step: genJavaManifest",
+      "2018-01-04 at 16:33:35 Step: genJsonManifest",
+      "2018-01-04 at 16:33:35 Step: genGameHtml",
+      "2018-01-04 at 16:33:35 Step: genHtmlAssets",
+      "2018-01-04 at 16:33:35 Step: zipAssets",
+      "2018-01-04 at 16:33:35 Step: compileApp",
+      "2018-01-04 at 16:33:38 Step: copyLinksToGitHub",
+      "2018-01-04 at 16:33:43 Step: copyFilesIntoPositionOnWebServer",
     ],
     parsedCmds => [
       'fix',
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 10,
+        end => 11,
         index => 0,
         name => "Ant",
         parsedKeys => bless({
@@ -143,14 +143,14 @@ do {
           width => 1326,
         }, "ParsedKeys"),
         say => undef,
-        start => 9,
+        start => 10,
         title => "Ant",
         titleFile => "Ant",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 13,
+        end => 14,
         index => 1,
         name => "Ape",
         parsedKeys => bless({
@@ -166,14 +166,14 @@ do {
           width => 1456,
         }, "ParsedKeys"),
         say => undef,
-        start => 12,
+        start => 13,
         title => "Ape",
         titleFile => "Ape",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 16,
+        end => 17,
         index => 2,
         name => "Arm",
         parsedKeys => bless({
@@ -189,14 +189,14 @@ do {
           width => 1052,
         }, "ParsedKeys"),
         say => undef,
-        start => 15,
+        start => 16,
         title => "Arm",
         titleFile => "Arm",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 19,
+        end => 20,
         index => 3,
         name => "Bag",
         parsedKeys => bless({
@@ -212,14 +212,14 @@ do {
           width => 1864,
         }, "ParsedKeys"),
         say => undef,
-        start => 18,
+        start => 19,
         title => "Bag",
         titleFile => "Bag",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 22,
+        end => 23,
         index => 4,
         name => "Bat",
         parsedKeys => bless({
@@ -235,14 +235,14 @@ do {
           width => 407,
         }, "ParsedKeys"),
         say => undef,
-        start => 21,
+        start => 22,
         title => "Bat",
         titleFile => "Bat",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 25,
+        end => 26,
         index => 5,
         name => "Bay",
         parsedKeys => bless({
@@ -258,14 +258,14 @@ do {
           width => 1937,
         }, "ParsedKeys"),
         say => undef,
-        start => 24,
+        start => 25,
         title => "Bay",
         titleFile => "Bay",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 28,
+        end => 29,
         index => 6,
         name => "Bed",
         parsedKeys => bless({
@@ -281,14 +281,14 @@ do {
           width => 1814,
         }, "ParsedKeys"),
         say => undef,
-        start => 27,
+        start => 28,
         title => "Bed",
         titleFile => "Bed",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 31,
+        end => 32,
         index => 7,
         name => "Bee",
         parsedKeys => bless({
@@ -304,14 +304,14 @@ do {
           width => 658,
         }, "ParsedKeys"),
         say => undef,
-        start => 30,
+        start => 31,
         title => "Bee",
         titleFile => "Bee",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 34,
+        end => 35,
         index => 8,
         name => "Bin",
         parsedKeys => bless({
@@ -327,14 +327,14 @@ do {
           width => 1620,
         }, "ParsedKeys"),
         say => undef,
-        start => 33,
+        start => 34,
         title => "Bin",
         titleFile => "Bin",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 37,
+        end => 38,
         index => 9,
         name => "Bog",
         parsedKeys => bless({
@@ -350,14 +350,14 @@ do {
           width => 904,
         }, "ParsedKeys"),
         say => undef,
-        start => 36,
+        start => 37,
         title => "Bog",
         titleFile => "Bog",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 40,
+        end => 41,
         index => 10,
         name => "Bow",
         parsedKeys => bless({
@@ -373,14 +373,14 @@ do {
           width => 1587,
         }, "ParsedKeys"),
         say => undef,
-        start => 39,
+        start => 40,
         title => "Bow",
         titleFile => "Bow",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 43,
+        end => 44,
         index => 11,
         name => "Box",
         parsedKeys => bless({
@@ -396,14 +396,14 @@ do {
           width => 1726,
         }, "ParsedKeys"),
         say => undef,
-        start => 42,
+        start => 43,
         title => "Box",
         titleFile => "Box",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 46,
+        end => 47,
         index => 12,
         name => "Boy",
         parsedKeys => bless({
@@ -419,14 +419,14 @@ do {
           width => 465,
         }, "ParsedKeys"),
         say => undef,
-        start => 45,
+        start => 46,
         title => "Boy",
         titleFile => "Boy",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 49,
+        end => 50,
         index => 13,
         name => "Bug",
         parsedKeys => bless({
@@ -442,14 +442,14 @@ do {
           width => 2652,
         }, "ParsedKeys"),
         say => undef,
-        start => 48,
+        start => 49,
         title => "Bug",
         titleFile => "Bug",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 52,
+        end => 53,
         index => 14,
         name => "Bun",
         parsedKeys => bless({
@@ -465,14 +465,14 @@ do {
           width => 1534,
         }, "ParsedKeys"),
         say => undef,
-        start => 51,
+        start => 52,
         title => "Bun",
         titleFile => "Bun",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 55,
+        end => 56,
         index => 15,
         name => "Bus",
         parsedKeys => bless({
@@ -488,14 +488,14 @@ do {
           width => 1361,
         }, "ParsedKeys"),
         say => undef,
-        start => 54,
+        start => 55,
         title => "Bus",
         titleFile => "Bus",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 58,
+        end => 59,
         index => 16,
         name => "Can",
         parsedKeys => bless({
@@ -511,14 +511,14 @@ do {
           width => 1398,
         }, "ParsedKeys"),
         say => undef,
-        start => 57,
+        start => 58,
         title => "Can",
         titleFile => "Can",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 61,
+        end => 62,
         index => 17,
         name => "Cap",
         parsedKeys => bless({
@@ -534,14 +534,14 @@ do {
           width => 1388,
         }, "ParsedKeys"),
         say => undef,
-        start => 60,
+        start => 61,
         title => "Cap",
         titleFile => "Cap",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 64,
+        end => 65,
         index => 18,
         name => "Car",
         parsedKeys => bless({
@@ -557,14 +557,14 @@ do {
           width => 318,
         }, "ParsedKeys"),
         say => undef,
-        start => 63,
+        start => 64,
         title => "Car",
         titleFile => "Car",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 67,
+        end => 68,
         index => 19,
         name => "Cat",
         parsedKeys => bless({
@@ -580,14 +580,14 @@ do {
           width => 885,
         }, "ParsedKeys"),
         say => undef,
-        start => 66,
+        start => 67,
         title => "Cat",
         titleFile => "Cat",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 70,
+        end => 71,
         index => 20,
         name => "Cow",
         parsedKeys => bless({
@@ -603,14 +603,14 @@ do {
           width => 1462,
         }, "ParsedKeys"),
         say => undef,
-        start => 69,
+        start => 70,
         title => "Cow",
         titleFile => "Cow",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 73,
+        end => 74,
         index => 21,
         name => "Cup",
         parsedKeys => bless({
@@ -626,14 +626,14 @@ do {
           width => 1588,
         }, "ParsedKeys"),
         say => undef,
-        start => 72,
+        start => 73,
         title => "Cup",
         titleFile => "Cup",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 76,
+        end => 77,
         index => 22,
         name => "Dam",
         parsedKeys => bless({
@@ -649,14 +649,14 @@ do {
           width => 2321,
         }, "ParsedKeys"),
         say => undef,
-        start => 75,
+        start => 76,
         title => "Dam",
         titleFile => "Dam",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 79,
+        end => 80,
         index => 23,
         name => "Dog",
         parsedKeys => bless({
@@ -672,14 +672,14 @@ do {
           width => 1514,
         }, "ParsedKeys"),
         say => undef,
-        start => 78,
+        start => 79,
         title => "Dog",
         titleFile => "Dog",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 82,
+        end => 83,
         index => 24,
         name => "Ear",
         parsedKeys => bless({
@@ -695,14 +695,14 @@ do {
           width => 1130,
         }, "ParsedKeys"),
         say => undef,
-        start => 81,
+        start => 82,
         title => "Ear",
         titleFile => "Ear",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 85,
+        end => 86,
         index => 25,
         name => "Egg",
         parsedKeys => bless({
@@ -718,14 +718,14 @@ do {
           width => 431,
         }, "ParsedKeys"),
         say => undef,
-        start => 84,
+        start => 85,
         title => "Egg",
         titleFile => "Egg",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 88,
+        end => 89,
         index => 26,
         name => "Emu",
         parsedKeys => bless({
@@ -741,14 +741,14 @@ do {
           width => 2282,
         }, "ParsedKeys"),
         say => undef,
-        start => 87,
+        start => 88,
         title => "Emu",
         titleFile => "Emu",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 91,
+        end => 92,
         index => 27,
         name => "Eye",
         parsedKeys => bless({
@@ -764,14 +764,14 @@ do {
           width => 1327,
         }, "ParsedKeys"),
         say => undef,
-        start => 90,
+        start => 91,
         title => "Eye",
         titleFile => "Eye",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 94,
+        end => 95,
         index => 28,
         name => "Fan",
         parsedKeys => bless({
@@ -787,14 +787,14 @@ do {
           width => 1629,
         }, "ParsedKeys"),
         say => undef,
-        start => 93,
+        start => 94,
         title => "Fan",
         titleFile => "Fan",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 97,
+        end => 98,
         index => 29,
         name => "Fin",
         parsedKeys => bless({
@@ -810,14 +810,14 @@ do {
           width => 975,
         }, "ParsedKeys"),
         say => undef,
-        start => 96,
+        start => 97,
         title => "Fin",
         titleFile => "Fin",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 100,
+        end => 101,
         index => 30,
         name => "Fox",
         parsedKeys => bless({
@@ -833,14 +833,14 @@ do {
           width => 400,
         }, "ParsedKeys"),
         say => undef,
-        start => 99,
+        start => 100,
         title => "Fox",
         titleFile => "Fox",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 103,
+        end => 104,
         index => 31,
         name => "Hat",
         parsedKeys => bless({
@@ -856,14 +856,14 @@ do {
           width => 1664,
         }, "ParsedKeys"),
         say => undef,
-        start => 102,
+        start => 103,
         title => "Hat",
         titleFile => "Hat",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 106,
+        end => 107,
         index => 32,
         name => "Hoe",
         parsedKeys => bless({
@@ -879,14 +879,14 @@ do {
           width => 1956,
         }, "ParsedKeys"),
         say => undef,
-        start => 105,
+        start => 106,
         title => "Hoe",
         titleFile => "Hoe",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 109,
+        end => 110,
         index => 33,
         name => "Ice",
         parsedKeys => bless({
@@ -902,14 +902,14 @@ do {
           width => 1460,
         }, "ParsedKeys"),
         say => undef,
-        start => 108,
+        start => 109,
         title => "Ice",
         titleFile => "Ice",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 112,
+        end => 113,
         index => 34,
         name => "Jar",
         parsedKeys => bless({
@@ -925,14 +925,14 @@ do {
           width => 1148,
         }, "ParsedKeys"),
         say => undef,
-        start => 111,
+        start => 112,
         title => "Jar",
         titleFile => "Jar",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 115,
+        end => 116,
         index => 35,
         name => "Jug",
         parsedKeys => bless({
@@ -948,14 +948,14 @@ do {
           width => 1583,
         }, "ParsedKeys"),
         say => undef,
-        start => 114,
+        start => 115,
         title => "Jug",
         titleFile => "Jug",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 118,
+        end => 119,
         index => 36,
         name => "Key",
         parsedKeys => bless({
@@ -971,14 +971,14 @@ do {
           width => 1490,
         }, "ParsedKeys"),
         say => undef,
-        start => 117,
+        start => 118,
         title => "Key",
         titleFile => "Key",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 121,
+        end => 122,
         index => 37,
         name => "Leg",
         parsedKeys => bless({
@@ -994,14 +994,14 @@ do {
           width => 1035,
         }, "ParsedKeys"),
         say => undef,
-        start => 120,
+        start => 121,
         title => "Leg",
         titleFile => "Leg",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 124,
+        end => 125,
         index => 38,
         name => "Lid",
         parsedKeys => bless({
@@ -1017,14 +1017,14 @@ do {
           width => 1737,
         }, "ParsedKeys"),
         say => undef,
-        start => 123,
+        start => 124,
         title => "Lid",
         titleFile => "Lid",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 127,
+        end => 128,
         index => 39,
         name => "Map",
         parsedKeys => bless({
@@ -1040,14 +1040,14 @@ do {
           width => 441,
         }, "ParsedKeys"),
         say => undef,
-        start => 126,
+        start => 127,
         title => "Map",
         titleFile => "Map",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 130,
+        end => 131,
         index => 40,
         name => "Men",
         parsedKeys => bless({
@@ -1063,14 +1063,14 @@ do {
           width => 1723,
         }, "ParsedKeys"),
         say => undef,
-        start => 129,
+        start => 130,
         title => "Men",
         titleFile => "Men",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 133,
+        end => 134,
         index => 41,
         name => "Mug",
         parsedKeys => bless({
@@ -1086,14 +1086,14 @@ do {
           width => 1228,
         }, "ParsedKeys"),
         say => undef,
-        start => 132,
+        start => 133,
         title => "Mug",
         titleFile => "Mug",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 136,
+        end => 137,
         index => 42,
         name => "Oar",
         parsedKeys => bless({
@@ -1109,14 +1109,14 @@ do {
           width => 1490,
         }, "ParsedKeys"),
         say => undef,
-        start => 135,
+        start => 136,
         title => "Oar",
         titleFile => "Oar",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 139,
+        end => 140,
         index => 43,
         name => "Owl",
         parsedKeys => bless({
@@ -1132,14 +1132,14 @@ do {
           width => 1431,
         }, "ParsedKeys"),
         say => undef,
-        start => 138,
+        start => 139,
         title => "Owl",
         titleFile => "Owl",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 142,
+        end => 143,
         index => 44,
         name => "Pan",
         parsedKeys => bless({
@@ -1155,14 +1155,14 @@ do {
           width => 1524,
         }, "ParsedKeys"),
         say => undef,
-        start => 141,
+        start => 142,
         title => "Pan",
         titleFile => "Pan",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 145,
+        end => 146,
         index => 45,
         name => "Peg",
         parsedKeys => bless({
@@ -1178,14 +1178,14 @@ do {
           width => 1721,
         }, "ParsedKeys"),
         say => undef,
-        start => 144,
+        start => 145,
         title => "Peg",
         titleFile => "Peg",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 148,
+        end => 149,
         index => 46,
         name => "Pen",
         parsedKeys => bless({
@@ -1201,14 +1201,14 @@ do {
           width => 1363,
         }, "ParsedKeys"),
         say => undef,
-        start => 147,
+        start => 148,
         title => "Pen",
         titleFile => "Pen",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 151,
+        end => 152,
         index => 47,
         name => "Pig",
         parsedKeys => bless({
@@ -1224,14 +1224,14 @@ do {
           width => 1830,
         }, "ParsedKeys"),
         say => undef,
-        start => 150,
+        start => 151,
         title => "Pig",
         titleFile => "Pig",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 154,
+        end => 155,
         index => 48,
         name => "Pin",
         parsedKeys => bless({
@@ -1247,14 +1247,14 @@ do {
           width => 1296,
         }, "ParsedKeys"),
         say => undef,
-        start => 153,
+        start => 154,
         title => "Pin",
         titleFile => "Pin",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 157,
+        end => 158,
         index => 49,
         name => "Rug",
         parsedKeys => bless({
@@ -1270,14 +1270,14 @@ do {
           width => 1834,
         }, "ParsedKeys"),
         say => undef,
-        start => 156,
+        start => 157,
         title => "Rug",
         titleFile => "Rug",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 160,
+        end => 161,
         index => 50,
         name => "Sea",
         parsedKeys => bless({
@@ -1293,14 +1293,14 @@ do {
           width => 1516,
         }, "ParsedKeys"),
         say => undef,
-        start => 159,
+        start => 160,
         title => "Sea",
         titleFile => "Sea",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 163,
+        end => 164,
         index => 51,
         name => "Sow",
         parsedKeys => bless({
@@ -1316,14 +1316,14 @@ do {
           width => 2382,
         }, "ParsedKeys"),
         say => undef,
-        start => 162,
+        start => 163,
         title => "Sow",
         titleFile => "Sow",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 166,
+        end => 167,
         index => 52,
         name => "Sun",
         parsedKeys => bless({
@@ -1339,14 +1339,14 @@ do {
           width => 1814,
         }, "ParsedKeys"),
         say => undef,
-        start => 165,
+        start => 166,
         title => "Sun",
         titleFile => "Sun",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 169,
+        end => 170,
         index => 53,
         name => "Tap",
         parsedKeys => bless({
@@ -1362,14 +1362,14 @@ do {
           width => 1794,
         }, "ParsedKeys"),
         say => undef,
-        start => 168,
+        start => 169,
         title => "Tap",
         titleFile => "Tap",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 172,
+        end => 173,
         index => 54,
         name => "Toe",
         parsedKeys => bless({
@@ -1385,14 +1385,14 @@ do {
           width => 1217,
         }, "ParsedKeys"),
         say => undef,
-        start => 171,
+        start => 172,
         title => "Toe",
         titleFile => "Toe",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 175,
+        end => 176,
         index => 55,
         name => "Van",
         parsedKeys => bless({
@@ -1408,14 +1408,14 @@ do {
           width => 1918,
         }, "ParsedKeys"),
         say => undef,
-        start => 174,
+        start => 175,
         title => "Van",
         titleFile => "Van",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 178,
+        end => 179,
         index => 56,
         name => "Wok",
         parsedKeys => bless({
@@ -1431,14 +1431,14 @@ do {
           width => 1529,
         }, "ParsedKeys"),
         say => undef,
-        start => 177,
+        start => 178,
         title => "Wok",
         titleFile => "Wok",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 181,
+        end => 182,
         index => 57,
         name => "Yak",
         parsedKeys => bless({
@@ -1454,14 +1454,14 @@ do {
           width => 2497,
         }, "ParsedKeys"),
         say => undef,
-        start => 180,
+        start => 181,
         title => "Yak",
         titleFile => "Yak",
       }, "ParsedCmd"),
       bless({
         cmd => "photo",
         defaulted => { level => 1, titleFile => 1 },
-        end => 184,
+        end => 185,
         index => 58,
         name => "Zip",
         parsedKeys => bless({
@@ -1477,16 +1477,16 @@ do {
           width => 1316,
         }, "ParsedKeys"),
         say => undef,
-        start => 183,
+        start => 184,
         title => "Zip",
         titleFile => "Zip",
       }, "ParsedCmd"),
     ],
     project => "philiprbrenan/vocabulary/g/A3LetterWords",
-    source => "app vocabulary.g.A3LetterWords = Three-Letter Words\n  description  = Learn about Three-Letter Words in English\n  icon         = Eye.jpg\n  author       = philiprbrenan\n  email        = philiprbrenan\@gmail.com\n  speakers     = Amy\n\n       \nphoto  Ant  =  Ant                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  \n       \nphoto  Ape  =  Ape                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  \n       \nphoto  Arm  =  Arm                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  \n       \nphoto  Bag  =  Bag                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  \n       \nphoto  Bat  =  Bat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  \n       \nphoto  Bay  =  Bay                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  \n       \nphoto  Bed  =  Bed                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  \n       \nphoto  Bee  =  Bee                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  \n       \nphoto  Bin  =  Bin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  \n       \nphoto  Bog  =  Bog                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  \n       \nphoto  Bow  =  Bow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  \n       \nphoto  Box  =  Box                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  \n       \nphoto  Boy  =  Boy                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  \n       \nphoto  Bug  =  Bug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  \n       \nphoto  Bun  =  Bun                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  \n       \nphoto  Bus  =  Bus                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  \n       \nphoto  Can  =  Can                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  \n       \nphoto  Cap  =  Cap                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  \n       \nphoto  Car  =  Car                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  \n       \nphoto  Cat  =  Cat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  \n       \nphoto  Cow  =  Cow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  \n       \nphoto  Cup  =  Cup                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  \n       \nphoto  Dam  =  Dam                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  \n       \nphoto  Dog  =  Dog                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  \n       \nphoto  Ear  =  Ear                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  \n       \nphoto  Egg  =  Egg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  \n       \nphoto  Emu  =  Emu                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  \n       \nphoto  Eye  =  Eye                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  \n       \nphoto  Fan  =  Fan                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  \n       \nphoto  Fin  =  Fin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  \n       \nphoto  Fox  =  Fox                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  \n       \nphoto  Hat  =  Hat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  \n       \nphoto  Hoe  =  Hoe                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  \n       \nphoto  Ice  =  Ice                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  \n       \nphoto  Jar  =  Jar                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  \n       \nphoto  Jug  =  Jug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  \n       \nphoto  Key  =  Key                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  \n       \nphoto  Leg  =  Leg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  \n       \nphoto  Lid  =  Lid                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  \n       \nphoto  Map  =  Map                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  \n       \nphoto  Men  =  Men                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  \n       \nphoto  Mug  =  Mug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  \n       \nphoto  Oar  =  Oar                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  \n       \nphoto  Owl  =  Owl                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  \n       \nphoto  Pan  =  Pan                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  \n       \nphoto  Peg  =  Peg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  \n       \nphoto  Pen  =  Pen                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  \n       \nphoto  Pig  =  Pig                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  \n       \nphoto  Pin  =  Pin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  \n       \nphoto  Rug  =  Rug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  \n       \nphoto  Sea  =  Sea                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  \n       \nphoto  Sow  =  Sow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  \n       \nphoto  Sun  =  Sun                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  \n       \nphoto  Tap  =  Tap                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  \n       \nphoto  Toe  =  Toe                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  \n       \nphoto  Van  =  Van                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  \n       \nphoto  Wok  =  Wok                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  \n       \nphoto  Yak  =  Yak                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  \n       \nphoto  Zip  =  Zip                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  \n",
-    sourceFileSha => "7f4c90964b2ad232247af2b5d8f5cfe77d295a03",
+    source => "app vocabulary.g.A3LetterWords = Three-Letter Words\n  description  = Learn about Three-Letter Words in English\n  icon         = Eye.jpg\n  author       = philiprbrenan\n  email        = philiprbrenan\@gmail.com\n  speakers     = Amy\n  emphasis     = 12\n\n       \nphoto  Ant  =  Ant                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  \n       \nphoto  Ape  =  Ape                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  \n       \nphoto  Arm  =  Arm                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  \n       \nphoto  Bag  =  Bag                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  \n       \nphoto  Bat  =  Bat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  \n       \nphoto  Bay  =  Bay                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  \n       \nphoto  Bed  =  Bed                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  \n       \nphoto  Bee  =  Bee                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  \n       \nphoto  Bin  =  Bin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  \n       \nphoto  Bog  =  Bog                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  \n       \nphoto  Bow  =  Bow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  \n       \nphoto  Box  =  Box                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  \n       \nphoto  Boy  =  Boy                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  \n       \nphoto  Bug  =  Bug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  \n       \nphoto  Bun  =  Bun                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  \n       \nphoto  Bus  =  Bus                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  \n       \nphoto  Can  =  Can                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  \n       \nphoto  Cap  =  Cap                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  \n       \nphoto  Car  =  Car                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  \n       \nphoto  Cat  =  Cat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  \n       \nphoto  Cow  =  Cow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  \n       \nphoto  Cup  =  Cup                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  \n       \nphoto  Dam  =  Dam                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  \n       \nphoto  Dog  =  Dog                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  \n       \nphoto  Ear  =  Ear                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  \n       \nphoto  Egg  =  Egg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  \n       \nphoto  Emu  =  Emu                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  \n       \nphoto  Eye  =  Eye                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  \n       \nphoto  Fan  =  Fan                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  \n       \nphoto  Fin  =  Fin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  \n       \nphoto  Fox  =  Fox                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  \n       \nphoto  Hat  =  Hat                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  \n       \nphoto  Hoe  =  Hoe                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  \n       \nphoto  Ice  =  Ice                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  \n       \nphoto  Jar  =  Jar                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  \n       \nphoto  Jug  =  Jug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  \n       \nphoto  Key  =  Key                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  \n       \nphoto  Leg  =  Leg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  \n       \nphoto  Lid  =  Lid                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  \n       \nphoto  Map  =  Map                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  \n       \nphoto  Men  =  Men                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  \n       \nphoto  Mug  =  Mug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  \n       \nphoto  Oar  =  Oar                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  \n       \nphoto  Owl  =  Owl                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  \n       \nphoto  Pan  =  Pan                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  \n       \nphoto  Peg  =  Peg                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  \n       \nphoto  Pen  =  Pen                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  \n       \nphoto  Pig  =  Pig                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  \n       \nphoto  Pin  =  Pin                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  \n       \nphoto  Rug  =  Rug                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  \n       \nphoto  Sea  =  Sea                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  \n       \nphoto  Sow  =  Sow                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  \n       \nphoto  Sun  =  Sun                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  \n       \nphoto  Tap  =  Tap                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  \n       \nphoto  Toe  =  Toe                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  \n       \nphoto  Van  =  Van                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  \n       \nphoto  Wok  =  Wok                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  \n       \nphoto  Yak  =  Yak                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  \n       \nphoto  Zip  =  Zip                                                               \n       url  =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  \n",
+    sourceFileSha => "a9a0791d2c989b95696f38ad6651775a7f9aee0f",
     step => "completed",
-    time => 1515082691,
+    time => 1515083555,
   }, "Manifest");
   $a->{parsedCmds}[0] = $a->{app};
   $a;
