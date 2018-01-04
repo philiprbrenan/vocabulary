@@ -1,6 +1,6 @@
-app g.Cats   = Top 20 Cats and Kittens
+app vocabulary.g.Cats = Top 20 Cats and Kittens
   description  = Learn about Top 20 Cats and Kittens in English
-  icon         = Russian Blue - Cat.png
+  icon         = Russian Blue - Cat.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
