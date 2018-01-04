@@ -1,6 +1,6 @@
 app g.ChocolateGoodnessCake   = Chocolate Goodness Cake
   description  = Learn about Chocolate Goodness Cake in English
-  icon         = ARRAY(0x2c99068).png
+  icon         = ARRAY(0x340b258).png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
