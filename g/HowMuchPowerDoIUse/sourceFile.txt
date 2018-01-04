@@ -3,6 +3,7 @@ app vocabulary.g.HowMuchPowerDoIUse = How Much Power Do I Use?
   icon         = Kettle.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Air conditioner Aquarium Blender Bread maker Clock radio Coffeemaker Compact fluorescent light bulb Cordless drill Dehumidifier Desktop computer Dishwasher Electric blanket Fan heater Freezer Hair dryer Halogen lamp Hand blender Incandescent light bulb Iron Kettle Laptop Microwave oven Oven Portable fan Refrigerator Sandwich toaster Satellite dish Shaver Slow cooker Television Toaster Toothbrush Vacuum cleaner Washing machine Water heater
   speakers     = Amy
   emphasis     = 12
 
