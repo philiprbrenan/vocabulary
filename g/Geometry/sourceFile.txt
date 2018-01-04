@@ -1,4 +1,4 @@
-app g.Geometry   = Geometry Animations
+app vocabulary.g.Geometry = Geometry Animations
   description  = Learn about Geometry Animations in English
   icon         = icon.png
   author       = philiprbrenan
