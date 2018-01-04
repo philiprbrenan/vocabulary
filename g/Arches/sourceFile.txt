@@ -3,6 +3,7 @@ app vocabulary.g.Arches = Arches National Park USA
   icon         = Double O Arch.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = American Spadefoot Toad Arches National Park Balanced Rock Broken Arch Collared Lizard Dark Angel Delicate Arch Desert Bighorn Sheep Devil's Garden Double Arch Double O Arch Entrance View Evening Primrose Fiery Furnace Landscape Arch Mountain Lion Mule Deer Navajo Arch Park Avenue Partition Arch Peregrine Falcon Petrified Dunes Petroglyphs Pine Tree Arch Pinyon Pine Prickly Pear Cactus Queen Nefertiti Rock Sacred Datura Sand Dune Arch Skull Arch Skyline Arch Surprise Arch The Organ The Three Gossips Tower of Babel Tunnel Arch Turret Arch Utah Juniper Western Rattlesnake Wolfe Ranch
   speakers     = Amy
   emphasis     = 12
 
