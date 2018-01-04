@@ -1,4 +1,4 @@
-app g.Gcd   = Greatest Common Divisor
+app vocabulary.g.Gcd = Greatest Common Divisor
   description  = Learn about Greatest Common Divisor in English
   icon         = icon.png
   author       = philiprbrenan
