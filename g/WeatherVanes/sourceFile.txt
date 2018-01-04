@@ -1,0 +1,85 @@
+app g.WeatherVanes   = Easy Weather Vane Alphabet
+  description  = Learn about Easy Weather Vane Alphabet in English
+  icon         = Nine Sails.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Arrow                   =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Arrow.jpg                  
+       
+photo  Badger                  =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Badger.jpg                 
+       
+photo  Cockerel                =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Cockerel.jpg               
+       
+photo  Dog                     =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Dog.jpg                    
+       
+photo  Engine                  =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Engine.jpg                 
+       
+photo  Fox                     =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Fox.jpg                    
+       
+photo  Goose                   =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Goose.jpg                  
+       
+photo  Hunter                  =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Hunter.jpg                 
+       
+photo  Insect                  =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Insect.jpg                 
+       
+photo  Jockey                  =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Jockey.jpg                 
+       
+photo  King.Cobra              =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/KingCobra.jpg              
+       
+photo  Lifeboat                =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Lifeboat.jpg               
+       
+photo  Mackerel                =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Mackerel.jpg               
+       
+photo  Nine.Sails              =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/NineSails.jpg              
+       
+photo  Owl                     =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Owl.jpg                    
+       
+photo  Pennant                 =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Pennant.jpg                
+       
+photo  Quarter.Horse           =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/QuarterHorse.jpg           
+       
+photo  Reindeer                =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Reindeer.jpg               
+       
+photo  Surfer                  =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Surfer.jpg                 
+       
+photo  Tern                    =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Tern.jpg                   
+       
+photo  Unbalanced.Weathervane  =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/UnbalancedWeathervane.jpg  
+       
+photo  Vixen                   =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Vixen.jpg                  
+       
+photo  Whale                   =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Whale.jpg                  
+       
+photo  X-Ray                   =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/X-Ray.jpg                  
+       
+photo  Yacht                   =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/Yacht.jpg                  
+       
+photo  Zebra.Fox               =                                                                                      
+       url                     =  github://philiprbrenan/vocabulary-14/images/WeatherVanes/ZebraFox.jpg               
