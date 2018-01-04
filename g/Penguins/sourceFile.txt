@@ -1,6 +1,6 @@
-app g.Penguins   = Penguins of Antarctica
+app vocabulary.g.Penguins = Penguins of Antarctica
   description  = Learn about Penguins of Antarctica in English
-  icon         = Emperor Penguin 2.png
+  icon         = Emperor Penguin 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
