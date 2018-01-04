@@ -3,6 +3,7 @@ app vocabulary.g.FlowerAlphabet = Easy Flower Alphabet
   icon         = Turk's Cap.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Acacia Aster Avens Begonia Bellflower Buddlea Cactus Clover Columbine Crocus Daffodil Dahlia Dandelion Echium Edelweiss Eyebright Fleabane Forget-Me-Not Fuschia Gentian Gerbera Globeflower Hawthorn Heather Hibiscus Impatiens Ipomoea Iris Jacaranda Jacob's Ladder Jasmine Kidney Vetch King of the Alps Kingcup Lilac Lobelia Lupin Marguerite Marigold Mayweed Naked Man Orchid Nasturtium Netted Willow Orange Lily Orchid Oxlip Pansy Petunia Pink Queen Anne's Lace Ragwort Rhododendron Rock Rose Snowbell Sunflower Sweet Pea Teasle Thistle Turk's Cap Umbrella Plant Valerian Vetch Violet White Rose Wintergreen Wood Sorrel Yarrow Yellow Poppy Yellow Violet Zinnia
   speakers     = Amy
   emphasis     = 12
 
