@@ -1,6 +1,6 @@
-app g.FamousLondonLandmarks   = Famous London Landmarks
+app vocabulary.g.FamousLondonLandmarks = Famous London Landmarks
   description  = Learn about Famous London Landmarks in English
-  icon         = Big Ben 2.png
+  icon         = Big Ben 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
