@@ -1,4 +1,4 @@
-app g.TraceNumbers09InCantonese   = Trace Numbers 0 to 9 in Cantonese
+app vocabulary.g.TraceNumbers09InCantonese = Trace Numbers 0 to 9 in Cantonese
   description  = Learn about Trace Numbers 0 to 9 in Cantonese in English
   icon         = icon.png
   author       = philiprbrenan
