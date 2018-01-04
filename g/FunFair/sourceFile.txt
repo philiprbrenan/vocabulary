@@ -1,6 +1,6 @@
-app g.FunFair   = A Day at the Fun Fair
+app vocabulary.g.FunFair = A Day at the Fun Fair
   description  = Learn about A Day at the Fun Fair in English
-  icon         = Giant Helter Skelter 2.png
+  icon         = Giant Helter Skelter 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
