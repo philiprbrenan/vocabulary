@@ -5,4 +5,301 @@ app g.BabyAnimals   = Baby Animals
   email        = philiprbrenan@gmail.com
   speakers     = Amy
 
-
+       
+photo  Calf                         =  Calf                                                                               
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Calf.jpg                    
+fact   Calf.0                       =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Camel.and.calf               =  Camel and calf                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Camelandcalf.jpg            
+fact   Camel.and.calf.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Camel.calf                   =  Camel calf                                                                         
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Camelcalf.jpg               
+fact   Camel.calf.0                 =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Cat.and.kitten               =  Cat and kitten                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Catandkitten.jpg            
+       
+photo  Chick                        =  Chick                                                                              
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Chick.jpg                   
+fact   Chick.0                      =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Chicken.and.chick            =  Chicken and chick                                                                  
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Chickenandchick.jpg         
+fact   Chicken.and.chick.0          =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Chimpanzee.and.infant        =  Chimpanzee and infant                                                              
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Chimpanzeeandinfant.jpg     
+fact   Chimpanzee.and.infant.0      =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Chimpanzee.infant            =  Chimpanzee infant                                                                  
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Chimpanzeeinfant.jpg        
+fact   Chimpanzee.infant.0          =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Cow.and.calf                 =  Cow and calf                                                                       
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Cowandcalf.jpg              
+fact   Cow.and.calf.0               =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Cygnets                      =  Cygnets                                                                            
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Cygnets.jpg                 
+fact   Cygnets.0                    =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Deer.and.fawn                =  Deer and fawn                                                                      
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Deerandfawn.jpg             
+fact   Deer.and.fawn.0              =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Dog.and.puppy                =  Dog and puppy                                                                      
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Dogandpuppy.jpg             
+fact   Dog.and.puppy.0              =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Dolphin.and.calf             =  Dolphin and calf                                                                   
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Dolphinandcalf.jpg          
+fact   Dolphin.and.calf.0           =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Dolphin.calf                 =  Dolphin calf                                                                       
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Dolphincalf.jpg             
+fact   Dolphin.calf.0               =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Duck.and.ducklings           =  Duck and ducklings                                                                 
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Duckandducklings.jpg        
+fact   Duck.and.ducklings.0         =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Duckling                     =  Duckling                                                                           
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Duckling.jpg                
+fact   Duckling.0                   =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Eagle.and.nest               =  Eagle and nest                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Eagleandnest.jpg            
+fact   Eagle.and.nest.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Eaglet                       =  Eaglet                                                                             
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Eaglet.jpg                  
+fact   Eaglet.0                     =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Elephant.and.calf            =  Elephant and calf                                                                  
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Elephantandcalf.jpg         
+fact   Elephant.and.calf.0          =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Elephant.calf                =  Elephant calf                                                                      
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Elephantcalf.jpg            
+fact   Elephant.calf.0              =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Emperor.Penguin.and.chick    =  Emperor Penguin and chick                                                          
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/EmperorPenguinandchick.jpg  
+fact   Emperor.Penguin.and.chick.0  =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Emperor.Penguin.chick        =  Emperor Penguin chick                                                              
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/EmperorPenguinchick.jpg     
+fact   Emperor.Penguin.chick.0      =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Fawn                         =  Fawn                                                                               
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Fawn.jpg                    
+fact   Fawn.0                       =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Foal                         =  Foal                                                                               
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Foal.jpg                    
+fact   Foal.0                       =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Giraffe.and.calf             =  Giraffe and calf                                                                   
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Giraffeandcalf.jpg          
+fact   Giraffe.and.calf.0           =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Giraffe.calf                 =  Giraffe calf                                                                       
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Giraffecalf.jpg             
+fact   Giraffe.calf.0               =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Goat.and.kids                =  Goat and kids                                                                      
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Goatandkids.jpg             
+fact   Goat.and.kids.0              =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Goat.kids                    =  Goat kids                                                                          
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Goatkids.jpg                
+fact   Goat.kids.0                  =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Goose.and.goslings           =  Goose and goslings                                                                 
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Gooseandgoslings.jpg        
+fact   Goose.and.goslings.0         =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Gorilla.and.infant           =  Gorilla and infant                                                                 
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Gorillaandinfant.jpg        
+fact   Gorilla.and.infant.0         =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Gorilla.infant               =  Gorilla infant                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Gorillainfant.jpg           
+fact   Gorilla.infant.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Goslings                     =  Goslings                                                                           
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Goslings.jpg                
+fact   Goslings.0                   =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Hedgehog.and.hoglet          =  Hedgehog and hoglet                                                                
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Hedgehogandhoglet.jpg       
+fact   Hedgehog.and.hoglet.0        =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Hoglet                       =  Hoglet                                                                             
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Hoglet.jpg                  
+fact   Hoglet.0                     =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Horse.and.foal               =  Horse and foal                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Horseandfoal.jpg            
+fact   Horse.and.foal.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Hyena.and.cubs               =  Hyena and cubs                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Hyenaandcubs.jpg            
+fact   Hyena.and.cubs.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Hyena.cubs                   =  Hyena cubs                                                                         
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Hyenacubs.jpg               
+fact   Hyena.cubs.0                 =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Kangaroo.and.joey            =  Kangaroo and joey                                                                  
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Kangarooandjoey.jpg         
+fact   Kangaroo.and.joey.0          =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Kangaroo.joey                =  Kangaroo joey                                                                      
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Kangaroojoey.jpg            
+fact   Kangaroo.joey.0              =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Kitten                       =  Kitten                                                                             
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Kitten.jpg                  
+fact   Kitten.0                     =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Koala.and.joey               =  Koala and joey                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Koalaandjoey.jpg            
+fact   Koala.and.joey.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Koala.joey                   =  Koala joey                                                                         
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Koalajoey.jpg               
+fact   Koala.joey.0                 =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Lambs                        =  Lambs                                                                              
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Lambs.jpg                   
+fact   Lambs.0                      =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Lambs.and.sheep              =  Lambs and sheep                                                                    
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Lambsandsheep.jpg           
+fact   Lambs.and.sheep.0            =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Lion.and.lion.cub            =  Lion and lion cub                                                                  
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Lionandlioncub.jpg          
+fact   Lion.and.lion.cub.0          =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Lion.cub                     =  Lion cub                                                                           
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Lioncub.jpg                 
+fact   Lion.cub.0                   =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Owl.and.owlets               =  Owl and owlets                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Owlandowlets.jpg            
+fact   Owl.and.owlets.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Owlets                       =  Owlets                                                                             
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Owlets.jpg                  
+fact   Owlets.0                     =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Pig.and.piglet               =  Pig and piglet                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Pigandpiglet.jpg            
+fact   Pig.and.piglet.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Piglet                       =  Piglet                                                                             
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Piglet.jpg                  
+fact   Piglet.0                     =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Polar.Bear.and.cub           =  Polar Bear and cub                                                                 
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/PolarBearandcub.jpg         
+fact   Polar.Bear.and.cub.0         =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Polar.Bear.cub               =  Polar Bear cub                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/PolarBearcub.jpg            
+fact   Polar.Bear.cub.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Puppy                        =  Puppy                                                                              
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Puppy.jpg                   
+fact   Puppy.0                      =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Red.Panda.and.cub            =  Red Panda and cub                                                                  
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/RedPandaandcub.jpg          
+fact   Red.Panda.and.cub.0          =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Red.Panda.cub                =  Red Panda cub                                                                      
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/RedPandacub.jpg             
+fact   Red.Panda.cub.0              =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Sea.Lion.and.pup             =  Sea Lion and pup                                                                   
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/SeaLionandpup.jpg           
+fact   Sea.Lion.and.pup.0           =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Sea.Lion.pup                 =  Sea Lion pup                                                                       
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/SeaLionpup.jpg              
+fact   Sea.Lion.pup.0               =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Swan.and.cygnets             =  Swan and cygnets                                                                   
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Swanandcygnets.jpg          
+fact   Swan.and.cygnets.0           =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Zebra.and.colt               =  Zebra and colt                                                                     
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Zebraandcolt.jpg            
+fact   Zebra.and.colt.0             =                                                                                     
+       remark                       =  yes                                                                                
+       
+photo  Zebra.colt                   =  Zebra colt                                                                         
+       url                          =  github://philiprbrenan/vocabulary-1/images/BabyAnimals/Zebracolt.jpg               
+fact   Zebra.colt.0                 =                                                                                     
+       remark                       =  yes                                                                                
