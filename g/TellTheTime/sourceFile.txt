@@ -1,0 +1,76 @@
+app g.TellTheTime   = Tell the Time
+  description  = Learn about Tell the Time in English
+  icon         = Three O'Clock.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Eight.O'Clock            =  Eight O'Clock                                                                      
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/EightO'Clock.jpg           
+       
+photo  Eleven.O'Clock           =  Eleven O'Clock                                                                     
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/ElevenO'Clock.jpg          
+       
+photo  Five.O'Clock             =  Five O'Clock                                                                       
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/FiveO'Clock.jpg            
+       
+photo  Five.past.twelve         =  Five past twelve                                                                   
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Fivepasttwelve.jpg         
+       
+photo  Five.to.three            =  Five to three                                                                      
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Fivetothree.jpg            
+       
+photo  Four.O'Clock             =  Four O'Clock                                                                       
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/FourO'Clock.jpg            
+       
+photo  Half.past.eight          =  Half past eight                                                                    
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Halfpasteight.jpg          
+       
+photo  Nine.O'Clock             =  Nine O'Clock                                                                       
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/NineO'Clock.jpg            
+       
+photo  One.O'Clock              =  One O'Clock                                                                        
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/OneO'Clock.jpg             
+       
+photo  Quarter.past.one         =  Quarter past one                                                                   
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Quarterpastone.jpg         
+       
+photo  Quarter.to.six           =  Quarter to six                                                                     
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Quartertosix.jpg           
+       
+photo  Seven.O'Clock            =  Seven O'Clock                                                                      
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/SevenO'Clock.jpg           
+       
+photo  Six.O'Clock              =  Six O'Clock                                                                        
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/SixO'Clock.jpg             
+       
+photo  Ten.O'Clock              =  Ten O'Clock                                                                        
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/TenO'Clock.jpg             
+       
+photo  Ten.past.eleven          =  Ten past eleven                                                                    
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Tenpasteleven.jpg          
+       
+photo  Ten.to.eight             =  Ten to eight                                                                       
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Tentoeight.jpg             
+       
+photo  Three.O'Clock            =  Three O'Clock                                                                      
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/ThreeO'Clock.jpg           
+       
+photo  Twelve.O'Clock           =  Twelve O'Clock                                                                     
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/TwelveO'Clock.jpg          
+       
+photo  Twenty.past.ten          =  Twenty past ten                                                                    
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Twentypastten.jpg          
+       
+photo  Twenty.to.three          =  Twenty to three                                                                    
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Twentytothree.jpg          
+       
+photo  Twenty-five.past.eleven  =  Twenty-five past eleven                                                            
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Twenty-fivepasteleven.jpg  
+       
+photo  Twenty-five.to.five      =  Twenty-five to five                                                                
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/Twenty-fivetofive.jpg      
+       
+photo  Two.O'Clock              =  Two O'Clock                                                                        
+       url                      =  github://philiprbrenan/vocabulary-11/images/TellTheTime/TwoO'Clock.jpg             
