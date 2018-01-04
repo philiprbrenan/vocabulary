@@ -4,6 +4,7 @@ app vocabulary.g.Fruits = Fruits and Berries
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
+  emphasis     = 12
 
        
 photo  Apple.1               =  Apple                                                                                        
