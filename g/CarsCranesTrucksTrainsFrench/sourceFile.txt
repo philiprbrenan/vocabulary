@@ -3,6 +3,7 @@ app vocabulary.g.CarsCranesTrucksTrainsFrench = Cars Cranes Trucks Trains in Fre
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = 
   speakers     = Amy
   emphasis     = 12
 
