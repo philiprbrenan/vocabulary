@@ -3,6 +3,7 @@ app vocabulary.g.Trees = Trees
   icon         = icon0.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Angel_Oak_Tree_in_SC Arbutus_menziesii Banyan_Tree Baobab Black_gum Black_locust Bottle_tree Cedrus_deodara_Manali_2 Common_walnut Dracaena_draco European_larch_2 Honey_Locust Jacaranda Judas_tree Katsura_Tree_1 Northern_red_oak Palm_tree_1 Pando_tree_1 PohutukawaCornwallis Rowan_tree Saucer_magnolia Scots_pine Sequoia_Tree_2 Thuja_plicata_Vancouver Tilia_platyphyllos Weeping_willow Wild_cherry_1 ash beechTree black_poplar blueSpruce cedar copperBeech2 corkOak crabapple_tree crepeMyrtle eucalyptus ginkgo_biloba01 hawthorn kauri mapleTrees monkeyPuzzle olive planeTrees redHorseChestnut silverBirch sweetChestnut sycamore white_oak yellow_poplar yew
   speakers     = Amy
   emphasis     = 12
 
