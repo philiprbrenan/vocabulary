@@ -1,4 +1,4 @@
-app g.Greek   = The Greek Alphabet
+app vocabulary.g.Greek = The Greek Alphabet
   description  = Learn about The Greek Alphabet in English
   icon         = icon.png
   author       = philiprbrenan
