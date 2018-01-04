@@ -3,6 +3,7 @@ app vocabulary.g.Boats = Tugs and Tankers, Ships and Boats
   icon         = Fishing trawler.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Anchor Canadian canoe Canal Canal boat Car ferry Catamaran sailboat Coastguard tug Container ship Cornish fishing boat Cornish lugger Cruise Ship Double Kayak Estuary Fishing trawler Frigate Galleon Gondola Harbour Heavy Lift Vessel with oil rig High speed Rib House boat Inflatable Dinghy Inter-island passenger ferry Jet propelled sight-seeing boat Lifeboat Lifeboat and tractor Lock gates Luxury Motor Yacht Marina Moving a canal boat Moving a yacht Ocean-going ferry Passenger ferry Peruvian reed boat RIB Rigid Inflatable lifeboat River cruiser Rowing boat Sailing dinghy Sailing yacht Scenic cruise boat Schooner Single kayak Small passenger ferry Tall ship Tanker Tourist reed boat Wooden dinghy Wooden sailing yacht Zanzibar dhow
   speakers     = Amy
   emphasis     = 12
 
