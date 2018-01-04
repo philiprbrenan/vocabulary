@@ -3,6 +3,7 @@ app vocabulary.g.PuppyDogBreedsOne = Model Puppy Dog Breeds 1
   icon         = Bassett Hound 1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Bassett Hound Beagle Family Bloodhound Boxer Chihuahua Chow Chow Cocker Spaniel Family Dachshund Dalmatian German Shepherd Golden Labrador Golden Retriever Irish Setter Jack Russell Terrier King Charles Spaniel Maltese Miniature Poodle Newfoundland Old English Sheepdog Schnauzer Shetland Sheepdog St. Bernard Standard Poodle Weimaraner West Highland Terrier Yorkshire Terrier
   speakers     = Amy
   emphasis     = 12
 
