@@ -3,6 +3,7 @@ app vocabulary.g.Dunloe = Ride through the Gap of Dunloe in South-West Ireland
   icon         = Journey's End 6.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Bend of Road Gorse Rock Journey's End Lakeside Rapids Rock Face Ruined Farmhouse Small Bridge Split Rock Stone Bridge The Start
   speakers     = Amy
   emphasis     = 12
 
