@@ -1,6 +1,6 @@
-app g.TellTheTimeTwo   = Tell the Time Two
+app vocabulary.g.TellTheTimeTwo = Tell the Time Two
   description  = Learn about Tell the Time Two in English
-  icon         = 09_35a.png
+  icon         = 09_35a.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
