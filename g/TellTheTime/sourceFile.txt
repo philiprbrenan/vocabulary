@@ -1,6 +1,6 @@
-app g.TellTheTime   = Tell the Time
+app vocabulary.g.TellTheTime = Tell the Time
   description  = Learn about Tell the Time in English
-  icon         = Three O'Clock.png
+  icon         = Three O'Clock.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
