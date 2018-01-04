@@ -1,6 +1,6 @@
-app g.Yosemite   = Yosemite National Park, USA
+app vocabulary.g.Yosemite = Yosemite National Park, USA
   description  = Learn about Yosemite National Park, USA in English
-  icon         = Yosemite Valley.png
+  icon         = Yosemite Valley.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
