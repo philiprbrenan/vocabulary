@@ -1,4 +1,4 @@
-app g.Kitchen   = The Kitchen
+app vocabulary.g.Kitchen = The Kitchen
   description  = Learn about The Kitchen in English
   icon         = icon.png
   author       = philiprbrenan
