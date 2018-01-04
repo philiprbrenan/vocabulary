@@ -1,6 +1,6 @@
 app g.DiscoverThorntonsChocolates   = Enjoy Thorntons Chocolates
   description  = Learn about Enjoy Thorntons Chocolates in English
-  icon         = ARRAY(0x2d1cbf8).png
+  icon         = ARRAY(0x348b330).png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
