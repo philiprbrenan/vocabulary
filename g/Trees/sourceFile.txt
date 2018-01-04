@@ -4,6 +4,7 @@ app vocabulary.g.Trees = Trees
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
+  emphasis     = 12
 
        
 photo  Angel_Oak_Tree_in_SC       =  Southern Live Oak                                                                           
