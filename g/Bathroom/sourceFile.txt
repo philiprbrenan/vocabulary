@@ -3,6 +3,7 @@ app vocabulary.g.Bathroom = Bathroom
   icon         = Basin.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Air Freshner Bar of Soap Basin Bath Bath Mat Bath Towel Bathroom Scale Bidet Ceramic Wall Tiles Cistern Clothes Airer Cold Tap Comb Cotton Buds Dental Floss Electric Razor Electric Shower Fan Heater Flannel Hair Dryer Hairbrush Hand Cream Hand Towel Heated Towel Rail Hot Tap Laundry Basket Lever Light Liquid Soap Mirror Mixer Tap Mouthwash Nail Brush Nail Clippers Nail Files Plug Plug Hole Radiator Razors Roller Blind Scissors Shampoo Shaver Socket Shower Cubicle Shower Curtain Shower Head Shower Hose Shower Rail Shower Seat Shower Tray Sponge Sponge Bag Stool Tap Temperature Control Tissues Toenail Clippers Toilet Toilet Brush Toilet Lid Toilet Roll Toilet Roll Holder Toilet Seat Toothbrush Toothpaste Towel Rail Towels Vanity Mirror Water Flow Control
   speakers     = Amy
   emphasis     = 12
 
