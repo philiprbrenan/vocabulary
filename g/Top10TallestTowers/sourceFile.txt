@@ -3,6 +3,7 @@ app vocabulary.g.Top10TallestTowers = Top 10 Tallest Towers
   icon         = PetronasTowers.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = AbrajAlBaitTowers BurjKhalifa InternationalCommerceCentre Kingkey100 OneWorldTradeCenter PetronasTowers ShanghaiWorldFinancialCenter Taipei101 WillisTower ZifengTower
   speakers     = Amy
   emphasis     = 12
 
@@ -41,7 +42,7 @@ fact   BurjKhalifa.9                   =  Largest number of floors
 fact   BurjKhalifa.10                  =  Highest occupied floor                                                                           
 fact   BurjKhalifa.11                  =  Highest outdoor observation deck                                                                 
 fact   BurjKhalifa.12                  =  Tallest service elevator                                                                         
-fact   BurjKhalifa.13                  =  Fastest ascending elevator speed: 18 m/s                                                         
+fact   BurjKhalifa.13                  =  Fastest ascending elevator speed: 18Â m/s                                                         
 fact   BurjKhalifa.14                  =  Highest mosque                                                                                   
 fact   BurjKhalifa.15                  =  Highest swimming pool                                                                            
        
@@ -121,7 +122,7 @@ fact   Taipei101.3                     =  Elevators: 63
 fact   Taipei101.4                     =  Completed: 2004                                                                                  
 fact   Taipei101.5                     =  Fourth tallest building                                                                          
 fact   Taipei101.6                     =  Tallest tower from 2004 to 2010                                                                  
-fact   Taipei101.7                     =  Second fastest ascending elevator speed: 16.83 m/s                                               
+fact   Taipei101.7                     =  Second fastest ascending elevator speed: 16.83Â m/s                                               
 fact   Taipei101.8                     =  Largest countdown clock displayed on New Year's Eve                                              
 fact   Taipei101.9                     =  Tallest sundial                                                                                  
 fact   Taipei101.10                    =  Tallest "green" building                                                                         
