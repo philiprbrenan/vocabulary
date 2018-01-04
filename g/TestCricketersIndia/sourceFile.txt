@@ -1,6 +1,6 @@
-app g.TestCricketersIndia   = Test Cricketers of India
+app vocabulary.g.TestCricketersIndia = Test Cricketers of India
   description  = Learn about Test Cricketers of India in English
-  icon         = Rahul Dravid 3.png
+  icon         = Rahul Dravid 3.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
