@@ -1,6 +1,6 @@
-app g.Day   = Day of the Week
+app vocabulary.g.Day = Day of the Week
   description  = Learn about Day of the Week in English
-  icon         = Sunday.png
+  icon         = Sunday.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
