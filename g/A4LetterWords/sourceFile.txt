@@ -1,6 +1,6 @@
-app g.A4LetterWords   = Four-Letter Words
+app vocabulary.g.A4LetterWords = Four-Letter Words
   description  = Learn about Four-Letter Words in English
-  icon         = Baby.png
+  icon         = ome/phil/vocabulary/supportingDocumentation/images/BabyAnimals/
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
