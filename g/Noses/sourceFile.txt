@@ -1,6 +1,6 @@
-app g.Noses   = Noses
+app vocabulary.g.Noses = Noses
   description  = Learn about Noses in English
-  icon         = Pig.png
+  icon         = Pig.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
