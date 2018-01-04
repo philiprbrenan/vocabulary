@@ -1,4 +1,4 @@
-app g.TheNumbersFrom1To100InFrench   = The Numbers from 1 to 100 in French
+app vocabulary.g.TheNumbersFrom1To100InFrench = The Numbers from 1 to 100 in French
   description  = Learn about The Numbers from 1 to 100 in French in English
   icon         = icon.png
   author       = philiprbrenan
