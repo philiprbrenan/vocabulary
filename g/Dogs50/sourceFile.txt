@@ -4,6 +4,7 @@ app vocabulary.g.Dogs50 = Top 50 Dog Breeds
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
+  emphasis     = 12
 
        
 photo  Akita.Inu                         =  Akita Inu                                                                         
