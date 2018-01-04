@@ -3,6 +3,7 @@ app vocabulary.g.LakeDistrict = The Lake District
   icon         = icon0.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Aira Force Ambleside Town Centre Ashness Bridge Black Sail Youth Hostel Blea Water Bleaberry Tarn from Red Pike Blencathra Borrowdale Bowder Stone Bowness-on-Windermere Brantwood Buttermere and Crummock Water Buttermere valley Buttermere village Canoeing on Derwentwater Catbells Coniston Coppermines Youth Hostel Coniston Water Crinkle Crags and Bow Fell Derwentwater Dove Cottage Dow Crag Drunken Duck Inn Dry stone wall Easedale Tarn Elter Water Eskdale Youth Hostel Fairfield Horseshoe Fell Running Fleetwith Pike Grasmere Gingerbread Grasmere from Loughrigg Grasmere from Silver How Grasmoor Great Gable from Great End Great Gable from Wasdale Head Great Langdale Hardknott Roman Fort Haystacks Helvellyn Horseshoe Herdwick Sheep High Sweden Bridge Hill Top Honister Slate Mine Innominate Tarn Keswick Market Keswick Pier Kirkstone Pass Langdale Pikes Lingcove Bridge Little Town Lodore Falls Loughrigg Tarn Loweswater Fells Mickledore Mortal Man Inn Muncaster Castle Newlands Church Newlands valley Old Dungeon Ghyll Hotel Old Man of Coniston Pike of Stickle Ravenglass and Eskdale Railway Red Squirrel Red Tarn River Esk Rock Climbing Row Bridge Rydal Mount Rydal Water and Windermere Scafell Pike Sharp Edge Skelwith Force Skiddaw Slater Bridge St. James Church St. Olaf Church Steam Yacht Gondola Stickle Tarn Stock Ghyll Force Stockley Bridge Striding Edge Styhead Tarn Summit of Dale Head Summit of Helm Crag Summit of Helvellyn Summit of Scafell Pike Summit of Skiddaw Tarn Hows Thirlmere Townend Troutbeck valley Ullswater Ullswater Steamer View of Ambleside View of Coniston View of Keswick Wasdale and Wastwater from Great Gable Wastwater Wastwater Screes Wastwater Youth Hostel Watendlath Bridge Windermere Wray Castle Wrynose Pass Yewbarrow
   speakers     = Amy
   emphasis     = 12
 
@@ -32,7 +33,7 @@ fact   Ashness.Bridge.3                          =  The Bob Graham cairn, celebr
        
 photo  Black.Sail.Youth.Hostel                   =  Black Sail Youth Hostel                                                                          
        url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/BlackSailYouthHostel.jpg                 
-fact   Black.Sail.Youth.Hostel.0                 =  One of England’s remotest youth hostels                                                          
+fact   Black.Sail.Youth.Hostel.0                 =  One of EnglandÂ’s remotest youth hostels                                                          
 fact   Black.Sail.Youth.Hostel.1                 =  Former shepherd's bothy at the head of Ennerdale                                                 
 fact   Black.Sail.Youth.Hostel.2                 =  Can only be reached by visitors on foot or bicycle                                               
        remark                                    =  yes                                                                                              
@@ -146,7 +147,7 @@ photo  Dove.Cottage                              =  Dove Cottage
 fact   Dove.Cottage.0                            =  Grade I listed building, situated on the edge of Grasmere village                                
 fact   Dove.Cottage.1                            =  Home to poet William Wordsworth and his sister Dorothy from 1799 to 1808                         
 fact   Dove.Cottage.2                            =  "I Wandered Lonely as a Cloud" was written here                                                  
-fact   Dove.Cottage.3                            =  The annual rent in 1799 was £5                                                                   
+fact   Dove.Cottage.3                            =  The annual rent in 1799 was Â£5                                                                   
        
 photo  Dow.Crag                                  =  Dow Crag                                                                                         
        url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/DowCrag.jpg                              
@@ -684,7 +685,7 @@ fact   Wasdale.and.Wastwater.from.Great.Gable.1  =  A memorial service is held o
        
 photo  Wastwater                                 =  Wastwater                                                                                        
        url                                       =  github://philiprbrenan/vocabulary-8/images/LakeDistrict/Wastwater.jpg                            
-fact   Wastwater.0                               =  England’s deepest lake at 258 ft                                                                 
+fact   Wastwater.0                               =  EnglandÂ’s deepest lake at 258 ft                                                                 
        remark                                    =  yes                                                                                              
 fact   Wastwater.1                               =  The surface is 200 ft above sea level, while its bottom is over 50 ft below                      
        remark                                    =  yes                                                                                              
