@@ -1,6 +1,6 @@
-app g.Alphabet   = Easy English Alphabet
+app vocabulary.g.Alphabet = Easy English Alphabet
   description  = Learn about Easy English Alphabet in English
-  icon         = Palm.png
+  icon         = Palm.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
