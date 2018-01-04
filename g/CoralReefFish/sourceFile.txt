@@ -3,6 +3,7 @@ app vocabulary.g.CoralReefFish = Fish of the Coral Reef
   icon         = Red Sea Clownfish.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Atlantic Blue Tang Banggai Cardinalfish Bicolour Parrotfish Blackback Butterflyfish Blackspotted Puffer Blacktip Grouper Blue Triggerfish Bluespine Unicornfish Bluespotted Ribbontail Ray Bluestripe Snapper Broadbarred Firefish Clearfin Lionfish Clown Triggerfish Common Lionfish Copperband Butterflyfish Emperor Angelfish French Angelfish Glasseye Snapper Grey Reef Shark Lagoon Triggerfish Longhorn Cowfish Malabar Grouper Mandarinfish Mangrove Red Snapper Marbled Electric Ray Masked Puffer Midas Blenny Moorish Idol Orange-lined Triggerfish Ornate Ghost Pipefish Peacock Flounder Puffer Fish Queen Angelfish Red Lionfish Red Sea Clownfish Red Sea Sailfin Tang Saddle Butterflyfish Scissortail Sergeant Sea Goldie Slender-spined Porcupine Fish Spiny Seahorse Spotbase Burrfish Spotted Eagle Ray Spotted Surgeonfish Stonefish Tiger Grouper Titan Triggerfish Yellow Boxfish Yellow Tang Yellow-edged Lyretail Yellowtail Clownfish
   speakers     = Amy
   emphasis     = 12
 
