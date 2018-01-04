@@ -3,6 +3,7 @@ app vocabulary.g.TeddyBearsInAction = Teddy Bears In Action
   icon         = Drinking a cup of tea.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Baking a cake Blowing out a candle Climbing a tree Cuddling a friend Doing exercises Drinking a cup of tea Driving a motorbike Eating strawberries Flying in space Getting married Going to school Hanging on a line Having a picnic Holding a flower Listening to music Looking out of the window Lying on a windowsill Playing a guitar Reading a book Riding a bicycle Sharing the same push chair Sitting on the toilet Sleeping on the couch Smelling the flowers Smiling at me Standing on a stool Swimming in a pool Talking on the phone Typing on a keyboard Watching a candle burn Waving at me Wearing sunglasses Working at the computer Writing a letter
   speakers     = Amy
   emphasis     = 12
 
