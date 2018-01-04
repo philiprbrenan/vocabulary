@@ -3,6 +3,7 @@ app vocabulary.g.Colours = World of Colour
   icon         = Pink 1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Black Blue Brown Cream Gold Green Grey Orange Pink Purple Red Silver White Yellow
   speakers     = Amy
   emphasis     = 12
 
