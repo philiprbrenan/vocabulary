@@ -4,5 +4,6 @@ app vocabulary.g.Day = Day of the Week
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
+  emphasis     = 12
 
 
