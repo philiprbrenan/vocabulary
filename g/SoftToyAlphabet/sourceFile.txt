@@ -1,0 +1,169 @@
+app g.SoftToyAlphabet   = Easy Soft Toy Alphabet
+  description  = Learn about Easy Soft Toy Alphabet in English
+  icon         = Old Bear.png
+  author       = philiprbrenan
+  email        = philiprbrenan@gmail.com
+  speakers     = Amy
+
+       
+photo  Ant               =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Ant.jpg             
+       
+photo  Badger            =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Badger.jpg          
+       
+photo  Beaver            =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Beaver.jpg          
+       
+photo  Bee               =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Bee.jpg             
+       
+photo  Camel             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Camel.jpg           
+       
+photo  Cat               =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Cat.jpg             
+       
+photo  Chick             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Chick.jpg           
+       
+photo  Cow               =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Cow.jpg             
+       
+photo  Dog               =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Dog.jpg             
+       
+photo  Dolphin           =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Dolphin.jpg         
+       
+photo  Duck              =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Duck.jpg            
+       
+photo  Elephant          =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Elephant.jpg        
+       
+photo  Fish              =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Fish.jpg            
+       
+photo  Frog              =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Frog.jpg            
+       
+photo  Giraffe           =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Giraffe.jpg         
+       
+photo  Goose             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Goose.jpg           
+       
+photo  Guinea.Pig        =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/GuineaPig.jpg       
+       
+photo  Hedgehog          =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Hedgehog.jpg        
+       
+photo  Hippopotamus      =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Hippopotamus.jpg    
+       
+photo  Horse             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Horse.jpg           
+       
+photo  Insect            =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Insect.jpg          
+       
+photo  Jolly.Bear        =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/JollyBear.jpg       
+       
+photo  Koala             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Koala.jpg           
+       
+photo  Ladybird          =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Ladybird.jpg        
+       
+photo  Lemur             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Lemur.jpg           
+       
+photo  Leopard           =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Leopard.jpg         
+       
+photo  Lion              =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Lion.jpg            
+       
+photo  Lobster           =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Lobster.jpg         
+       
+photo  Monkey            =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Monkey.jpg          
+       
+photo  Mouse             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Mouse.jpg           
+       
+photo  Nice.Bear         =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/NiceBear.jpg        
+       
+photo  Old.Bear          =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/OldBear.jpg         
+       
+photo  Owl               =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Owl.jpg             
+       
+photo  Panda             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Panda.jpg           
+       
+photo  Parrot            =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Parrot.jpg          
+       
+photo  Penguin           =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Penguin.jpg         
+       
+photo  Pig               =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Pig.jpg             
+       
+photo  Queen.Ant         =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/QueenAnt.jpg        
+       
+photo  Rabbit            =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Rabbit.jpg          
+       
+photo  Reindeer          =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Reindeer.jpg        
+       
+photo  Robin             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Robin.jpg           
+       
+photo  Seal              =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Seal.jpg            
+       
+photo  Sheep             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Sheep.jpg           
+       
+photo  Snake             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Snake.jpg           
+       
+photo  Squirrel          =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Squirrel.jpg        
+       
+photo  Swan              =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Swan.jpg            
+       
+photo  Teddy.Bear        =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/TeddyBear.jpg       
+       
+photo  Tiger             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Tiger.jpg           
+       
+photo  Unicorn           =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Unicorn.jpg         
+       
+photo  Vole              =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Vole.jpg            
+       
+photo  Whale             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Whale.jpg           
+       
+photo  Xtra.Pretty.Fish  =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/XtraPrettyFish.jpg  
+       
+photo  Yellow.Bear       =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/YellowBear.jpg      
+       
+photo  Zebra             =                                                                                  
+       url               =  github://philiprbrenan/vocabulary-10/images/SoftToyAlphabet/Zebra.jpg           
