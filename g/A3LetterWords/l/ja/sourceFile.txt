@@ -1,0 +1,193 @@
+app    vocabulary.g.A3LetterWords.l.ja  =  Three-Letter Words in Japanese                                    
+       author                           =  philiprbrenan                                                     
+       description                      =  3文字の英単語について学ぶ                                                     
+       email                            =  philiprbrenan@gmail.com                                           
+       emphasis                         =                                                                12  
+       icon                             =  Eye.jpg                                                           
+       screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
+       language                         =  ja                                                                
+       
+photo  Ant                              =  蟻                                                                 
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
+       
+photo  Ape                              =  エイプ                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  
+       
+photo  Arm                              =  腕                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  
+       
+photo  Bag                              =  バッグ                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  
+       
+photo  Bat                              =  コウモリ                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
+       
+photo  Bay                              =  ベイ                                                                
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
+       
+photo  Bed                              =  ベッド                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
+       
+photo  Bee                              =  蜂                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
+       
+photo  Bin                              =  ビン                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  
+       
+photo  Bog                              =  ボグ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
+       
+photo  Bow                              =  弓                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
+       
+photo  Box                              =  ボックス                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
+       
+photo  Boy                              =  男の子                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
+       
+photo  Bug                              =  バグ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
+       
+photo  Bun                              =  バン                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
+       
+photo  Bus                              =  バス                                                                
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
+       
+photo  Can                              =  できる                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  
+       
+photo  Cap                              =  キャップ                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  
+       
+photo  Car                              =  車                                                                 
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
+       
+photo  Cat                              =  ネコ                                                                
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
+       
+photo  Cow                              =  牛                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
+       
+photo  Cup                              =  カップ                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  
+       
+photo  Dam                              =  ダム                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  
+       
+photo  Dog                              =  犬                                                                 
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
+       
+photo  Ear                              =  耳                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
+       
+photo  Egg                              =  卵                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
+       
+photo  Emu                              =  エミュー                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
+       
+photo  Eye                              =  眼                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
+       
+photo  Fan                              =  ファン                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
+       
+photo  Fin                              =  フィン                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
+       
+photo  Fox                              =  狐                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
+       
+photo  Hat                              =  帽子                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  
+       
+photo  Hoe                              =  鍬                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  
+       
+photo  Ice                              =  氷                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
+       
+photo  Jar                              =  瓶                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  
+       
+photo  Jug                              =  ジャグ                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  
+       
+photo  Key                              =  キー                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  
+       
+photo  Leg                              =  脚                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  
+       
+photo  Lid                              =  蓋                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  
+       
+photo  Map                              =  地図                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  
+       
+photo  Men                              =  男性                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  
+       
+photo  Mug                              =  マグ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  
+       
+photo  Oar                              =  オール                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
+       
+photo  Owl                              =  フクロウ                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
+       
+photo  Pan                              =  パン                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
+       
+photo  Peg                              =  ペグ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
+       
+photo  Pen                              =  ペン                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
+       
+photo  Pig                              =  豚                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
+       
+photo  Pin                              =  ピン                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
+       
+photo  Rug                              =  ラグ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
+       
+photo  Sea                              =  海                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
+       
+photo  Sow                              =  播種                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
+       
+photo  Sun                              =  太陽                                                                
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
+       
+photo  Tap                              =  タップ                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
+       
+photo  Toe                              =  つま先                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
+       
+photo  Van                              =  バン                                                                
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
+       
+photo  Wok                              =  ウォック                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
+       
+photo  Yak                              =  ヤク                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
+       
+photo  Zip                              =  ジッパー                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
