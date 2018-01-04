@@ -3,6 +3,7 @@ app vocabulary.g.House = House
   icon         = icon0.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
+  screenShots  = Air_Conditioner Aquarium Basin Bunk_bed Bus_Stop Car_garage Carpet Ceiling_fan Chinese_vase Couch CrochetHammock Dining_Room Dining_table Door_bell Flower_Bed Garden_bench_001 Gate_lock House_Lobby Living_Room Modern_kitchen Roof Saucer_magnolia Showerhead Sink Stairway Table Vacuum_Cleaner Watering-can-green Welcome_mat Writing_desk balcony bath_tub bathroom bed bedroom car ceiling chair_1 clock curtain doghouse driveway floor gardens gas_stove hedge house_door letter_box microwave_oven mirror modern_wall_shelf pillow refrigerator_interior stool_seat street table_lamp telephone television toilet wall window
   speakers     = Amy
   emphasis     = 12
 
