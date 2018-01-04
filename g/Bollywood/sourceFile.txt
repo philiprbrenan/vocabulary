@@ -1,6 +1,6 @@
-app g.Bollywood   = Stars of Bollywood
+app vocabulary.g.Bollywood = Stars of Bollywood
   description  = Learn about Stars of Bollywood in English
-  icon         = Deepika Padukone.png
+  icon         = Deepika Padukone.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   speakers     = Amy
