@@ -1,5 +1,5 @@
 app vocabulary.g.CountEuros = Count Euros
-  description  = Learn about Count Euros in English
+  description  = Learn about Count Euros
   icon         = 10-66.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
