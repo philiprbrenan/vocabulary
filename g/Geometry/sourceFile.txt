@@ -1,5 +1,5 @@
 app vocabulary.g.Geometry = Geometry Animations
-  description  = Learn about Geometry Animations in English
+  description  = Learn about Geometry Animations
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
