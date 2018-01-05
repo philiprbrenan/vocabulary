@@ -1,5 +1,5 @@
 app vocabulary.g.GeographyManmadeFeatures = Geography Man-Made Features
-  description  = Learn about Geography Man-Made Features in English
+  description  = Learn about Geography Man-Made Features
   icon         = Fly-over.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
