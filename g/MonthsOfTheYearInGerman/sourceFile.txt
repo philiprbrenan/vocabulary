@@ -1,5 +1,5 @@
 app vocabulary.g.MonthsOfTheYearInGerman = Months of the Year in German
-  description  = Learn about Months of the Year in German in English
+  description  = Learn about Months of the Year in German
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
