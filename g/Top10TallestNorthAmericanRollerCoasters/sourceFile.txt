@@ -1,5 +1,5 @@
 app vocabulary.g.Top10TallestNorthAmericanRollerCoasters = Top 10 Tallest North American Roller Coasters
-  description  = Learn about Top 10 Tallest North American Roller Coasters in English
+  description  = Learn about Top 10 Tallest North American Roller Coasters
   icon         = Leviathan 4.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
