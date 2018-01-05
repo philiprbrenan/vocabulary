@@ -1,5 +1,5 @@
 app vocabulary.g.CountDollsInEnglish = Count Dolls 1-20
-  description  = Learn about Count Dolls 1-20 in English
+  description  = Learn about Count Dolls 1-20
   icon         = 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
