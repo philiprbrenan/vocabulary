@@ -1,5 +1,5 @@
 app vocabulary.g.FamousCityLandmarks = Famous City Landmarks
-  description  = Learn about Famous City Landmarks in English
+  description  = Learn about Famous City Landmarks
   icon         = Statue of Liberty 3.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
