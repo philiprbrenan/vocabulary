@@ -1,5 +1,5 @@
 app vocabulary.g.Christmas = Christmas
-  description  = Learn about Christmas in English
+  description  = Learn about Christmas
   icon         = Advent Candle.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
