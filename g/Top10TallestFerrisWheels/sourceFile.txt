@@ -1,5 +1,5 @@
 app vocabulary.g.Top10TallestFerrisWheels = Top 10 Tallest Ferris Wheels
-  description  = Learn about Top 10 Tallest Ferris Wheels in English
+  description  = Learn about Top 10 Tallest Ferris Wheels
   icon         = Tianjin Eye 3.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
