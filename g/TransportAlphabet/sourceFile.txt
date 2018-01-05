@@ -4,7 +4,8 @@ app vocabulary.g.TransportAlphabet = Easy Transport Alphabet
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Airplane Airport Ambulance Auto rickshaw Bus Camel Canal Canoe Cart Chair lift Donkey Dory Electric tram Elephant Ferry Fire engine Fly-over Galleon Gig Gondola Helicopter Horse box Ice-cream van Inflatable Dinghy Jeep Kayak Land Rover Lifeboat Llama Lorry Mini Minibus Minivan Motorbike Motorhome Motorway Mountain bike Mule Narrowboat Naval frigate Nepalese porter Nissan car Observation wheel Oil tanker Open top bus Pack horse Pakistani bus Pakistani lorry Paraglider Police car Porter Quad bike RIB Racehorse Racing bike Railway Station Railway line Reed boat Rickshaw Road Road bike Royal carriage Scooter Scrambling bike Ship Skis Sports car Tanker Toboggan Tractor Train Trawler Unicycle Van Vintage car Wagon Wooden box pulley Yak Zanzibar dhow Zho
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
