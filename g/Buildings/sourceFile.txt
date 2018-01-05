@@ -1,5 +1,5 @@
 app vocabulary.g.Buildings = Town and Country Buildings
-  description  = Learn about Town and Country Buildings in English
+  description  = Learn about Town and Country Buildings
   icon         = Thatched cottage.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
