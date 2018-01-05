@@ -1,5 +1,5 @@
 app vocabulary.g.Top10TallestRollerCoasters = Top 10 Tallest Roller Coasters
-  description  = Learn about Top 10 Tallest Roller Coasters in English
+  description  = Learn about Top 10 Tallest Roller Coasters
   icon         = Millennium Force 1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
