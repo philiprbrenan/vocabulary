@@ -1,5 +1,5 @@
 app vocabulary.g.SuperMammals = Super Mammals
-  description  = Learn about Super Mammals in English
+  description  = Learn about Super Mammals
   icon         = Tallest land mammal (Giraffe).jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
