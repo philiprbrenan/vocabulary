@@ -4,7 +4,8 @@ app vocabulary.g.Body = Parts of the Body
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Arm - Arm Arm - Armpit Arm - Biceps muscle Arm - Elbow 1 Arm - Elbow 2 Arm - Forearm Arm - Upper arm Back - Back Back - Bottom Back - Shoulder Back - Shoulder blade Back -Waist 2 Eye - Eye Eye - Eyebrow Eye - Eyelashes Eye - Eyelid Fingers - Finger Nails Fingers - Index finger Fingers - Ring finger Fingers - Thumb Fingers -Little finger Fingers -Middle finger Foot - Ankle Foot - Arch Foot - Foot Foot - Heel Foot - Instep Front - Abdomen Front - Chest Front - Collarbones Front - Ribs Front -Shoulders Front -Tummy Button Front -Waist 1 Hand - Back of the hand Hand - Fist Hand - Hand 1 Hand - Knuckles Hand - Wrist Hand -Palm Head - Cheek Head - Chin Head - Ear Head - Face Head - Forehead Head - Hair Head - Head Head - Jaw Leg - Calf 1 Leg - Calf 2 Leg - Hip Leg - Knees Leg - Leg Leg - Shin Leg - Thigh 1 Leg - Thigh 2 Mouth - Lower lip 2 Mouth - Mouth Mouth - Upper Lip Mouth -Teeth Neck - Adam's Apple Neck - Neck Nose - Nose Nose - Nostril Toes - Big Toe Toes - Fourth toe Toes - Little toe Toes - Second toe Toes - Third toe Toes - Toes
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-0
+  speakers     = Amy Brian
   emphasis     = 12
 
        
