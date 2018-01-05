@@ -1,5 +1,5 @@
 app vocabulary.g.CarsCranesTrucksTrains = Cars Cranes Trucks Trains
-  description  = Learn about Cars Cranes Trucks Trains in English
+  description  = Learn about Cars Cranes Trucks Trains
   icon         = Sports car.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
