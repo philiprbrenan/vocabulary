@@ -1,5 +1,5 @@
 app vocabulary.g.Jets = Jets and Planes
-  description  = Learn about Jets and Planes in English
+  description  = Learn about Jets and Planes
   icon         = F-22_Raptor.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
