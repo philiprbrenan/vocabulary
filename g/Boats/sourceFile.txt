@@ -1,5 +1,5 @@
 app vocabulary.g.Boats = Tugs and Tankers, Ships and Boats
-  description  = Learn about Tugs and Tankers, Ships and Boats in English
+  description  = Learn about Tugs and Tankers, Ships and Boats
   icon         = Fishing trawler.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
