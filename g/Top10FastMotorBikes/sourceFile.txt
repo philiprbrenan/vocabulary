@@ -1,5 +1,5 @@
 app vocabulary.g.Top10FastMotorBikes = Top 10 Fast Motor Bikes
-  description  = Learn about Top 10 Fast Motor Bikes in English
+  description  = Learn about Top 10 Fast Motor Bikes
   icon         = Suzuki Hayabusa.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
