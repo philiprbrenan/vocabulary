@@ -1,5 +1,5 @@
 app vocabulary.g.Top10HighestMountains = Top 10 Highest Mountains
-  description  = Learn about Top 10 Highest Mountains in English
+  description  = Learn about Top 10 Highest Mountains
   icon         = Manaslu 3.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
