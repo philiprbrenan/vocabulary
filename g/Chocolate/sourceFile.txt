@@ -1,5 +1,5 @@
 app vocabulary.g.Chocolate = Chocolate
-  description  = Learn about Chocolate in English
+  description  = Learn about Chocolate
   icon         = Chocolate Truffles.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
