@@ -1,5 +1,5 @@
 app vocabulary.g.Birds = Nice Birds
-  description  = Learn about Nice Birds in English
+  description  = Learn about Nice Birds
   icon         = Peafowl_4.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
