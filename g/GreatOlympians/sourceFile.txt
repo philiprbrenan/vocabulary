@@ -4,7 +4,8 @@ app vocabulary.g.GreatOlympians = Great Olympians
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Alexander Karelin Alexei Nemov Alfred Oerter Ben Ainslie Birgit Fischer Bjorn Daehlie Bonnie Blair Carl Lewis Chris Hoy Christa Luding-Rothenburger Claudia Pechstein Daley Thompson Dara Torres Dmitri Sautin Edwin Moses Elisabeta Lipa Emil Zatopek Fanny Blankers-Koen Haile Gebrselassie Hans-Gunter Winkler Hiroshi Hoketsu Ian Millar Ian Thorpe Jan Zelezny Jasna Sekaric Jayne Torvill and Christopher Dean Jesse Owens Jim Thorpe Joan Benoit Johnny Weissmuller Jonathan Edwards Kelly Holmes Kjetil Andre Aamodt Larysa Latynina Ludmilla Tourischeva Mark Spitz Merlene Ottey Michael Johnson Michael Phelps Muhammad Ali Nadia Comaneci Ole Einar Bjoerndalen Olga Korbut Paavo Nurmi Pyrros Dimas Shane Gould Steve Redgrave Teofilo Stevenson Toni Sailer Valentina Vezzali
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
