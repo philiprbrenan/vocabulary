@@ -1,5 +1,5 @@
 app vocabulary.g.RhymingKitchen = Rhyming Kitchen in English
-  description  = Learn about Rhyming Kitchen in English in English
+  description  = Learn about Rhyming Kitchen in English
   icon         = Chopping Board.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
