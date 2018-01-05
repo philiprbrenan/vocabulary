@@ -4,7 +4,8 @@ app vocabulary.g.Chocolate = Chocolate
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Black Forest Gateau Boston Cream Pie Bourbon Biscuit Box of Chocolates Cadbury Caramel Egg Cadbury Creme Egg Chocolate Brownie Chocolate Bundt Cake Chocolate Chip Cookie Chocolate Cupcakes Chocolate Eclair Chocolate Fondue Chocolate Fudge Chocolate Fudge Cake Chocolate Gold Coins Chocolate Guinness Cake Chocolate Ice-Cream Chocolate Milk Chocolate Milkshake Chocolate Mousse Chocolate Mousse Cake Chocolate Muffins Chocolate Orange Chocolate Santa Claus Chocolate Spread Chocolate Sundae Chocolate Syrup Chocolate Truffles Dark Chocolate Easter Eggs Flourless Chocolate Cake Frys Turkish Delight German Chocolate Cake Hot Chocolate Kit Kat Lindt Golden Bunny Maltesers Mars Bar Milk Chocolate Milk Chocolate Digestive Millionaire's Shortbread Molten Chocolate Cake Nanaimo Bar Oreos Pain au Chocolat Prinzregententorte Profiterole Sachertorte Walnut Whip White Chocolate
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-0
+  speakers     = Amy Brian
   emphasis     = 12
 
        
