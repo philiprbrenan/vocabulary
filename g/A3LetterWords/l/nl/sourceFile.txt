@@ -1,193 +1,194 @@
 app    vocabulary.g.A3LetterWords.l.nl  =  Three-Letter Words in Dutch                                       
        author                           =  philiprbrenan                                                     
-       description                      =  Meer informatie over drieletterwoorden in het Engels              
+       description                      =  Meer informatie over drieletterwoorden                            
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
+       saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
        screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
        language                         =  nl                                                                
        
-photo  Ant                              =  Mier                                                              
+photo  Ant                              =  mier                                                              
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
        
-photo  Ape                              =  Aap                                                               
+photo  Ape                              =  aap                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  
        
-photo  Arm                              =  Arm                                                               
+photo  Arm                              =  arm                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  
        
-photo  Bag                              =  Zak                                                               
+photo  Bag                              =  zak                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  
        
-photo  Bat                              =  Knuppel                                                           
+photo  Bat                              =  knuppel                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
        
-photo  Bay                              =  Baai                                                              
+photo  Bay                              =  baai                                                              
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
        
-photo  Bed                              =  Bed                                                               
+photo  Bed                              =  bed                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
        
-photo  Bee                              =  Bij                                                               
+photo  Bee                              =  bij                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
        
 photo  Bin                              =  bak                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  
        
-photo  Bog                              =  Moeras                                                            
+photo  Bog                              =  moeras                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
        
-photo  Bow                              =  Boog                                                              
+photo  Bow                              =  boog                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
        
-photo  Box                              =  Doos                                                              
+photo  Box                              =  doos                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
        
-photo  Boy                              =  Jongen                                                            
+photo  Boy                              =  jongen                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
        
 photo  Bug                              =  kever                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
        
-photo  Bun                              =  Bun                                                               
+photo  Bun                              =  bun                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
        
-photo  Bus                              =  Bus                                                               
+photo  Bus                              =  bus                                                               
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
        
-photo  Can                              =  Kan                                                               
+photo  Can                              =  kan                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  
        
 photo  Cap                              =  pet                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  
        
-photo  Car                              =  Auto                                                              
+photo  Car                              =  auto                                                              
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
        
-photo  Cat                              =  Kat                                                               
+photo  Cat                              =  kat                                                               
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
        
-photo  Cow                              =  Koe                                                               
+photo  Cow                              =  koe                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
        
-photo  Cup                              =  Kop                                                               
+photo  Cup                              =  kop                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  
        
-photo  Dam                              =  Dam                                                               
+photo  Dam                              =  dam                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  
        
-photo  Dog                              =  Hond                                                              
+photo  Dog                              =  hond                                                              
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
        
-photo  Ear                              =  Oor                                                               
+photo  Ear                              =  oor                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
        
-photo  Egg                              =  Ei                                                                
+photo  Egg                              =  ei                                                                
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
        
 photo  Emu                              =  emoe                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
        
-photo  Eye                              =  Oog                                                               
+photo  Eye                              =  oog                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        
-photo  Fan                              =  Ventilator                                                        
+photo  Fan                              =  ventilator                                                        
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
        
-photo  Fin                              =  Vin                                                               
+photo  Fin                              =  vin                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
        
-photo  Fox                              =  Vos                                                               
+photo  Fox                              =  vos                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
        
-photo  Hat                              =  Hoed                                                              
+photo  Hat                              =  hoed                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  
        
-photo  Hoe                              =  Schoffel                                                          
+photo  Hoe                              =  schoffel                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  
        
-photo  Ice                              =  Ijs                                                               
+photo  Ice                              =  ijs-                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
        
-photo  Jar                              =  Pot                                                               
+photo  Jar                              =  pot                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  
        
-photo  Jug                              =  Kruik                                                             
+photo  Jug                              =  kruik                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  
        
-photo  Key                              =  Sleutel                                                           
+photo  Key                              =  sleutel                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  
        
-photo  Leg                              =  Been                                                              
+photo  Leg                              =  been                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  
        
-photo  Lid                              =  Deksel                                                            
+photo  Lid                              =  deksel                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  
        
-photo  Map                              =  Kaart                                                             
+photo  Map                              =  kaart                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  
        
-photo  Men                              =  Mannen                                                            
+photo  Men                              =  mannen                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  
        
-photo  Mug                              =  Mok                                                               
+photo  Mug                              =  mok                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  
        
-photo  Oar                              =  Roeispaan                                                         
+photo  Oar                              =  roeispaan                                                         
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
        
-photo  Owl                              =  Uil                                                               
+photo  Owl                              =  uil                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
        
-photo  Pan                              =  Pan                                                               
+photo  Pan                              =  pan                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
        
-photo  Peg                              =  Pin                                                               
+photo  Peg                              =  pin                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
        
-photo  Pen                              =  Pen                                                               
+photo  Pen                              =  pen                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
        
-photo  Pig                              =  Varken                                                            
+photo  Pig                              =  varken                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
        
-photo  Pin                              =  Pin                                                               
+photo  Pin                              =  pin                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
        
-photo  Rug                              =  Tapijt                                                            
+photo  Rug                              =  tapijt                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
        
-photo  Sea                              =  Zee                                                               
+photo  Sea                              =  zee                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
        
-photo  Sow                              =  Zeug                                                              
+photo  Sow                              =  zeug                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
        
-photo  Sun                              =  Zon                                                               
+photo  Sun                              =  zon                                                               
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
        
-photo  Tap                              =  Kraan                                                             
+photo  Tap                              =  kraan                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
        
-photo  Toe                              =  Teen                                                              
+photo  Toe                              =  teen                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
        
 photo  Van                              =  busje                                                             
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
        
-photo  Wok                              =  Wok                                                               
+photo  Wok                              =  wok                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
        
 photo  Yak                              =  jak                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
        
-photo  Zip                              =  ritssluiting                                                      
+photo  Zip                              =  Rits                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
