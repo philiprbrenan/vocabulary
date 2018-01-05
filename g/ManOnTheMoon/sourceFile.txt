@@ -1,5 +1,5 @@
 app vocabulary.g.ManOnTheMoon = Man On The Moon
-  description  = Learn about Man On The Moon in English
+  description  = Learn about Man On The Moon
   icon         = icon.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
