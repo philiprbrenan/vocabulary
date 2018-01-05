@@ -1,5 +1,5 @@
 app vocabulary.g.Top10TallestTowers = Top 10 Tallest Towers
-  description  = Learn about Top 10 Tallest Towers in English
+  description  = Learn about Top 10 Tallest Towers
   icon         = PetronasTowers.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
