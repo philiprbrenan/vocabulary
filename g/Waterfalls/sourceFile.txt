@@ -1,5 +1,5 @@
 app vocabulary.g.Waterfalls = Waterfalls
-  description  = Learn about Waterfalls in English
+  description  = Learn about Waterfalls
   icon         = 8.3gp
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
