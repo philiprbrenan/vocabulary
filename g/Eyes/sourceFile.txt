@@ -4,7 +4,8 @@ app vocabulary.g.Eyes = Animal Eyes
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Bison Blue Bottle Bumble Bee Butterfly Cat Chameleon Chicken Cow Crocodile Cuttlefish Damselfly Deer Dog Donkey Dragonfly Elephant Elk Fly Frog Gecko Gharial Goanna Goat Hawk Hippopotamus Hornbill Horse Human Iguana Jumping Spider Kestrel Loris Nautilus Octopus Oscar Owl Parrot Pelican Penguin Plaice Sheep Squid Stingray Tiger Toad Toucan Wasp Water Buffalo Wolf Spider Zebra
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
