@@ -1,5 +1,5 @@
 app vocabulary.g.DomesticatedAnimals = Farm Animals
-  description  = Learn about Farm Animals in English
+  description  = Learn about Farm Animals
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
