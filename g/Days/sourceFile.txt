@@ -1,5 +1,5 @@
 app vocabulary.g.Days = Days of the Week in English
-  description  = Learn about Days of the Week in English in English
+  description  = Learn about Days of the Week in English
   icon         = Thursday.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
