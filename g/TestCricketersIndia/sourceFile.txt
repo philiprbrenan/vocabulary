@@ -1,5 +1,5 @@
 app vocabulary.g.TestCricketersIndia = Test Cricketers of India
-  description  = Learn about Test Cricketers of India in English
+  description  = Learn about Test Cricketers of India
   icon         = Rahul Dravid 3.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
