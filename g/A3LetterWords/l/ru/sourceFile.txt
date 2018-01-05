@@ -1,193 +1,194 @@
-app    vocabulary.g.A3LetterWords.l.ru  =  Three-Letter Words in Russian                                      
-       author                           =  philiprbrenan                                                      
-       description                      =  Aflați mai multe despre cuvintele cu trei litere în limba engleză  
-       email                            =  philiprbrenan@gmail.com                                            
-       emphasis                         =                                                                 12  
-       icon                             =  Eye.jpg                                                            
-       screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                    
-       language                         =  ru                                                                 
+app    vocabulary.g.A3LetterWords.l.ru  =  Three-Letter Words in Russian                                     
+       author                           =  philiprbrenan                                                     
+       description                      =  Узнайте о трехбуквенных словах                                    
+       email                            =  philiprbrenan@gmail.com                                           
+       emphasis                         =                                                                12  
+       icon                             =  Eye.jpg                                                           
+       saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
+       screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
+       language                         =  ru                                                                
        
-photo  Ant                              =  Furnică                                                            
-       screenShot                       =                                                                  1  
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg   
+photo  Ant                              =  муравей                                                           
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
        
-photo  Ape                              =  Maimuţă                                                            
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg   
+photo  Ape                              =  обезьянничать                                                     
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  
        
-photo  Arm                              =  Braţ                                                               
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg   
+photo  Arm                              =  рука                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  
        
-photo  Bag                              =  Sac                                                                
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg   
+photo  Bag                              =  мешок                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  
        
-photo  Bat                              =  Băţ                                                                
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg   
+photo  Bat                              =  летучая мышь                                                      
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
        
-photo  Bay                              =  Dafin                                                              
-       screenShot                       =                                                                  1  
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg   
+photo  Bay                              =  залив                                                             
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
        
-photo  Bed                              =  Pat                                                                
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg   
+photo  Bed                              =  постель                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
        
-photo  Bee                              =  albină                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg   
+photo  Bee                              =  пчела                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
        
-photo  Bin                              =  Cos                                                                
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg   
+photo  Bin                              =  бункер                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  
        
-photo  Bog                              =  Mlaştină                                                           
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg   
+photo  Bog                              =  трясина                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
        
-photo  Bow                              =  Arc                                                                
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg   
+photo  Bow                              =  лук                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
        
-photo  Box                              =  Cutie                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg   
+photo  Box                              =  коробка                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
        
-photo  Boy                              =  Băiat                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg   
+photo  Boy                              =  мальчик                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
        
-photo  Bug                              =  Gândac                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg   
+photo  Bug                              =  ошибка                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
        
-photo  Bun                              =  chiflă                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg   
+photo  Bun                              =  булочка                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
        
-photo  Bus                              =  Autobuz                                                            
-       screenShot                       =                                                                  1  
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg   
+photo  Bus                              =  автобус                                                           
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
        
-photo  Can                              =  Poate sa                                                           
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg   
+photo  Can                              =  Можно                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  
        
-photo  Cap                              =  Capac                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg   
+photo  Cap                              =  кепка                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  
        
-photo  Car                              =  Mașină                                                             
-       screenShot                       =                                                                  1  
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg   
+photo  Car                              =  автомобиль                                                        
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
        
-photo  Cat                              =  Pisică                                                             
-       screenShot                       =                                                                  1  
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg   
+photo  Cat                              =  Кот                                                               
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
        
-photo  Cow                              =  Vacă                                                               
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg   
+photo  Cow                              =  корова                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
        
-photo  Cup                              =  ceașcă                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg   
+photo  Cup                              =  кружка                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  
        
-photo  Dam                              =  Baraj                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg   
+photo  Dam                              =  дамба                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  
        
-photo  Dog                              =  Câine                                                              
-       screenShot                       =                                                                  1  
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg   
+photo  Dog                              =  собака                                                            
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
        
-photo  Ear                              =  Ureche                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg   
+photo  Ear                              =  ухо                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
        
-photo  Egg                              =  Ou                                                                 
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg   
+photo  Egg                              =  яйцо                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
        
-photo  Emu                              =  Emu                                                                
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg   
+photo  Emu                              =  эму                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
        
-photo  Eye                              =  ochi                                                               
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg   
+photo  Eye                              =  глаз                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        
-photo  Fan                              =  Ventilator                                                         
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg   
+photo  Fan                              =  поклонник                                                         
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
        
-photo  Fin                              =  aripioară                                                          
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg   
+photo  Fin                              =  плавник                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
        
-photo  Fox                              =  Vulpe                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg   
+photo  Fox                              =  лиса                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
        
-photo  Hat                              =  Pălărie                                                            
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg   
+photo  Hat                              =  шапка                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  
        
-photo  Hoe                              =  Sapă                                                               
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg   
+photo  Hoe                              =  мотыга                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  
        
-photo  Ice                              =  Gheaţă                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg   
+photo  Ice                              =  лед                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
        
-photo  Jar                              =  Borcan                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg   
+photo  Jar                              =  яс                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  
        
-photo  Jug                              =  Ulcior                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg   
+photo  Jug                              =  кувшин                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  
        
-photo  Key                              =  Cheie                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg   
+photo  Key                              =  ключ                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  
        
-photo  Leg                              =  Picior                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg   
+photo  Leg                              =  ножка                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  
        
-photo  Lid                              =  Capac                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg   
+photo  Lid                              =  крышка                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  
        
-photo  Map                              =  Hartă                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg   
+photo  Map                              =  карта                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  
        
-photo  Men                              =  bărbaţi                                                            
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg   
+photo  Men                              =  люди                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  
        
-photo  Mug                              =  Halbă                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg   
+photo  Mug                              =  кружка                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  
        
-photo  Oar                              =  vâslă                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg   
+photo  Oar                              =  весло                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
        
-photo  Owl                              =  Bufniţă                                                            
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg   
+photo  Owl                              =  сова                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
        
-photo  Pan                              =  Tigaie                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg   
+photo  Pan                              =  кастрюля                                                          
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
        
-photo  Peg                              =  Cuier                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg   
+photo  Peg                              =  колышек                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
        
-photo  Pen                              =  Stilou                                                             
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg   
+photo  Pen                              =  ручка                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
        
-photo  Pig                              =  Porc                                                               
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg   
+photo  Pig                              =  свинья                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
        
-photo  Pin                              =  bolț                                                               
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg   
+photo  Pin                              =  штырь                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
        
-photo  Rug                              =  Covor                                                              
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg   
+photo  Rug                              =  коврик                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
        
-photo  Sea                              =  Mare                                                               
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg   
+photo  Sea                              =  море                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
        
-photo  Sow                              =  Scroafă                                                            
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg   
+photo  Sow                              =  свиноматка                                                        
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
        
-photo  Sun                              =  Soare                                                              
-       screenShot                       =                                                                  1  
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg   
+photo  Sun                              =  солнце                                                            
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
        
-photo  Tap                              =  Atingeți                                                           
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg   
+photo  Tap                              =  нажмите                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
        
-photo  Toe                              =  deget de la picior                                                 
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg   
+photo  Toe                              =  палец                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
        
-photo  Van                              =  dubă                                                               
-       screenShot                       =                                                                  1  
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg   
+photo  Van                              =  фургон                                                            
+       screenShot                       =                                                                 1  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
        
-photo  Wok                              =  wok                                                                
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg   
+photo  Wok                              =  котелок с выпуклым днищем                                         
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
        
-photo  Yak                              =  Yak                                                                
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg   
+photo  Yak                              =  як                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
        
-photo  Zip                              =  Fermoar                                                            
-       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg   
+photo  Zip                              =  Молния                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
