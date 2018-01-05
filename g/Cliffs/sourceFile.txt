@@ -1,5 +1,5 @@
 app vocabulary.g.Cliffs = Cliffs, Stacks and Monoliths
-  description  = Learn about Cliffs, Stacks and Monoliths in English
+  description  = Learn about Cliffs, Stacks and Monoliths
   icon         = Matterhorn (North face).jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
