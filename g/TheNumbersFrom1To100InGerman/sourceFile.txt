@@ -1,5 +1,5 @@
 app vocabulary.g.TheNumbersFrom1To100InGerman = The Numbers from 1 to 100 in German
-  description  = Learn about The Numbers from 1 to 100 in German in English
+  description  = Learn about The Numbers from 1 to 100 in German
   icon         = icon.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
