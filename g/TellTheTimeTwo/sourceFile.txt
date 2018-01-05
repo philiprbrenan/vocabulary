@@ -4,7 +4,8 @@ app vocabulary.g.TellTheTimeTwo = Tell the Time Two
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = 00_00a 00_00b 00_15a 00_15b 00_30a 00_30b 00_45a 00_45b 01_00a 01_00b 01_12a 01_12b 01_20a 01_20b 01_50a 01_50b 02_00a 02_00b 02_10a 02_10b 02_35a 02_35b 02_55a 02_55b 03_00a 03_00b 03_05a 03_05b 03_25a 03_25b 03_40a 03_40b 04_00a 04_00b 04_05a 04_05b 04_30a 04_30b 04_45a 04_45b 05_00a 05_00b 05_10a 05_10b 05_25a 05_25b 05_40a 05_40b 06_00a 06_00b 06_05a 06_05b 06_15a 06_15b 06_50a 06_50b 07_00a 07_00b 07_10a 07_10b 07_20a 07_20b 07_55a 07_55b 08_00a 08_00b 08_08a 08_08b 08_31a 08_31b 08_45a 08_45b 09_00a 09_00b 09_07a 09_07b 09_25a 09_25b 09_35a 09_35b 09_56a 09_56b 10_00a 10_00b 10_20a 10_20b 10_35a 10_35b 10_40a 10_40b 10_50a 10_50b 11_00a 11_00b 11_15a 11_15b 11_30a 11_30b 11_55a 11_55b
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
