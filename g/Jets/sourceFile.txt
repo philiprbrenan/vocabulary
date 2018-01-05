@@ -4,7 +4,8 @@ app vocabulary.g.Jets = Jets and Planes
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = 747 A-1E_Skyraider A10_Thunderbolt A400M_Atlas_2 AH64D_Apache_Longbow_1 Avro_Vulcan_1 B-17_Flying_Fortress B-25_Mitchell B2 B36 B52 BAC_Strikemaster Bell_UH-1_Iroquois Boeing-Stearman_Model_75 C-130J_Super_Hercules C-47_Skytrain CH-47_Chinook Concorde Dornier_Do_228 Douglas_SBD_Dauntless Dragon_Rapid EEL EMB145H Eurofighter_Typhoon_1 F-22_Raptor F-86_Sabre F16 F35 F5_Tiger Gloster_Gladiator Gloster_Meteor Grumman_F7F_Tigercat Harrier Hawk Hughes_OH-6_Cayuse JAS_39_Gripen L29_Delfin Mig_29 Mirage_2000 Mirage_F1_1 Morane-Saulnier_M.S.406 Mosquito P-38_Lightning P-40_Warhawk P-47_Thunderbolt P51A_Mustang SR-71_Blackbird SU27 Supermarine_Spitfire Tornado_2 Transall_C-160 U2 UH-60_Black_Hawk V22_Osprey Westland_Lynx
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
