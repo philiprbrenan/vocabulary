@@ -1,5 +1,5 @@
 app vocabulary.g.BritishRoyalFamily = British Royal Family
-  description  = Learn about British Royal Family in English
+  description  = Learn about British Royal Family
   icon         = Queen Elizabeth II.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
