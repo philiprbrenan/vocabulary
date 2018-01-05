@@ -1,5 +1,5 @@
 app vocabulary.g.HowHeavyAmI = How Heavy Am I?
-  description  = Learn about How Heavy Am I? in English
+  description  = Learn about How Heavy Am I?
   icon         = Heaviest land reptile (Galapagos Tortoise).jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
