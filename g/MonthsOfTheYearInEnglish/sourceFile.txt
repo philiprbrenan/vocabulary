@@ -1,5 +1,5 @@
 app vocabulary.g.MonthsOfTheYearInEnglish = Months of the Year in English
-  description  = Learn about Months of the Year in English in English
+  description  = Learn about Months of the Year in English
   icon         = October.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
