@@ -1,5 +1,5 @@
 app vocabulary.g.Yawning = Animals Yawning
-  description  = Learn about Animals Yawning in English
+  description  = Learn about Animals Yawning
   icon         = Hippopotamus.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
