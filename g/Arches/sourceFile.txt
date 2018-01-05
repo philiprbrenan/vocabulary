@@ -1,5 +1,5 @@
 app vocabulary.g.Arches = Arches National Park USA
-  description  = Learn about Arches National Park USA in English
+  description  = Learn about Arches National Park USA
   icon         = Double O Arch.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
