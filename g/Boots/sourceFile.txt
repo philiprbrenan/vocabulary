@@ -1,5 +1,5 @@
 app vocabulary.g.Boots = Boots and Shoes
-  description  = Learn about Boots and Shoes in English
+  description  = Learn about Boots and Shoes
   icon         = Pointe Shoes.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
