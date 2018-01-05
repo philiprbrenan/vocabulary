@@ -1,5 +1,5 @@
 app vocabulary.g.BabyAnimals = Baby Animals
-  description  = Learn about Baby Animals in English
+  description  = Learn about Baby Animals
   icon         = Piglet.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
