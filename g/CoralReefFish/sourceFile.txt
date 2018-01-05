@@ -1,5 +1,5 @@
 app vocabulary.g.CoralReefFish = Fish of the Coral Reef
-  description  = Learn about Fish of the Coral Reef in English
+  description  = Learn about Fish of the Coral Reef
   icon         = Red Sea Clownfish.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
