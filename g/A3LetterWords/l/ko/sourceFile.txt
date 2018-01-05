@@ -1,9 +1,10 @@
 app    vocabulary.g.A3LetterWords.l.ko  =  Three-Letter Words in Korean                                      
        author                           =  philiprbrenan                                                     
-       description                      =  영어로 된 3 글자 단어에 대해 알아보십시오.                                         
+       description                      =  3 글자 단어에 대해 알아보십시오.                                               
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
+       saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
        screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
        language                         =  ko                                                                
        
@@ -133,7 +134,7 @@ photo  Lid                              =  뚜껑
 photo  Map                              =  지도                                                                
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  
        
-photo  Men                              =  남자들                                                               
+photo  Men                              =  남자                                                                
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  
        
 photo  Mug                              =  얼굴                                                                
@@ -183,7 +184,7 @@ photo  Van                              =  봉고차
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
        
-photo  Wok                              =  웍                                                                 
+photo  Wok                              =  냄비                                                                
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
        
 photo  Yak                              =  야크                                                                
