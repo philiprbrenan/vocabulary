@@ -1,5 +1,5 @@
 app vocabulary.g.Functions = Mathematical Functions
-  description  = Learn about Mathematical Functions in English
+  description  = Learn about Mathematical Functions
   icon         = cos-thumbnail.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
