@@ -1,5 +1,5 @@
 app vocabulary.g.MarineAquariumFish = Marine Aquarium Fish
-  description  = Learn about Marine Aquarium Fish in English
+  description  = Learn about Marine Aquarium Fish
   icon         = Lookdown Fish.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
