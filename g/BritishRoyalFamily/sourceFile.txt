@@ -4,7 +4,8 @@ app vocabulary.g.BritishRoyalFamily = British Royal Family
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Anne, Princess Royal Camilla, Duchess of Cornwall Catherine, Duchess of Cambridge Charles, Prince of Wales Diana, Princess of Wales King Edward VIII King George V King George VI Prince Andrew, Duke of York Prince Edward, Earl of Wessex Prince Harry of Wales Prince Philip, Duke of Edinburgh Prince William, Duke of Cambridge Princess Beatrice of York Princess Eugenie of York Princess Margaret, Countess of Snowdon Queen Elizabeth II Queen Elizabeth The Queen Mother Queen Mary Sarah, Duchess of York Sophie, Countess of Wessex Wedding of Prince William and Catherine Middleton Zara Phillips
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-0
+  speakers     = Amy Brian
   emphasis     = 12
 
        
