@@ -1,5 +1,5 @@
 app vocabulary.g.SunMoonsPlanets = Sun, Moons and Planets
-  description  = Learn about Sun, Moons and Planets in English
+  description  = Learn about Sun, Moons and Planets
   icon         = Saturn 1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
