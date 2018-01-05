@@ -4,7 +4,8 @@ app vocabulary.g.RhymingKitchen = Rhyming Kitchen in English
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Baking Trays Biscuit Jars Bowl Bread Knife Cafetiere Can Opener Cheese Grater Chopping Board Colander Cold Tap Cooker Cooker Socket Crockery Cup and Saucer Cupboard Cutlery Dish Cloth Dish Washer Drainer Basket Electric Blender Electric Kettle Forks Freezer Fridge Fruit Bowl Frying Pan Garlic Press Gas Burner Glass Glasses Hand Blender Hob Controls Hob Top Hot Tap Iron Ironing Board Kitchen Dresser Kitchen Knives Kitchen Scales Kitchen Sink Kitchen Utensils Knives Ladle Lemon Squeezer Microwave Milk Jug Mixer Tap Mixing Bowl Mug Oven Oven Controls Oven Mitt Paper Towels Plate Plug Plug Hole Pyrex Dishes Rolling Pin Salt and Pepper Sandwich Toaster Saucepan Scissors Scourers Sink Spatula Spoons Strainer Plug Sugar Bowl Table and Chairs Tea Service Tea Towels Teapot Toaster Tray Washing Machine Washing Powder Washing Up Liquid Water Filter Wok Wooden Spoon
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
