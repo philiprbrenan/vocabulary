@@ -1,5 +1,5 @@
 app vocabulary.g.GreatOlympians = Great Olympians
-  description  = Learn about Great Olympians in English
+  description  = Learn about Great Olympians
   icon         = Hans-Gunter Winkler.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
