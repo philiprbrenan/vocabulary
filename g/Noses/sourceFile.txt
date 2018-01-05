@@ -4,7 +4,8 @@ app vocabulary.g.Noses = Noses
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Albatross Alligator Baboon Baby Black Bear Budgerigar Camel Cat Cheetah Cougar Cow Coypu Deer Dog Donkey Eagle Elephant Field Vole Fur Seal Gazelle Giraffe Goat Grey Seal Hippopotamus Hyena Iguana Jaguar Kestrel Leopard Lion Lynx Man Mandrill Moose Moray Eel Otter Panda Pig Polar Bear Porcupine Rabbit Rhinoceros Salamander Sea Lion Sheep Squirrel Tapir Tiger Toad Tortoise Walrus Zebra
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
