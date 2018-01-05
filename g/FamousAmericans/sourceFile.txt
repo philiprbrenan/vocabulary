@@ -1,5 +1,5 @@
 app vocabulary.g.FamousAmericans = Famous Americans
-  description  = Learn about Famous Americans in English
+  description  = Learn about Famous Americans
   icon         = icon.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
