@@ -1,5 +1,5 @@
 app vocabulary.g.Kitchen = The Kitchen
-  description  = Learn about The Kitchen in English
+  description  = Learn about The Kitchen
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
