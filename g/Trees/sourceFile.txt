@@ -1,5 +1,5 @@
 app vocabulary.g.Trees = Trees
-  description  = Learn about Trees in English
+  description  = Learn about Trees
   icon         = icon0.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
