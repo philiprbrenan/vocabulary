@@ -1,9 +1,10 @@
 app    vocabulary.g.A3LetterWords.l.ja  =  Three-Letter Words in Japanese                                    
        author                           =  philiprbrenan                                                     
-       description                      =  3文字の英単語について学ぶ                                                     
+       description                      =  3文字の単語について学ぶ                                                      
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
+       saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
        screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
        language                         =  ja                                                                
        
@@ -11,7 +12,7 @@ photo  Ant                              =  蟻
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
        
-photo  Ape                              =  エイプ                                                               
+photo  Ape                              =  猿                                                                 
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  
        
 photo  Arm                              =  腕                                                                 
@@ -23,7 +24,7 @@ photo  Bag                              =  バッグ
 photo  Bat                              =  コウモリ                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
        
-photo  Bay                              =  ベイ                                                                
+photo  Bay                              =  湾                                                                 
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
        
@@ -36,7 +37,7 @@ photo  Bee                              =  蜂
 photo  Bin                              =  ビン                                                                
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  
        
-photo  Bog                              =  ボグ                                                                
+photo  Bog                              =  沼地                                                                
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
        
 photo  Bow                              =  弓                                                                 
@@ -91,7 +92,7 @@ photo  Ear                              =  耳
 photo  Egg                              =  卵                                                                 
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
        
-photo  Emu                              =  エミュー                                                              
+photo  Emu                              =  エミュ                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
        
 photo  Eye                              =  眼                                                                 
@@ -166,7 +167,7 @@ photo  Rug                              =  ラグ
 photo  Sea                              =  海                                                                 
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
        
-photo  Sow                              =  播種                                                                
+photo  Sow                              =  種まき                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
        
 photo  Sun                              =  太陽                                                                
