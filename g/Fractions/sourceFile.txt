@@ -1,5 +1,5 @@
 app vocabulary.g.Fractions = Fractions
-  description  = Learn about Fractions in English
+  description  = Learn about Fractions
   icon         = 6-3c.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
