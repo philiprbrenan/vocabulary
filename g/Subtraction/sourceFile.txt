@@ -1,5 +1,5 @@
 app vocabulary.g.Subtraction = Subtraction
-  description  = Learn about Subtraction in English
+  description  = Learn about Subtraction
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
