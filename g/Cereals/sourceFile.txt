@@ -4,7 +4,8 @@ app vocabulary.g.Cereals = Top 10 Cereals
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Barley 1 - Field Barley 2 - Close-up Barley 3 - Barley grains Barley 4 - Malted barley Barley 5 - Vegetable beef barley soup Buckwheat 1 - Field Buckwheat 2 - Flowers Buckwheat 3 - Seeds Buckwheat 4 - Grains Buckwheat 5 - Buckwheat porridge Maize 1 - Field Maize 2 - Mature maize plant Maize 3 - Maize cobs Maize 4 - Maize grains Maize 5 - Cornflakes Millet 1 - Field of Pearl Millet Millet 2 - Field of Finger Millet Millet 3 - Finger Millet close-up Millet 4 - Millet grains Millet 5 - Nettle and millet fritters Oats 1 - Field Oats 2 - Close-up Oats 3 - Oat grains Oats 4 - Rolled oats for porridge Oats 5 - Oat flapjacks Rice 1 - being replanted in paddies Rice 2 - Long grain rice from the USA Rice 3 - Rice being dried Rice 4 - Brown rice Rice 5 - Fried rice Rye 1 - Field Rye 2 - Close-up Rye 3 - Rye grain with husk Rye 4 - Rye grains Rye 5 - Rye Bread Sorghum 1 - Field Sorghum 2 - Close-up Sorghum 3 - Sorghum, Blue Nile, Sudan Sorghum 4 - Sorghum grains Sorghum 5 - Sorghum cane molasses syrup Triticale 1 - Field Triticale 2 - Close-up Triticale 3 - Cutting stems for thatching Triticale 4 - Drying stems for thatching Triticale 5 - Triticale grains Wheat 1 - Field Wheat 2 - Close-up Wheat 3 - Combine harvesting wheat Wheat 4 - Wheat grains Wheat 5 - Foods made from wheat
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-0
+  speakers     = Amy Brian
   emphasis     = 12
 
        
