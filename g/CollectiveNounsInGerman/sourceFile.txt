@@ -1,5 +1,5 @@
 app vocabulary.g.CollectiveNounsInGerman = Collective Nouns in German
-  description  = Learn about Collective Nouns in German in English
+  description  = Learn about Collective Nouns in German
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
