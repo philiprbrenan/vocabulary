@@ -1,5 +1,5 @@
 app vocabulary.g.CollectiveNounsInEnglish = Collective Nouns in English
-  description  = Learn about Collective Nouns in English in English
+  description  = Learn about Collective Nouns in English
   icon         = Flotilla of ships.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
