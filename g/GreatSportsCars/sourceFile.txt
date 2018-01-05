@@ -1,5 +1,5 @@
 app vocabulary.g.GreatSportsCars = Great Sports Cars
-  description  = Learn about Great Sports Cars in English
+  description  = Learn about Great Sports Cars
   icon         = Ferrari Enzo 2.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
