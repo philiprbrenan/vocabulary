@@ -1,5 +1,5 @@
 app vocabulary.g.WeatherVanes = Easy Weather Vane Alphabet
-  description  = Learn about Easy Weather Vane Alphabet in English
+  description  = Learn about Easy Weather Vane Alphabet
   icon         = Nine Sails.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
