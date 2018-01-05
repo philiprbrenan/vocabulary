@@ -1,5 +1,5 @@
 app vocabulary.g.Antarctica = Wild Animals of Antarctica
-  description  = Learn about Wild Animals of Antarctica in English
+  description  = Learn about Wild Animals of Antarctica
   icon         = Gentoo Penguin 1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
