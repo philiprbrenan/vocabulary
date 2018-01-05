@@ -1,5 +1,5 @@
 app vocabulary.g.TraceNumbers09InFrench = Trace Numbers 0 to 9 in French
-  description  = Learn about Trace Numbers 0 to 9 in French in English
+  description  = Learn about Trace Numbers 0 to 9 in French
   icon         = icon.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
