@@ -1,5 +1,5 @@
 app vocabulary.g.HowTallAmI = How Tall Am I?
-  description  = Learn about How Tall Am I? in English
+  description  = Learn about How Tall Am I?
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
