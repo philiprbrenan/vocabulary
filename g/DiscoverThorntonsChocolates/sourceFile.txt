@@ -1,5 +1,5 @@
 app vocabulary.g.DiscoverThorntonsChocolates = Enjoy Thorntons Chocolates
-  description  = Learn about Enjoy Thorntons Chocolates in English
+  description  = Learn about Enjoy Thorntons Chocolates
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
