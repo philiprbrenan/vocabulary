@@ -1,5 +1,5 @@
 app vocabulary.g.Bathroom = Bathroom
-  description  = Learn about Bathroom in English
+  description  = Learn about Bathroom
   icon         = Basin.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
