@@ -1,5 +1,5 @@
 app vocabulary.g.ChocolateGoodnessCake = Chocolate Goodness Cake
-  description  = Learn about Chocolate Goodness Cake in English
+  description  = Learn about Chocolate Goodness Cake
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
