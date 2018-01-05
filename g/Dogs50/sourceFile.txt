@@ -1,5 +1,5 @@
 app vocabulary.g.Dogs50 = Top 50 Dog Breeds
-  description  = Learn about Top 50 Dog Breeds in English
+  description  = Learn about Top 50 Dog Breeds
   icon         = German Shepherd.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
