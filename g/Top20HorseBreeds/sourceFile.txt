@@ -4,7 +4,8 @@ app vocabulary.g.Top20HorseBreeds = Top 20 Horse Breeds
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = American Paint Horse American Paint Horse 1 American Paint Horse 2 American Quarter Horse American Quarter Horse 1 American Quarter Horse 2 American Saddlebred American Saddlebred 1 American Saddlebred 2 Andalusian Andalusian 1 Andalusian 2 Appaloosa Appaloosa 1 Appaloosa 2 Arabian Arabian 1 Arabian 2 Friesian Friesian 1 Friesian 2 Hanoverian Hanoverian 1 Hanoverian 2 Icelandic Icelandic 1 Icelandic 2 Miniature Miniature 1 Miniature 2 Missouri Fox Trotter Morgan Morgan 1 Morgan 2 Mustang Mustang 1 Mustang 2 Paso Fino Paso Fino 1 Paso Fino 2 Peruvian Paso Peruvian Paso 1 Peruvian Paso 2 Shetland Pony Shetland Pony 2 Shetland Pony 3 Tennessee Walking Horse Tennessee Walking Horse 1 Tennessee Walking Horse 2 Thoroughbred Thoroughbred 1 Thoroughbred 2 Trakehner Trakehner 1 Trakehner 2 Welsh Pony and Cob Welsh Pony and Cob 1 Welsh Pony and Cob 2
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
