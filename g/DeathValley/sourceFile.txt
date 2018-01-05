@@ -1,5 +1,5 @@
 app vocabulary.g.DeathValley = Death Valley USA
-  description  = Learn about Death Valley USA in English
+  description  = Learn about Death Valley USA
   icon         = Mesquite Sand Dunes.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
