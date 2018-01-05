@@ -1,5 +1,5 @@
 app vocabulary.g.HowMuchPowerDoIUse = How Much Power Do I Use?
-  description  = Learn about How Much Power Do I Use? in English
+  description  = Learn about How Much Power Do I Use?
   icon         = Kettle.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
