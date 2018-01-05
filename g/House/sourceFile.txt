@@ -1,5 +1,5 @@
 app vocabulary.g.House = House
-  description  = Learn about House in English
+  description  = Learn about House
   icon         = icon0.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
