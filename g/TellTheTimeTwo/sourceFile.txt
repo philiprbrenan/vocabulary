@@ -1,5 +1,5 @@
 app vocabulary.g.TellTheTimeTwo = Tell the Time Two
-  description  = Learn about Tell the Time Two in English
+  description  = Learn about Tell the Time Two
   icon         = 09_35a.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
