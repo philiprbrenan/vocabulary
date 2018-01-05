@@ -1,5 +1,5 @@
 app vocabulary.g.CountTeddyBearsInEnglish = Count Teddy Bears 1-20
-  description  = Learn about Count Teddy Bears 1-20 in English
+  description  = Learn about Count Teddy Bears 1-20
   icon         = 13.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
