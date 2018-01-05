@@ -4,7 +4,8 @@ app vocabulary.g.TellTheTime = Tell the Time
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Eight O'Clock Eleven O'Clock Five O'Clock Five past twelve Five to three Four O'Clock Half past eight Nine O'Clock One O'Clock Quarter past one Quarter to six Seven O'Clock Six O'Clock Ten O'Clock Ten past eleven Ten to eight Three O'Clock Twelve O'Clock Twenty past ten Twenty to three Twenty-five past eleven Twenty-five to five Two O'Clock
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
