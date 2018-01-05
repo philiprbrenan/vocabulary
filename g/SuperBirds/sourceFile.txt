@@ -4,7 +4,8 @@ app vocabulary.g.SuperBirds = Super Birds
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Best flyer (Hummingbird) Biggest Condor (Andean Condor) Biggest community nest (Sociable Weaver) Biggest parrot (Hyacinth Macaw) Biggest tree nest (Bald Eagle) Deepest dive for a flying bird (Thick-billed Murre) Deepest diving bird (Emperor Penguin) Earliest domesticated bird (Red Junglefowl) Fastest flying bird (Peregrine Falcon) Fastest running flying bird (Greater Roadrunner) Fastest swimming bird (Gentoo Penguin) Fastest wing beat (Ruby-throated Hummingbird) Furthest migrating bird (Arctic Tern) Greatest number of feathers (Whistling Swan) Heaviest Eagle (Steller's Sea Eagle) Heaviest Owl (Eurasian Eagle-Owl) Heaviest flying bird (Dalmatian Pelican) Highest flying bird ever (Ruppell's Griffon Vulture) Highest flying migratory bird (Bar-headed Goose) Highest price paid for a live bird (Racing Pigeon) Keenest sense of hearing of any bird (Barn Owl) Keenest sense of smell of any bird (Kiwi) Largest Eagle (Phillipine Eagle) Largest bird (Ostrich) Largest owl (Great Grey Owl) Longest beak (Australian Pelican) Longest beak relative to body length (Sword-billed Hummingbird) Longest non-stop migration (Bar-tailed Godwit) Longest wingspan (Wandering Albatross) Longest wingspan of any eagle (White-tailed Eagle) Most intelligent bird (African Grey Parrot) Most numerous bird (Red-billed Quelea) Most time spent flying (Common Swift) Oldest living wild bird (Laysan Albatross) Rarest bird (Ivory-billed Woodpecker) Slowest flying bird (American Woodcock) Smallest Owl (Elf Owl) Smallest bird (Bee Hummingbird) Tallest flying bird (Sarus Crane) Worst bird strike (Common Starling)
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
