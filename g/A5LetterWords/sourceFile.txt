@@ -1,5 +1,5 @@
 app vocabulary.g.A5LetterWords = Five-Letter Words
-  description  = Learn about Five-Letter Words in English
+  description  = Learn about Five-Letter Words
   icon         = House.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
