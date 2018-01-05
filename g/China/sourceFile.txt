@@ -1,5 +1,5 @@
 app vocabulary.g.China = China
-  description  = Learn about China in English
+  description  = Learn about China
   icon         = Forbidden_City_1.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
