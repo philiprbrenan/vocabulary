@@ -1,5 +1,5 @@
 app vocabulary.g.WildFlowers = Wild Flowers
-  description  = Learn about Wild Flowers in English
+  description  = Learn about Wild Flowers
   icon         = Globeflower.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
