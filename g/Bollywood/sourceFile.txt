@@ -4,7 +4,8 @@ app vocabulary.g.Bollywood = Stars of Bollywood
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Aftab Shivdasani Aishwarya Rai 1 Aishwarya Rai 2 Aishwarya Rai 3 Ajay Devgan Akshay Kumar Ameesha Patel Amitabh Bachchan 1 Amitabh Bachchan 2 Amrita Rao 1 Amrita Rao 2 Arjun Rampal Asin Thottumkal 1 Asin Thottumkal 2 Asin Thottumkal 3 Ayesha Takia Bhagyashree Bipasha Basu Deepika Padukone Govinda Gracy Singh Hrithik Roshan 1 Hrithik Roshan 2 Irrfan Khan John Abraham Juhi Chawla Kabir Bedi 1 Kabir Bedi 2 Kader Khan Kamal Haasan 1 Kamal Haasan 2 Kangana Ranaut Kareena Kapoor 1 Kareena Kapoor 2 Karisma Kapoor Katrina Kaif Kay Kay Menon Lara Dutta Bhupathi Madhuri Dixit Mallika Sherawat Minissha Lamba Mithun Chakraborty Nandita Das Neetu Singh Preity Zinta Priyanka Chopra 1 Priyanka Chopra 2 Rakesh Roshan Ranbir Kapoor Rani Mukherji Raveena Tandon Rekha Riteish Deshmukh Sagarika Ghatge Saif Ali Khan Salman Khan Sanjay Dutt Shabana Azmi Shah Rukh Khan 1 Shah Rukh Khan 2 Sharman Joshi Shilpa Shetty Sonakshi Sinha Sonu Nigam Sridevi Kapoor Sushmita Sen Tabu 1 Tabu 2 Udita Goswami Urmila Matondkar Vidya Balan 1 Vidya Balan 3 Vivek Oberoi Yami Gautam 1 Yami Gautam 2
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-0
+  speakers     = Amy Brian
   emphasis     = 12
 
        
