@@ -1,5 +1,5 @@
 app vocabulary.g.Sharks = Sharks
-  description  = Learn about Sharks in English
+  description  = Learn about Sharks
   icon         = Great White Shark.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
