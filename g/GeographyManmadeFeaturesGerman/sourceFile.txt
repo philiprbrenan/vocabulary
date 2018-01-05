@@ -4,7 +4,8 @@ app vocabulary.g.GeographyManmadeFeaturesGerman = Geography Man-Made Features in
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Airport Ancient burial chamber Aqueduct Breakwater Canal Car park Cemetery Chair lift City Dam Drainage ditch Electricity pylon Embankment Farm fields Flood defence wall Fly-over Foot bridge Football stadium Footpath Golf course Harbour Lake Lighthouse Marina Monument Motorway Nuclear Power Station Observation wheel Orchard Pier Port Quarry Railway bridge Railway line Reservoir Road Road bridge Ruined city Sea wall Ski slope Stepping stones Suspension bridge Swimming pool Terraces Town Tunnel Village Vineyard Wind farm Woodland
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
 
