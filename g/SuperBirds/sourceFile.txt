@@ -1,5 +1,5 @@
 app vocabulary.g.SuperBirds = Super Birds
-  description  = Learn about Super Birds in English
+  description  = Learn about Super Birds
   icon         = Keenest sense of hearing of any bird (Barn Owl).jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
