@@ -4,7 +4,8 @@ app vocabulary.g.PawsAndClaws = Paws And Claws
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Albatross Alligator Badger Bat Booby Camel Cat Chicken Chimpanzee Coot Cow Deer Dog Duck Eagle Egret Elephant Emu Flamingo Fox Gecko Giraffe Grouse Gull Hare Hedgehog Hippopotamus Horse Human Iguana Lion Lynx Marine Iguana Marmot Mole Ostrich Penguin Puma Racoon Rhinoceros Rock Hyrax Sheep Skink Sloth Spider Monkey Tapir Tarsier Tiger Tortoise Turtle
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
