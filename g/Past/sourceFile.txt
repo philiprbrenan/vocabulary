@@ -4,7 +4,8 @@ app vocabulary.g.Past = The Irregular Past in English
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Arise Awake Be Bear Beat Begin Bend Bet Bid Bind Bite Blow Break Breed Bring Build Burn Burst Buy Cast Catch Choose Cling Clothe Come Cost Creep Cut Deal Dig Do Draw Drink Drive Dwell Eat Fall Feed Feel Fight Find Fit Flee Fling Fly Forbid Forecast Foresee Foretell Forget Forgive Forsake Freeze Get Give Go Grind Grow Hang Have Hear Hide Hit Hold Keep Kneel Know Lay Lead Leave Lend Let Lose Make Mean Meet Pay Put Quit Read Ride Ring Rise Run Say See Seek Sell Send Set Shake Shed Shine Shoot Shrink Shut Sing Sink Sit Slay Sleep Slide Sling Slink Speak Speed Spell Spend Spill Spin Split Spread Spring Stand Steal Stick Sting Stride Strike String Strive Swear Sweep Swell Swim Swing Take Teach Tear Tell Think Throw Thrust Tread Wake Wear Weave Wed Weep Wet Wind Won Wring Write
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
