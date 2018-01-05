@@ -1,5 +1,5 @@
 app vocabulary.g.PawsAndClaws = Paws And Claws
-  description  = Learn about Paws And Claws in English
+  description  = Learn about Paws And Claws
   icon         = Rhinoceros.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
