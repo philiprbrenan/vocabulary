@@ -4,7 +4,8 @@ app vocabulary.g.OrganicMolecules = Organic Molecules
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Acetaldehyde Acetic Acid Acetone Acetylene Ammonia Benzene Butane Butanol Caffeine Carbon Dioxide Carbon Tetra Fluoride Chloroform Cyanamide Ethane Ethanol Ethylene Ethylene glycol Ethylene oxide Formaldehyde Formic Acid Glycerol Hydrazine Hydrogen cyanide Methane Methanol Naphthalene Pentane Phenol Propane Propene Pyridine Toluene Urea Water
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
