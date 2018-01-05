@@ -1,5 +1,5 @@
 app vocabulary.g.SoftToyAlphabet = Easy Soft Toy Alphabet
-  description  = Learn about Easy Soft Toy Alphabet in English
+  description  = Learn about Easy Soft Toy Alphabet
   icon         = Old Bear.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
