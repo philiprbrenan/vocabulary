@@ -1,5 +1,5 @@
 app vocabulary.g.TellTheTime = Tell the Time
-  description  = Learn about Tell the Time in English
+  description  = Learn about Tell the Time
   icon         = Three O'Clock.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
