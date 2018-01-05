@@ -1,10 +1,11 @@
-app vocabulary.g.PeriodicTable = ARRAY(0x30ba058)
-  description  = Learn about ARRAY(0x30ba058)
+app vocabulary.g.PeriodicTable = ARRAY(0x1f4f220)
+  description  = Learn about ARRAY(0x1f4f220)
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = 
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
 
