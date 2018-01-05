@@ -1,5 +1,5 @@
 app vocabulary.g.Seasons = The Four Seasons in English
-  description  = Learn about The Four Seasons in English in English
+  description  = Learn about The Four Seasons in English
   icon         = Summer P.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
