@@ -1,5 +1,5 @@
 app vocabulary.g.PlusOrMinus = Plus or Minus, More or Less
-  description  = Learn about Plus or Minus, More or Less in English
+  description  = Learn about Plus or Minus, More or Less
   icon         = icon0.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
