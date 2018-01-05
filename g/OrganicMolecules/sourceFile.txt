@@ -1,5 +1,5 @@
 app vocabulary.g.OrganicMolecules = Organic Molecules
-  description  = Learn about Organic Molecules in English
+  description  = Learn about Organic Molecules
   icon         = Acetic Acid.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
