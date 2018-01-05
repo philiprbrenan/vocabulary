@@ -4,7 +4,8 @@ app vocabulary.g.Fruits = Fruits and Berries
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Apple 1 Apple 2 Apricot 1 Apricot 2 Avocado 1 Avocado 2 Banana 1 Banana 2 Blackberry 1 Blackberry 2 Blackcurrant 1 Blackcurrant 2 Blueberry 1 Blueberry 2 Breadfruit 1 Breadfruit 2 Canary Melon 1 Cantaloupe Melon 1 Cherry 1 Cherry 2 Clementine 1 Clementine 2 Coconut 1 Coconut 2 Cranberry 1 Cranberry 2 Damson 1 Damson 2 Date 1 Date 2 Fig 1 Fig 2 Galia Melon 1 Gooseberry 1 Gooseberry 2 Grape 1 Grape 2 Grapefruit 1 Grapefruit 2 Greengage 1 Greengage 2 Guava 1 Guava 2 Honeydew Melon 1 Horned Melon 1 Jackfruit 1 Jackfruit 2 Kiwifruit 1 Kiwifruit 2 Kumquat 1 Kumquat 2 Lemon 1 Lemon 2 Lime 1 Lime 2 Lychee 1 Lychee 2 Mango 1 Mango 2 Nectarine 1 Nectarine 2 Olive 1 Olive 2 Orange 1 Orange 2 Papaya 1 Papaya 2 Passion Fruit 1 Passion Fruit 2 Pawpaw 1 Pawpaw 2 Peach 1 Peach 2 Pear 1 Pear 2 Pineapple 1 Pineapple 2 Plum 1 Plum 2 Pomegranate 1 Pomegranate 2 Pomelo 1 Pomelo 2 Quince 1 Quince 2 Raspberry 1 Raspberry 2 Redcurrant 1 Redcurrant 2 Satsuma 1 Satsuma 2 Starfruit 1 Starfruit 2 Strawberry 1 Strawberry 2 Tamarillo 1 Tamarillo 2 Watermelon 1 Watermelon 2
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
