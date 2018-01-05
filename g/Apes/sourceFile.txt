@@ -1,5 +1,5 @@
 app vocabulary.g.Apes = Amazing Apes
-  description  = Learn about Amazing Apes in English
+  description  = Learn about Amazing Apes
   icon         = Bonobo (juvenile).jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
