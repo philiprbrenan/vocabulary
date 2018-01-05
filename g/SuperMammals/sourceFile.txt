@@ -4,7 +4,8 @@ app vocabulary.g.SuperMammals = Super Mammals
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Best hearing of any land mammal (Bat) Biggest mouth of any land mammal (Hippopotamus) Biggest mouth of any marine mammal (Bowhead whale) Deepest diving marine mammal (Sperm Whale) Fastest cat breed (Egyptian Mau) Fastest dog breed (Greyhound) Fastest land mammal (Cheetah) Fastest marine mammal (Killer Whale) Fastest primate (Patas monkey) Furthest migration of any land mammal (North American Caribou) Greatest number of teeth of any land mammal (Giant Armadillo) Heaviest dog breed (English Mastiff) Largest cat breed (Maine Coon) Largest land mammal (African elephant) Largest mammal that's ever lived (Blue Whale) Largest primate (Gorilla) Longest hibernation of any mammal (Marmot) Loudest land mammal (Howler monkey) Most complex song of any marine mammal (Humpback Whale) Slowest land mammal (Three-toed sloth) Slowest primate (Slow Loris) Smallest cat breed (Singapura) Smallest dog breed (Chihuahua) Smallest land mammal (Etruscan shrew) Smallest marine mammal (Sea Otter) Smallest primate (Mouse lemur) Smelliest mammal (Striped Skunk) Strangest looking mammal (Star-nosed mole) Tallest cat breed (Savannah) Tallest dog breed (Irish Wolfhound) Tallest land mammal (Giraffe) Tallest primate (Human)
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
