@@ -4,7 +4,8 @@ app vocabulary.g.GeometricShapes = Geometric Shapes
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Circle Cone Crescent Cube Cylinder Decagon Decagram Disc Dodecagon Dodecahedron Ellipse Equilateral Triangle Helix Hendecagon Heptagon Heptagram Hexagon Hexagram Icosahedron Isosceles Triangle Kite Nonagon Octagon Octagram Octahedron Oval Parallelogram Pentagon Pentagram Polygons Pyramid Rectangle Rhombus Right-angled Triangle Scalene Triangle Semicircle Sphere Square Tetrahedron Torus Trapezoid
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
