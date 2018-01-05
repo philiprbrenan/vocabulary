@@ -4,7 +4,8 @@ app vocabulary.g.TheNumbersFrom1To100InItalian = The Numbers 1 to 100 in Italian
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = 
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
 
