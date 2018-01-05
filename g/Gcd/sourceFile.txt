@@ -1,5 +1,5 @@
 app vocabulary.g.Gcd = Greatest Common Divisor
-  description  = Learn about Greatest Common Divisor in English
+  description  = Learn about Greatest Common Divisor
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
