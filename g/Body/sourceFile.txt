@@ -1,5 +1,5 @@
 app vocabulary.g.Body = Parts of the Body
-  description  = Learn about Parts of the Body in English
+  description  = Learn about Parts of the Body
   icon         = Head - Head.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
