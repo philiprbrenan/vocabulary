@@ -1,5 +1,5 @@
-app vocabulary.g.PeriodicTable = ARRAY(0x32be7c0)
-  description  = Learn about ARRAY(0x32be7c0) in English
+app vocabulary.g.PeriodicTable = ARRAY(0x30ba058)
+  description  = Learn about ARRAY(0x30ba058)
   icon         = icon.png
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
