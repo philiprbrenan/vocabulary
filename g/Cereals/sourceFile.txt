@@ -1,5 +1,5 @@
 app vocabulary.g.Cereals = Top 10 Cereals
-  description  = Learn about Top 10 Cereals in English
+  description  = Learn about Top 10 Cereals
   icon         = Barley 2 - Close-up.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
