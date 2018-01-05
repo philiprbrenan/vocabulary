@@ -4,7 +4,8 @@ app vocabulary.g.WeatherVanes = Easy Weather Vane Alphabet
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Arrow Badger Cockerel Dog Engine Fox Goose Hunter Insect Jockey King Cobra Lifeboat Mackerel Nine Sails Owl Pennant Quarter Horse Reindeer Surfer Tern Unbalanced Weathervane Vixen Whale X-Ray Yacht Zebra Fox
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
