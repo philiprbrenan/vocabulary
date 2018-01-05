@@ -1,5 +1,5 @@
 app vocabulary.g.Top10TallestAsiaPacificRollerCoasters = Top 10 Tallest Asia Pacific Roller Coasters
-  description  = Learn about Top 10 Tallest Asia Pacific Roller Coasters in English
+  description  = Learn about Top 10 Tallest Asia Pacific Roller Coasters
   icon         = Eejanaika 5.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
