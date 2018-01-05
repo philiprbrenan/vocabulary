@@ -4,7 +4,8 @@ app vocabulary.g.WordEndings = Common Word Endings
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Ape Bag Ball Bed Bee Boat Book Bread Bun Calf Canoe Car Cart Cat Cave Chart Church Cloth Cow Crane Daisy Dish Dog Door Dove Duck Fan Fish Flag Floor Foal Fork Frog Gate Glove Goal Goat Grape Half Hand Hat Head Heel Hoe Hook Hose House Jar Jeep Jug Lamp Leg Map Men Moon Moth Mouse Mug Nail Nest Ostrich Pansy Peg Pen Plane Plate Ramp Road Rose Sail Sand Shed Sheep Shoe Sow Spoon Stork Sun Tap Tent Toad Toe Tree Truck Van Vent Wall Wave West Wheel
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
