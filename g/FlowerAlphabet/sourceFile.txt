@@ -1,5 +1,5 @@
 app vocabulary.g.FlowerAlphabet = Easy Flower Alphabet
-  description  = Learn about Easy Flower Alphabet in English
+  description  = Learn about Easy Flower Alphabet
   icon         = Turk's Cap.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
