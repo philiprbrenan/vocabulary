@@ -4,7 +4,8 @@ app vocabulary.g.Top10TallestEuropeanRollerCoasters = Top 10 Tallest European Ro
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Colossos Expedition GeForce Jubilee Odyssey Katun Pepsi Max Big One Shambhala Silver Star Stealth Stunt Fall iSpeed
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-2
+  speakers     = Amy Brian
   emphasis     = 12
 
        
