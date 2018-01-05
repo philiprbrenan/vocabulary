@@ -1,5 +1,5 @@
 app vocabulary.g.TransportAlphabet = Easy Transport Alphabet
-  description  = Learn about Easy Transport Alphabet in English
+  description  = Learn about Easy Transport Alphabet
   icon         = Helicopter.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
