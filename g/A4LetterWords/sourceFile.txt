@@ -1,5 +1,5 @@
 app vocabulary.g.A4LetterWords = Four-Letter Words
-  description  = Learn about Four-Letter Words in English
+  description  = Learn about Four-Letter Words
   icon         = Baby.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
