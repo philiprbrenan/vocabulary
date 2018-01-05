@@ -1,5 +1,5 @@
 app vocabulary.g.WordEndings = Common Word Endings
-  description  = Learn about Common Word Endings in English
+  description  = Learn about Common Word Endings
   icon         = Icon 4.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
