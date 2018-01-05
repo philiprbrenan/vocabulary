@@ -1,5 +1,5 @@
 app vocabulary.g.CountAnimalsInEnglish = Count Animals 1-10
-  description  = Learn about Count Animals 1-10 in English
+  description  = Learn about Count Animals 1-10
   icon         = 3.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
