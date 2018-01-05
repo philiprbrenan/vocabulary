@@ -1,5 +1,5 @@
 app vocabulary.g.Bridges = Bridges
-  description  = Learn about Bridges in English
+  description  = Learn about Bridges
   icon         = icon.jpg
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
