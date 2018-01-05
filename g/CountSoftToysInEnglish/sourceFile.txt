@@ -4,7 +4,8 @@ app vocabulary.g.CountSoftToysInEnglish = Count Soft Toys 1-10
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Eight Hedgehogs Eight Pigs Five Cats Five Koalas Five Leopards Four Horses Four Lions Four Reindeer Nine Dolphins Nine Rabbits One Bee One Lobster One Owl Seven Chicks Seven Tigers Six Cows Six Mice Six Monkeys Ten Dogs Ten Elephants Three Ducks Three Parrots Three Penguins Two Donkeys Two Fish Two Sheep
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-0
+  speakers     = Amy Brian
   emphasis     = 12
 
        
