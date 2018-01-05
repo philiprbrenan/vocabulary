@@ -4,7 +4,8 @@ app vocabulary.g.Christmas = Christmas
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Advent Calendar Advent Candle Artificial Christmas Tree Bauble Candlelit Church Service Candy Canes Chocolate Gold Coins Chocolate Liqueurs Chocolate Santa Claus Chocolate Yule Log Christingle Christmas Cactus Christmas Cake Christmas Candle Christmas Cards Christmas Carol Christmas Market Christmas Music Christmas Pudding Christmas Stamps Christmas Stockings Christmas Tree Christmas Tree Decoration Christmas Tree Fairy Christmas Truce Christstollen Cookies Crackers Cranberry Sauce Department Store Decorations Eggnog Fairy Lights Famous Christmas Poem Famous Christmas Story Gingerbread Holly House Decorations Inflatable Santa Claus Log Fire Mince Pies Mistletoe Mixed Nuts Mulled Wine Nativity Play Nativity Scene Nutcracker Ballet Pantomime Poinsettia Presents Public Christmas Tree Reindeer Reindeer Antlers Rudolph the Red-Nosed Reindeer Santa Claus Santa Claus Parade Santa Hat Santa's Elves Santa's Grotto Snow Globe Snowman Star of Bethlehem Street Lights Sugar Mice Sweets Table Decoration Tinsel Tobogganing Traditional Nutcrackers Turkey Wreath
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-0
+  speakers     = Amy Brian
   emphasis     = 12
 
        
