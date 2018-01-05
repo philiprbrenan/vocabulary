@@ -4,7 +4,8 @@ app vocabulary.g.OodlesOfAnimals = Lots of Animals
   author       = philiprbrenan
   email        = philiprbrenan@gmail.com
   screenShots  = Army of ants Army of caterpillars Bed of clams Bed of eels Bed of mussels Bevy of otters Bevy of swans Brood of chicks Brood of ducklings Brood of goslings Brood of honey bees Cloud of bats Cloud of flies Cluster of butterflies Cluster of spiders Colony of ants Colony of bats Colony of honey bees Colony of sea lions Crowd of people Flock of geese Flock of seagulls Flock of sheep Flock of starlings Herd of cattle Herd of deer Herd of elephants Herd of goats Herd of horses Herd of mules Herd of walruses Herd of wildebeest Litter of kittens Litter of pigs Litter of puppies Nest of birds Nest of eggs Nest of mice Nest of vipers Pack of hounds Pack of wild dogs Pack of wolves Parade of elephants Pod of dolphins Pod of hippos Pod of sea lions Pod of whales Pride of lions Pride of peacocks School of fish Shoal of fish Swarm of ants Swarm of bees Swarm of flies Team of dogs Team of horses Team of oxen Troop of baboons Troop of chimpanzees Troop of gorillas
-  speakers     = Amy
+  saveScreenShotsTo = philiprbrenan/screenShots-1
+  speakers     = Amy Brian
   emphasis     = 12
 
        
