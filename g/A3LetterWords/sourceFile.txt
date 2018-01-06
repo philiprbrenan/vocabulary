@@ -11,7 +11,7 @@ app vocabulary.g.A3LetterWords = Three-Letter Words
        
 photo  Ant               =  Ant                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
-       pointsOfInterest  =                                                                57  39  
+       pointsOfInterest  =  (57 39)                                                           
        
 photo  Ape               =  Ape                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  
@@ -24,18 +24,18 @@ photo  Bag               =  Bag
        
 photo  Bat               =  Bat                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
-       pointsOfInterest  =                                                                51  45  
+       pointsOfInterest  =  (51 45)                                                           
        
 photo  Bay               =  Bay                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
        
 photo  Bed               =  Bed                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
-       pointsOfInterest  =                                                                51   4  
+       pointsOfInterest  =  (51 4)                                                            
        
 photo  Bee               =  Bee                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
-       pointsOfInterest  =                                                                47   4  
+       pointsOfInterest  =  (47 4)                                                            
        
 photo  Bin               =  Bin                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  
@@ -45,25 +45,25 @@ photo  Bog               =  Bog
        
 photo  Bow               =  Bow                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
-       pointsOfInterest  =                                                                45  28  
+       pointsOfInterest  =  (45 28)                                                           
        
 photo  Box               =  Box                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
        
 photo  Boy               =  Boy                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
-       pointsOfInterest  =                                                                66  43  
+       pointsOfInterest  =  (66 43)                                                           
        
 photo  Bug               =  Bug                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
-       pointsOfInterest  =                                                                46  46  
+       pointsOfInterest  =  (46 46)                                                           
        
 photo  Bun               =  Bun                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
        
 photo  Bus               =  Bus                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
-       pointsOfInterest  =                                                                64  51  
+       pointsOfInterest  =  (64 51)                                                           
        
 photo  Can               =  Can                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  
@@ -73,15 +73,15 @@ photo  Cap               =  Cap
        
 photo  Car               =  Car                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
-       pointsOfInterest  =                                                                 6  57  
+       pointsOfInterest  =  (6 57)                                                            
        
 photo  Cat               =  Cat                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
-       pointsOfInterest  =                                                                52  52  
+       pointsOfInterest  =  (52 52)                                                           
        
 photo  Cow               =  Cow                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
-       pointsOfInterest  =                                                                 5  35  
+       pointsOfInterest  =  (5 35)                                                            
        
 photo  Cup               =  Cup                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  
@@ -91,33 +91,33 @@ photo  Dam               =  Dam
        
 photo  Dog               =  Dog                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
-       pointsOfInterest  =                                                                 6  56  
+       pointsOfInterest  =  (6 56)                                                            
        
 photo  Ear               =  Ear                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
        
 photo  Egg               =  Egg                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
-       pointsOfInterest  =                                                                46  26  
+       pointsOfInterest  =  (46 26)                                                           
        
 photo  Emu               =  Emu                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
-       pointsOfInterest  =                                                                32  22  
+       pointsOfInterest  =  (32 22)                                                           
        
 photo  Eye               =  Eye                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
-       pointsOfInterest  =                                                                45  51  
+       pointsOfInterest  =  (45 51)                                                           
        
 photo  Fan               =  Fan                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
        
 photo  Fin               =  Fin                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
-       pointsOfInterest  =                                                                46   7  
+       pointsOfInterest  =  (46 7)                                                            
        
 photo  Fox               =  Fox                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
-       pointsOfInterest  =                                                                55  22  
+       pointsOfInterest  =  (55 22)                                                           
        
 photo  Hat               =  Hat                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  
@@ -127,7 +127,7 @@ photo  Hoe               =  Hoe
        
 photo  Ice               =  Ice                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
-       pointsOfInterest  =                                                                56  39  
+       pointsOfInterest  =  (56 39)                                                           
        
 photo  Jar               =  Jar                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  
@@ -155,64 +155,64 @@ photo  Mug               =  Mug
        
 photo  Oar               =  Oar                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
-       pointsOfInterest  =                                                                41  25  
+       pointsOfInterest  =  (41 25)                                                           
        
 photo  Owl               =  Owl                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
-       pointsOfInterest  =                                                                55  29  
+       pointsOfInterest  =  (55 29)                                                           
        
 photo  Pan               =  Pan                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
        
 photo  Peg               =  Peg                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
-       pointsOfInterest  =                                                                22  36  
+       pointsOfInterest  =  (22 36)                                                           
        
 photo  Pen               =  Pen                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
        
 photo  Pig               =  Pig                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
-       pointsOfInterest  =                                                                79  66  
+       pointsOfInterest  =  (79 66)                                                           
        
 photo  Pin               =  Pin                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
-       pointsOfInterest  =                                                                75  26  
+       pointsOfInterest  =  (75 26)                                                           
        
 photo  Rug               =  Rug                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
        
 photo  Sea               =  Sea                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
-       pointsOfInterest  =                                                                48  55  
+       pointsOfInterest  =  (48 55)                                                           
        
 photo  Sow               =  Sow                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
-       pointsOfInterest  =                                                                84   6  
+       pointsOfInterest  =  (84 6)                                                            
        
 photo  Sun               =  Sun                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
-       pointsOfInterest  =                                                                49  46  
+       pointsOfInterest  =  (49 46)                                                           
        
 photo  Tap               =  Tap                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
-       pointsOfInterest  =                                                                72  35  
+       pointsOfInterest  =  (72 35)                                                           
        
 photo  Toe               =  Toe                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
-       pointsOfInterest  =                                                                38  17  
+       pointsOfInterest  =  (38 17)                                                           
        
 photo  Van               =  Van                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
-       pointsOfInterest  =                                                                36  39  
+       pointsOfInterest  =  (36 39)                                                           
        
 photo  Wok               =  Wok                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
        
 photo  Yak               =  Yak                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
-       pointsOfInterest  =                                                                71  38  
+       pointsOfInterest  =  (71 38)                                                           
        
 photo  Zip               =  Zip                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
-       pointsOfInterest  =                                                                46   5  
+       pointsOfInterest  =  (46 5)                                                            
