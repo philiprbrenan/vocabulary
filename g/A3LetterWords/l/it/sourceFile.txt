@@ -1,6 +1,6 @@
 app    vocabulary.g.A3LetterWords.l.it  =  Three-Letter Words in Italian                                     
        author                           =  philiprbrenan                                                     
-       description                      =  Ulteriori informazioni sulle parole di tre lettere                
+       description                      =  Scopri le parole di tre lettere                                   
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
@@ -8,187 +8,218 @@ app    vocabulary.g.A3LetterWords.l.it  =  Three-Letter Words in Italian
        screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
        language                         =  it                                                                
        
-photo  Ant                              =  formica                                                           
+photo  Ant                              =  Formica                                                           
+       pointsOfInterest                 =  (57 39)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
        
-photo  Ape                              =  scimmia                                                           
+photo  Ape                              =  Scimmia                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  
        
-photo  Arm                              =  braccio                                                           
+photo  Arm                              =  Braccio                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  
        
 photo  Bag                              =  Borsa                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  
        
-photo  Bat                              =  pipistrello                                                       
+photo  Bat                              =  Pipistrello                                                       
+       pointsOfInterest                 =  (51 45)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
        
-photo  Bay                              =  baia                                                              
+photo  Bay                              =  Baia                                                              
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
        
-photo  Bed                              =  letto                                                             
+photo  Bed                              =  Letto                                                             
+       pointsOfInterest                 =  (51 4)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
        
-photo  Bee                              =  ape                                                               
+photo  Bee                              =  Ape                                                               
+       pointsOfInterest                 =  (47 4)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
        
-photo  Bin                              =  bidone                                                            
+photo  Bin                              =  Bidone                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  
        
-photo  Bog                              =  palude                                                            
+photo  Bog                              =  Palude                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
        
-photo  Bow                              =  arco                                                              
+photo  Bow                              =  Arco                                                              
+       pointsOfInterest                 =  (45 28)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
        
-photo  Box                              =  scatola                                                           
+photo  Box                              =  Scatola                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
        
-photo  Boy                              =  ragazzo                                                           
+photo  Boy                              =  Ragazzo                                                           
+       pointsOfInterest                 =  (66 43)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
        
-photo  Bug                              =  insetto                                                           
+photo  Bug                              =  Insetto                                                           
+       pointsOfInterest                 =  (46 46)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
        
-photo  Bun                              =  ciambella                                                         
+photo  Bun                              =  Ciambella                                                         
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
        
-photo  Bus                              =  autobus                                                           
+photo  Bus                              =  Autobus                                                           
+       pointsOfInterest                 =  (64 51)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
        
-photo  Can                              =  può                                                               
+photo  Can                              =  Può                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  
        
-photo  Cap                              =  berretto                                                          
+photo  Cap                              =  Berretto                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  
        
-photo  Car                              =  auto                                                              
+photo  Car                              =  Auto                                                              
+       pointsOfInterest                 =  (6 57)                                                            
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
        
-photo  Cat                              =  gatto                                                             
+photo  Cat                              =  Gatto                                                             
+       pointsOfInterest                 =  (52 52)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
        
-photo  Cow                              =  mucca                                                             
+photo  Cow                              =  Mucca                                                             
+       pointsOfInterest                 =  (5 35)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
        
-photo  Cup                              =  tazza                                                             
+photo  Cup                              =  Tazza                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  
        
-photo  Dam                              =  diga                                                              
+photo  Dam                              =  Diga                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  
        
-photo  Dog                              =  cane                                                              
+photo  Dog                              =  Cane                                                              
+       pointsOfInterest                 =  (6 56)                                                            
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
        
-photo  Ear                              =  orecchio                                                          
+photo  Ear                              =  Orecchio                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
        
-photo  Egg                              =  uovo                                                              
+photo  Egg                              =  Uovo                                                              
+       pointsOfInterest                 =  (46 26)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
        
-photo  Emu                              =  emu                                                               
+photo  Emu                              =  Emu                                                               
+       pointsOfInterest                 =  (32 22)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
        
-photo  Eye                              =  occhio                                                            
+photo  Eye                              =  Occhio                                                            
+       pointsOfInterest                 =  (45 51)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        
-photo  Fan                              =  fan                                                               
+photo  Fan                              =  Fan                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
        
-photo  Fin                              =  pinna                                                             
+photo  Fin                              =  Pinna                                                             
+       pointsOfInterest                 =  (46 7)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
        
 photo  Fox                              =  Volpe                                                             
+       pointsOfInterest                 =  (55 22)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
        
-photo  Hat                              =  cappello                                                          
+photo  Hat                              =  Cappello                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  
        
 photo  Hoe                              =  Zappa                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  
        
-photo  Ice                              =  ghiaccio                                                          
+photo  Ice                              =  Ghiaccio                                                          
+       pointsOfInterest                 =  (56 39)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
        
-photo  Jar                              =  vaso                                                              
+photo  Jar                              =  Vaso                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  
        
-photo  Jug                              =  brocca                                                            
+photo  Jug                              =  Brocca                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  
        
-photo  Key                              =  chiave                                                            
+photo  Key                              =  Chiave                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  
        
-photo  Leg                              =  gamba                                                             
+photo  Leg                              =  Gamba                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  
        
-photo  Lid                              =  coperchio                                                         
+photo  Lid                              =  Coperchio                                                         
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  
        
-photo  Map                              =  carta geografica                                                  
+photo  Map                              =  Carta geografica                                                  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  
        
-photo  Men                              =  uomini                                                            
+photo  Men                              =  Uomini                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  
        
-photo  Mug                              =  boccale                                                           
+photo  Mug                              =  Boccale                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  
        
-photo  Oar                              =  remo                                                              
+photo  Oar                              =  Remo                                                              
+       pointsOfInterest                 =  (41 25)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
        
-photo  Owl                              =  gufo                                                              
+photo  Owl                              =  Gufo                                                              
+       pointsOfInterest                 =  (55 29)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
        
 photo  Pan                              =  Pan                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
        
-photo  Peg                              =  piolo                                                             
+photo  Peg                              =  Piolo                                                             
+       pointsOfInterest                 =  (22 36)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
        
-photo  Pen                              =  penna                                                             
+photo  Pen                              =  Penna                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
        
-photo  Pig                              =  maiale                                                            
+photo  Pig                              =  Maiale                                                            
+       pointsOfInterest                 =  (79 66)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
        
-photo  Pin                              =  perno                                                             
+photo  Pin                              =  Perno                                                             
+       pointsOfInterest                 =  (75 26)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
        
-photo  Rug                              =  tappeto                                                           
+photo  Rug                              =  Tappeto                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
        
-photo  Sea                              =  mare                                                              
+photo  Sea                              =  Mare                                                              
+       pointsOfInterest                 =  (48 55)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
        
-photo  Sow                              =  seminare                                                          
+photo  Sow                              =  Seminare                                                          
+       pointsOfInterest                 =  (84 6)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
        
-photo  Sun                              =  sole                                                              
+photo  Sun                              =  Sole                                                              
+       pointsOfInterest                 =  (49 46)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
        
-photo  Tap                              =  rubinetto                                                         
+photo  Tap                              =  Rubinetto                                                         
+       pointsOfInterest                 =  (72 35)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
        
-photo  Toe                              =  dito del piede                                                    
+photo  Toe                              =  Dito del piede                                                    
+       pointsOfInterest                 =  (38 17)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
        
-photo  Van                              =  furgone                                                           
+photo  Van                              =  Furgone                                                           
+       pointsOfInterest                 =  (36 39)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
        
-photo  Wok                              =  wok                                                               
+photo  Wok                              =  Wok                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
        
-photo  Yak                              =  yak                                                               
+photo  Yak                              =  Yak                                                               
+       pointsOfInterest                 =  (71 38)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
        
 photo  Zip                              =  Cerniera                                                          
+       pointsOfInterest                 =  (46 5)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
