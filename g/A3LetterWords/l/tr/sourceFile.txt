@@ -1,6 +1,6 @@
 app    vocabulary.g.A3LetterWords.l.tr  =  Three-Letter Words in Turkish                                     
        author                           =  philiprbrenan                                                     
-       description                      =  Üç Harfli Kelimeler hakkında bilgi edinin                         
+       description                      =  Üç harfli kelimeleri öğrenin                                      
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
@@ -8,187 +8,218 @@ app    vocabulary.g.A3LetterWords.l.tr  =  Three-Letter Words in Turkish
        screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
        language                         =  tr                                                                
        
-photo  Ant                              =  karınca                                                           
+photo  Ant                              =  Karınca                                                           
+       pointsOfInterest                 =  (57 39)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
        
-photo  Ape                              =  maymun                                                            
+photo  Ape                              =  Maymun                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ape.jpg  
        
-photo  Arm                              =  kol                                                               
+photo  Arm                              =  Kol                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Arm.jpg  
        
-photo  Bag                              =  sırt çantası                                                      
+photo  Bag                              =  Sırt çantası                                                      
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  
        
-photo  Bat                              =  yarasa                                                            
+photo  Bat                              =  Yarasa                                                            
+       pointsOfInterest                 =  (51 45)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
        
 photo  Bay                              =  Defne                                                             
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
        
-photo  Bed                              =  yatak                                                             
+photo  Bed                              =  Yatak                                                             
+       pointsOfInterest                 =  (51 4)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
        
-photo  Bee                              =  bal arısı                                                         
+photo  Bee                              =  Bal arısı                                                         
+       pointsOfInterest                 =  (47 4)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
        
-photo  Bin                              =  çöp Kutusu                                                        
+photo  Bin                              =  Çöp Kutusu                                                        
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bin.jpg  
        
-photo  Bog                              =  bataklık                                                          
+photo  Bog                              =  Bataklık                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
        
-photo  Bow                              =  yay                                                               
+photo  Bow                              =  Yay                                                               
+       pointsOfInterest                 =  (45 28)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
        
 photo  Box                              =  Kutu                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
        
-photo  Boy                              =  oğlan                                                             
+photo  Boy                              =  Oğlan                                                             
+       pointsOfInterest                 =  (66 43)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
        
-photo  Bug                              =  böcek                                                             
+photo  Bug                              =  Böcek                                                             
+       pointsOfInterest                 =  (46 46)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
        
-photo  Bun                              =  topuz                                                             
+photo  Bun                              =  Topuz                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
        
-photo  Bus                              =  otobüs                                                            
+photo  Bus                              =  Otobüs                                                            
+       pointsOfInterest                 =  (64 51)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
        
-photo  Can                              =  kutu                                                              
+photo  Can                              =  Kutu                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Can.jpg  
        
-photo  Cap                              =  kapak                                                             
+photo  Cap                              =  Kapak                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  
        
-photo  Car                              =  araba                                                             
+photo  Car                              =  Araba                                                             
+       pointsOfInterest                 =  (6 57)                                                            
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
        
-photo  Cat                              =  kedi                                                              
+photo  Cat                              =  Kedi                                                              
+       pointsOfInterest                 =  (52 52)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
        
-photo  Cow                              =  inek                                                              
+photo  Cow                              =  Inek                                                              
+       pointsOfInterest                 =  (5 35)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
        
 photo  Cup                              =  Fincan                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cup.jpg  
        
-photo  Dam                              =  baraj                                                             
+photo  Dam                              =  Baraj                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  
        
-photo  Dog                              =  köpek                                                             
+photo  Dog                              =  Köpek                                                             
+       pointsOfInterest                 =  (6 56)                                                            
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
        
-photo  Ear                              =  kulak                                                             
+photo  Ear                              =  Kulak                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
        
 photo  Egg                              =  Yumurta                                                           
+       pointsOfInterest                 =  (46 26)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
        
-photo  Emu                              =  koşucu devekuşu                                                   
+photo  Emu                              =  Koşucu devekuşu                                                   
+       pointsOfInterest                 =  (32 22)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
        
-photo  Eye                              =  göz                                                               
+photo  Eye                              =  Göz                                                               
+       pointsOfInterest                 =  (45 51)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        
-photo  Fan                              =  yelpaze                                                           
+photo  Fan                              =  Yelpaze                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
        
-photo  Fin                              =  yüzgeç                                                            
+photo  Fin                              =  Yüzgeç                                                            
+       pointsOfInterest                 =  (46 7)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
        
-photo  Fox                              =  tilki                                                             
+photo  Fox                              =  Tilki                                                             
+       pointsOfInterest                 =  (55 22)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
        
-photo  Hat                              =  şapka                                                             
+photo  Hat                              =  Şapka                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hat.jpg  
        
-photo  Hoe                              =  çapa                                                              
+photo  Hoe                              =  Çapa                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  
        
-photo  Ice                              =  buz                                                               
+photo  Ice                              =  Buz                                                               
+       pointsOfInterest                 =  (56 39)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
        
-photo  Jar                              =  kavanoz                                                           
+photo  Jar                              =  Kavanoz                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jar.jpg  
        
-photo  Jug                              =  sürahi                                                            
+photo  Jug                              =  Sürahi                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Jug.jpg  
        
-photo  Key                              =  anahtar                                                           
+photo  Key                              =  Anahtar                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Key.jpg  
        
-photo  Leg                              =  bacak                                                             
+photo  Leg                              =  Bacak                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Leg.jpg  
        
-photo  Lid                              =  kapak                                                             
+photo  Lid                              =  Kapak                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Lid.jpg  
        
-photo  Map                              =  harita                                                            
+photo  Map                              =  Harita                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Map.jpg  
        
-photo  Men                              =  erkekler                                                          
+photo  Men                              =  Erkekler                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Men.jpg  
        
 photo  Mug                              =  Kupa                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  
        
-photo  Oar                              =  kürek                                                             
+photo  Oar                              =  Kürek                                                             
+       pointsOfInterest                 =  (41 25)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
        
-photo  Owl                              =  baykuş                                                            
+photo  Owl                              =  Baykuş                                                            
+       pointsOfInterest                 =  (55 29)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
        
-photo  Pan                              =  tava                                                              
+photo  Pan                              =  Tava                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
        
-photo  Peg                              =  kazık                                                             
+photo  Peg                              =  Kazık                                                             
+       pointsOfInterest                 =  (22 36)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
        
-photo  Pen                              =  dolma kalem                                                       
+photo  Pen                              =  Dolma kalem                                                       
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
        
-photo  Pig                              =  domuz                                                             
+photo  Pig                              =  Domuz                                                             
+       pointsOfInterest                 =  (79 66)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
        
-photo  Pin                              =  toplu iğne                                                        
+photo  Pin                              =  Toplu iğne                                                        
+       pointsOfInterest                 =  (75 26)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
        
-photo  Rug                              =  kilim                                                             
+photo  Rug                              =  Kilim                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
        
-photo  Sea                              =  deniz                                                             
+photo  Sea                              =  Deniz                                                             
+       pointsOfInterest                 =  (48 55)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
        
-photo  Sow                              =  ekmek                                                             
+photo  Sow                              =  Ekmek                                                             
+       pointsOfInterest                 =  (84 6)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
        
 photo  Sun                              =  Güneş                                                             
+       pointsOfInterest                 =  (49 46)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
        
-photo  Tap                              =  musluk                                                            
+photo  Tap                              =  Musluk                                                            
+       pointsOfInterest                 =  (72 35)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
        
-photo  Toe                              =  ayak parmağı                                                      
+photo  Toe                              =  Ayak parmağı                                                      
+       pointsOfInterest                 =  (38 17)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
        
-photo  Van                              =  kamyonet                                                          
+photo  Van                              =  Kamyonet                                                          
+       pointsOfInterest                 =  (36 39)                                                           
        screenShot                       =                                                                 1  
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
        
-photo  Wok                              =  wok                                                               
+photo  Wok                              =  Wok                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
        
-photo  Yak                              =  yak                                                               
+photo  Yak                              =  Yak                                                               
+       pointsOfInterest                 =  (71 38)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
        
 photo  Zip                              =  Fermuar                                                           
+       pointsOfInterest                 =  (46 5)                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
