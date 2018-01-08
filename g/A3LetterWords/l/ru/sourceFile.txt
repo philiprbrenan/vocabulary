@@ -5,12 +5,11 @@ app    vocabulary.g.A3LetterWords.l.ru  =  Three-Letter Words in Russian
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
        language                         =  ru                                                                
        
 photo  Ant                              =  Муравей                                                           
-       pointsOfInterest                 =  (57 39)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (57, 39)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
        
 photo  Ape                              =  Обезьянничать                                                     
@@ -23,19 +22,19 @@ photo  Bag                              =  Мешок
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  
        
 photo  Bat                              =  Летучая мышь                                                      
-       pointsOfInterest                 =  (51 45)                                                           
+       pointsOfInterest                 =  (51, 45)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
        
 photo  Bay                              =  Залив                                                             
-       screenShot                       =                                                                 1  
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
        
 photo  Bed                              =  Постель                                                           
-       pointsOfInterest                 =  (51 4)                                                            
+       pointsOfInterest                 =  (51, 4)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
        
 photo  Bee                              =  Пчела                                                             
-       pointsOfInterest                 =  (47 4)                                                            
+       pointsOfInterest                 =  (47, 4)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
        
 photo  Bin                              =  Бункер                                                            
@@ -45,26 +44,26 @@ photo  Bog                              =  Трясина
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
        
 photo  Bow                              =  Лук                                                               
-       pointsOfInterest                 =  (45 28)                                                           
+       pointsOfInterest                 =  (45, 28)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
        
 photo  Box                              =  Коробка                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
        
 photo  Boy                              =  Мальчик                                                           
-       pointsOfInterest                 =  (66 43)                                                           
+       pointsOfInterest                 =  (66, 43)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
        
 photo  Bug                              =  Ошибка                                                            
-       pointsOfInterest                 =  (46 46)                                                           
+       pointsOfInterest                 =  (46, 46)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
        
 photo  Bun                              =  Булочка                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
        
 photo  Bus                              =  Автобус                                                           
-       pointsOfInterest                 =  (64 51)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (64, 51)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
        
 photo  Can                              =  Можно                                                             
@@ -74,17 +73,17 @@ photo  Cap                              =  Кепка
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  
        
 photo  Car                              =  Автомобиль                                                        
-       pointsOfInterest                 =  (6 57)                                                            
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (6, 57)                                                           
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
        
 photo  Cat                              =  Кот                                                               
-       pointsOfInterest                 =  (52 52)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (52, 52)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
        
 photo  Cow                              =  Корова                                                            
-       pointsOfInterest                 =  (5 35)                                                            
+       pointsOfInterest                 =  (5, 35)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
        
 photo  Cup                              =  Кружка                                                            
@@ -94,34 +93,34 @@ photo  Dam                              =  Дамба
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  
        
 photo  Dog                              =  Собака                                                            
-       pointsOfInterest                 =  (6 56)                                                            
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (6, 56)                                                           
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
        
 photo  Ear                              =  Ухо                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
        
 photo  Egg                              =  Яйцо                                                              
-       pointsOfInterest                 =  (46 26)                                                           
+       pointsOfInterest                 =  (46, 26)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
        
 photo  Emu                              =  Эму                                                               
-       pointsOfInterest                 =  (32 22)                                                           
+       pointsOfInterest                 =  (32, 22)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
        
 photo  Eye                              =  Глаз                                                              
-       pointsOfInterest                 =  (45 51)                                                           
+       pointsOfInterest                 =  (45, 51)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        
 photo  Fan                              =  Поклонник                                                         
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
        
 photo  Fin                              =  Плавник                                                           
-       pointsOfInterest                 =  (46 7)                                                            
+       pointsOfInterest                 =  (46, 7)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
        
 photo  Fox                              =  Лиса                                                              
-       pointsOfInterest                 =  (55 22)                                                           
+       pointsOfInterest                 =  (55, 22)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
        
 photo  Hat                              =  Шапка                                                             
@@ -131,7 +130,7 @@ photo  Hoe                              =  Мотыга
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  
        
 photo  Ice                              =  Лед                                                               
-       pointsOfInterest                 =  (56 39)                                                           
+       pointsOfInterest                 =  (56, 39)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
        
 photo  Jar                              =  Яс                                                                
@@ -159,67 +158,67 @@ photo  Mug                              =  Кружка
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  
        
 photo  Oar                              =  Весло                                                             
-       pointsOfInterest                 =  (41 25)                                                           
+       pointsOfInterest                 =  (41, 25)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
        
 photo  Owl                              =  Сова                                                              
-       pointsOfInterest                 =  (55 29)                                                           
+       pointsOfInterest                 =  (55, 29)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
        
 photo  Pan                              =  Кастрюля                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
        
 photo  Peg                              =  Колышек                                                           
-       pointsOfInterest                 =  (22 36)                                                           
+       pointsOfInterest                 =  (22, 36)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
        
 photo  Pen                              =  Ручка                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
        
 photo  Pig                              =  Свинья                                                            
-       pointsOfInterest                 =  (79 66)                                                           
+       pointsOfInterest                 =  (79, 66)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
        
 photo  Pin                              =  Штырь                                                             
-       pointsOfInterest                 =  (75 26)                                                           
+       pointsOfInterest                 =  (75, 26)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
        
 photo  Rug                              =  Коврик                                                            
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
        
 photo  Sea                              =  Море                                                              
-       pointsOfInterest                 =  (48 55)                                                           
+       pointsOfInterest                 =  (48, 55)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
        
 photo  Sow                              =  Свиноматка                                                        
-       pointsOfInterest                 =  (84 6)                                                            
+       pointsOfInterest                 =  (84, 6)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
        
 photo  Sun                              =  Солнце                                                            
-       pointsOfInterest                 =  (49 46)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (49, 46)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
        
 photo  Tap                              =  Нажмите                                                           
-       pointsOfInterest                 =  (72 35)                                                           
+       pointsOfInterest                 =  (72, 35)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
        
 photo  Toe                              =  Палец                                                             
-       pointsOfInterest                 =  (38 17)                                                           
+       pointsOfInterest                 =  (38, 17)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
        
 photo  Van                              =  Фургон                                                            
-       pointsOfInterest                 =  (36 39)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (36, 39)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
        
 photo  Wok                              =  Котелок с выпуклым днищем                                         
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
        
 photo  Yak                              =  Як                                                                
-       pointsOfInterest                 =  (71 38)                                                           
+       pointsOfInterest                 =  (71, 38)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
        
 photo  Zip                              =  Молния                                                            
-       pointsOfInterest                 =  (46 5)                                                            
+       pointsOfInterest                 =  (46, 5)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
