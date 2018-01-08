@@ -5,7 +5,6 @@ app    vocabulary.g.A3LetterWords.l.ko  =  Three-Letter Words in Korean
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =                                                                 0  
        language                         =  ko                                                                
        
 photo  Ant                              =  개미                                                                
