@@ -5,7 +5,6 @@ app    vocabulary.g.A3LetterWords.l.tr  =  Three-Letter Words in Turkish
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =                                                                 0  
        language                         =  tr                                                                
        
 photo  Ant                              =  Karınca                                                           
