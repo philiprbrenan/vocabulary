@@ -5,7 +5,6 @@ app    vocabulary.g.A3LetterWords.l.sv  =  Three-Letter Words in Swedish
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =                                                                 0  
        language                         =  sv                                                                
        
 photo  Ant                              =  Myra                                                              
