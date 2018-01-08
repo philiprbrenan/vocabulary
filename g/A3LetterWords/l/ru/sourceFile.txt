@@ -5,7 +5,6 @@ app    vocabulary.g.A3LetterWords.l.ru  =  Three-Letter Words in Russian
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =                                                                 0  
        language                         =  ru                                                                
        
 photo  Ant                              =  Муравей                                                           
