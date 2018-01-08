@@ -5,7 +5,6 @@ app    vocabulary.g.A3LetterWords.l.ro  =  Three-Letter Words in Romanian
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =                                                                 0  
        language                         =  ro                                                                
        
 photo  Ant                              =  Furnică                                                           
