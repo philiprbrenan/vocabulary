@@ -3,7 +3,7 @@ app    vocabulary.g.A3LetterWords.l.ko  =  Three-Letter Words in Korean
        description                      =  3 글자 단어에 대해 배우기                                                   
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
-       icon                             =  Eye.jpg                                                           
+       icon                             =  github://philiprbrenan/vocabulary-0/Eye.jpg                       
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
        language                         =  ko                                                                
        
