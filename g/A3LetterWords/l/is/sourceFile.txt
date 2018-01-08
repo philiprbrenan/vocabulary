@@ -5,7 +5,6 @@ app    vocabulary.g.A3LetterWords.l.is  =  Three-Letter Words in Icelandic
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =                                                                 0  
        language                         =  is                                                                
        
 photo  Ant                              =  Maur                                                              
