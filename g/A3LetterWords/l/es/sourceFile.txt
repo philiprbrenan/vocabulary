@@ -5,7 +5,6 @@ app    vocabulary.g.A3LetterWords.l.es  =  Three-Letter Words in Spanish
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =                                                                 0  
        language                         =  es                                                                
        
 photo  Ant                              =  Hormiga                                                           
