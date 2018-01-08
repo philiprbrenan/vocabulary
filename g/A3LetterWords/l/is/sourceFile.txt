@@ -5,12 +5,11 @@ app    vocabulary.g.A3LetterWords.l.is  =  Three-Letter Words in Icelandic
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =  Ant Bay Bus Car Cat Dog Sun Van                                   
        language                         =  is                                                                
        
 photo  Ant                              =  Maur                                                              
-       pointsOfInterest                 =  (57 39)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (57, 39)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ant.jpg  
        
 photo  Ape                              =  Apa                                                               
@@ -23,19 +22,19 @@ photo  Bag                              =  Taska
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bag.jpg  
        
 photo  Bat                              =  Kylfu                                                             
-       pointsOfInterest                 =  (51 45)                                                           
+       pointsOfInterest                 =  (51, 45)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bat.jpg  
        
 photo  Bay                              =  Flói                                                              
-       screenShot                       =                                                                 1  
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bay.jpg  
        
 photo  Bed                              =  Rúm                                                               
-       pointsOfInterest                 =  (51 4)                                                            
+       pointsOfInterest                 =  (51, 4)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bed.jpg  
        
 photo  Bee                              =  Bí                                                                
-       pointsOfInterest                 =  (47 4)                                                            
+       pointsOfInterest                 =  (47, 4)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bee.jpg  
        
 photo  Bin                              =  Bin                                                               
@@ -45,26 +44,26 @@ photo  Bog                              =  Mýri
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bog.jpg  
        
 photo  Bow                              =  Bogi                                                              
-       pointsOfInterest                 =  (45 28)                                                           
+       pointsOfInterest                 =  (45, 28)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bow.jpg  
        
 photo  Box                              =  Kassi                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Box.jpg  
        
 photo  Boy                              =  Strákur                                                           
-       pointsOfInterest                 =  (66 43)                                                           
+       pointsOfInterest                 =  (66, 43)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Boy.jpg  
        
 photo  Bug                              =  Galla                                                             
-       pointsOfInterest                 =  (46 46)                                                           
+       pointsOfInterest                 =  (46, 46)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
        
 photo  Bun                              =  Bolla                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
        
 photo  Bus                              =  Rútu                                                              
-       pointsOfInterest                 =  (64 51)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (64, 51)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bus.jpg  
        
 photo  Can                              =  Dós                                                               
@@ -74,17 +73,17 @@ photo  Cap                              =  Loki
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cap.jpg  
        
 photo  Car                              =  Bíll                                                              
-       pointsOfInterest                 =  (6 57)                                                            
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (6, 57)                                                           
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Car.jpg  
        
 photo  Cat                              =  Köttur                                                            
-       pointsOfInterest                 =  (52 52)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (52, 52)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cat.jpg  
        
 photo  Cow                              =  Kýr                                                               
-       pointsOfInterest                 =  (5 35)                                                            
+       pointsOfInterest                 =  (5, 35)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Cow.jpg  
        
 photo  Cup                              =  Bolli                                                             
@@ -94,34 +93,34 @@ photo  Dam                              =  Stíflu
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dam.jpg  
        
 photo  Dog                              =  Hundur                                                            
-       pointsOfInterest                 =  (6 56)                                                            
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (6, 56)                                                           
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Dog.jpg  
        
 photo  Ear                              =  Eyra                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ear.jpg  
        
 photo  Egg                              =  Egg                                                               
-       pointsOfInterest                 =  (46 26)                                                           
+       pointsOfInterest                 =  (46, 26)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Egg.jpg  
        
 photo  Emu                              =  Emu                                                               
-       pointsOfInterest                 =  (32 22)                                                           
+       pointsOfInterest                 =  (32, 22)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Emu.jpg  
        
 photo  Eye                              =  Auga                                                              
-       pointsOfInterest                 =  (45 51)                                                           
+       pointsOfInterest                 =  (45, 51)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        
 photo  Fan                              =  Aðdáandi                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fan.jpg  
        
 photo  Fin                              =  Fínn                                                              
-       pointsOfInterest                 =  (46 7)                                                            
+       pointsOfInterest                 =  (46, 7)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fin.jpg  
        
 photo  Fox                              =  Refur                                                             
-       pointsOfInterest                 =  (55 22)                                                           
+       pointsOfInterest                 =  (55, 22)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Fox.jpg  
        
 photo  Hat                              =  Hattur                                                            
@@ -131,7 +130,7 @@ photo  Hoe                              =  Hoe
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Hoe.jpg  
        
 photo  Ice                              =  Ís                                                                
-       pointsOfInterest                 =  (56 39)                                                           
+       pointsOfInterest                 =  (56, 39)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Ice.jpg  
        
 photo  Jar                              =  Krukku                                                            
@@ -159,67 +158,67 @@ photo  Mug                              =  Mál
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Mug.jpg  
        
 photo  Oar                              =  Árstíð                                                            
-       pointsOfInterest                 =  (41 25)                                                           
+       pointsOfInterest                 =  (41, 25)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Oar.jpg  
        
 photo  Owl                              =  Ugla                                                              
-       pointsOfInterest                 =  (55 29)                                                           
+       pointsOfInterest                 =  (55, 29)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Owl.jpg  
        
 photo  Pan                              =  Pönnu                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pan.jpg  
        
 photo  Peg                              =  Peg                                                               
-       pointsOfInterest                 =  (22 36)                                                           
+       pointsOfInterest                 =  (22, 36)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Peg.jpg  
        
 photo  Pen                              =  Penni                                                             
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pen.jpg  
        
 photo  Pig                              =  Svín                                                              
-       pointsOfInterest                 =  (79 66)                                                           
+       pointsOfInterest                 =  (79, 66)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pig.jpg  
        
 photo  Pin                              =  Pinna                                                             
-       pointsOfInterest                 =  (75 26)                                                           
+       pointsOfInterest                 =  (75, 26)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Pin.jpg  
        
 photo  Rug                              =  Gólfmotta                                                         
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Rug.jpg  
        
 photo  Sea                              =  Sjó                                                               
-       pointsOfInterest                 =  (48 55)                                                           
+       pointsOfInterest                 =  (48, 55)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sea.jpg  
        
 photo  Sow                              =  Sá                                                                
-       pointsOfInterest                 =  (84 6)                                                            
+       pointsOfInterest                 =  (84, 6)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sow.jpg  
        
 photo  Sun                              =  Sól                                                               
-       pointsOfInterest                 =  (49 46)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (49, 46)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Sun.jpg  
        
 photo  Tap                              =  Bankaðu á                                                         
-       pointsOfInterest                 =  (72 35)                                                           
+       pointsOfInterest                 =  (72, 35)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Tap.jpg  
        
 photo  Toe                              =  Tá                                                                
-       pointsOfInterest                 =  (38 17)                                                           
+       pointsOfInterest                 =  (38, 17)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
        
 photo  Van                              =  Van                                                               
-       pointsOfInterest                 =  (36 39)                                                           
-       screenShot                       =                                                                 1  
+       pointsOfInterest                 =  (36, 39)                                                          
+       screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
        
 photo  Wok                              =  Wok                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Wok.jpg  
        
 photo  Yak                              =  Branco                                                            
-       pointsOfInterest                 =  (71 38)                                                           
+       pointsOfInterest                 =  (71, 38)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Yak.jpg  
        
 photo  Zip                              =  Rennilás                                                          
-       pointsOfInterest                 =  (46 5)                                                            
+       pointsOfInterest                 =  (46, 5)                                                           
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Zip.jpg  
