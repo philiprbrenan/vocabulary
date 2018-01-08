@@ -5,6 +5,7 @@ app    vocabulary.g.A3LetterWords.l.da  =  Three-Letter Words in Danish
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
+       screenShots                      =                                                                 0  
        language                         =  da                                                                
        
 photo  Ant                              =  Myre                                                              
