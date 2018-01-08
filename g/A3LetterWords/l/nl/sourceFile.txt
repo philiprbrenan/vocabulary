@@ -5,7 +5,6 @@ app    vocabulary.g.A3LetterWords.l.nl  =  Three-Letter Words in Dutch
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
-       screenShots                      =                                                                 0  
        language                         =  nl                                                                
        
 photo  Ant                              =  Mier                                                              
