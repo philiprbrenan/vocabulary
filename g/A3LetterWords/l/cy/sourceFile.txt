@@ -5,6 +5,7 @@ app    vocabulary.g.A3LetterWords.l.cy  =  Three-Letter Words in Welsh
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
+       screenShots                      =                                                                 0  
        language                         =  cy                                                                
        
 photo  Ant                              =  Ant                                                               
