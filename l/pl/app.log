@@ -1,0 +1,18 @@
+Failed.
+
+2018-01-08 at 20:59:37 Generate AppaAppsPhotoApp version 20180108-205937 philiprbrenan/vocabulary/l/pl/
+
+2018-01-08 at 20:59:39 Unable to read l/pl/sourceFile.txt from GitHub repository philiprbrenan/vocabulary/l/pl/ Please create this repository and add a file sourceFile.txt 
+--------------------------------------------------------------------------------
+bless({
+  dateTimeStamp => "2018-01-08 at 20:59:37",
+  error => 1,
+  gitHubNoSourceFile => 1,
+  log => [
+    "\n2018-01-08 at 20:59:37 Generate AppaAppsPhotoApp version 20180108-205937 philiprbrenan/vocabulary/l/pl/\n",
+    "2018-01-08 at 20:59:39 Unable to read l/pl/sourceFile.txt from GitHub repository philiprbrenan/vocabulary/l/pl/ Please create this repository and add a file sourceFile.txt ",
+  ],
+  project => "philiprbrenan/vocabulary/l/pl/",
+  step => "readSourceFileFromGitHub",
+  time => 1515445177,
+}, "Manifest")
