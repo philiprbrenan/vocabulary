@@ -5,6 +5,7 @@ app    vocabulary.g.A3LetterWords.l.pl  =  Three-Letter Words in Polish
        emphasis                         =                                                                12  
        icon                             =  Eye.jpg                                                           
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
+       screenShots                      =                                                                 0  
        language                         =  pl                                                                
        
 photo  Ant                              =  Mrówka                                                            
