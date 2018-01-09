@@ -3,7 +3,7 @@ app    vocabulary.g.A3LetterWords.l.es  =  Three-Letter Words in Spanish
        description                      =  Aprender sobre palabras de tres letras                            
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
-       icon                             =  github://philiprbrenan/vocabulary-0/Eye.jpg                       
+       icon                             =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
        language                         =  es                                                                
        
