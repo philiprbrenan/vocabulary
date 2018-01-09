@@ -3,7 +3,7 @@ app    vocabulary.g.A3LetterWords.l.it  =  Three-Letter Words in Italian
        description                      =  Scopri le parole di tre lettere                                   
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
-       icon                             =  github://philiprbrenan/vocabulary-0/Eye.jpg                       
+       icon                             =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
        language                         =  it                                                                
        
