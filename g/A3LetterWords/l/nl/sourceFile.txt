@@ -3,7 +3,7 @@ app    vocabulary.g.A3LetterWords.l.nl  =  Three-Letter Words in Dutch
        description                      =  Leer over woorden met drie letters                                
        email                            =  philiprbrenan@gmail.com                                           
        emphasis                         =                                                                12  
-       icon                             =  github://philiprbrenan/vocabulary-0/Eye.jpg                       
+       icon                             =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Eye.jpg  
        saveScreenShotsTo                =  philiprbrenan/screenShots-0                                       
        language                         =  nl                                                                
        
