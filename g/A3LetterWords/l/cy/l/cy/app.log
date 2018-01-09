@@ -1,0 +1,18 @@
+Failed.
+
+2018-01-09 at 12:30:28 Generate AppaAppsPhotoApp version 20180109-1 philiprbrenan/vocabulary/g/A3LetterWords/l/cy/l/cy/
+
+2018-01-09 at 12:30:29 Unable to read g/A3LetterWords/l/cy/l/cy/sourceFile.txt from GitHub repository philiprbrenan/vocabulary/g/A3LetterWords/l/cy/l/cy/ Please create this repository and add a file sourceFile.txt 
+--------------------------------------------------------------------------------
+bless({
+  dateTimeStamp => "2018-01-09 at 12:30:28",
+  error => 1,
+  gitHubNoSourceFile => 1,
+  log => [
+    "\n2018-01-09 at 12:30:28 Generate AppaAppsPhotoApp version 20180109-1 philiprbrenan/vocabulary/g/A3LetterWords/l/cy/l/cy/\n",
+    "2018-01-09 at 12:30:29 Unable to read g/A3LetterWords/l/cy/l/cy/sourceFile.txt from GitHub repository philiprbrenan/vocabulary/g/A3LetterWords/l/cy/l/cy/ Please create this repository and add a file sourceFile.txt ",
+  ],
+  project => "philiprbrenan/vocabulary/g/A3LetterWords/l/cy/l/cy/",
+  step => "readSourceFileFromGitHub",
+  time => 1515501028,
+}, "Manifest")
