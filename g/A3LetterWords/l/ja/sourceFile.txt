@@ -58,7 +58,7 @@ photo  Bug                              =  バグ
        pointsOfInterest                 =  (46, 46)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bug.jpg  
        
-photo  Bun                              =  バン                                                                
+photo  Bun                              =  ロールパン                                                                
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Bun.jpg  
        
 photo  Bus                              =  バス                                                                
@@ -207,7 +207,7 @@ photo  Toe                              =  つま先
        pointsOfInterest                 =  (38, 17)                                                          
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Toe.jpg  
        
-photo  Van                              =  バン                                                                
+photo  Van                              =  ヴァン                                                                
        pointsOfInterest                 =  (36, 39)                                                          
        screenShot                       =  true                                                              
        url                              =  github://philiprbrenan/vocabulary-0/images/A3LetterWords/Van.jpg  
