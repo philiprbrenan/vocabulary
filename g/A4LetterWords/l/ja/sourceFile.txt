@@ -1,0 +1,321 @@
+app    vocabulary.g.A4LetterWords.l.ja  =  Four-Letter Words in Japanese                                      
+       author                           =  philiprbrenan                                                      
+       description                      =  4文字の単語について学ぶ                                                       
+       email                            =  philiprbrenan@gmail.com                                            
+       emphasis                         =                                                                 12  
+       icon                             =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Baby.jpg  
+       saveScreenShotsTo                =  philiprbrenan/screenShots-0                                        
+       language                         =  ja                                                                 
+       
+photo  Baby                             =  赤ちゃん                                                               
+       pointsOfInterest                 =  (56, 34)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Baby.jpg  
+       
+photo  Ball                             =  玉                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ball.jpg  
+       
+photo  Bath                             =  浴                                                                  
+       pointsOfInterest                 =  (27, 32)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bath.jpg  
+       
+photo  Bear                             =  くま                                                                 
+       pointsOfInterest                 =  (9, 73)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
+       
+photo  Bike                             =  自転車                                                                
+       pointsOfInterest                 =  (54, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bike.jpg  
+       
+photo  Bird                             =  鳥                                                                  
+       pointsOfInterest                 =  (32, 25)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bird.jpg  
+       
+photo  Boat                             =  ボート                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
+       
+photo  Book                             =  本                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Book.jpg  
+       
+photo  Bowl                             =  ボウル                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bowl.jpg  
+       
+photo  Bulb                             =  バルブ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bulb.jpg  
+       
+photo  Bull                             =  ブル                                                                 
+       pointsOfInterest                 =  (9, 41)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bull.jpg  
+       
+photo  Cake                             =  ケーキ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cake.jpg  
+       
+photo  Calf                             =  カーフ                                                                
+       pointsOfInterest                 =  (74, 25)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Calf.jpg  
+       
+photo  Card                             =  カード                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Card.jpg  
+       
+photo  Cart                             =  カート                                                                
+       pointsOfInterest                 =  (6, 53)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cart.jpg  
+       
+photo  Cave                             =  洞窟                                                                 
+       pointsOfInterest                 =  (52, 56)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cave.jpg  
+       
+photo  City                             =  シティ                                                                
+       pointsOfInterest                 =  (27, 54)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/City.jpg  
+       
+photo  Clog                             =  詰まる                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Clog.jpg  
+       
+photo  Coin                             =  コイン                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Coin.jpg  
+       
+photo  Comb                             =  櫛                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Comb.jpg  
+       
+photo  Dish                             =  皿                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dish.jpg  
+       
+photo  Doll                             =  人形                                                                 
+       pointsOfInterest                 =  (5, 35)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Doll.jpg  
+       
+photo  Door                             =  ドア                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
+       
+photo  Dove                             =  鳩                                                                  
+       pointsOfInterest                 =  (24, 35)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dove.jpg  
+       
+photo  Duck                             =  アヒル                                                                
+       pointsOfInterest                 =  (7, 27)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Duck.jpg  
+       
+photo  Fish                             =  魚                                                                  
+       pointsOfInterest                 =  (45, 28)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Fish.jpg  
+       
+photo  Flag                             =  フラグ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Flag.jpg  
+       
+photo  Foal                             =  仔馬                                                                 
+       pointsOfInterest                 =  (22, 29)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Foal.jpg  
+       
+photo  Foot                             =  足                                                                  
+       pointsOfInterest                 =  (52, 44)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Foot.jpg  
+       
+photo  Fork                             =  フォーク                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Fork.jpg  
+       
+photo  Frog                             =  カエル                                                                
+       pointsOfInterest                 =  (73, 38)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Frog.jpg  
+       
+photo  Gate                             =  ゲート                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Gate.jpg  
+       
+photo  Girl                             =  女の子                                                                
+       pointsOfInterest                 =  (33, 47)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Girl.jpg  
+       
+photo  Goal                             =  ゴール                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Goal.jpg  
+       
+photo  Goat                             =  ヤギ                                                                 
+       pointsOfInterest                 =  (2, 19)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Goat.jpg  
+       
+photo  Gull                             =  ガル                                                                 
+       pointsOfInterest                 =  (22, 33)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Gull.jpg  
+       
+photo  Half                             =  ハーフ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Half.jpg  
+       
+photo  Hand                             =  ハンド                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
+       
+photo  Head                             =  頭                                                                  
+       pointsOfInterest                 =  (63, 45)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Head.jpg  
+       
+photo  Hook                             =  フック                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hook.jpg  
+       
+photo  Hose                             =  ホース                                                                
+       pointsOfInterest                 =  (56, 12)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hose.jpg  
+       
+photo  Iris                             =  虹彩                                                                 
+       pointsOfInterest                 =  (56, 39)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Iris.jpg  
+       
+photo  Iron                             =  鉄                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Iron.jpg  
+       
+photo  Jeep                             =  ジープ                                                                
+       pointsOfInterest                 =  (59, 6)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Jeep.jpg  
+       
+photo  Lake                             =  湖                                                                  
+       pointsOfInterest                 =  (26, 6)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lake.jpg  
+       
+photo  Lamb                             =  子羊                                                                 
+       pointsOfInterest                 =  (81, 37)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lamb.jpg  
+       
+photo  Lamp                             =  ランプ                                                                
+       pointsOfInterest                 =  (55, 22)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lamp.jpg  
+       
+photo  Leaf                             =  葉                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Leaf.jpg  
+       
+photo  Lily                             =  ユリ                                                                 
+       pointsOfInterest                 =  (31, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lily.jpg  
+       
+photo  Lion                             =  ライオン                                                               
+       pointsOfInterest                 =  (49, 48)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lion.jpg  
+       
+photo  Mini                             =  ミニ                                                                 
+       pointsOfInterest                 =  (75, 49)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
+       
+photo  Moon                             =  月                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moon.jpg  
+       
+photo  Moth                             =  蛾                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moth.jpg  
+       
+photo  Nail                             =  ネイル                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Nail.jpg  
+       
+photo  Nest                             =  ネスト                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Nest.jpg  
+       
+photo  Note                             =  注意                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Note.jpg  
+       
+photo  Oven                             =  オーブン                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Oven.jpg  
+       
+photo  Oxen                             =  牛                                                                  
+       pointsOfInterest                 =  (75, 44)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Oxen.jpg  
+       
+photo  Palm                             =  手のひら                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Palm.jpg  
+       
+photo  Path                             =  パス                                                                 
+       pointsOfInterest                 =  (6, 52)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Path.jpg  
+       
+photo  Plug                             =  プラグ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Plug.jpg  
+       
+photo  Pool                             =  プール                                                                
+       pointsOfInterest                 =  (38, 22)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Pool.jpg  
+       
+photo  Port                             =  ポート                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Port.jpg  
+       
+photo  Pump                             =  ポンプ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Pump.jpg  
+       
+photo  Ramp                             =  ランプ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ramp.jpg  
+       
+photo  Road                             =  道路                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Road.jpg  
+       
+photo  Rock                             =  岩                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rock.jpg  
+       
+photo  Rope                             =  ロープ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rope.jpg  
+       
+photo  Rose                             =  ローズ                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
+       
+photo  Sail                             =  帆                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
+       
+photo  Sand                             =  砂                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sand.jpg  
+       
+photo  Seal                             =  シール                                                                
+       pointsOfInterest                 =  (81, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Seal.jpg  
+       
+photo  Shed                             =  杼口                                                                 
+       pointsOfInterest                 =  (36, 63)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Shed.jpg  
+       
+photo  Ship                             =  船                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ship.jpg  
+       
+photo  Shoe                             =  靴                                                                  
+       pointsOfInterest                 =  (55, 47)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Shoe.jpg  
+       
+photo  Skis                             =  スキー                                                                
+       pointsOfInterest                 =  (81, 37)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Skis.jpg  
+       
+photo  Snow                             =  雪                                                                  
+       pointsOfInterest                 =  (48, 56)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Snow.jpg  
+       
+photo  Swan                             =  白鳥                                                                 
+       pointsOfInterest                 =  (34, 21)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Swan.jpg  
+       
+photo  Tent                             =  テント                                                                
+       pointsOfInterest                 =  (55, 49)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tent.jpg  
+       
+photo  Toad                             =  ヒキガエル                                                              
+       pointsOfInterest                 =  (22, 26)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Toad.jpg  
+       
+photo  Town                             =  タウン                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Town.jpg  
+       
+photo  Tram                             =  トラム                                                                
+       pointsOfInterest                 =  (41, 46)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tram.jpg  
+       
+photo  Tray                             =  トレイ                                                                
+       pointsOfInterest                 =  (69, 35)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tray.jpg  
+       
+photo  Tree                             =  木                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
+       
+photo  Vase                             =  花瓶                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vase.jpg  
+       
+photo  Vent                             =  ベント                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vent.jpg  
+       
+photo  Wall                             =  壁                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Wall.jpg  
+       
+photo  Wave                             =  波                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Wave.jpg  
+       
+photo  Yarn                             =  糸                                                                  
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Yarn.jpg  
+       
+photo  Yolk                             =  卵黄                                                                 
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Yolk.jpg  
