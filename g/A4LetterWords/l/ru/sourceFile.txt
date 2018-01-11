@@ -20,6 +20,7 @@ photo  Bath                             =  Ванна
        
 photo  Bear                             =  Медведь                                                            
        pointsOfInterest                 =  (9, 73)                                                            
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
        
 photo  Bike                             =  Велосипед                                                          
@@ -31,6 +32,7 @@ photo  Bird                             =  Птица
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bird.jpg  
        
 photo  Boat                             =  Лодка                                                              
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
        
 photo  Book                             =  Книга                                                              
@@ -85,6 +87,7 @@ photo  Doll                             =  Кукла
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Doll.jpg  
        
 photo  Door                             =  Дверь                                                              
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
        
 photo  Dove                             =  Голубь                                                             
@@ -139,6 +142,7 @@ photo  Half                             =  Половина
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Half.jpg  
        
 photo  Hand                             =  Рука                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
        
 photo  Head                             =  Глава                                                              
@@ -188,6 +192,7 @@ photo  Lion                             =  Лев
        
 photo  Mini                             =  Мини                                                               
        pointsOfInterest                 =  (75, 49)                                                           
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
        
 photo  Moon                             =  Луна                                                               
@@ -245,9 +250,11 @@ photo  Rope                             =  Веревка
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rope.jpg  
        
 photo  Rose                             =  Роза                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
        
 photo  Sail                             =  Паруса                                                             
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
        
 photo  Sand                             =  Песок                                                              
@@ -300,6 +307,7 @@ photo  Tray                             =  Лоток
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tray.jpg  
        
 photo  Tree                             =  Дерево                                                             
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
        
 photo  Vase                             =  Ваза                                                               
