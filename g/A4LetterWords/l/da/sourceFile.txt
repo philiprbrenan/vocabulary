@@ -20,6 +20,7 @@ photo  Bath                             =  Bad
        
 photo  Bear                             =  Bjørn                                                              
        pointsOfInterest                 =  (9, 73)                                                            
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
        
 photo  Bike                             =  Cykel                                                              
@@ -31,6 +32,7 @@ photo  Bird                             =  Fugl
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bird.jpg  
        
 photo  Boat                             =  Båd                                                                
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
        
 photo  Book                             =  Bestil                                                             
@@ -85,6 +87,7 @@ photo  Doll                             =  Dukke
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Doll.jpg  
        
 photo  Door                             =  Dør                                                                
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
        
 photo  Dove                             =  Due                                                                
@@ -139,6 +142,7 @@ photo  Half                             =  Halvt
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Half.jpg  
        
 photo  Hand                             =  Hånd                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
        
 photo  Head                             =  Hoved                                                              
@@ -188,6 +192,7 @@ photo  Lion                             =  Løve
        
 photo  Mini                             =  Mini                                                               
        pointsOfInterest                 =  (75, 49)                                                           
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
        
 photo  Moon                             =  Måne                                                               
@@ -245,9 +250,11 @@ photo  Rope                             =  Reb
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rope.jpg  
        
 photo  Rose                             =  Rose                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
        
 photo  Sail                             =  Sejle                                                              
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
        
 photo  Sand                             =  Sand                                                               
@@ -300,6 +307,7 @@ photo  Tray                             =  Bakke
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tray.jpg  
        
 photo  Tree                             =  Træ                                                                
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
        
 photo  Vase                             =  Vase                                                               
