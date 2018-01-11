@@ -1,0 +1,321 @@
+app    vocabulary.g.A4LetterWords.l.de  =  Four-Letter Words in German                                        
+       author                           =  philiprbrenan                                                      
+       description                      =  Lerne über Vier-Buchstaben-Wörter                                  
+       email                            =  philiprbrenan@gmail.com                                            
+       emphasis                         =                                                                 12  
+       icon                             =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Baby.jpg  
+       saveScreenShotsTo                =  philiprbrenan/screenShots-0                                        
+       language                         =  de                                                                 
+       
+photo  Baby                             =  Baby                                                               
+       pointsOfInterest                 =  (56, 34)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Baby.jpg  
+       
+photo  Ball                             =  Ball                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ball.jpg  
+       
+photo  Bath                             =  Bad                                                                
+       pointsOfInterest                 =  (27, 32)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bath.jpg  
+       
+photo  Bear                             =  Bär                                                                
+       pointsOfInterest                 =  (9, 73)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
+       
+photo  Bike                             =  Fahrrad                                                            
+       pointsOfInterest                 =  (54, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bike.jpg  
+       
+photo  Bird                             =  Vogel                                                              
+       pointsOfInterest                 =  (32, 25)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bird.jpg  
+       
+photo  Boat                             =  Boot                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
+       
+photo  Book                             =  Buch                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Book.jpg  
+       
+photo  Bowl                             =  Schüssel                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bowl.jpg  
+       
+photo  Bulb                             =  Birne                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bulb.jpg  
+       
+photo  Bull                             =  Stier                                                              
+       pointsOfInterest                 =  (9, 41)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bull.jpg  
+       
+photo  Cake                             =  Kuchen                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cake.jpg  
+       
+photo  Calf                             =  Kalb                                                               
+       pointsOfInterest                 =  (74, 25)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Calf.jpg  
+       
+photo  Card                             =  Karte                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Card.jpg  
+       
+photo  Cart                             =  Wagen                                                              
+       pointsOfInterest                 =  (6, 53)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cart.jpg  
+       
+photo  Cave                             =  Höhle                                                              
+       pointsOfInterest                 =  (52, 56)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cave.jpg  
+       
+photo  City                             =  Stadt                                                              
+       pointsOfInterest                 =  (27, 54)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/City.jpg  
+       
+photo  Clog                             =  Verstopfen                                                         
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Clog.jpg  
+       
+photo  Coin                             =  Münze                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Coin.jpg  
+       
+photo  Comb                             =  Kamm                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Comb.jpg  
+       
+photo  Dish                             =  Gericht                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dish.jpg  
+       
+photo  Doll                             =  Puppe                                                              
+       pointsOfInterest                 =  (5, 35)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Doll.jpg  
+       
+photo  Door                             =  Tür                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
+       
+photo  Dove                             =  Taube                                                              
+       pointsOfInterest                 =  (24, 35)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dove.jpg  
+       
+photo  Duck                             =  Ente                                                               
+       pointsOfInterest                 =  (7, 27)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Duck.jpg  
+       
+photo  Fish                             =  Fisch                                                              
+       pointsOfInterest                 =  (45, 28)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Fish.jpg  
+       
+photo  Flag                             =  Flagge                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Flag.jpg  
+       
+photo  Foal                             =  Fohlen                                                             
+       pointsOfInterest                 =  (22, 29)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Foal.jpg  
+       
+photo  Foot                             =  Fuß                                                                
+       pointsOfInterest                 =  (52, 44)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Foot.jpg  
+       
+photo  Fork                             =  Gabel                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Fork.jpg  
+       
+photo  Frog                             =  Frosch                                                             
+       pointsOfInterest                 =  (73, 38)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Frog.jpg  
+       
+photo  Gate                             =  Tor                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Gate.jpg  
+       
+photo  Girl                             =  Mädchen                                                            
+       pointsOfInterest                 =  (33, 47)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Girl.jpg  
+       
+photo  Goal                             =  Tor                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Goal.jpg  
+       
+photo  Goat                             =  Ziege                                                              
+       pointsOfInterest                 =  (2, 19)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Goat.jpg  
+       
+photo  Gull                             =  Möwe                                                               
+       pointsOfInterest                 =  (22, 33)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Gull.jpg  
+       
+photo  Half                             =  Hälfte                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Half.jpg  
+       
+photo  Hand                             =  Hand                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
+       
+photo  Head                             =  Kopf                                                               
+       pointsOfInterest                 =  (63, 45)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Head.jpg  
+       
+photo  Hook                             =  Haken                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hook.jpg  
+       
+photo  Hose                             =  Schlauch                                                           
+       pointsOfInterest                 =  (56, 12)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hose.jpg  
+       
+photo  Iris                             =  Iris                                                               
+       pointsOfInterest                 =  (56, 39)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Iris.jpg  
+       
+photo  Iron                             =  Eisen                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Iron.jpg  
+       
+photo  Jeep                             =  Jeep                                                               
+       pointsOfInterest                 =  (59, 6)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Jeep.jpg  
+       
+photo  Lake                             =  See                                                                
+       pointsOfInterest                 =  (26, 6)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lake.jpg  
+       
+photo  Lamb                             =  Lamm                                                               
+       pointsOfInterest                 =  (81, 37)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lamb.jpg  
+       
+photo  Lamp                             =  Lampe                                                              
+       pointsOfInterest                 =  (55, 22)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lamp.jpg  
+       
+photo  Leaf                             =  Blatt                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Leaf.jpg  
+       
+photo  Lily                             =  Lilie                                                              
+       pointsOfInterest                 =  (31, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lily.jpg  
+       
+photo  Lion                             =  Löwe                                                               
+       pointsOfInterest                 =  (49, 48)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lion.jpg  
+       
+photo  Mini                             =  Mini                                                               
+       pointsOfInterest                 =  (75, 49)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
+       
+photo  Moon                             =  Mond                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moon.jpg  
+       
+photo  Moth                             =  Motte                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moth.jpg  
+       
+photo  Nail                             =  Nagel                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Nail.jpg  
+       
+photo  Nest                             =  Nest                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Nest.jpg  
+       
+photo  Note                             =  Hinweis                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Note.jpg  
+       
+photo  Oven                             =  Ofen                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Oven.jpg  
+       
+photo  Oxen                             =  Ochsen                                                             
+       pointsOfInterest                 =  (75, 44)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Oxen.jpg  
+       
+photo  Palm                             =  Palme                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Palm.jpg  
+       
+photo  Path                             =  Pfad                                                               
+       pointsOfInterest                 =  (6, 52)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Path.jpg  
+       
+photo  Plug                             =  Stecker                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Plug.jpg  
+       
+photo  Pool                             =  Schwimmbad                                                         
+       pointsOfInterest                 =  (38, 22)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Pool.jpg  
+       
+photo  Port                             =  Hafen                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Port.jpg  
+       
+photo  Pump                             =  Pumpe                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Pump.jpg  
+       
+photo  Ramp                             =  Rampe                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ramp.jpg  
+       
+photo  Road                             =  Straße                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Road.jpg  
+       
+photo  Rock                             =  Rock                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rock.jpg  
+       
+photo  Rope                             =  Seil                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rope.jpg  
+       
+photo  Rose                             =  Rose                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
+       
+photo  Sail                             =  Segel                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
+       
+photo  Sand                             =  Sand                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sand.jpg  
+       
+photo  Seal                             =  Dichtung                                                           
+       pointsOfInterest                 =  (81, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Seal.jpg  
+       
+photo  Shed                             =  Schuppen                                                           
+       pointsOfInterest                 =  (36, 63)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Shed.jpg  
+       
+photo  Ship                             =  Schiff                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ship.jpg  
+       
+photo  Shoe                             =  Schuh                                                              
+       pointsOfInterest                 =  (55, 47)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Shoe.jpg  
+       
+photo  Skis                             =  Ski                                                                
+       pointsOfInterest                 =  (81, 37)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Skis.jpg  
+       
+photo  Snow                             =  Schnee                                                             
+       pointsOfInterest                 =  (48, 56)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Snow.jpg  
+       
+photo  Swan                             =  Schwan                                                             
+       pointsOfInterest                 =  (34, 21)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Swan.jpg  
+       
+photo  Tent                             =  Zelt                                                               
+       pointsOfInterest                 =  (55, 49)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tent.jpg  
+       
+photo  Toad                             =  Kröte                                                              
+       pointsOfInterest                 =  (22, 26)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Toad.jpg  
+       
+photo  Town                             =  Stadt, Dorf                                                        
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Town.jpg  
+       
+photo  Tram                             =  Straßenbahn                                                        
+       pointsOfInterest                 =  (41, 46)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tram.jpg  
+       
+photo  Tray                             =  Tablett                                                            
+       pointsOfInterest                 =  (69, 35)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tray.jpg  
+       
+photo  Tree                             =  Baum                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
+       
+photo  Vase                             =  Vase                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vase.jpg  
+       
+photo  Vent                             =  Entlüftung                                                         
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vent.jpg  
+       
+photo  Wall                             =  Mauer                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Wall.jpg  
+       
+photo  Wave                             =  Welle                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Wave.jpg  
+       
+photo  Yarn                             =  Garn                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Yarn.jpg  
+       
+photo  Yolk                             =  Eigelb                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Yolk.jpg  
