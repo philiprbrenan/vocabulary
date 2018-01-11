@@ -1,0 +1,321 @@
+app    vocabulary.g.A4LetterWords.l.is  =  Four-Letter Words in Icelandic                                     
+       author                           =  philiprbrenan                                                      
+       description                      =  Læra um fjögurra stafa orð                                         
+       email                            =  philiprbrenan@gmail.com                                            
+       emphasis                         =                                                                 12  
+       icon                             =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Baby.jpg  
+       saveScreenShotsTo                =  philiprbrenan/screenShots-0                                        
+       language                         =  is                                                                 
+       
+photo  Baby                             =  Elskan                                                             
+       pointsOfInterest                 =  (56, 34)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Baby.jpg  
+       
+photo  Ball                             =  Bolti                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ball.jpg  
+       
+photo  Bath                             =  Bað                                                                
+       pointsOfInterest                 =  (27, 32)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bath.jpg  
+       
+photo  Bear                             =  Bera                                                               
+       pointsOfInterest                 =  (9, 73)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
+       
+photo  Bike                             =  Reiðhjól                                                           
+       pointsOfInterest                 =  (54, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bike.jpg  
+       
+photo  Bird                             =  Fugl                                                               
+       pointsOfInterest                 =  (32, 25)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bird.jpg  
+       
+photo  Boat                             =  Bátur                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
+       
+photo  Book                             =  Bók                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Book.jpg  
+       
+photo  Bowl                             =  Skál                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bowl.jpg  
+       
+photo  Bulb                             =  Peru                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bulb.jpg  
+       
+photo  Bull                             =  Naut                                                               
+       pointsOfInterest                 =  (9, 41)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bull.jpg  
+       
+photo  Cake                             =  Kaka                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cake.jpg  
+       
+photo  Calf                             =  Kálfur                                                             
+       pointsOfInterest                 =  (74, 25)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Calf.jpg  
+       
+photo  Card                             =  Kort                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Card.jpg  
+       
+photo  Cart                             =  Körfu                                                              
+       pointsOfInterest                 =  (6, 53)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cart.jpg  
+       
+photo  Cave                             =  Hellinum                                                           
+       pointsOfInterest                 =  (52, 56)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cave.jpg  
+       
+photo  City                             =  Borg                                                               
+       pointsOfInterest                 =  (27, 54)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/City.jpg  
+       
+photo  Clog                             =  Stífla                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Clog.jpg  
+       
+photo  Coin                             =  Mynt                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Coin.jpg  
+       
+photo  Comb                             =  Greiða                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Comb.jpg  
+       
+photo  Dish                             =  Fat                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dish.jpg  
+       
+photo  Doll                             =  Dúkka                                                              
+       pointsOfInterest                 =  (5, 35)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Doll.jpg  
+       
+photo  Door                             =  Dyrnar                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
+       
+photo  Dove                             =  Dúfur                                                              
+       pointsOfInterest                 =  (24, 35)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dove.jpg  
+       
+photo  Duck                             =  Önd                                                                
+       pointsOfInterest                 =  (7, 27)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Duck.jpg  
+       
+photo  Fish                             =  Fiskur                                                             
+       pointsOfInterest                 =  (45, 28)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Fish.jpg  
+       
+photo  Flag                             =  Fána                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Flag.jpg  
+       
+photo  Foal                             =  Folald                                                             
+       pointsOfInterest                 =  (22, 29)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Foal.jpg  
+       
+photo  Foot                             =  Fótur                                                              
+       pointsOfInterest                 =  (52, 44)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Foot.jpg  
+       
+photo  Fork                             =  Gaffal                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Fork.jpg  
+       
+photo  Frog                             =  Froskur                                                            
+       pointsOfInterest                 =  (73, 38)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Frog.jpg  
+       
+photo  Gate                             =  Hliðið                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Gate.jpg  
+       
+photo  Girl                             =  Stelpa                                                             
+       pointsOfInterest                 =  (33, 47)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Girl.jpg  
+       
+photo  Goal                             =  Markmið                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Goal.jpg  
+       
+photo  Goat                             =  Geitur                                                             
+       pointsOfInterest                 =  (2, 19)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Goat.jpg  
+       
+photo  Gull                             =  Gull                                                               
+       pointsOfInterest                 =  (22, 33)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Gull.jpg  
+       
+photo  Half                             =  Hálft                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Half.jpg  
+       
+photo  Hand                             =  Hönd                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
+       
+photo  Head                             =  Höfuð                                                              
+       pointsOfInterest                 =  (63, 45)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Head.jpg  
+       
+photo  Hook                             =  Krókur                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hook.jpg  
+       
+photo  Hose                             =  Slönguna                                                           
+       pointsOfInterest                 =  (56, 12)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hose.jpg  
+       
+photo  Iris                             =  Iris                                                               
+       pointsOfInterest                 =  (56, 39)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Iris.jpg  
+       
+photo  Iron                             =  Járn                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Iron.jpg  
+       
+photo  Jeep                             =  Jeppa                                                              
+       pointsOfInterest                 =  (59, 6)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Jeep.jpg  
+       
+photo  Lake                             =  Vatnið                                                             
+       pointsOfInterest                 =  (26, 6)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lake.jpg  
+       
+photo  Lamb                             =  Lamb                                                               
+       pointsOfInterest                 =  (81, 37)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lamb.jpg  
+       
+photo  Lamp                             =  Lampi                                                              
+       pointsOfInterest                 =  (55, 22)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lamp.jpg  
+       
+photo  Leaf                             =  Blaða                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Leaf.jpg  
+       
+photo  Lily                             =  Lily                                                               
+       pointsOfInterest                 =  (31, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lily.jpg  
+       
+photo  Lion                             =  Ljón                                                               
+       pointsOfInterest                 =  (49, 48)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lion.jpg  
+       
+photo  Mini                             =  Lítill                                                             
+       pointsOfInterest                 =  (75, 49)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
+       
+photo  Moon                             =  Tungl                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moon.jpg  
+       
+photo  Moth                             =  Moth                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moth.jpg  
+       
+photo  Nail                             =  Nagli                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Nail.jpg  
+       
+photo  Nest                             =  Hreiður                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Nest.jpg  
+       
+photo  Note                             =  Athugasemd                                                         
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Note.jpg  
+       
+photo  Oven                             =  Ofn                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Oven.jpg  
+       
+photo  Oxen                             =  Nautar                                                             
+       pointsOfInterest                 =  (75, 44)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Oxen.jpg  
+       
+photo  Palm                             =  Lófa                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Palm.jpg  
+       
+photo  Path                             =  Leið                                                               
+       pointsOfInterest                 =  (6, 52)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Path.jpg  
+       
+photo  Plug                             =  Stinga                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Plug.jpg  
+       
+photo  Pool                             =  Sundlaug                                                           
+       pointsOfInterest                 =  (38, 22)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Pool.jpg  
+       
+photo  Port                             =  Höfn                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Port.jpg  
+       
+photo  Pump                             =  Dæla                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Pump.jpg  
+       
+photo  Ramp                             =  Rampur                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ramp.jpg  
+       
+photo  Road                             =  Vegur                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Road.jpg  
+       
+photo  Rock                             =  Berg                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rock.jpg  
+       
+photo  Rope                             =  Reipi                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rope.jpg  
+       
+photo  Rose                             =  Hækkaði                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
+       
+photo  Sail                             =  Sigla                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
+       
+photo  Sand                             =  Sandur                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sand.jpg  
+       
+photo  Seal                             =  Innsigli                                                           
+       pointsOfInterest                 =  (81, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Seal.jpg  
+       
+photo  Shed                             =  Varpa                                                              
+       pointsOfInterest                 =  (36, 63)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Shed.jpg  
+       
+photo  Ship                             =  Skip                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ship.jpg  
+       
+photo  Shoe                             =  Skór                                                               
+       pointsOfInterest                 =  (55, 47)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Shoe.jpg  
+       
+photo  Skis                             =  Skíðum                                                             
+       pointsOfInterest                 =  (81, 37)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Skis.jpg  
+       
+photo  Snow                             =  Snjór                                                              
+       pointsOfInterest                 =  (48, 56)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Snow.jpg  
+       
+photo  Swan                             =  Svan                                                               
+       pointsOfInterest                 =  (34, 21)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Swan.jpg  
+       
+photo  Tent                             =  Tjald                                                              
+       pointsOfInterest                 =  (55, 49)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tent.jpg  
+       
+photo  Toad                             =  Padda                                                              
+       pointsOfInterest                 =  (22, 26)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Toad.jpg  
+       
+photo  Town                             =  Bænum                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Town.jpg  
+       
+photo  Tram                             =  Sporvagn                                                           
+       pointsOfInterest                 =  (41, 46)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tram.jpg  
+       
+photo  Tray                             =  Bakki                                                              
+       pointsOfInterest                 =  (69, 35)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tray.jpg  
+       
+photo  Tree                             =  Tré                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
+       
+photo  Vase                             =  Vasi                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vase.jpg  
+       
+photo  Vent                             =  Vent                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vent.jpg  
+       
+photo  Wall                             =  Veggur                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Wall.jpg  
+       
+photo  Wave                             =  Bylgja                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Wave.jpg  
+       
+photo  Yarn                             =  Garn                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Yarn.jpg  
+       
+photo  Yolk                             =  Eggjarauða                                                         
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Yolk.jpg  
