@@ -20,6 +20,7 @@ photo  Bath                             =  Bagno
        
 photo  Bear                             =  Orso                                                               
        pointsOfInterest                 =  (9, 73)                                                            
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
        
 photo  Bike                             =  Bicicletta                                                         
@@ -31,6 +32,7 @@ photo  Bird                             =  Uccello
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bird.jpg  
        
 photo  Boat                             =  Barca                                                              
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
        
 photo  Book                             =  Libro                                                              
@@ -85,6 +87,7 @@ photo  Doll                             =  Bambola
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Doll.jpg  
        
 photo  Door                             =  Porta                                                              
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
        
 photo  Dove                             =  Colomba                                                            
@@ -139,6 +142,7 @@ photo  Half                             =  Metà
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Half.jpg  
        
 photo  Hand                             =  Mano                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
        
 photo  Head                             =  Capo                                                               
@@ -188,6 +192,7 @@ photo  Lion                             =  Leone
        
 photo  Mini                             =  Mini                                                               
        pointsOfInterest                 =  (75, 49)                                                           
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
        
 photo  Moon                             =  Luna                                                               
@@ -245,9 +250,11 @@ photo  Rope                             =  Corda
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rope.jpg  
        
 photo  Rose                             =  Rosa                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
        
 photo  Sail                             =  Vela                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
        
 photo  Sand                             =  Sabbia                                                             
@@ -300,6 +307,7 @@ photo  Tray                             =  Vassoio
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tray.jpg  
        
 photo  Tree                             =  Albero                                                             
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
        
 photo  Vase                             =  Vaso                                                               
