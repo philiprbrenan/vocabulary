@@ -1,0 +1,321 @@
+app    vocabulary.g.A4LetterWords.l.ru  =  Four-Letter Words in Russian                                       
+       author                           =  philiprbrenan                                                      
+       description                      =  Узнать о четырехбуквенных словах                                   
+       email                            =  philiprbrenan@gmail.com                                            
+       emphasis                         =                                                                 12  
+       icon                             =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Baby.jpg  
+       saveScreenShotsTo                =  philiprbrenan/screenShots-0                                        
+       language                         =  ru                                                                 
+       
+photo  Baby                             =  Детка                                                              
+       pointsOfInterest                 =  (56, 34)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Baby.jpg  
+       
+photo  Ball                             =  Мяч                                                                
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ball.jpg  
+       
+photo  Bath                             =  Ванна                                                              
+       pointsOfInterest                 =  (27, 32)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bath.jpg  
+       
+photo  Bear                             =  Медведь                                                            
+       pointsOfInterest                 =  (9, 73)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
+       
+photo  Bike                             =  Велосипед                                                          
+       pointsOfInterest                 =  (54, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bike.jpg  
+       
+photo  Bird                             =  Птица                                                              
+       pointsOfInterest                 =  (32, 25)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bird.jpg  
+       
+photo  Boat                             =  Лодка                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
+       
+photo  Book                             =  Книга                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Book.jpg  
+       
+photo  Bowl                             =  Миска                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bowl.jpg  
+       
+photo  Bulb                             =  Колба                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bulb.jpg  
+       
+photo  Bull                             =  Бык                                                                
+       pointsOfInterest                 =  (9, 41)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bull.jpg  
+       
+photo  Cake                             =  Кекс                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cake.jpg  
+       
+photo  Calf                             =  Теленок                                                            
+       pointsOfInterest                 =  (74, 25)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Calf.jpg  
+       
+photo  Card                             =  Карта                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Card.jpg  
+       
+photo  Cart                             =  Телега                                                             
+       pointsOfInterest                 =  (6, 53)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cart.jpg  
+       
+photo  Cave                             =  Пещера                                                             
+       pointsOfInterest                 =  (52, 56)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Cave.jpg  
+       
+photo  City                             =  Город                                                              
+       pointsOfInterest                 =  (27, 54)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/City.jpg  
+       
+photo  Clog                             =  Загромождать                                                       
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Clog.jpg  
+       
+photo  Coin                             =  Монета                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Coin.jpg  
+       
+photo  Comb                             =  Расческа                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Comb.jpg  
+       
+photo  Dish                             =  Блюдо                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dish.jpg  
+       
+photo  Doll                             =  Кукла                                                              
+       pointsOfInterest                 =  (5, 35)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Doll.jpg  
+       
+photo  Door                             =  Дверь                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
+       
+photo  Dove                             =  Голубь                                                             
+       pointsOfInterest                 =  (24, 35)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dove.jpg  
+       
+photo  Duck                             =  Утка                                                               
+       pointsOfInterest                 =  (7, 27)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Duck.jpg  
+       
+photo  Fish                             =  Рыба                                                               
+       pointsOfInterest                 =  (45, 28)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Fish.jpg  
+       
+photo  Flag                             =  Флаг                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Flag.jpg  
+       
+photo  Foal                             =  Жеребенок                                                          
+       pointsOfInterest                 =  (22, 29)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Foal.jpg  
+       
+photo  Foot                             =  Фут                                                                
+       pointsOfInterest                 =  (52, 44)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Foot.jpg  
+       
+photo  Fork                             =  Вилка                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Fork.jpg  
+       
+photo  Frog                             =  Лягушка                                                            
+       pointsOfInterest                 =  (73, 38)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Frog.jpg  
+       
+photo  Gate                             =  Ворота                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Gate.jpg  
+       
+photo  Girl                             =  Девушка                                                            
+       pointsOfInterest                 =  (33, 47)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Girl.jpg  
+       
+photo  Goal                             =  Цель                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Goal.jpg  
+       
+photo  Goat                             =  Козел                                                              
+       pointsOfInterest                 =  (2, 19)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Goat.jpg  
+       
+photo  Gull                             =  Чайка                                                              
+       pointsOfInterest                 =  (22, 33)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Gull.jpg  
+       
+photo  Half                             =  Половина                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Half.jpg  
+       
+photo  Hand                             =  Рука                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
+       
+photo  Head                             =  Глава                                                              
+       pointsOfInterest                 =  (63, 45)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Head.jpg  
+       
+photo  Hook                             =  Крюк                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hook.jpg  
+       
+photo  Hose                             =  Шланг                                                              
+       pointsOfInterest                 =  (56, 12)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hose.jpg  
+       
+photo  Iris                             =  Ирис                                                               
+       pointsOfInterest                 =  (56, 39)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Iris.jpg  
+       
+photo  Iron                             =  Железо                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Iron.jpg  
+       
+photo  Jeep                             =  Джип                                                               
+       pointsOfInterest                 =  (59, 6)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Jeep.jpg  
+       
+photo  Lake                             =  Озеро                                                              
+       pointsOfInterest                 =  (26, 6)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lake.jpg  
+       
+photo  Lamb                             =  Ягненок                                                            
+       pointsOfInterest                 =  (81, 37)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lamb.jpg  
+       
+photo  Lamp                             =  Лампа                                                              
+       pointsOfInterest                 =  (55, 22)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lamp.jpg  
+       
+photo  Leaf                             =  Лист                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Leaf.jpg  
+       
+photo  Lily                             =  Лили                                                               
+       pointsOfInterest                 =  (31, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lily.jpg  
+       
+photo  Lion                             =  Лев                                                                
+       pointsOfInterest                 =  (49, 48)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Lion.jpg  
+       
+photo  Mini                             =  Мини                                                               
+       pointsOfInterest                 =  (75, 49)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
+       
+photo  Moon                             =  Луна                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moon.jpg  
+       
+photo  Moth                             =  Мотылек                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moth.jpg  
+       
+photo  Nail                             =  Гвоздь                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Nail.jpg  
+       
+photo  Nest                             =  Гнездо                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Nest.jpg  
+       
+photo  Note                             =  Заметка                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Note.jpg  
+       
+photo  Oven                             =  Духовой шкаф                                                       
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Oven.jpg  
+       
+photo  Oxen                             =  Рогатый скот                                                       
+       pointsOfInterest                 =  (75, 44)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Oxen.jpg  
+       
+photo  Palm                             =  Пальма                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Palm.jpg  
+       
+photo  Path                             =  Дорожка                                                            
+       pointsOfInterest                 =  (6, 52)                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Path.jpg  
+       
+photo  Plug                             =  Штепсель                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Plug.jpg  
+       
+photo  Pool                             =  Бассейн                                                            
+       pointsOfInterest                 =  (38, 22)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Pool.jpg  
+       
+photo  Port                             =  Порт                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Port.jpg  
+       
+photo  Pump                             =  Насос                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Pump.jpg  
+       
+photo  Ramp                             =  Скат                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ramp.jpg  
+       
+photo  Road                             =  Дорога                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Road.jpg  
+       
+photo  Rock                             =  Камень                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rock.jpg  
+       
+photo  Rope                             =  Веревка                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rope.jpg  
+       
+photo  Rose                             =  Роза                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
+       
+photo  Sail                             =  Паруса                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
+       
+photo  Sand                             =  Песок                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sand.jpg  
+       
+photo  Seal                             =  Печать                                                             
+       pointsOfInterest                 =  (81, 42)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Seal.jpg  
+       
+photo  Shed                             =  Сарай                                                              
+       pointsOfInterest                 =  (36, 63)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Shed.jpg  
+       
+photo  Ship                             =  Корабль                                                            
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Ship.jpg  
+       
+photo  Shoe                             =  Башмак                                                             
+       pointsOfInterest                 =  (55, 47)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Shoe.jpg  
+       
+photo  Skis                             =  Лыжи                                                               
+       pointsOfInterest                 =  (81, 37)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Skis.jpg  
+       
+photo  Snow                             =  Снег                                                               
+       pointsOfInterest                 =  (48, 56)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Snow.jpg  
+       
+photo  Swan                             =  Лебедь                                                             
+       pointsOfInterest                 =  (34, 21)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Swan.jpg  
+       
+photo  Tent                             =  Палатка                                                            
+       pointsOfInterest                 =  (55, 49)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tent.jpg  
+       
+photo  Toad                             =  Жаба                                                               
+       pointsOfInterest                 =  (22, 26)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Toad.jpg  
+       
+photo  Town                             =  Город                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Town.jpg  
+       
+photo  Tram                             =  Трамвай                                                            
+       pointsOfInterest                 =  (41, 46)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tram.jpg  
+       
+photo  Tray                             =  Лоток                                                              
+       pointsOfInterest                 =  (69, 35)                                                           
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tray.jpg  
+       
+photo  Tree                             =  Дерево                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
+       
+photo  Vase                             =  Ваза                                                               
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vase.jpg  
+       
+photo  Vent                             =  Вентиляционный                                                     
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vent.jpg  
+       
+photo  Wall                             =  Стена                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Wall.jpg  
+       
+photo  Wave                             =  Волна                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Wave.jpg  
+       
+photo  Yarn                             =  Пряжа                                                              
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Yarn.jpg  
+       
+photo  Yolk                             =  Желток                                                             
+       url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Yolk.jpg  
