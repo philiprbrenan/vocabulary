@@ -22,6 +22,7 @@ photo  Bath              =  Bath
 photo  Bear              =  Bear                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
        pointsOfInterest  =  (9, 73)                                                            
+       screenShot        =  true                                                               
        
 photo  Bike              =  Bike                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bike.jpg  
@@ -33,6 +34,7 @@ photo  Bird              =  Bird
        
 photo  Boat              =  Boat                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
+       screenShot        =  true                                                               
        
 photo  Book              =  Book                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Book.jpg  
@@ -87,6 +89,7 @@ photo  Doll              =  Doll
        
 photo  Door              =  Door                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
+       screenShot        =  true                                                               
        
 photo  Dove              =  Dove                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Dove.jpg  
@@ -141,6 +144,7 @@ photo  Half              =  Half
        
 photo  Hand              =  Hand                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
+       screenShot        =  true                                                               
        
 photo  Head              =  Head                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Head.jpg  
@@ -190,6 +194,7 @@ photo  Lion              =  Lion
 photo  Mini              =  Mini                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
        pointsOfInterest  =  (75, 49)                                                           
+       screenShot        =  true                                                               
        
 photo  Moon              =  Moon                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Moon.jpg  
@@ -247,9 +252,11 @@ photo  Rope              =  Rope
        
 photo  Rose              =  Rose                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
+       screenShot        =  true                                                               
        
 photo  Sail              =  Sail                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
+       screenShot        =  true                                                               
        
 photo  Sand              =  Sand                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sand.jpg  
@@ -302,6 +309,7 @@ photo  Tray              =  Tray
        
 photo  Tree              =  Tree                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
+       screenShot        =  true                                                               
        
 photo  Vase              =  Vase                                                               
        url               =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Vase.jpg  
