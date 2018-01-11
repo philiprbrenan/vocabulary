@@ -20,6 +20,7 @@ photo  Bath                             =  Bath
        
 photo  Bear                             =  Arth                                                               
        pointsOfInterest                 =  (9, 73)                                                            
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bear.jpg  
        
 photo  Bike                             =  Beic                                                               
@@ -31,6 +32,7 @@ photo  Bird                             =  Aderyn
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Bird.jpg  
        
 photo  Boat                             =  Cwch                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Boat.jpg  
        
 photo  Book                             =  Llyfr                                                              
@@ -85,6 +87,7 @@ photo  Doll                             =  Doll
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Doll.jpg  
        
 photo  Door                             =  Drws                                                               
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Door.jpg  
        
 photo  Dove                             =  Colomen                                                            
@@ -139,6 +142,7 @@ photo  Half                             =  Hanner
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Half.jpg  
        
 photo  Hand                             =  Law                                                                
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Hand.jpg  
        
 photo  Head                             =  Pennaeth                                                           
@@ -188,6 +192,7 @@ photo  Lion                             =  Llew
        
 photo  Mini                             =  Bach                                                               
        pointsOfInterest                 =  (75, 49)                                                           
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Mini.jpg  
        
 photo  Moon                             =  Lleuad                                                             
@@ -245,9 +250,11 @@ photo  Rope                             =  Rhaff
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rope.jpg  
        
 photo  Rose                             =  Rhosyn                                                             
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Rose.jpg  
        
 photo  Sail                             =  Hwylio                                                             
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Sail.jpg  
        
 photo  Sand                             =  Tywod                                                              
@@ -300,6 +307,7 @@ photo  Tray                             =  Hambwrdd
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tray.jpg  
        
 photo  Tree                             =  Coeden                                                             
+       screenShot                       =  true                                                               
        url                              =  github://philiprbrenan/vocabulary-0/images/A4LetterWords/Tree.jpg  
        
 photo  Vase                             =  Fas                                                                
