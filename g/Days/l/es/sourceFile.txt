@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.es  =  Days of the Week in English in Spanish                         
+app    vocabulary.g.Days.l.es  =  Days of the Week in Spanish                                    
        author                  =  philiprbrenan                                                  
-       description             =  Aprende sobre los días de la semana en inglés                  
+       description             =  Aprender sobre los días de la semana                           
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
