@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.fr  =  Days of the Week in English in French                          
+app    vocabulary.g.Days.l.fr  =  Days of the Week in French                                     
        author                  =  philiprbrenan                                                  
-       description             =  En savoir plus sur les jours de la semaine en anglais          
+       description             =  En savoir plus sur les jours de la semaine                     
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
