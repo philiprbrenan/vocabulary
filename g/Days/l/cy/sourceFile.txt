@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.cy  =  Days of the Week in English in Welsh                           
+app    vocabulary.g.Days.l.cy  =  Days of the Week in Welsh                                      
        author                  =  philiprbrenan                                                  
-       description             =  Dysgu am ddyddiau'r wythnos yn Saesneg                         
+       description             =  Dysgu am ddyddiau'r wythnos                                    
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
