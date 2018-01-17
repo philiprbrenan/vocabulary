@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.nl  =  Days of the Week in English in Dutch                           
+app    vocabulary.g.Days.l.nl  =  Days of the Week in Dutch                                      
        author                  =  philiprbrenan                                                  
-       description             =  Leer over de dagen van de week in het Engels                   
+       description             =  Leer over dagen van de week                                    
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
