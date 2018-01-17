@@ -1,0 +1,36 @@
+app    vocabulary.g.Days.l.ro  =  Days of the Week in English in Romanian                        
+       author                  =  philiprbrenan                                                  
+       description             =  Aflați despre zilele săptămânii în limba engleză               
+       email                   =  philiprbrenan@gmail.com                                        
+       emphasis                =                                                             12  
+       icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+       saveScreenShotsTo       =  philiprbrenan/screenShots-0                                    
+       language                =  ro                                                             
+       
+photo  Friday                  =  Vineri                                                         
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Friday.jpg     
+       
+photo  Monday                  =  Luni                                                           
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Monday.jpg     
+       
+photo  Saturday                =  Sâmbătă                                                        
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Saturday.jpg   
+       
+photo  Sunday                  =  Duminică                                                       
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Sunday.jpg     
+       
+photo  Thursday                =  Joi                                                            
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+       
+photo  Tuesday                 =  Marţi                                                          
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Tuesday.jpg    
+       
+photo  Wednesday               =  Miercuri                                                       
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Wednesday.jpg  
