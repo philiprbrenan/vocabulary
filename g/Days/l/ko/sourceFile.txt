@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.ko  =  Days of the Week in English in Korean                          
+app    vocabulary.g.Days.l.ko  =  Days of the Week in Korean                                     
        author                  =  philiprbrenan                                                  
-       description             =  주중의 요일을 영어로 배우다.                                               
+       description             =  요일에 대해 알아보기                                                    
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
