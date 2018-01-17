@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.ja  =  Days of the Week in English in Japanese                        
+app    vocabulary.g.Days.l.ja  =  Days of the Week in Japanese                                   
        author                  =  philiprbrenan                                                  
-       description             =  週の曜日を英語で学ぶ                                                     
+       description             =  今週の曜日について学ぶ                                                    
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
