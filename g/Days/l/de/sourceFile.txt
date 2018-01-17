@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.de  =  Days of the Week in English in German                          
+app    vocabulary.g.Days.l.de  =  Days of the Week in German                                     
        author                  =  philiprbrenan                                                  
-       description             =  Erfahren Sie mehr über die Wochentage auf Englisch             
+       description             =  Erfahren Sie mehr über die Wochentage                          
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
