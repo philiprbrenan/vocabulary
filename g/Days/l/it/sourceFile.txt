@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.it  =  Days of the Week in English in Italian                         
+app    vocabulary.g.Days.l.it  =  Days of the Week in Italian                                    
        author                  =  philiprbrenan                                                  
-       description             =  Scopri i giorni della settimana in inglese                     
+       description             =  Scopri i giorni della settimana                                
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
