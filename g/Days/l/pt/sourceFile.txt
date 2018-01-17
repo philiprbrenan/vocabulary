@@ -1,0 +1,36 @@
+app    vocabulary.g.Days.l.pt  =  Days of the Week in English in Portuguese                      
+       author                  =  philiprbrenan                                                  
+       description             =  Saiba mais sobre os dias da semana em inglês                   
+       email                   =  philiprbrenan@gmail.com                                        
+       emphasis                =                                                             12  
+       icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+       saveScreenShotsTo       =  philiprbrenan/screenShots-0                                    
+       language                =  pt                                                             
+       
+photo  Friday                  =  Sexta-feira                                                    
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Friday.jpg     
+       
+photo  Monday                  =  Segunda-feira                                                  
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Monday.jpg     
+       
+photo  Saturday                =  Sábado                                                         
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Saturday.jpg   
+       
+photo  Sunday                  =  Domingo                                                        
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Sunday.jpg     
+       
+photo  Thursday                =  Quinta-feira                                                   
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+       
+photo  Tuesday                 =  Terça                                                          
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Tuesday.jpg    
+       
+photo  Wednesday               =  Quarta-feira                                                   
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Wednesday.jpg  
