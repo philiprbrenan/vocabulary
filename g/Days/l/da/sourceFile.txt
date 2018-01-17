@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.da  =  Days of the Week in English in Danish                          
+app    vocabulary.g.Days.l.da  =  Days of the Week in Danish                                     
        author                  =  philiprbrenan                                                  
-       description             =  Lære om ugens dage på engelsk                                  
+       description             =  Lære om dage i ugen                                            
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
