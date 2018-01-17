@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.nb  =  Days of the Week in English in Norwegian                       
+app    vocabulary.g.Days.l.nb  =  Days of the Week in Norwegian                                  
        author                  =  philiprbrenan                                                  
-       description             =  Lære om dager i uken på engelsk                                
+       description             =  Lære om dager i uken                                           
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
