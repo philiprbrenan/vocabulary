@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.is  =  Days of the Week in English in Icelandic                       
+app    vocabulary.g.Days.l.is  =  Days of the Week in Icelandic                                  
        author                  =  philiprbrenan                                                  
-       description             =  Læra um daga vikunnar á ensku                                  
+       description             =  Læra um daga vikunnar                                          
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
