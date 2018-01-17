@@ -1,0 +1,36 @@
+app    vocabulary.g.Days.l.cy  =  Days of the Week in English in Welsh                           
+       author                  =  philiprbrenan                                                  
+       description             =  Dysgu am ddyddiau'r wythnos yn Saesneg                         
+       email                   =  philiprbrenan@gmail.com                                        
+       emphasis                =                                                             12  
+       icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+       saveScreenShotsTo       =  philiprbrenan/screenShots-0                                    
+       language                =  cy                                                             
+       
+photo  Friday                  =  Dydd Gwener                                                    
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Friday.jpg     
+       
+photo  Monday                  =  Dydd Llun                                                      
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Monday.jpg     
+       
+photo  Saturday                =  Dydd Sadwrn                                                    
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Saturday.jpg   
+       
+photo  Sunday                  =  Dydd Sul                                                       
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Sunday.jpg     
+       
+photo  Thursday                =  Dydd Iau                                                       
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+       
+photo  Tuesday                 =  Dydd Mawrth                                                    
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Tuesday.jpg    
+       
+photo  Wednesday               =  Dydd Iau                                                       
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Wednesday.jpg  
