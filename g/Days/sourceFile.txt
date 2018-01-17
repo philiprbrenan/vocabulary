@@ -8,30 +8,30 @@ app vocabulary.g.Days = Days of the Week in English
   emphasis          = 12
 
        
-photo  Friday      =                                                                 
+photo  Friday      =  Friday                                                         
        url         =  github://philiprbrenan/vocabulary-4/images/Days/Friday.jpg     
        screenShot  =  true                                                           
        
-photo  Monday      =                                                                 
+photo  Monday      =  Monday                                                         
        url         =  github://philiprbrenan/vocabulary-4/images/Days/Monday.jpg     
        screenShot  =  true                                                           
        
-photo  Saturday    =                                                                 
+photo  Saturday    =  Saturday                                                       
        url         =  github://philiprbrenan/vocabulary-4/images/Days/Saturday.jpg   
        screenShot  =  true                                                           
        
-photo  Sunday      =                                                                 
+photo  Sunday      =  Sunday                                                         
        url         =  github://philiprbrenan/vocabulary-4/images/Days/Sunday.jpg     
        screenShot  =  true                                                           
        
-photo  Thursday    =                                                                 
+photo  Thursday    =  Thursday                                                       
        url         =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
        screenShot  =  true                                                           
        
-photo  Tuesday     =                                                                 
+photo  Tuesday     =  Tuesday                                                        
        url         =  github://philiprbrenan/vocabulary-4/images/Days/Tuesday.jpg    
        screenShot  =  true                                                           
        
-photo  Wednesday   =                                                                 
+photo  Wednesday   =  Wednesday                                                      
        url         =  github://philiprbrenan/vocabulary-4/images/Days/Wednesday.jpg  
        screenShot  =  true                                                           
