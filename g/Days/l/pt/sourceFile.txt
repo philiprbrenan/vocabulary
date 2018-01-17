@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.pt  =  Days of the Week in English in Portuguese                      
+app    vocabulary.g.Days.l.pt  =  Days of the Week in Portuguese                                 
        author                  =  philiprbrenan                                                  
-       description             =  Saiba mais sobre os dias da semana em inglês                   
+       description             =  Aprenda sobre os dias da semana                                
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
