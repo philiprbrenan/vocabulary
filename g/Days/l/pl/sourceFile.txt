@@ -1,0 +1,36 @@
+app    vocabulary.g.Days.l.pl  =  Days of the Week in English in Polish                          
+       author                  =  philiprbrenan                                                  
+       description             =  Poznaj dni tygodnia w języku angielskim                        
+       email                   =  philiprbrenan@gmail.com                                        
+       emphasis                =                                                             12  
+       icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+       saveScreenShotsTo       =  philiprbrenan/screenShots-0                                    
+       language                =  pl                                                             
+       
+photo  Friday                  =  Piątek                                                         
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Friday.jpg     
+       
+photo  Monday                  =  Poniedziałek                                                   
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Monday.jpg     
+       
+photo  Saturday                =  Sobota                                                         
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Saturday.jpg   
+       
+photo  Sunday                  =  Niedziela                                                      
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Sunday.jpg     
+       
+photo  Thursday                =  Czwartek                                                       
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
+       
+photo  Tuesday                 =  Wtorek                                                         
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Tuesday.jpg    
+       
+photo  Wednesday               =  Środa                                                          
+       screenShot              =  true                                                           
+       url                     =  github://philiprbrenan/vocabulary-4/images/Days/Wednesday.jpg  
