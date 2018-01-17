@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.sv  =  Days of the Week in English in Swedish                         
+app    vocabulary.g.Days.l.sv  =  Days of the Week in Swedish                                    
        author                  =  philiprbrenan                                                  
-       description             =  Lära sig om veckodagar på engelska                             
+       description             =  Lära sig om dagar i veckan                                     
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
