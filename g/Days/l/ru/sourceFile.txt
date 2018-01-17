@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.ru  =  Days of the Week in English in Russian                         
+app    vocabulary.g.Days.l.ru  =  Days of the Week in Russian                                    
        author                  =  philiprbrenan                                                  
-       description             =  Узнать о днях недели на английском языке                       
+       description             =  Узнать о днях недели                                           
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
