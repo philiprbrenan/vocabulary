@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.tr  =  Days of the Week in English in Turkish                         
+app    vocabulary.g.Days.l.tr  =  Days of the Week in Turkish                                    
        author                  =  philiprbrenan                                                  
-       description             =  Haftanın günlerini ingilizce öğrenmek                          
+       description             =  Haftanın günlerini öğrenmek                                    
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
