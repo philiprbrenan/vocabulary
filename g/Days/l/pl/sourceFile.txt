@@ -1,6 +1,6 @@
-app    vocabulary.g.Days.l.pl  =  Days of the Week in English in Polish                          
+app    vocabulary.g.Days.l.pl  =  Days of the Week in Polish                                     
        author                  =  philiprbrenan                                                  
-       description             =  Poznaj dni tygodnia w języku angielskim                        
+       description             =  Poznaj dni tygodnia                                            
        email                   =  philiprbrenan@gmail.com                                        
        emphasis                =                                                             12  
        icon                    =  github://philiprbrenan/vocabulary-4/images/Days/Thursday.jpg   
